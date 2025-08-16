@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+    <!-- ========================== -->
+    <!-- NETWORK & SECURITY POLICIES -->
+    <!-- ========================== -->
+    <key>TorDisabled</key>
+    <true/>
+    <key>BlockThirdPartyCookies</key>
+    <true/>
+    <key>HttpsOnlyMode</key>
+    <true/>
+    <key>DnsOverHttpsMode</key>
+    <string>secure</string>
+    <key>DnsOverHttpsTemplates</key>
+    <string>https://your-dns-provider.example/dns-query</string>
+    <!-- Replace the above placeholder with a real DoH template later -->
+
+    <!-- ========================== -->
+    <!-- PRIVACY & TRACKING POLICIES -->
+    <!-- ========================== -->
+    <key>TrackerBlockingAggressive</key>
+    <true/>
+    <key>PreventFingerprintingBasedOnLanguage</key>
+    <true/>
+    <key>AutoRedirectAMPPages</key>
+    <true/>
+    <key>AutoRedirectTrackingURLs</key>
+    <true/>
+
+    <!-- ========================== -->
+    <!-- DATA COLLECTION / ANALYTICS -->
+    <!-- ========================== -->
+    <key>P3AEnabled</key>
+    <false/>
+    <key>SendDailyUsagePing</key>
+    <false/>
+    <key>SendDiagnosticReports</key>
+    <false/>
+    <key>BraveSurveysEnabled</key>
+    <false/>
+    <key>StoreContactInfoForBrokenSiteReports</key>
+    <false/>
+    <key>WebDiscoveryProjectEnabled</key>
+    <false/>
+
+    <!-- ========================== -->
+    <!-- FEATURES / SERVICES -->
+    <!-- ========================== -->
+    <key>RewardsEnabled</key>
+    <false/>
+    <key>BraveNewsEnabled</key>
+    <false/>
+    <key>TalkEnabled</key>
+    <false/>
+    <key>VPNEnabled</key>
+    <false/>
+    <key>GoogleLoginForExtensionsEnabled</key>
+    <false/>
+    <key>UseGoogleServicesForPushMessaging</key>
+    <false/>
+
+    <!-- ========================== -->
+    <!-- SOCIAL MEDIA BLOCKING -->
+    <!-- ========================== -->
+    <key>SocialMediaBlockingFacebook</key>
+    <false/>
+    <key>SocialMediaBlockingX</key>
+    <false/>
+    <key>SocialMediaBlockingLinkedIn</key>
+    <false/>
+
+    <!-- ========================== -->
+    <!-- SEARCH ENGINE SETTINGS -->
+    <!-- ========================== -->
+    <key>DefaultSearchProviderName</key>
+    <string>DuckDuckGo</string>
+    <key>DefaultSearchProviderSearchURL</key>
+    <string>https://duckduckgo.com/?q=%s</string>
+    <key>AlternativeSearchProviderName</key>
+    <string>Brave</string>
+    <key>AlternativeSearchProviderSearchURL</key>
+    <string>https://search.brave.com/search?q=%s</string>
+    <key>AllowSearchProvidersInPrivateWindows</key>
+    <true/>
+    <key>PreventIndexingOtherSearchEngines</key>
+    <true/>
+
+</dict>
+</plist>
