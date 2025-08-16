@@ -1,2 +1,2 @@
 # PrivSec
-App Configurations, Blocklists &amp; DNS Rules
+App Security Configurations, Blocklists &amp; DNS Rules
