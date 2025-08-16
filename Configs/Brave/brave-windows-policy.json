@@ -1,0 +1,41 @@
+{
+    "BraveNewsEnabled": false,
+    "RewardsEnabled": false,
+    "TalkEnabled": false,
+    "VPNEnabled": false,
+    
+    "BraveSurveysEnabled": false,
+    "MetricsReportingEnabled": false,
+    "P3AEnabled": false,
+    "SendDailyUsagePing": false,
+    "SendDiagnosticReports": false,
+    "StoreContactInfoForBrokenSiteReports": false,
+    "UrlKeyedAnonymizedDataCollectionEnabled": false,
+    "WebDiscoveryProjectEnabled": false,
+    
+    "SocialMediaBlockingFacebook": false,
+    "SocialMediaBlockingLinkedIn": false,
+    "SocialMediaBlockingX": false,
+    "GoogleLoginForExtensionsEnabled": false,
+    "UseGoogleServicesForPushMessaging": false,
+    
+    "DnsOverHttpsMode": "secure",
+    "DnsOverHttpsTemplates": "https://your-dns-provider.example/dns-query",
+    "HttpsOnlyMode": true,
+    "SafeBrowsingEnabled": true,
+    "TorDisabled": true,
+    
+    "AutoRedirectAMPPages": true,
+    "AutoRedirectTrackingURLs": true,
+    "BlockThirdPartyCookies": true,
+    "PreventFingerprintingBasedOnLanguage": true,
+    "TrackerBlockingAggressive": true,
+    
+    "AllowSearchProvidersInPrivateWindows": true,
+    "AlternativeSearchProviderName": "Brave",
+    "AlternativeSearchProviderSearchURL": "https://search.brave.com/search?q=%s",
+    "DefaultSearchProviderEnabled": true,
+    "DefaultSearchProviderName": "DuckDuckGo",
+    "DefaultSearchProviderSearchURL": "https://duckduckgo.com/?q=%s",
+    "PreventIndexingOtherSearchEngines": true
+}
