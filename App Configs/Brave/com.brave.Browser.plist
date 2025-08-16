@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+    <!-- ========================== -->
+    <!-- Brave Features             -->
+    <!-- ========================== -->
+
+    <key>BraveNewsEnabled</key>
+    <false/>
+    <key>RewardsEnabled</key>
+    <false/>
+    <key>TalkEnabled</key>
+    <false/>
+    <key>VPNEnabled</key>
+    <false/>
+
+    <!-- ========================== -->
+    <!-- Data Collection            -->
+    <!-- ========================== -->
+
+    <key>BraveSurveysEnabled</key>
+    <false/>
+    <key>MetricsReportingEnabled</key>
+    <false/>
+    <key>P3AEnabled</key>
+    <false/>
+    <key>SendDailyUsagePing</key>
+    <false/>
+    <key>SendDiagnosticReports</key>
+    <false/>
+    <key>StoreContactInfoForBrokenSiteReports</key>
+    <false/>
+    <key>UrlKeyedAnonymizedDataCollectionEnabled</key>
+    <false/>
+    <key>WebDiscoveryProjectEnabled</key>
+    <false/>
+
+    <!-- ========================== -->
+    <!-- Google & Social Media      -->
+    <!-- ========================== -->
+
+    <key>SocialMediaBlockingFacebook</key>
+    <false/>
+    <key>SocialMediaBlockingLinkedIn</key>
+    <false/>
+    <key>SocialMediaBlockingX</key>
+    <false/>
+    <key>GoogleLoginForExtensionsEnabled</key>
+    <false/>
+    <key>UseGoogleServicesForPushMessaging</key>
+    <false/>
+
+    <!-- ========================== -->
+    <!-- Network Security           -->
+    <!-- ========================== -->
+
+    <key>DnsOverHttpsMode</key>
+    <string>secure</string>
+
+    <!-- Replace the placeholder below with a real DoH template later -->
+    <key>DnsOverHttpsTemplates</key>
+    <string>https://your-dns-provider.example/dns-query</string>
+
+    <key>HttpsOnlyMode</key>
+    <true/>
+    <key>SafeBrowsingEnabled</key>
+    <true/>
+    <key>TorDisabled</key>
+    <true/>
+
+    <!-- ========================== -->
+    <!-- Privacy & Tracking         -->
+    <!-- ========================== -->
+
+    <key>AutoRedirectAMPPages</key>
+    <true/>
+    <key>AutoRedirectTrackingURLs</key>
+    <true/>
+    <key>BlockThirdPartyCookies</key>
+    <true/>
+    <key>PreventFingerprintingBasedOnLanguage</key>
+    <true/>
+    <key>TrackerBlockingAggressive</key>
+    <true/>
+
+    <!-- ========================== -->
+    <!-- Search Engines             -->
+    <!-- ========================== -->
+
+    <key>AllowSearchProvidersInPrivateWindows</key>
+    <true/>
+    <key>AlternativeSearchProviderName</key>
+    <string>Brave</string>
+    <key>AlternativeSearchProviderSearchURL</key>
+    <string>https://search.brave.com/search?q=%s</string>
+    <key>DefaultSearchProviderEnabled</key>
+    <true/>
+    <key>DefaultSearchProviderName</key>
+    <string>DuckDuckGo</string>
+    <key>DefaultSearchProviderSearchURL</key>
+    <string>https://duckduckgo.com/?q=%s</string>
+    <key>PreventIndexingOtherSearchEngines</key>
+    <true/>
+
+    <!-- ========================================================= -->
+    <!-- Placeholders for Future Policies -->
+    <!-- ========================================================= -->
+
+    <!-- Add experimental or future Brave/Chromium policies below -->
+    <!-- Example:
+    <key>PasswordManagerEnabled</key>
+    <false/>
+    -->
+
+</dict>
+</plist>
