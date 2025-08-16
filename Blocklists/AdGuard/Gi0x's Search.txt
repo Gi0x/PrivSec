@@ -1,0 +1,83 @@
+! Title: Gi0x's Search
+! Description: Blocks select browsers & search engines
+! Dedup: Y, Sorted: Y
+! https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Search.txt
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Browsers
+
+||avantbrowser.com^
+||avast.com/secure-browser^
+||avg.com/en-ww/secure-browser^
+||beakerbrowser.com^
+||boltbrowser.app^
+||browser.qq.com^
+||browser.yandex.com^
+||chameleonbrowser.com^
+||citrio.com^
+||dolphin-browser-app.com^
+||dolphin.com^
+||dolphinbrowserfree.com^
+||epicbrowser.com^
+||falkon.org^
+||flashpeak.com^
+||fluidbrowser.com^
+||getdot.js.org^
+||ghostery.com/private-browser^
+||google.com/chrome/beta^
+||google.com/chrome/canary^
+||google.com/chrome/dev^
+||icab.de^
+||ilvruan.com^
+||iridiumbrowser.de^
+||kingpinbrowser.com^
+||kmeleonbrowser.org^
+||lunascape.org^
+||lunascape.tv^
+||maxthon.com^
+||microsoft.com/en-us/edge^
+||morequick.com^
+||mozilla.org^
+||omnigroup.com/more^
+||opera.com^
+||palemoon.org^
+||polaritybrowser.netlify.app^
+||puffin.com^
+||runecats.com^
+||salamweb.com^
+||seamonkey-project.org^
+||secure-browser.com^
+||seznam.cz^
+||slimbrowser.net^
+||slimjet.com^
+||soliton.co.jp^
+||srware.net^
+||torchbrowser.com^
+||torproject.org^
+||ucweb.com^
+||vivaldi.com^
+||waterfox.net^
+||whale.naver.com^
+||wwwdotbrowser.webs.com^
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Search Engines – Popular
+
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Search Engines – SearX & XNG Instances
+
+||bndkt.cz^
+||bndkt.io^
+||bunse.xyz^
+||joshcenters.com^
+||joshuab.xyz^
+||jtateossian.xyz^
+||nobigtech.es^
+||searchengine.party^
+||searx.info^
+||searxng.org^
+||searx.pl^
+||searx.space^
+||st8.at^
+||thefloatinglab.world^
