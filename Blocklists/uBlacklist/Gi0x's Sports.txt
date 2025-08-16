@@ -1,0 +1,163 @@
+# Title: Gi0x's Sports
+# Description: Hides sports related sites (incl. streaming)
+# DeDup: Y, Sorted: Y
+# https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Sports.txt
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+# 1. Betting & Odds Sites
+# 2. Mobile App Links
+# 3. News, Scores & Leagues
+# 4. Streaming (incl. Piracy Mirrors)
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 1. Betting & Odds Sites
+
+*://*.1xbet.com/*
+*://*.888sport.com/*
+*://*.bet365.com/*
+*://*.bet9ja.com/*
+*://*.betano.com/*
+*://*.betdaq.com/*
+*://*.betfair.com/*
+*://*.betfred.com/*
+*://*.betika.com/*
+*://*.betking.com/*
+*://*.betmgm.com/*
+*://*.betonline.ag/*
+*://*.betsafe.com/*
+*://*.betsson.com/*
+*://*.betway.com/*
+*://*.bovada.lv/*
+*://*.boylesports.com/*
+*://*.cloudbet.com/*
+*://*.codere.mx/*
+*://*.dafabet.com/*
+*://*.draftkings.com/*
+*://*.fanduel.com/*
+*://*.foxbet.com/*
+*://*.gg.bet/*
+*://*.intertops.eu/*
+*://*.ladbrokes.com/*
+*://*.livescorebet.com/*
+*://*.marathonbet.com/*
+*://*.mybookie.ag/*
+*://*.oddschecker.com/*
+*://*.parimatch.com/*
+*://*.pointsbet.com/*
+*://*.sportsbet.com.au/*
+*://*.sportsbetting.ag/*
+*://*.stake.com/*
+*://*.superbet.com/*
+*://*.supabets.com/*
+*://*.tipico.com/*
+*://*.twinspires.com/*
+*://*.unibet.com/*
+*://*.winners.bet/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 2. Mobile App Links
+
+*://*.apps.apple.com/us/app/espn/*
+*://*.apps.apple.com/us/app/yahoo-sports/*
+*://*.apps.apple.com/us/app/the-athletic/*
+*://*.apps.apple.com/us/app/cbs-sports/*
+*://*.apps.apple.com/us/app/bleacher-report/*
+*://*.apps.apple.com/us/app/sofascore/*
+*://*.apps.apple.com/us/app/thescore-sports/*
+*://*.apps.apple.com/us/app/flashscore/*
+*://*.apps.apple.com/us/app/fotmob/*
+*://*.apps.apple.com/us/app/mlb/*
+*://*.apps.apple.com/us/app/nba-app/*
+*://*.apps.apple.com/us/app/nhl/*
+*://*.apps.apple.com/us/app/nfl/*
+*://*.play.google.com/store/apps/details?id=com.espn.score_center/*
+*://*.play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.sportacular/*
+*://*.play.google.com/store/apps/details?id=com.cbs.sportscbssportsapp/*
+*://*.play.google.com/store/apps/details?id=com.fivemobile.thescore/*
+*://*.play.google.com/store/apps/details?id=com.sofascore.results/*
+*://*.play.google.com/store/apps/details?id=com.fotmob.fotmobapp/*
+*://*.play.google.com/store/apps/details?id=com.bleacherreport.android.teamstream/*
+*://*.play.google.com/store/apps/details?id=com.flashscore.android/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 3. News, Scores & Leagues
+
+*://*.abcsports.go.com/*
+*://*.beinsports.com/*
+*://*.bleacherreport.com/*
+*://*.cbssports.com/*
+*://*.espn.com/*
+*://*.essentiallysports.com/*
+*://*.eurosport.co/*
+*://*.eurosport.com/*
+*://*.firstsportz.com/*
+*://*.foxsports.com/*
+*://*.golfchannel.com/*
+*://*.insidesport.co/*
+*://*.nbcsports.com/*
+*://*.olympics.com/*
+*://*.plus.espn.com/*
+*://*.portal4sport.com/*
+*://*.premiersports.com/*
+*://*.skysports.com/*
+*://*.sport1.de/*
+*://*.sport24live.com/*
+*://*.sport360.com/*
+*://*.sportico.com/*
+*://*.sports360az.com/*
+*://*.sportsfinding.com/*
+*://*.sportskeeda.com/*
+*://*.sportsmax.tv/*
+*://*.sportworldnews.org/*
+*://*.sportzbonanza.com/*
+*://*.supersport.com/*
+*://*.thesportsrush.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 4. Streaming (incl. Piracy Mirrors)
+
+*://*.7plus.com/*
+*://*.collegesportslive.com/*
+*://*.dreamsports.tv/*
+*://*.elevensports.com/*
+*://*.eurosportplayer.com/*
+*://*.eurovisionsports.tv/*
+*://*.flosports.tv/*
+*://*.flowsports.co/*
+*://*.freesports.tv/*
+*://*.fubosportsnetwork.com/*
+*://*.globalsportsstreaming.com/*
+*://*.kayosports.com/*
+*://*.livesoccertv.com/*
+*://*.livesport24.net/*
+*://*.livesport365.ws/*
+*://*.livesportstreams.tv/*
+*://*.my.dish.com/*
+*://*.nogomania.rs/*
+*://*.now.sportsnet.ca/*
+*://*.olympicstreams.me/*
+*://*.skysportnow.co/*
+*://*.snnow.ca/*
+*://*.solidsport.com/*
+*://*.sparksport.co/*
+*://*.sport-live-tv.com/*
+*://*.sport.optus.com/*
+*://*.sportlemon.net/*
+*://*.sportlemon.pro/*
+*://*.sportlemons.net/*
+*://*.sportlivestreams.net/*
+*://*.sportrar.tv/*
+*://*.sports-to.live/*
+*://*.sportsbay.es/*
+*://*.sportshub.stream/*
+*://*.sportsrp.com/*
+*://*.sportstreaming24.com/*
+*://*.sportstreamtv.live/*
+*://*.sportv.ws/*
+*://*.stream.golfchannel.com/*
+*://*.streamingsport.eu/*
+*://*.streamsports.to/*
+*://*.thestreamable.com/*
+*://*.watch-sports.live/*
+*://*.watchsportonline.co/*
+*://*.watchsportsonline.net/*

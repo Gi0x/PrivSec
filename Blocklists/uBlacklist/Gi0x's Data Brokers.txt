@@ -1,0 +1,61 @@
+# Title: Gi0x's Data Brokers
+# Description: Hides data broker sites
+# DeDup: Y, Sorted: Y
+# https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Data%20Brokers.txt
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+*://*.addresses.com/*
+*://*.advancedbackgroundchecks.com/*
+*://*.anywho.com/*
+*://*.backgroundalert.com/*
+*://*.backgroundcheck.run/*
+*://*.backgroundfinder.com/*
+*://*.beenverified.com/*
+*://*.birthdatabase.com/*
+*://*.checkpeople.com/*
+*://*.checkthem.com/*
+*://*.clustrmaps.com/*
+*://*.cocofinder.com/*
+*://*.cyberbackgroundchecks.com/*
+*://*.easypeoplesearch.com/*
+*://*.fastpeoplesearch.com/*
+*://*.find-people-fast.com/*
+*://*.findpeoplefast.net/*
+*://*.findpeoplenow.com/*
+*://*.freepeopledirectory.com/*
+*://*.freepeoplesearch.org/*
+*://*.govdatadownload.com/*
+*://*.idtrue.com/*
+*://*.instantcheckmate.com/*
+*://*.intelius.com/*
+*://*.kubelabs.com/*
+*://*.mylife.com/*
+*://*.nuwber.com/*
+*://*.numberguru.com/*
+*://*.opencourtrecords.com/*
+*://*.peoplebyname.com/*
+*://*.peoplefinder.com/*
+*://*.peoplefinders.com/*
+*://*.peoplelooker.com/*
+*://*.peekyou.com/*
+*://*.persopo.com/*
+*://*.privateeye.com/*
+*://*.publicbackgroundchecks.com/*
+*://*.radaris.com/*
+*://*.rehold.com/*
+*://*.searchpeoplefree.com/*
+*://*.spokeo.com/*
+*://*.spytox.com/*
+*://*.talentwise.com/*
+*://*.telvox.com/*
+*://*.thatsthem.com/*
+*://*.thepublicindex.org/*
+*://*.truthfinder.com/*
+*://*.usa-people-search.com/*
+*://*.veripages.com/*
+*://*.verispy.com/*
+*://*.voterrecords.com/*
+*://*.voteref.com/*
+*://*.whitepages.com/*
+*://*.yellowpagesgoesgreen.org/*
+*://*.zabasearch.com/*

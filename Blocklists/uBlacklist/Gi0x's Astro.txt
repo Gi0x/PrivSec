@@ -1,0 +1,318 @@
+# Title: Gi0x's Astro
+# Description: Hides astrology & tarot sites
+# DeDup: Y, Sorted: Y
+# https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Astro.txt
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# Regex Rule (/keyword/i)
+
+# 1. Astrology Portals (Mainstream)
+# 2. Horoscope Spam Blogs & Content Farms
+# 3. Misc Astro Sites
+# 4. Mobile App Landing Pages
+# 5. Numerology & Pseudoscience
+# 6. Psychic & Spiritual Services
+# 7. Reddit Soft Influencer Channels & Communities 
+# 8. Star signs
+# 9. Tarot Reading Platforms
+# 10. YouTube & TikTok Soft Influencer Channels
+# 11. Zodiac
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 1. Astrology Portals (Mainstream)
+
+*://*.ancientastrologytalks.com/*
+*://*.artcharts.com/*
+*://*.astralreflections.com/*
+*://*.astro-charts.com/*
+*://*.astro-seek.com/*
+*://*.astro.com/*
+*://*.astro.explorit.net/*
+*://*.astrocentro.com.br/*
+*://*.astrocharts.online/*
+*://*.astrofame.com/*
+*://*.astrogaming.com/*
+*://*.astroglide.com/*
+*://*.astrogold.io/*
+*://*.astrograph.com/*
+*://*.astroindia.com/*
+*://*.astrojyoti.com/*
+*://*.astrolada.com/*
+*://*.astrolibrary.org/*
+*://*.astrolis.com/*
+*://*.astrologerankitsharma.com/*
+*://*.astrologerhitesh.com/*
+*://*.astrologerpsychologer.com/*
+*://*.astrologicalzodiac.com/*
+*://*.astrology-and-science.com/*
+*://*.astrology-zodiac-signs.com/*
+*://*.astrology.com/*
+*://*.astrologyanswers.com/*
+*://*.astrologybay.com/*
+*://*.astrologybylauren.com/*
+*://*.astrologycafe.com/*
+*://*.astrologyclub.org/*
+*://*.astrologyfutureeye.com/*
+*://*.astrologygains.com/*
+*://*.astrologyhub.com/*
+*://*.astrologyk.com/*
+*://*.astrologyking.com/*
+*://*.astrologyland.com/*
+*://*.astrologynova.com/*
+*://*.astrologyonline.eu/*
+*://*.astrologyrays.com/*
+*://*.astrologyreadings.online/*
+*://*.astrologyspark.com/*
+*://*.astrologyuniversity.com/*
+*://*.astrologyweekly.com/*
+*://*.astrologyzone.com/*
+*://*.astromatcha.com/*
+*://*.astromatrix.app/*
+*://*.astroparadise.com/*
+*://*.astroreveal.com/*
+*://*.astrosage.com/*
+*://*.astroseek.com/*
+*://*.astrosofa.com/*
+*://*.astrostyle.com/*
+*://*.astrotalk.com/*
+*://*.astrotheme.com/*
+*://*.astroved.com/*
+*://*.astroved.coom/*
+*://*.astrovida.com/*
+*://*.astrowow.com/*
+*://*.astroyogi.com/*
+*://*.birthastro.com/*
+*://*.cafeastrology.com/*
+*://*.costarastrology.com/*
+*://*.eastrolog.com/*
+*://*.elitedaily.com/astrology/*
+*://*.famouspeople.astro-seek/*
+*://*.goastrologer.com/*
+*://*.indastro.com/*
+*://*.justastrologythings.com/*
+*://*.kylethomasastrology.com/*
+*://*.magiastrology.com/*
+*://*.myastrology.com/*
+*://*.myastrologycharts.com/*
+*://*.popsugar.com/astrology/*
+*://*.powerfulmind.co/category/astrology/*
+*://*.theastrologer.com/*
+*://*.theastrologypodcast.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 2. Horoscope Spam Blogs & Content Farms
+
+*://*.123horoscope.com/*
+*://*.3ho.org/*
+*://*.beautyhoroscope.com/*
+*://*.dailyhoroscope.com/*
+*://*.dailyhoroscopes.com/*
+*://*.elhoroscopohoy.com/*
+*://*.elle.com/horoscopes/*
+*://*.glamour.com/story/horoscopes/*
+*://*.gotohoroscope.com/*
+*://*.horoscope-divination.com/*
+*://*.horoscope.com/*
+*://*.horoscope.org/*
+*://*.horoscopedates.com/*
+*://*.horoscopeoftoday.com/*
+*://*.horoscopes.astro-seek/*
+*://*.horoscopes.lovetoknow.com/*
+*://*.horoscopesapp.com/*
+*://*.horoscopetalks.com/*
+*://*.horoscopetoday.live/*
+*://*.horoscopetree.com/*
+*://*.horoscopeurdu.com/*
+*://*.horoscopius.app/*
+*://*.horoscopomagico.com/*
+*://*.horoscopovirtual.com.br/*
+*://*.horoskopius.com/*
+*://*.horoskopskiznakovi.com/*
+*://*.liveabout.com/horoscopes/*
+*://*.lovehoroscope.guru/*
+*://*.nebulahoroscope.com/*
+*://*.newson6.com/category/horoscopes/*
+*://*.refinery29.com/en-us/horoscopes/*
+*://*.thehoroscope.co/*
+*://*.weeklyhoroscope.com/*
+*://*.yourtango.com/horoscope/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 3. Misc Astro Sites
+
+*://*.askmyoracle.com/*
+*://*.chinesefortunecalendar.com/*
+*://*.ganeshaspeaks.com/*
+*://*.keen.com/*
+*://*.linda-goodman.com/*
+*://*.mylovecal.com/*
+*://*.sanctuaryworld.co/*
+*://*.seeroracle.com/*
+*://*.sunmoonrise.com/*
+*://*.thebirthchart.com/*
+*://*.vedicfolks.com/*
+*://*.wmagazine.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 4. Mobile App Landing Pages
+
+*://*.labyrinthos.co/*
+*://*.mysticapp.io/*
+*://*.chani.app/*
+*://*.patternastrology.com/*
+*://*.zodiacmatch.app/*
+*://*.dailytarotapp.com/*
+*://*.sanctuaryastrologyapp.com/*
+*://*.zodist.com/*
+*://*.moonly.app/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 5. Numerology & Pseudoscience
+
+*://*.365numerology.com/*
+*://*.astrology-numerology.com/*
+*://*.free-name-meaning.com/*
+*://*.name-meanings.org/*
+*://*.nameanalyzer.net/*
+*://*.numerology.com/*
+*://*.numerologycentral.com/*
+*://*.numerologydecoder.com/*
+*://*.numerologynamecalculator.com/*
+*://*.numerologysecrets.net/*
+*://*.numerologysign.com/*
+*://*.psychicnumerology.net/*
+*://*.seventhlifepath.com/*
+*://*.yournumerologychart.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 6. Psychic & Spiritual Services
+
+*://*.absolutelypsychic.com/*
+*://*.askonefreequestion.com/*
+*://*.askpsychic.net/*
+*://*.bestpsychics.club/*
+*://*.bitwine.com/*
+*://*.californiapsychics.com/*
+*://*.espsychics.com/*
+*://*.freepsychicreadingonline.net/*
+*://*.freespiritualreading.com/*
+*://*.myfreepsychicreading.net/*
+*://*.mypsychicconnection.com/*
+*://*.psychic-expert.com/*
+*://*.psychic-revelation.com/*
+*://*.psychicaccess.com/*
+*://*.psychicandmediumsource.com/*
+*://*.psychiccenter.com/*
+*://*.psychicguild.com/*
+*://*.psychicguild.org/*
+*://*.psychicinstantanswers.com/*
+*://*.psychiclivingtoday.com/*
+*://*.psychicloveadvisor.net/*
+*://*.psychicreadingexperts.com/*
+*://*.psychicscience.org/*
+*://*.psychicsuniverse.com/*
+*://*.psychicworld.com/*
+*://*.readingsbypsychics.com/*
+*://*.spiritualinsightpsychic.com/*
+*://*.thecircle.com/*
+*://*.thepsychicline.com/*
+*://*.truepsychics.ca/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 7. Reddit Soft Influencer Channels & Communities 
+
+*://*.reddit.com/r/AdvancedAstrology/*
+*://*.reddit.com/r/AskAstrologers/*
+*://*.reddit.com/r/AstrologyMemes/*
+*://*.reddit.com/r/Cartomancy/*
+*://*.reddit.com/r/DailyTarot/*
+*://*.reddit.com/r/FreeTarotReadings/*
+*://*.reddit.com/r/SunMoonRising/*
+*://*.reddit.com/r/TarotDecks/*
+*://*.reddit.com/r/TarotReadings/*
+*://*.reddit.com/r/astrocartography/*
+*://*.reddit.com/r/astrology/*
+*://*.reddit.com/r/astrologygadgets/*
+*://*.reddit.com/r/learntarot/*
+*://*.reddit.com/r/moonology/*
+*://*.reddit.com/r/oraclecards/*
+*://*.reddit.com/r/tarot/*
+*://*.reddit.com/r/tarotpractice/*
+*://*.reddit.com/r/vedicastrology/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 8. Star signs
+
+*://*.kellystarsigns.com/*
+*://*.starsigns.co/*
+*://*.starsignstyle.com/*
+*://*.sunsigns.org/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 9. Tarot Reading Platforms
+
+*://*.atlassace.com/tarot/*
+*://*.daily-tarot-girl.com/*
+*://*.darktarot.com/*
+*://*.e-tarocchi.com/*
+*://*.etarocchi.com/*
+*://*.evatarot.net/*
+*://*.free-tarot-card-readings.net/*
+*://*.free-tarot-reading.net/*
+*://*.freetarotcardreading.net/*
+*://*.mysticboard.com/tarot/*
+*://*.mytarotreading.com/*
+*://*.pure-tarot.com/*
+*://*.readtarotcards.co/*
+*://*.serennite.fr/*
+*://*.tarocchigratis.eu/*
+*://*.tarot-amour-gratuit.net/*
+*://*.tarot-angel.com/*
+*://*.tarot-card.net/*
+*://*.tarot-explained.com/*
+*://*.tarot-live.com/*
+*://*.tarot-reading./*
+*://*.tarot-readings./*
+*://*.tarot.com/*
+*://*.tarotdehoy.com/*
+*://*.tarotdemars.fr/*
+*://*.tarotgoddess.com/*
+*://*.tarotgratis.com.br/*
+*://*.tarotgratis.net/*
+*://*.tarotguide.com/*
+*://*.tarotguru.com/*
+*://*.tarotonline.cc/*
+*://*.tarotopia.com.au/*
+*://*.tarotreadingdaily.com/*
+*://*.tarotreadingpsychic.com/*
+*://*.thetarotguide.com/*
+*://*.thetarotlady.com/*
+*://*.trustedtarot.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 10. YouTube & TikTok Soft Influencer Channels
+
+*://*.youtube.com/@kristinalawsonastrology/*
+*://*.youtube.com/@soulfulrevolution/*
+*://*.youtube.com/@canceriantarot/*
+*://*.youtube.com/@minnowpond/*
+*://*.youtube.com/@bravelybeautiful/*
+*://*.youtube.com/@whitefeatheroracle/*
+*://*.youtube.com/@tarotbybronx/*
+*://*.tiktok.com/@zodiaccorner/*
+*://*.tiktok.com/@tarotbabe/*
+*://*.tiktok.com/@astroknowlogy/*
+*://*.tiktok.com/@cosmicrx/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 11. Zodiac
+
+*://*.izodiacsigns.com/*
+*://*.yourzodiacsign.com/*
+*://*.zodiacfire.com/*
+*://*.zodiacfresh.com/*
+*://*.zodiacguides.com/*
+*://*.zodiachive.com/*
+*://*.zodiacreads.com/*
+*://*.zodiacsigncompatibilitycharts.com/*
+*://*.zodiacsigns-horoscope.com/*
+*://*.zodiacstyle.com/*

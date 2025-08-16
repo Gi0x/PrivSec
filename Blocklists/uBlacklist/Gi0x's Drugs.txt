@@ -1,0 +1,135 @@
+# Title: Gi0x's Drugs
+# Description: Hides drugs & tobacco related sites
+# DeDup: Y, Sorted: Y
+# https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Drugs.txt
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+# 1. Cannabis & Marijuana (Retail, Culture, Info)
+# 2. CBD Product Retailers
+# 3. Darknet Drug Market Mirrors / Directories
+# 4. Drug Forums, Smart Drugs, Nootropics, Research Chems
+# 5. Tobacco & Cigarettes
+# 6. Vaping & E-Cigarettes
+
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 1. Cannabis & Marijuana (Retail, Culture, Info)
+
+*://*.apothecarium.com/*
+*://*.barneysfarm.com/*
+*://*.bcseedking.com/*
+*://*.buyweedonlineusa.com/*
+*://*.cannabis.net/*
+*://*.dutch-passion.com/*
+*://*.greenrush.com/*
+*://*.greenthumbindustries.com/*
+*://*.growerschoiceseeds.com/*
+*://*.hempyresearch.com/*
+*://*.herb.co/*
+*://*.highthere.com/*
+*://*.homegrowncannabisco.com/*
+*://*.ilovegrowingmarijuana.com/*
+*://*.kingbong.com.br/*
+*://*.leafbuyer.com/*
+*://*.leafly.com/*
+*://*.marijuanabreak.com/*
+*://*.marijuanapackaging.com/*
+*://*.medicalmarijuanainc.com/*
+*://*.potguide.com/*
+*://*.royalqueenseeds.com/*
+*://*.thecannabist.co/*
+*://*.theweedblog.com/*
+*://*.weedmaps.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 2. CBD Product Retailers
+
+*://*.absolute-nature-cbd.com/*
+*://*.americanhempoil.net/*
+*://*.blosumcbd.com/*
+*://*.cbd.co/*
+*://*.cbd.market/*
+*://*.cbdchoice.com/*
+*://*.cbdfx.com/*
+*://*.cbdistillery.com/*
+*://*.cbdliving.com/*
+*://*.cbdmd.com/*
+*://*.charlottesweb.com/*
+*://*.fabcbd.com/*
+*://*.greenroads.com/*
+*://*.hempbombs.com/*
+*://*.joyorganics.com/*
+*://*.kyhicbd.com/*
+*://*.medterracbd.com/*
+*://*.purekana.com/*
+*://*.royalcbd.com/*
+*://*.savagecbd.com/*
+*://*.veritasfarms.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 3. Darknet Drug Market Mirrors / Directories
+
+*://*.dark.fail/*
+*://*.darknetlive.com/*
+*://*.dnstats.net/*
+*://*.onion.live/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 4. Drug Forums, Smart Drugs, Nootropics, Research Chems
+
+*://*.afinilexpress.com/*
+*://*.bluelight.org/*
+*://*.buyxanaxonline.org/*
+*://*.drugs-forum.com/*
+*://*.erowid.org/*
+*://*.liftmode.com/*
+*://*.modafinil.org/*
+*://*.modafiniledge.com/*
+*://*.modafinilxl.com/*
+*://*.nootropicsexpert.com/*
+*://*.nootropics.com/*
+*://*.nootropicsdepot.com/*
+*://*.science.bio/*
+*://*.supersmart.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 5. Tobacco & Cigarettes
+
+*://*.buycigarettesonline.org/*
+*://*.cheapcigarettes.com/*
+*://*.cigaretteprices.net/*
+*://*.cigarettesamerica.com/*
+*://*.cigs4less.com/*
+*://*.dutyfreedepot.com/*
+*://*.smokersunit.com/*
+*://*.tobaccoonline.co.uk/*
+*://*.tobaccostock.com/*
+*://*.tobaccousa.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 6. Vaping & E-Cigarettes
+
+*://*.centralvapors.com/*
+*://*.ecig-city.com/*
+*://*.elementvape.com/*
+*://*.eightvape.com/*
+*://*.fugginvapor.com/*
+*://*.misthub.com/*
+*://*.myfreedomsmokes.com/*
+*://*.myvpro.com/*
+*://*.smokstore.com/*
+*://*.vape-box.com/*
+*://*.vape-deals.com/*
+*://*.vape.com/*
+*://*.vape4ever.com/*
+*://*.vapejuice.com/*
+*://*.vapes.com/*
+*://*.vapedeal.com/*
+*://*.vaped.com/*
+*://*.vapeshack.com/*
+*://*.vapesocietysupply.com/*
+*://*.vapordna.com/*
+*://*.vaporesso.com/*
+*://*.vaporfi.com/*
+*://*.vaporhub.com/*
+*://*.vapewild.com/*
