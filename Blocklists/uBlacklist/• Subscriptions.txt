@@ -18,118 +18,55 @@ B. https://github.com/rjaus/awesome-ublacklist?tab=readme-ov-file
 C. https://github.com/nicoleahmed/nicoles-ublacklist/
 D: https://github.com/NyeUsr/Blacklist/tree/main/uBlacklist
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-AI GENERATED IMAGES
 
-1 – uBlockOrigin & uBlacklist Nuclear AI Blocklist
+> AI GENERATED IMAGES
+
+1. uBlockOrigin & uBlacklist Nuclear AI Blocklist
 Blocks AI generated image results
 Raw: https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt
 
-CONTENT FARMS
+> CONTENT FARMS
 
-1 – Generic Content Farms
+1. Generic Content Farms
 Blocks AI content farms
 Raw: https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt
 
-COPYCAT SITES
+> COPYCAT SITES
 
-1 – uBlock Origin Global Dev Filter
+1. uBlock Origin Global Dev Filter
 Supports StackOverflow, GitHub, NPM, Wikipedia & SEO Spam
 Raw: https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/global.txt
 
-SHOPPING
+> SHOPPING
 
-1 – Fake Webstores
+1. Fake Webstores
 Blocks fake machine-translated web stores that only redirect you to AliExpress
 Raw: https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt
 
-SPAM
+> SPAM
 
-1 – Ad & Tracking Server Domain List
+1. Ad & Tracking Server Domain List
 Ad & tracking server domain list maintained since 2001
 Raw: https://pgl.yoyo.org/as/serverlist.php?hostformat=plain&mimetype=plaintext&prepend=*://*.&append=/*&showintro=0
 
-2 – BadWebsiteBlocklist
+2. BadWebsiteBlocklist
 Blocks AI generated spam, misleading ads, SEO bait, badware sites, & generally low-effort spam websites
 Raw: https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt
 
-3 – SpamdexingSites
+3. SpamdexingSites
 URL feed for blocking spamdexing websites
 Raw: https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/refs/heads/main/blocklist_UBL.txt
 
-4 – Super-SEO-Spam-Suppressor
+4. Super-SEO-Spam-Suppressor
 Info: Targets websites abusing SEO tactics, content farms, scrapers, copycats, generative AIs, scams, advertisements & malware
-Raw > https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/refs/heads/main/ublacklist.txt
+Raw: https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/refs/heads/main/ublacklist.txt
 
-UNSAFE & MALICIOUS SITES
+> UNSAFE & MALICIOUS SITES
 
-1 – FMHY Unsafe Sites Filterlist
+1. FMHY Unsafe Sites Filterlist
 Blocks a bunch of unsafe, harmful & malicious websites listed in FMHY Unsafe Sites page
 Raw: https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt
 
-2 – uBlacklist Filters for Suspicious Downloads
+2. uBlacklist Filters for Suspicious Downloads
 Blocks sites that host suspicious downloads
-Raw > https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-GI0X'S LISTS
-
-Gi0x's Adult
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Adult.txt
-
-Gi0x's AI
-Raw:  https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20AI.txt
-
-Gi0x's Astro
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Astro.txt
-
-Gi0x's Chat
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Chat.txt
-
-Gi0x's Cloudflare
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Cloudflare.txt
-
-Gi0x's Dating
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Dating.txt
-
-Gi0x's Drugs
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Drugs.txt
-
-Gi0x's Gambling
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Gambling.txt
-
-Gi0x's Gaming
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Gaming.txt
-
-Gi0x's Google
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Google.txt
-
-Gi0x's News
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20News.txt
-
-Gi0x's Image Editors
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Image%20Editors.txt
-
-Gi0x's Profanity
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Profanity.txt
-
-Gi0x's Search
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Search.txt
-
-Gi0x's Social
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Social.txt
-
-Gi0x's Spam
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Spam.txt
-
-Gi0x's Sports
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Sports.txt
-
-Gi0x's Streaming
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Streaming.txt
-
-Gi0x's TLDs-cc
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/TLDs-cc.txt
-
-Gi0x's TLDs-g
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/TLDs-g.txt
+Raw: https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt
