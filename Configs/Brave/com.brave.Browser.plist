@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+    <!-- ========================== -->
+    <!-- Brave Features             -->
+    <!-- ========================== -->
+
+    <key>BraveNewsEnabled</key><false/>
+    <key>RewardsEnabled</key><false/>
+    <key>TalkEnabled</key><false/>
+    <key>VPNEnabled</key><false/>
+
+    <!-- ========================== -->
+    <!-- Data Collection            -->
+    <!-- ========================== -->
+
+    <key>BraveSurveysEnabled</key><false/>
+    <key>P3AEnabled</key><false/>
+    <key>SendDailyUsagePing</key><false/>
+    <key>SendDiagnosticReports</key><false/>
+    <key>StoreContactInfoForBrokenSiteReports</key><false/>
+    <key>UrlKeyedAnonymizedDataCollectionEnabled</key><false/>
+    <key>WebDiscoveryProjectEnabled</key><false/>
+
+    <!-- ========================== -->
+    <!-- Google & Social Media      -->
+    <!-- ========================== -->
+
+    <key>SocialMediaBlockingFacebook</key><false/>
+    <key>SocialMediaBlockingLinkedIn</key><false/>
+    <key>SocialMediaBlockingX</key><false/>
+    <key>GoogleLoginForExtensionsEnabled</key><false/>
+    <key>UseGoogleServicesForPushMessaging</key><false/>
+
+    <!-- ========================== -->
+    <!-- Network Security           -->
+    <!-- ========================== -->
+
+    <key>DnsOverHttpsMode</key>
+    <string>secure</string>
+    <key>DnsOverHttpsTemplates</key>
+    <string>https://your-dns-provider.example/dns-query</string>
+    <key>TorDisabled</key><true/>
+
+    <!-- ========================== -->
+    <!-- Privacy & Tracking         -->
+    <!-- ========================== -->
+
+    <key>AutoRedirectAMPPages</key><true/>
+    <key>AutoRedirectTrackingURLs</key><true/>
+    <key>BlockThirdPartyCookies</key><true/>
+    <key>PreventFingerprintingBasedOnLanguage</key><true/>
+    <key>TrackerBlockingAggressive</key><true/>
+
+    <!-- ========================== -->
+    <!-- Homepage & Startup (Locked)-->
+    <!-- ========================== -->
+
+    <key>HomepageLocation</key>
+    <string>https://safe.duckduckgo.com</string>
+    <key>HomepageIsNewTabPage</key>
+    <false/>
+    <key>NewTabPageLocation</key>
+    <string>https://safe.duckduckgo.com</string>
+    <key>RestoreOnStartup</key>
+    <integer>4</integer>
+    <key>RestoreOnStartupURLs</key>
+    <array>
+        <string>https://safe.duckduckgo.com</string>
+    </array>
+
+    <!-- Enforcement -->
+    <key>HomepageLocationIsLocked</key><true/>
+    <key>HomepageIsNewTabPageIsLocked</key><true/>
+    <key>NewTabPageLocationIsLocked</key><true/>
+    <key>RestoreOnStartupIsLocked</key><true/>
+    <key>RestoreOnStartupURLsIsLocked</key><true/>
+
+</dict>
+</plist>
