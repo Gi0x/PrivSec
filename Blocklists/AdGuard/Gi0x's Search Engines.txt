@@ -2,10 +2,15 @@
 ! Description: Blocks & redirects select search engines
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Blocklists/AdGuard/Gi0x's%20Search%20Engines.txt
-! R:
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Blocklists/AdGuard/Gi0x's%20Search%20Engines.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+! 1. SafeSearch Redirects
+! 2. AI Search Engines
+! 3. Standard Search Engines
+
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! SafeSearch Redirects
+! 1. SafeSearch Redirects
 
 ! Brave Search
 search.brave.com^$redirect=https://search.brave.com/search?q=$querystring&safe=active
@@ -17,7 +22,7 @@ duckduckgo.com^$redirect=https://duckduckgo.com/?kp=1&q=$querystring
 kagi.com^$redirect=https://kagi.com/search?q=$querystring&safe=1
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Blocked AI Search Engines
+! AI Search Engines
 
 ||andi.io^
 ||arc.net^
@@ -41,7 +46,7 @@ kagi.com^$redirect=https://kagi.com/search?q=$querystring&safe=1
 ||you.com^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Blocked Standard Search Engines
+! 3. Standard Search Engines
 
 ||100searchengines.com^
 ||9ifly.cn^
