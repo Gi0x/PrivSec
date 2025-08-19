@@ -4,9 +4,8 @@
 <dict>
 
     <!-- ========================== -->
-    <!-- Brave Features             -->
+    <!-- BRAVE FEATURES             -->
     <!-- ========================== -->
-
     <key>BraveNewsEnabled</key>
     <false/>
     <key>RewardsEnabled</key>
@@ -17,81 +16,131 @@
     <false/>
 
     <!-- ========================== -->
-    <!-- Data Collection            -->
+    <!-- SHIELDS                    -->
     <!-- ========================== -->
-
-    <key>BraveSurveysEnabled</key>
-    <false/>
-    <key>P3AEnabled</key>
-    <false/>
-    <key>SendDailyUsagePing</key>
-    <false/>
-    <key>SendDiagnosticReports</key>
-    <false/>
+    <key>TrackerBlockingAggressive</key>
+    <true/>
+    <key>HttpsOnlyMode</key>
+    <string>2</string>
+    <key>PreventFingerprintingBasedOnLanguage</key>
+    <true/>
+    <key>BlockThirdPartyCookies</key>
+    <true/>
     <key>StoreContactInfoForBrokenSiteReports</key>
     <false/>
-    <key>UrlKeyedAnonymizedDataCollectionEnabled</key>
-    <false/>
-    <key>WebDiscoveryProjectEnabled</key>
-    <false/>
-
-    <!-- ========================== -->
-    <!-- Google & Social Media      -->
-    <!-- ========================== -->
-
     <key>SocialMediaBlockingFacebook</key>
     <false/>
     <key>SocialMediaBlockingLinkedIn</key>
     <false/>
     <key>SocialMediaBlockingX</key>
     <false/>
-    <key>GoogleLoginForExtensionsEnabled</key>
-    <false/>
-    <key>UseGoogleServicesForPushMessaging</key>
-    <false/>
 
     <!-- ========================== -->
-    <!-- Network Security           -->
+    <!-- PRIVACY & SECURITY         -->
     <!-- ========================== -->
-
+    <key>SafeBrowsingMode</key>
+    <string>standard</string>
     <key>DnsOverHttpsMode</key>
     <string>secure</string>
     <key>DnsOverHttpsTemplates</key>
     <string>https://dns.controld.com/10eulxnerys</string>
-    <key>TorDisabled</key>
+    <key>ClearUnusedSitePermissions</key>
     <true/>
-
-    <!-- ========================== -->
-    <!-- Privacy & Tracking         -->
-    <!-- ========================== -->
-
+    <key>WebRTCIPHandlingPolicy</key>
+    <string>disable_non_proxied_udp</string>
+    <key>UseGoogleServicesForPushMessaging</key>
+    <false/>
     <key>AutoRedirectAMPPages</key>
     <true/>
     <key>AutoRedirectTrackingURLs</key>
     <true/>
-    <key>BlockThirdPartyCookies</key>
+    <key>PreventSitesFingerprintingMe</key>
     <true/>
-    <key>PreventFingerprintingBasedOnLanguage</key>
+    <key>SendDoNotTrack</key>
     <true/>
-    <key>TrackerBlockingAggressive</key>
+    <key>TorDisabled</key>
     <true/>
-
-    <!-- ========================== -->
-    <!-- Homepage & Startup         -->
-    <!-- ========================== -->
-
-    <key>HomepageLocation</key>
-    <string>https://safe.duckduckgo.com</string>
-    <key>HomepageIsNewTabPage</key>
+    <key>OnlyResolveOnionInTorWindows</key>
     <false/>
-    <key>NewTabPageLocation</key>
-    <string>https://safe.duckduckgo.com</string>
-    <key>RestoreOnStartup</key>
-    <integer>4</integer>
-    <key>RestoreOnStartupURLs</key>
+    <key>VolunteerToHelpTor</key>
+    <false/>
+    <key>UseTorBridges</key>
+    <false/>
+    <key>AllowPrivacyPreservingProductAnalytics</key>
+    <false/>
+    <key>SendDailyUsagePing</key>
+    <false/>
+    <key>SendDiagnosticReports</key>
+    <false/>
+    <key>BraveSurveysEnabled</key>
+    <false/>
+
+    <!-- ========================== -->
+    <!-- SEARCH ENGINES             -->
+    <!-- ========================== -->
+    <!-- Normal Window: DuckDuckGo SafeSearch -->
+    <key>DefaultSearchProviderName</key>
+    <string>DuckDuckGo Safe</string>
+    <key>DefaultSearchProviderSearchURL</key>
+    <string>https://duckduckgo.com/?q=%s&kp=1</string>
+
+    <!-- Private Window: Brave SafeSearch -->
+    <key>PrivateWindowSearchProviderName</key>
+    <string>Brave Safe</string>
+    <key>PrivateWindowSearchProviderSearchURL</key>
+    <string>https://safe.search.brave.com/search?q=%s</string>
+
+    <key>ImproveSearchSuggestionsEnabled</key>
+    <false/>
+    <key>WebDiscoveryProjectEnabled</key>
+    <false/>
+    <key>SearchEnginesIncludeOtherEngines</key>
+    <false/>
+
+    <!-- ========================== -->
+    <!-- EXTENSIONS                 -->
+    <!-- ========================== -->
+    <key>AllowGoogleLoginForExtensions</key>
+    <false/>
+    <key>MediaRouterEnabled</key>
+    <true/>
+    <key>WidevineEnabled</key>
+    <true/>
+    <key>ManifestV2Enabled</key>
+    <false/>
+
+    <!-- Force Install Extensions -->
+    <key>ExtensionInstallForceList</key>
     <array>
-        <string>https://safe.duckduckgo.com</string>
+        <string>bgnkhhnnamicmpeenaelnjfhikgbkllg;https://clients2.google.com/service/update2/crx</string>
+        <string>lfkekhbpfmnclpodkoohbnhniddepehk;https://clients2.google.com/service/update2/crx</string>
+        <string>abdkjmofmjelgafcdffaimhgdgpagmop;https://clients2.google.com/service/update2/crx</string>
+        <string>pncfbmialoiaghdehhbnbhkkgmjanfhe;https://clients2.google.com/service/update2/crx</string>
     </array>
+
+    <!-- ========================== -->
+    <!-- AUTOFILL & PASSWORDS       -->
+    <!-- ========================== -->
+    <key>OfferToSavePasswordsAndPasskeys</key>
+    <false/>
+    <key>SignInAutomatically</key>
+    <false/>
+    <key>SaveAndFillPaymentMethods</key>
+    <false/>
+    <key>VerifyBeforeAutofillPaymentMethods</key>
+    <false/>
+    <key>SaveSecurityCodes</key>
+    <false/>
+    <key>AllowSitesToCheckSavedPaymentMethods</key>
+    <false/>
+    <key>SaveAndFillAddresses</key>
+    <false/>
+
+    <!-- ========================== -->
+    <!-- LANGUAGES                  -->
+    <!-- ========================== -->
+    <key>CheckSpellingEnabled</key>
+    <false/>
 
 </dict>
 </plist>

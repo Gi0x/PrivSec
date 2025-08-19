@@ -1,11 +1,13 @@
-! Title: Gi0x's Search
-! Description: Blocks select browsers & search engines
+! Title: Gi0x's Browsers
+! Description: Blocks select browsers
 ! Dedup: Y, Sorted: Y
-! https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Search.txt
+! M: 
+! R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Browsers.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Browsers
 
+||arc.net^
 ||avantbrowser.com^
 ||avast.com/secure-browser^
 ||avg.com/en-ww/secure-browser^
@@ -14,31 +16,42 @@
 ||browser.qq.com^
 ||browser.yandex.com^
 ||chameleonbrowser.com^
+||chromium.org/getting-involved/download-chromium^
+||chromium.org^
 ||citrio.com^
+||comet.perplexity.ai^
+||diabrowser.com^
 ||dolphin-browser-app.com^
 ||dolphin.com^
 ||dolphinbrowserfree.com^
+||duckduckgo.com/app^
 ||epicbrowser.com^
 ||falkon.org^
 ||flashpeak.com^
+||floorp.app^
 ||fluidbrowser.com^
 ||getdot.js.org^
 ||ghostery.com/private-browser^
 ||google.com/chrome/beta^
 ||google.com/chrome/canary^
 ||google.com/chrome/dev^
+||google.com/chrome^
 ||icab.de^
 ||ilvruan.com^
 ||iridiumbrowser.de^
 ||kingpinbrowser.com^
 ||kmeleonbrowser.org^
+||librewolf.net^
 ||lunascape.org^
 ||lunascape.tv^
 ||maxthon.com^
+||microsoft.com/edge^
 ||microsoft.com/en-us/edge^
 ||morequick.com^
+||mozilla.org/firefox^
 ||mozilla.org^
 ||omnigroup.com/more^
+||opera.com/download^
 ||opera.com^
 ||palemoon.org^
 ||polaritybrowser.netlify.app^
@@ -53,31 +66,14 @@
 ||soliton.co.jp^
 ||srware.net^
 ||torchbrowser.com^
+||torproject.org/download^
 ||torproject.org^
 ||ucweb.com^
+||ungoogled-software.github.io/ungoogled-chromium^
+||vivaldi.com/download^
 ||vivaldi.com^
 ||waterfox.net^
+||webkit.org^
 ||whale.naver.com^
 ||wwwdotbrowser.webs.com^
-
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Search Engines – Popular
-
-
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Search Engines – SearX & XNG Instances
-
-||bndkt.cz^
-||bndkt.io^
-||bunse.xyz^
-||joshcenters.com^
-||joshuab.xyz^
-||jtateossian.xyz^
-||nobigtech.es^
-||searchengine.party^
-||searx.info^
-||searxng.org^
-||searx.pl^
-||searx.space^
-||st8.at^
-||thefloatinglab.world^
+||yandex.com/browser^
