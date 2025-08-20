@@ -15,7 +15,7 @@
 ! Brave Search
 search.brave.com^$redirect=https://search.brave.com/search?q=$querystring&safe=active
 
-! DuckDuckGo
+! DuckDuckGo (Strict SafeSearch: kp=1)
 duckduckgo.com^$redirect=https://duckduckgo.com/?kp=1&q=$querystring
 
 ! Kagi
@@ -26,7 +26,7 @@ kagi.com^$redirect=https://kagi.com/search?q=$querystring&safe=1
 
 ||andi.io^
 ||arc.net^
-||bing.com/search?q=*&showconv=1*
+||bing.com/search?q=*&showconv=1^
 ||chatpdf.com^
 ||chatsearch.ai^
 ||coze.cn^
