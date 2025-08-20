@@ -14,21 +14,21 @@
 
 ! Brave
 search.brave.com^$important
-||search.brave.com/*safe=off^$important
+||search.brave.com/*safe=off*^$important
 ||search.brave.com/i^$important
 ||search.brave.com/v^$important
 
 ! DuckDuckGo
 duckduckgo.com^$important
-||duckduckgo.com/?kp=0^$important
-||duckduckgo.com/?kp=1^$important
-||duckduckgo.com/?ka=off^$important
+||duckduckgo.com/*kp=0*^$important
+||duckduckgo.com/*kp=1*^$important
+||duckduckgo.com/*ka=off*^$important
 ||duckduckgo.com/i^$important
 ||duckduckgo.com/v^$important
 
 ! Kagi
 kagi.com^$important
-||kagi.com/search?safe=0^$important
+||kagi.com/*safe=0*^$important
 ||kagi.com/images^$important
 ||kagi.com/videos^$important
 
