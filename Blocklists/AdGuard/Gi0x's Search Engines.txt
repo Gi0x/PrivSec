@@ -19,7 +19,7 @@ search.brave.com^$redirect=https://search.brave.com/search?q=$querystring&safe=a
 ||search.brave.com/i^all             ! image search unsafe variants
 ||search.brave.com/v^all             ! video search unsafe variants
 
-! DuckDuckGo (Strict SafeSearch: kp=1)
+! DuckDuckGo
 duckduckgo.com^$redirect=https://duckduckgo.com/?kp=1&q=$querystring
 
 ||duckduckgo.com/?kp=0^all
