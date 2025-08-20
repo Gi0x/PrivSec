@@ -5,37 +5,31 @@
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Blocklists/AdGuard/Gi0x's%20Search%20Engines.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-! 1. SafeSearch Enforcements & Redirects
+! 1. SafeSearch
 ! 2. AI Search Engines
 ! 3. Standard Search Engines
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 1. SafeSearch Enforcements & Redirects
+! 1. SafeSearch
 
 ! Brave
+search.brave.com^$important
+||search.brave.com/*safe=off^$important
+||search.brave.com/i^$important
+||search.brave.com/v^$important
 
-search.brave.com^$redirect=https://search.brave.com/search?q=$querystring&safe=active
-||search.brave.com/*safe=off^$all,important
-
-||search.brave.com/i^$all,important             ! image search unsafe variants
-||search.brave.com/v^$all,important             ! video search unsafe variants
-
-! DuckDuckGo (Strict SafeSearch: kp=1)
-
-duckduckgo.com^$redirect=https://duckduckgo.com/?kp=1&q=$querystring
-||duckduckgo.com/?kp=0^$all,important
-||duckduckgo.com/?ka=off^$all,important
-
-||duckduckgo.com/i^$all,important               ! image search unsafe variants
-||duckduckgo.com/v^$all,important               ! video search unsafe variants
+! DuckDuckgo
+duckduckgo.com^$important
+||duckduckgo.com/?kp=0^$important
+||duckduckgo.com/?ka=off^$important
+||duckduckgo.com/i^$important
+||duckduckgo.com/v^$important
 
 ! Kagi
-
-kagi.com^$redirect=https://kagi.com/search?q=$querystring&safe=1
-||kagi.com/search?safe=0^$all,important
-
-||kagi.com/images^$all,important                 ! image search unsafe variants
-||kagi.com/videos^$all,important                 ! video search unsafe variants
+kagi.com^$important
+||kagi.com/search?safe=0^$important
+||kagi.com/images^$important
+||kagi.com/videos^$important
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 2. AI Search Engines
