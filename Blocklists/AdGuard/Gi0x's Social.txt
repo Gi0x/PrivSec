@@ -7,19 +7,25 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ! 1. Discord
-! 2. Facebook & Threads
+! 2. Facebook
 ! 3. Instagram
-! 4. Mastodon
-! 5. Reddit
-! 6. Snapchat
-! 7. Telegram
-! 8. TikTok
-! 9. Twitter
-! 10. ...
+! 4.
+! 5.
+! 6. 
+! 7. 
+! 8.
+! 9.
+! 10. 
+! 11.
+! 12. 
+! 
+
+! Sources: 
+! https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Discord.txt
+! https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Facebook.txt
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 1. Discord
-! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Discord.txt
 
 ||discord.com^$all,important
 ||discord.gg^$all,important
@@ -28,8 +34,7 @@
 ||discordapp.net^$all,important
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 2. Facebook & Threads
-! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Facebook.txt
+! 2. Facebook
 
 ||atlassolutions.com^$all,important
 ||bulletin.com^$all,important
@@ -97,11 +102,29 @@
 ! 3. Instagram (incl. Phishing Clones & Viewing Sites)
 
 ! Wildcards
-||insta*viewer*^$all,important
 ||insta*down*^$all,important
 ||insta*save*^$all,important
-||*instagram*login*^$all,important
-||*insta*signin*^$all,important
+
+! Analytics & Tracking
+||gramspy.net^$all,important
+||igspy.click^$all,important
+||insnoop.app^$all,important
+||insnoop.co.uk^$all,important
+||insnoop.com^$all,important
+||insnoop.net^$all,important
+||insnoop.org^$all,important
+||insta-spy.net^$all,important
+||insta-stalker.com^$all,important
+||instaspy.net^$all,important
+||instastalker.com^$all,important
+||instastalker.info^$all,important
+||invisispy.com^$all,important
+||spyinsta.org^$all,important
+||spystoryviewer.com^$all,important
+||stalkio.co^$all,important
+||stalkto.org^$all,important
+||stalkyapp.com^$all,important
+||inststalk.com^$all,important
 
 ! Domains & Subdomains (Official)
 ||cdninstagram.com^$all,important
@@ -109,42 +132,96 @@
 ||instagram.com^$all,important
 ||l.instagram.com^$all,important
 
-! Viewers & Downloaders
+! Phishing
+||*insta*signin*^$all,important
+||*instagram*login*^$all,important
+||fakelogininstagram.com^$all,important
+||fakeloginpages.com^$all,important
+||iglogins.com^$all,important
+||igram-login.com^$all,important
+||inst-account-verification.com^$all,important
+||insta-account-verification.com^$all,important
+||insta-login.com^$all,important
+||insta-security-check.com^$all,important
+||instaformlogin.com^$all,important
+||instaloginpanel.com^$all,important
+||instalogon.net^$all,important
+||instaphish.com^$all,important
+||login-ig.com^$all,important
+||login-instagram.com^$all,important
+||loginig.net^$all,important
+||logininstagram.net^$all,important
+||secure-instagram.com^$all,important
+||secureinsta.net^$all,important
+
+! Profile Viewers
+||anon-viewer.com^$all,important
+||anonigviewer.com^$all,important
+||anonstoriesview.com^$all,important
+||anonstoryview.com^$all,important
+||anony-storyviewer.com^$all,important
+||anonymous-viewer.com^$all,important
+||anonymviewer.com^$all,important
+||anonyviewer.com^$all,important
+||iganonyviewer.com^$all,important
+||ighighlightviewer.com^$all,important
+||iglookup.com^$all,important
+||igstoryviewer.pro^$all,important
+||igstoryviewers.com^$all,important
+||igviewer.io^$all,important
+||igviewer.one^$all,important
+||igviewer.pro^$all,important
+||igviewers.com^$all,important
+||imglooker.net^$all,important
+||imglookup.co^$all,important
+||imglookup.com^$all,important
+||ingramstoryviewer.com^$all,important
+||insta*viewer*^$all,important
+||insta-stories-viewer.com^$all,important
+||insta-story-viewer.pl^$all,important
+||insta-viewer.com^$all,important
+||instafakeviewer.com^$all,important
+||instafreeview.com^$all,important
+||instagramviewer.com^$all,important
+||instalooker.org^$all,important
+||instapeeker.com^$all,important
+||instapreview.net^$all,important
+||instaprofileviewer.com^$all,important
+||instastoriesviewer.com^$all,important
+||instastoryviewer.io^$all,important
+||instastoryviewers.com^$all,important
+||instaviewer.app^$all,important
+||instawebviewer.com^$all,important
+||inviewer.co^$all,important
+||privatephotoviewer.com^$all,important
+||privateviewer.net^$all,important
+||socialprivateviewer.com^$all,important
+||storiesanonviewer.com^$all,important
+||storiesviewerbot.com^$all,important
+||story-viewer.co^$all,important
+||story-viewer.org^$all,important
+||storyviewer.ai^$all,important
+||storyviewer.com^$all,important
+||viewerstory.com^$all,important
 
 
-
-
-
-
-! Phishing Logins & Tracking
-
-
-!
 
 
 ||0insta.com^$all,important
 ||1stagram.com^$all,important
 ||ahasave.com^$all,important
 ||allstories.co^$all,important
-||anon-viewer.com^$all,important
 ||anongram.com^$all,important
-||anonigviewer.com^$all,important
 ||anonimoig.com^$all,important
 ||anonimostory.com^$all,important
 ||anonstories.app^$all,important
 ||anonstories.com^$all,important
 ||anonstories.org^$all,important
-||anonstoriesview.com^$all,important
-||anonstoryview.com^$all,important
 ||anony-ig.com^$all,important
-||anony-storyviewer.com^$all,important
 ||anonyig.com^$all,important
 ||anonyig.io^$all,important
 ||anonyig.org^$all,important
-||anonymous-viewer.com^$all,important
-||anonymviewer.com^$all,important
 ||anonypro.com^$all,important
-||anonyviewer.com^$all,important
 ||anotherfollower.com^$all,important
 ||anticapitalist.party^$all,important
 ||anycontrol.app^$all,important
@@ -159,7 +236,6 @@
 ||brighteon.social^$all,important
 ||buzzoid.com^$all,important
 ||c.im^$all,important
-||cdninstagram.com^$all,important
 ||chaos.social^$all,important
 ||clonestagram.com^$all,important
 ||counter.social^$all,important
@@ -176,8 +252,6 @@
 ||embedsocial.com^$all,important
 ||espressocoder.com^$all,important
 ||exploreig.com^$all,important
-||fakelogininstagram.com^$all,important
-||fakeloginpages.com^$all,important
 ||famety.com^$all,important
 ||fenced.ai^$all,important
 ||flocksocial.com^$all,important
@@ -197,11 +271,9 @@
 ||gramhir.us^$all,important
 ||gramho.com^$all,important
 ||gramsnap.com^$all,important
-||gramspy.net^$all,important
 ||gramvio.com^$all,important
 ||gramvio.net^$all,important
 ||gramzoom.com^$all,important
-||graph.instagram.com^$all,important
 ||greatercollinwood.org^$all,important
 ||greatfon.com^$all,important
 ||greatfon.my^$all,important
@@ -218,27 +290,15 @@
 ||iganony.com^$all,important
 ||iganony.one^$all,important
 ||iganony.org^$all,important
-||iganonyviewer.com^$all,important
 ||igcomment.com^$all,important
-||ighighlightviewer.com^$all,important
-||iglogins.com^$all,important
-||iglookup.com^$all,important
 ||igmods.com^$all,important
 ||igrab.online^$all,important
-||igram-login.com^$all,important
 ||igram.app^$all,important
 ||igram.mx^$all,important
 ||igram.world^$all,important
 ||igreveal.com^$all,important
 ||igsonar.net^$all,important
-||igspy.click^$all,important
 ||igstan.com^$all,important
-||igstoryviewer.pro^$all,important
-||igstoryviewers.com^$all,important
-||igviewer.io^$all,important
-||igviewer.one^$all,important
-||igviewer.pro^$all,important
-||igviewers.com^$all,important
 ||imagerocket.com^$all,important
 ||imganony.com^$all,important
 ||imginn-instanavigation.com^$all,important
@@ -248,16 +308,12 @@
 ||imginnn.com^$all,important
 ||imginnta.com^$all,important
 ||imgko.com^$all,important
-||imglooker.net^$all,important
-||imglookup.co^$all,important
-||imglookup.com^$all,important
 ||imperiafollowers.com^$all,important
 ||indown.io^$all,important
 ||inflact.com^$all,important
 ||influence.co^$all,important
 ||infosec.exchange^$all,important
 ||ingramstory.com^$all,important
-||ingramstoryviewer.com^$all,important
 ||inksem.com^$all,important
 ||inkstagram.com^$all,important
 ||insacret.app^$all,important
@@ -266,29 +322,16 @@
 ||inseen.app^$all,important
 ||inshotspot.com^$all,important
 ||insmask.com^$all,important
-||insnoop.app^$all,important
-||insnoop.co.uk^$all,important
-||insnoop.com^$all,important
-||insnoop.net^$all,important
-||insnoop.org^$all,important
 ||inspiretothrive.com^$all,important
-||inst-account-verification.com^$all,important
 ||inst4gram.com^$all,important
 ||insta-checker.com^$all,important
 ||insta-downloader.net^$all,important
 ||insta-editor.com^$all,important
 ||insta-follow-checker.com^$all,important
-||insta-login.com^$all,important
 ||insta-navigator.com^$all,important
 ||insta-recovery.com^$all,important
-||insta-security-check.com^$all,important
-||insta-spy.net^$all,important
-||insta-stalker.com^$all,important
-||insta-stories-viewer.com^$all,important
 ||insta-stories.online^$all,important
 ||insta-stories.ru^$all,important
-||insta-story-viewer.pl^$all,important
-||insta-viewer.com^$all,important
 ||instaanony.com^$all,important
 ||instabiography.com^$all,important
 ||instabusters.com^$all,important
@@ -296,23 +339,15 @@
 ||instadp.fun^$all,important
 ||instadp.io^$all,important
 ||instadp.net^$all,important
-||instafakeviewer.com^$all,important
 ||instafinsta.com^$all,important
 ||instafollowers.co^$all,important
 ||instafonts.io^$all,important
-||instaformlogin.com^$all,important
-||instafreeview.com^$all,important
 ||instagimg.com^$all,important
 ||instagrab.net^$all,important
-||instagram.com^$all,important
 ||instagram.net^$all,important
-||instagramviewer.com^$all,important
 ||instagrap.net^$all,important
 ||instagrilz.com^$all,important
 ||instahack.org^$all,important
-||instaloginpanel.com^$all,important
-||instalogon.net^$all,important
-||instalooker.org^$all,important
 ||instanavi.me^$all,important
 ||instanavigation.com^$all,important
 ||instanavigation.net^$all,important
@@ -322,11 +357,7 @@
 ||instanonymous.com^$all,important
 ||instant-stories.com^$all,important
 ||instaoffline.net^$all,important
-||instapeeker.com^$all,important
-||instaphish.com^$all,important
-||instapreview.net^$all,important
 ||instaprofiler.com^$all,important
-||instaprofileviewer.com^$all,important
 ||instapv.com^$all,important
 ||instapv.org^$all,important
 ||instasafecheck.com^$all,important
@@ -336,18 +367,12 @@
 ||instascop.com^$all,important
 ||instasize.com^$all,important
 ||instaspoof.com^$all,important
-||instaspy.net^$all,important
-||instastalker.com^$all,important
-||instastalker.info^$all,important
 ||instastories.watch^$all,important
 ||instastories2.com^$all,important
 ||instastoriesru.com^$all,important
-||instastoriesviewer.com^$all,important
 ||instastory.net^$all,important
 ||instastory.org^$all,important
 ||instastory.watch^$all,important
-||instastoryviewer.io^$all,important
-||instastoryviewers.com^$all,important
 ||instasupersave.com^$all,important
 ||instasv.com^$all,important
 ||instatracklog.com^$all,important
@@ -355,19 +380,14 @@
 ||instausers.com^$all,important
 ||instaview.me^$all,important
 ||instaview.social^$all,important
-||instaviewer.app^$all,important
 ||instavisor.net^$all,important
-||instawebviewer.com^$all,important
 ||instazoom.co^$all,important
 ||instazoom.mobi^$all,important
 ||instights.com^$all,important
-||inststalk.com^$all,important
 ||instuky.com^$all,important
 ||intagramb.com^$all,important
 ||inthow.com^$all,important
 ||inum.com^$all,important
-||inviewer.co^$all,important
-||invisispy.com^$all,important
 ||inzto.com^$all,important
 ||iqsaved.com^$all,important
 ||izoomyou.com^$all,important
@@ -379,11 +399,6 @@
 ||liangyu.dev^$all,important
 ||likee.video^$all,important
 ||likefy.com^$all,important
-||login-ig.com^$all,important
-||login-instagram.com^$all,important
-||login-instgram.com^$all,important
-||loginig.net^$all,important
-||logininstagram.net^$all,important
 ||love.alicecomplex.com^$all,important
 ||m.cmx.im^$all,important
 ||mangools.net^$all,important
@@ -426,8 +441,6 @@
 ||plixi.com^$all,important
 ||popygram.com^$all,important
 ||privateinsta.com^$all,important
-||privatephotoviewer.com^$all,important
-||privateviewer.net^$all,important
 ||qevna.com^$all,important
 ||quasa.io^$all,important
 ||quickfansandlikes.com^$all,important
@@ -453,18 +466,12 @@
 ||socialblade.com^$all,important
 ||socialoapp.com^$all,important
 ||socialplug.io^$all,important
-||socialprivateviewer.com^$all,important
 ||socinator.com^$all,important
-||spyinsta.org^$all,important
-||spystoryviewer.com^$all,important
 ||sqirk.com^$all,important
 ||squirk.com^$all,important
 ||sssgram.com^$all,important
 ||sssinstagram.com^$all,important
 ||ssstory.io^$all,important
-||stalkio.co^$all,important
-||stalkto.org^$all,important
-||stalkyapp.com^$all,important
 ||starngage.com^$all,important
 ||stealthgram.com^$all,important
 ||stealthgram.net^$all,important
@@ -473,7 +480,6 @@
 ||stories-view.com^$all,important
 ||stories.watch^$all,important
 ||storiesanonimo.co^$all,important
-||storiesanonviewer.com^$all,important
 ||storiesdown.com^$all,important
 ||storiesdown.fun^$all,important
 ||storiesdown.info^$all,important
@@ -484,14 +490,11 @@
 ||storiesig.ninja^$all,important
 ||storiesig.website^$all,important
 ||storiesigapp.com^$all,important
-||storiesviewerbot.com^$all,important
 ||storieswatch.com^$all,important
 ||storistalk.com^$all,important
 ||storistalker.com^$all,important
 ||storiystalker.com^$all,important
 ||story-down.com^$all,important
-||story-viewer.co^$all,important
-||story-viewer.org^$all,important
 ||storybox.io^$all,important
 ||storyghost.online^$all,important
 ||storyinsta.com^$all,important
@@ -504,8 +507,6 @@
 ||storysaver.to^$all,important
 ||storystalk.com^$all,important
 ||storystalker.app^$all,important
-||storyviewer.ai^$all,important
-||storyviewer.com^$all,important
 ||superviral.io^$all,important
 ||swarmapp.com^$all,important
 ||swioz.com^$all,important
@@ -530,7 +531,6 @@
 ||vapingcorp.com^$all,important
 ||veloceinternational.com^$all,important
 ||vi-ck.com^$all,important
-||viewerstory.com^$all,important
 ||viewgram.net^$all,important
 ||viewinsta.com^$all,important
 ||viewprivateinsta.net^$all,important
