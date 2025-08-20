@@ -20,12 +20,7 @@ search.brave.com^$redirect=https://search.brave.com/search?q=$querystring&safe=a
 ||search.brave.com/i^$all,important             ! image search unsafe variants
 ||search.brave.com/v^$all,important             ! video search unsafe variants
 
-<<<<<<< HEAD
 ! DuckDuckGo (Strict SafeSearch: kp=1)
-=======
-! DuckDuckGo
-duckduckgo.com^$redirect=https://duckduckgo.com/?kp=1&q=$querystring
->>>>>>> c1bba28b401265b9619df49ff7d1507a061aeb46
 
 duckduckgo.com^$redirect=https://duckduckgo.com/?kp=1&q=$querystring
 ||duckduckgo.com/?kp=0^$all,important
@@ -69,7 +64,6 @@ kagi.com^$redirect=https://kagi.com/search?q=$querystring&safe=1
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 3. Standard Search Engines
 
-<<<<<<< HEAD
 ||100searchengines.com^$all,important
 ||123people.de^$all,important
 ||9ifly.cn^$all,important
@@ -207,142 +201,3 @@ kagi.com^$redirect=https://kagi.com/search?q=$querystring&safe=1
 ||yioop.com^$all,important
 ||you.com^$all,important
 ||zapmeta.com^$all,important
-=======
-||100searchengines.com^all
-||123people.de^all
-||9ifly.cn^all
-||acxiomsearch.com^all
-||alltheinternet.com^all
-||andisearch.com^all
-||aol.com/search^all
-||aol.com^all
-||apkmirror.com/search^all
-||ask.com^all
-||auone.jp^all
-||baidu.com^all
-||beagle.io^all
-||becovi.com^all
-||biglobe.ne.jp^all
-||bing.com^all
-||blekko.com^all
-||blinde-kuh.de^all
-||bndkt.cz^all
-||bndkt.io^all
-||boardreader.com^all
-||bunse.xyz^all
-||busca.uol.com.br^all
-||clusty.com^all
-||coccoc.com/search^all
-||daosearch.com^all
-||daum.net^all
-||disconnect.me/search^all
-||dogpile.com^all
-||duck.com^all
-||ecosia.org^all
-||entireweb.com^all
-||etools.ch^all
-||eurekster.com^all
-||exalead.com^all
-||excite.com^all
-||factbites.com^all
-||faganfinder.com^all
-||faroo.com^all
-||findability.com^all
-||findit.com^all
-||findx.com^all
-||gibiru.com^all
-||gigablast.com^all
-||globo.com/busca^all
-||gmx.net/web/search^all
-||gogglesearch.net^all
-||goo.ne.jp^all
-||goodsearch.com^all
-||google.*^all
-||hotbot.com^all
-||info.com^all
-||infospace.com^all
-||interia.pl^all
-||isearchfrom.com^all
-||ixquick.com^all
-||ixquick.eu^all
-||joshcenters.com^all
-||joshuab.xyz^all
-||jtateossian.xyz^all
-||kiddle.co^all
-||ksearch.com^all
-||lukol.com^all
-||lycos.com^all
-||mail.ru^all
-||metacrawler.com^all
-||metacrawler.us^all
-||metager.org^all
-||mojeek.co.uk^all
-||mojeek.com^all
-||msn.com/search^all
-||naver.com^all
-||neeva.com^all
-||nigma.ru^all
-||nobigtech.es^all
-||nona.to^all
-||nortonsafe.search.com^all
-||onesearch.com^all
-||onet.pl^all
-||oscobo.com^all
-||ozzu.com^all
-||peekier.com^all
-||peekyou.com^all
-||presearch.com^all
-||qrobe.it^all
-||qwant.com^all
-||rambler.ru^all
-||runnaroo.com^all
-||safesearchkids.com^all
-||search-results.com^all
-||search.com^all
-||search.yahoo.com^all
-||searchalot.com^all
-||searchencrypt.com^all
-||searchengine.party^all
-||searchonlinenow.net^all
-||searchzillions.com^all
-||searx.*^all
-||searx.info^all
-||searx.pl^all
-||searx.space^all
-||searxng.*^all
-||searxng.org^all
-||seznam.cz^all
-||slickvpnsearch.com^all
-||sm.cn^all
-||so.com^all
-||sogou.com^all
-||st8.at^all
-||startpage.com^all
-||startpage.eu^all
-||swisscows.ch^all
-||swisscows.com^all
-||teoma.com^all
-||terra.com.br/busca^all
-||terra.com^all
-||thefloatinglab.world^all
-||tiscali.it^all
-||trovit.com^all
-||uol.com.br/busca^all
-||veromi.com^all
-||viendex.com^all
-||virgilio.it^all
-||webcrawler.com^all
-||wiby.me^all
-||wiby.org^all
-||wow.com^all
-||wp.pl^all
-||xayn.com^all
-||ya.ru^all
-||yahoo.com^all
-||yandex.com^all
-||yandex.ru^all
-||yep.com^all
-||yioop.com^all
-||you.com^all
-||zapmeta.com^all
->>>>>>> c1bba28b401265b9619df49ff7d1507a061aeb46
