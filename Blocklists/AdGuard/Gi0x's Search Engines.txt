@@ -18,9 +18,10 @@ search.brave.com^$important
 ||search.brave.com/i^$important
 ||search.brave.com/v^$important
 
-! DuckDuckgo
+! DuckDuckGo
 duckduckgo.com^$important
 ||duckduckgo.com/?kp=0^$important
+||duckduckgo.com/?kp=1^$important
 ||duckduckgo.com/?ka=off^$important
 ||duckduckgo.com/i^$important
 ||duckduckgo.com/v^$important
