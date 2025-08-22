@@ -427,6 +427,7 @@
 ||picuki.com^$all,important
 ||picuki.io^$all,important
 ||picuki.me^$all,important
+||picuki.my^$all,important
 ||picuki.site^$all,important
 ||picuki.tv^$all,important
 ||pieville.net^$all,important

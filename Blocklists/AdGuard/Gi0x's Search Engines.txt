@@ -12,25 +12,29 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 1. SafeSearch
 
-! Brave
-search.brave.com^$important
+! -------- Brave -------- 
+! Block unsafe SafeSearch param
 ||search.brave.com/*safe=off*^$important
-||search.brave.com/i^$important
-||search.brave.com/v^$important
 
-! DuckDuckGo
-duckduckgo.com^$important
+! Hide SafeSearch toggle
+search.brave.com##.switch-container:has-text(/SafeSearch/i)
+search.brave.com##a[href*="safesearch"]
+
+! -------- DuckDuckGo -------- 
+! Block unsafe SafeSearch params
 ||duckduckgo.com/*kp=0*^$important
-||duckduckgo.com/*kp=1*^$important
 ||duckduckgo.com/*ka=off*^$important
-||duckduckgo.com/i^$important
-||duckduckgo.com/v^$important
 
-! Kagi
-kagi.com^$important
+! Hide SafeSearch toggle
+duckduckgo.com##.safe-search
+
+! -------- Kagi --------
+! Block unsafe SafeSearch param
 ||kagi.com/*safe=0*^$important
-||kagi.com/images^$important
-||kagi.com/videos^$important
+
+! Hide SafeSearch UI elements
+kagi.com##.settings-section:has-text(/SafeSearch/i)
+kagi.com##.sidebar a[href*="safesearch"]
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 2. AI Search Engines
