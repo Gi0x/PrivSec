@@ -21,8 +21,11 @@ safe.search.brave.com##+js(aeld, document.querySelectorAll, '.switch-container, 
 
 ! DuckDuckGo
 duckduckgo.com#%#//scriptlet('set-cookie-reload', 'p', '1', '/', '.duckduckgo.com')
-||duckduckgo.com^$removeparam=/^kp=(-1|-2)$/
-||safe.duckduckgo.com^$removeparam=/^kp=(-1|-2)$/
+||duckduckgo.com^$removeparam=kp=-1
+||safe.duckduckgo.com^$removeparam=kp=-1
+@@||safe.duckduckgo.com/*.png$image
+@@||safe.duckduckgo.com/*.jpg$image
+@@||safe.duckduckgo.com/*.svg$image
 
 ! Kagi
 ||kagi.com/*safe=0*^$important
