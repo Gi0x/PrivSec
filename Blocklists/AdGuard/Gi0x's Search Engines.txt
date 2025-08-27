@@ -12,43 +12,23 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 1. SafeSearch
 
-! -------- Brave -------- 
-! Redirect all unsafe searches to SafeSearch subdomain
-||search.brave.com^$redirect=302:https://safe.search.brave.com/
-
-! Block unsafe SafeSearch param (legacy fallback)
-||search.brave.com/*safe=off*^$important
-
-! Hide SafeSearch toggle (cosmetic, on SafeSearch domain)
+! Brave
+|search.brave.com^$redirect=302:https://safe.search.brave.com/
+! UI: Hide SafeSearch toggles
 safe.search.brave.com##.switch-container:has-text(/SafeSearch/i)
 safe.search.brave.com##a[href*="safesearch"]
+safe.search.brave.com##+js(aeld, document.querySelectorAll, '.switch-container, a[href*="safesearch"]', el => el.forEach(e => e.remove()))
 
-! Hide SafeSearch toggle immediately on page load (early DOM removal)
-safe.search.brave.com##+js(aeld, document.querySelectorAll, '.switch-container', el => el.forEach(e => e.remove()))
-safe.search.brave.com##+js(aeld, document.querySelectorAll, 'a[href*="safesearch"]', el => el.forEach(e => e.remove()))
+! DuckDuckGo
+duckduckgo.com#%#//scriptlet('set-cookie-reload', 'p', '1', '/', '.duckduckgo.com')
+||duckduckgo.com^$removeparam=/^kp=(-1|-2)$/
+||safe.duckduckgo.com^$removeparam=/^kp=(-1|-2)$/
 
-! -------- DuckDuckGo -------- 
-! Block unsafe SafeSearch params
-||duckduckgo.com/*kp=0*^$important
-||duckduckgo.com/*ka=off*^$important
-
-! Hide SafeSearch toggle (normal cosmetic)
-duckduckgo.com##.safe-search
-
-! Hide SafeSearch toggle immediately on page load (early DOM removal)
-duckduckgo.com##+js(aeld, document.querySelectorAll, '.safe-search', el => el.forEach(e => e.remove()))
-
-! -------- Kagi --------
-! Block unsafe SafeSearch param
+! Kagi
 ||kagi.com/*safe=0*^$important
-
-! Hide SafeSearch UI elements (normal cosmetic)
 kagi.com##.settings-section:has-text(/SafeSearch/i)
 kagi.com##.sidebar a[href*="safesearch"]
-
-! Hide SafeSearch UI immediately on page load (early DOM removal)
-kagi.com##+js(aeld, document.querySelectorAll, '.settings-section', el => el.forEach(e => e.remove()))
-kagi.com##+js(aeld, document.querySelectorAll, '.sidebar a[href*="safesearch"]', el => el.forEach(e => e.remove()))
+kagi.com##+js(aeld, document.querySelectorAll, '.settings-section, .sidebar a[href*="safesearch"]', el => el.forEach(e => e.remove()))
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 2. AI Search Engines
