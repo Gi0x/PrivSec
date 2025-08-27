@@ -1,5 +1,6 @@
 ! Title: Gi0x's Crypto
 ! Description: Blocks select crypto domains
 ! DeDup: N, Sorted: N
-! https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Crypto.txt
+! M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/AdGuard/Gi0x's%20Crypto.txt
+! R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Crypto.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
