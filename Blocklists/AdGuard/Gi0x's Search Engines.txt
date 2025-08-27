@@ -13,19 +13,22 @@
 ! 1. SafeSearch
 
 ! --- Brave ---
-! Redirect main Brave Search domain to SafeSearch
-|https://search.brave.com^$redirect=302:https://safe.search.brave.com/
+! Set SafeSearch Cookie Globally
+||search.brave.com^$cookie=search:safesearch=strict;path=/;domain=.search.brave.com
 
-! Block attempts to downgrade SafeSearch via URL parameters
+! Block SafeSearch disable via URL parameters
 ||search.brave.com/*safesearch=off*^$important
 ||safe.search.brave.com/*safesearch=off*^$important
 
-! UI: Hide SafeSearch toggles
-safe.search.brave.com##.switch-container:has-text(/SafeSearch/i)
-safe.search.brave.com##a[href*="safesearch"]
+! Hide SafeSearch toggle UI elements
+search.brave.com##+js(aeld, document.querySelectorAll, 'label, a, div', el => el.forEach(e => {
+    if (e.textContent.match(/SafeSearch/i)) e.remove();
+}))
 
-! Extra safety: remove toggle elements via scriptlet
-safe.search.brave.com#%#//scriptlet('remove-elem', '.switch-container, a[href*="safesearch"]')
+! Allowed Subdomains
+||cdn.search.brave.com^$important
+||api.search.brave.com^$important
+||img.search.brave.com^$important
 
 ! --- DuckDuckGo ---
 ! DNS-level SafeSearch redirect handled in Control D
