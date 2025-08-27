@@ -1,7 +1,8 @@
 # Title: Gi0x's Dating
 # Description: Hides dating related apps & sites
 # DeDup: Y, Sorted: Y
-# https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Dating.txt
+# M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/uBlacklist/Gi0x's%20Dating.txt
+# R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Dating.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # 1. Adult, Casual & Hookup-Oriented Dating Platforms
