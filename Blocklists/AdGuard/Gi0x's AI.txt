@@ -1,5 +1,6 @@
 ! Title: Gi0x's AI
 ! Description: Blocks AI apps, sites & tools
 ! DeDup: Y, Sorted: Y
-! https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20AI.txt
+! M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/AdGuard/Gi0x's%20AI.txt
+! R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20AI.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
