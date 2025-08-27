@@ -12,28 +12,44 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 1. SafeSearch
 
-! Brave
-|search.brave.com^$redirect=302:https://safe.search.brave.com/
+! --- Brave ---
+! Redirect main Brave Search domain to SafeSearch
+|https://search.brave.com^$redirect=302:https://safe.search.brave.com/
+
+! Block attempts to downgrade SafeSearch via URL parameters
+||search.brave.com/*safesearch=off*^$important
+||safe.search.brave.com/*safesearch=off*^$important
+
 ! UI: Hide SafeSearch toggles
 safe.search.brave.com##.switch-container:has-text(/SafeSearch/i)
 safe.search.brave.com##a[href*="safesearch"]
-safe.search.brave.com##+js(aeld, document.querySelectorAll, '.switch-container, a[href*="safesearch"]', el => el.forEach(e => e.remove()))
 
-! DuckDuckGo
-duckduckgo.com#%#//scriptlet('set-cookie-reload', 'p', '1', '/', '.duckduckgo.com')
-||duckduckgo.com^$removeparam=kp=-1
-||safe.duckduckgo.com^$removeparam=kp=-1
-@@||duckduckgo.com/*.png$image
-@@||duckduckgo.com/*.jpg$image
-@@||duckduckgo.com/*.svg$image
-@@||duckduckgo.com/*/images/*
-@@||duckduckgo.com/*/thumbnails/*
+! Extra safety: remove toggle elements via scriptlet
+safe.search.brave.com#%#//scriptlet('remove-elem', '.switch-container, a[href*="safesearch"]')
 
-! Kagi
+! --- DuckDuckGo ---
+! DNS-level SafeSearch redirect handled in Control D
+! duckduckgo.com → safe.duckduckgo.com
+
+! UI: Hide SafeSearch toggle elements
+safe.duckduckgo.com##.js-setting-toggle:has-text(/SafeSearch/i)
+safe.duckduckgo.com##a[href*="kp=-1"]
+safe.duckduckgo.com##a[href*="kp=-2"]
+
+! Extra safety: remove SafeSearch toggle elements via scriptlet
+safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="kp=-1"], a[href*="kp=-2"]')
+
+! --- Kagi ---
+! Block attempts to disable SafeSearch via URL parameters
 ||kagi.com/*safe=0*^$important
+||kagi.com/*safesearch=off*^$important
+
+! UI: Hide SafeSearch toggles in settings/sidebar
 kagi.com##.settings-section:has-text(/SafeSearch/i)
 kagi.com##.sidebar a[href*="safesearch"]
-kagi.com##+js(aeld, document.querySelectorAll, '.settings-section, .sidebar a[href*="safesearch"]', el => el.forEach(e => e.remove()))
+
+! Extra safety: remove toggle elements via scriptlet
+kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safesearch"]')
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 2. AI Search Engines
