@@ -12,24 +12,6 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 1. SafeSearch
 
-! --- Brave ---
-! Set SafeSearch Cookie Globally
-||search.brave.com^$cookie=search:safesearch=strict;path=/;domain=.search.brave.com
-
-! Block SafeSearch disable via URL parameters
-||search.brave.com/*safesearch=off*^$important
-||safe.search.brave.com/*safesearch=off*^$important
-
-! Hide SafeSearch toggle UI elements
-search.brave.com##+js(aeld, document.querySelectorAll, 'label, a, div', el => el.forEach(e => {
-    if (e.textContent.match(/SafeSearch/i)) e.remove();
-}))
-
-! Allowed Subdomains
-||cdn.search.brave.com^$important
-||api.search.brave.com^$important
-||img.search.brave.com^$important
-
 ! --- DuckDuckGo ---
 ! DNS-level SafeSearch redirect handled in Control D
 ! duckduckgo.com → safe.duckduckgo.com
