@@ -1,0 +1,25 @@
+{
+  "policies": {
+    "DisableTelemetry": true,
+    "DisableFirefoxStudies": true,
+    "DisableFeedbackCommands": true,
+    "SearchEngines": {
+      "Default": "DuckDuckGo",
+      "PreventInstalls": true,
+      "Remove": ["Google", "Bing", "Ecosia", "Yahoo"]
+    },
+    "Preferences": {
+      "browser.safebrowsing.malware.enabled": true,
+      "browser.safebrowsing.phishing.enabled": true,
+      "browser.safebrowsing.downloads.enabled": true,
+      "browser.safebrowsing.downloads.remote.enabled": true,
+      "dom.security.https_only_mode": true,
+      "dom.security.https_only_mode_ever_enabled": true,
+      "network.trr.mode": 3,
+      "network.trr.uri": "https://dns.controld.com/7o8ndkmcdt/dns-query",
+      "network.trr.bootstrapAddress": "76.76.2.22",
+      "network.trr.custom_uri": "https://dns.controld.com/7o8ndkmcdt/dns-query",
+      "network.trr.confirmationNS": "skip"
+    }
+  }
+}
