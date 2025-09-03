@@ -7,26 +7,47 @@
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-! 1. Discord
-! 2. Facebook
-! 3. Instagram
-! 4.
-! 5.
-! 6. 
-! 7. 
-! 8.
-! 9.
-! 10. 
-! 11.
-! 12. 
-! 
+! 1. Clubhouse
+! 2. Discord
+! 3. Facebook
+! 4. Mastodon
+! 5. Reddit
+! 6. Snapchat
+! 7. Telegram
+! 8. Threads
+! 9. TikTok
+! 10. Twitter
+! 11. WhatsApp
+! 12. Myspace
+! 13. Clubhouse
+! 14. Tumblr
+! 15. ...
 
 ! Sources: 
 ! https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Discord.txt
 ! https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Facebook.txt
+! https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Reddit.txt
+! https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Snapchat.txt
+! https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/TikTok.txt
+! https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Twitter.txt
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 1. Discord
+! 1. Clubhouse
+
+! Analytics & Tracking
+||*.analytics.clubhouse.com^$all,important
+||analytics.clubhouse.com^$all,important
+
+! Assets & CDNs
+||cdn.clubhouse.com^$all,important
+||*.cdn.clubhouse.com^$all,important
+
+! Domains & Subdomains
+||*.clubhouse.com^$all,important
+||clubhouse.com^$all,important
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! 2. Discord
 
 ||discord.com^$all,important
 ||discord.gg^$all,important
@@ -35,7 +56,7 @@
 ||discordapp.net^$all,important
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 2. Facebook
+! 3. Facebook
 
 ||atlassolutions.com^$all,important
 ||bulletin.com^$all,important
@@ -107,8 +128,20 @@
 ||insta*save*^$all,important
 
 ! Analytics & Tracking
+||analyz.io^$all,important
+||bigbangram.com^$all,important
+||blastup.com^$all,important
+||buzzoid.com^$all,important
+||dmpro.app^$all,important
+||fastlykke.com^$all,important
+||goread.io^$all,important
 ||gramspy.net^$all,important
+||hypeauditor.com^$all,important
+||ig-analyzer.com^$all,important
+||igblade.com^$all,important
 ||igspy.click^$all,important
+||igtvhub.com^$all,important
+||influence.co^$all,important
 ||insnoop.app^$all,important
 ||insnoop.co.uk^$all,important
 ||insnoop.com^$all,important
@@ -116,119 +149,266 @@
 ||insnoop.org^$all,important
 ||insta-spy.net^$all,important
 ||insta-stalker.com^$all,important
+||insta-tools.com^$all,important
+||instafollowers.co^$all,important
+||instametrics.net^$all,important
 ||instaspy.net^$all,important
 ||instastalker.com^$all,important
 ||instastalker.info^$all,important
+||instatracklog.com^$all,important
+||inststalk.com^$all,important
 ||invisispy.com^$all,important
+||like4like.org^$all,important
+||mystalk.org^$all,important
+||noxinfluencer.com^$all,important
+||pathsocial.com^$all,important
+||recently-followed.com^$all,important
+||skweezer.net^$all,important
+||socialblade.com^$all,important
+||socialrank.com^$all,important
 ||spyinsta.org^$all,important
 ||spystoryviewer.com^$all,important
 ||stalkio.co^$all,important
 ||stalkto.org^$all,important
 ||stalkyapp.com^$all,important
-||inststalk.com^$all,important
+||starngage.com^$all,important
+||storistalk.com^$all,important
+||storistalker.com^$all,important
+||storiystalker.com^$all,important
+||storystalk.com^$all,important
+||storystalker.app^$all,important
+||toolzu.com^$all,important
+||upgrow.com^$all,important
+||veloceinternational.com^$all,important
+||views4you.com^$all,important
+||viralyft.com^$all,important
+||vistasocial.com^$all,important
+||xnspy.com^$all,important
+||viralblade.com^$all,important
 
 ! Domains & Subdomains (Official)
 ||cdninstagram.com^$all,important
 ||graph.instagram.com^$all,important
+||ig.me^$all,important
 ||instagram.com^$all,important
 ||l.instagram.com^$all,important
+||tfbnw.net^$all,important
 
 ! Phishing
 ||*insta*signin*^$all,important
 ||*instagram*login*^$all,important
+||clonestagram.com^$all,important
 ||fakelogininstagram.com^$all,important
 ||fakeloginpages.com^$all,important
+||gram-log-in.com^$all,important
 ||iglogins.com^$all,important
 ||igram-login.com^$all,important
 ||inst-account-verification.com^$all,important
 ||insta-account-verification.com^$all,important
 ||insta-login.com^$all,important
+||insta-recovery.com^$all,important
 ||insta-security-check.com^$all,important
+||instafakeviewer.com^$all,important
 ||instaformlogin.com^$all,important
 ||instaloginpanel.com^$all,important
 ||instalogon.net^$all,important
 ||instaphish.com^$all,important
+||instasafecheck.com^$all,important
 ||login-ig.com^$all,important
 ||login-instagram.com^$all,important
 ||loginig.net^$all,important
 ||logininstagram.net^$all,important
 ||secure-instagram.com^$all,important
 ||secureinsta.net^$all,important
+||signininsta.com^$all,important
 
-! Profile Viewers
+! Viewers
 ||anon-viewer.com^$all,important
+||anongram.com^$all,important
 ||anonigviewer.com^$all,important
+||anonimoig.com^$all,important
+||anonimostory.com^$all,important
+||anonstories.app^$all,important
+||anonstories.com^$all,important
+||anonstories.org^$all,important
 ||anonstoriesview.com^$all,important
 ||anonstoryview.com^$all,important
+||anony-ig.com^$all,important
 ||anony-storyviewer.com^$all,important
+||anonyig.com^$all,important
+||viewsocials.com^$all,important
+||anonyig.io^$all,important
+||anonyig.org^$all,important
 ||anonymous-viewer.com^$all,important
 ||anonymviewer.com^$all,important
+||anonypro.com^$all,important
 ||anonyviewer.com^$all,important
+||exploreig.com^$all,important
+||gramhir.com^$all,important
+||gramhir.pro^$all,important
+||gramhir.us^$all,important
+||gramho.com^$all,important
+||gramsnap.com^$all,important
+||gramvio.com^$all,important
+||gramvio.net^$all,important
+||gramzoom.com^$all,important
+||ig.me^$all,important
+||iganony.cc^$all,important
+||iganony.cloud^$all,important
+||iganony.com^$all,important
+||iganony.one^$all,important
+||iganony.org^$all,important
 ||iganonyviewer.com^$all,important
 ||ighighlightviewer.com^$all,important
 ||iglookup.com^$all,important
+||igram.app^$all,important
+||igram.mx^$all,important
+||igram.world^$all,important
+||igreveal.com^$all,important
 ||igstoryviewer.pro^$all,important
 ||igstoryviewers.com^$all,important
 ||igviewer.io^$all,important
 ||igviewer.one^$all,important
 ||igviewer.pro^$all,important
 ||igviewers.com^$all,important
+||imganony.com^$all,important
+||imginn-instanavigation.com^$all,important
+||imginn.com^$all,important
+||imginn.io^$all,important
+||imginn.org^$all,important
+||imginnn.com^$all,important
+||imginnta.com^$all,important
+||imgko.com^$all,important
 ||imglooker.net^$all,important
 ||imglookup.co^$all,important
 ||imglookup.com^$all,important
+||ingramstory.com^$all,important
 ||ingramstoryviewer.com^$all,important
-||insta*viewer*^$all,important
+||insta-navigator.com^$all,important
 ||insta-stories-viewer.com^$all,important
+||insta-stories.online^$all,important
+||insta-stories.ru^$all,important
 ||insta-story-viewer.pl^$all,important
 ||insta-viewer.com^$all,important
-||instafakeviewer.com^$all,important
+||instaccess.net^$all,important
+||instadp.fun^$all,important
+||instadp.io^$all,important
+||instadp.net^$all,important
 ||instafreeview.com^$all,important
+||instagimg.com^$all,important
+||instagrab.net^$all,important
+||instagram.net^$all,important
 ||instagramviewer.com^$all,important
+||instagrap.net^$all,important
+||instagrilz.com^$all,important
 ||instalooker.org^$all,important
+||instanavi.me^$all,important
+||instanavigation.com^$all,important
+||instanavigation.net^$all,important
+||instanavigation.social^$all,important
+||instanavigationbr.com^$all,important
+||instant-stories.com^$all,important
 ||instapeeker.com^$all,important
 ||instapreview.net^$all,important
+||instaprofiler.com^$all,important
 ||instaprofileviewer.com^$all,important
+||instapv.com^$all,important
+||instapv.org^$all,important
+||instasave.website^$all,important
+||instasaved.net^$all,important
+||instasaverr.com^$all,important
+||instastories.watch^$all,important
+||instastories2.com^$all,important
+||instastoriesru.com^$all,important
 ||instastoriesviewer.com^$all,important
+||instastory.net^$all,important
+||instastory.org^$all,important
+||instastory.watch^$all,important
 ||instastoryviewer.io^$all,important
 ||instastoryviewers.com^$all,important
+||instasupersave.com^$all,important
+||instaview.me^$all,important
+||instaview.social^$all,important
 ||instaviewer.app^$all,important
 ||instawebviewer.com^$all,important
+||instazoom.co^$all,important
+||instazoom.mobi^$all,important
 ||inviewer.co^$all,important
+||picgger.com^$all,important
+||picnob.co.uk^$all,important
+||picnob.info^$all,important
+||picnobi.com^$all,important
+||pictame.com^$all,important
+||picuki.com^$all,important
+||picuki.io^$all,important
+||picuki.me^$all,important
+||picuki.my^$all,important
+||picuki.site^$all,important
+||picuki.tv^$all,important
+||pikdo.net^$all,important
+||popygram.com^$all,important
+||privateinsta.com^$all,important
 ||privatephotoviewer.com^$all,important
 ||privateviewer.net^$all,important
+||save-free.app^$all,important
+||save-free.com^$all,important
+||save-insta.com^$all,important
+||snapinsta.app^$all,important
+||snapsave.app^$all,important
 ||socialprivateviewer.com^$all,important
+||stories-view.com^$all,important
+||stories.watch^$all,important
+||storiesanonimo.co^$all,important
 ||storiesanonviewer.com^$all,important
+||storiesdown.com^$all,important
+||storiesdown.fun^$all,important
+||storiesdown.info^$all,important
+||storiesig.com^$all,important
+||storiesig.fun^$all,important
+||storiesig.me^$all,important
+||storiesig.net^$all,important
+||storiesig.ninja^$all,important
+||storiesig.website^$all,important
+||storiesigapp.com^$all,important
 ||storiesviewerbot.com^$all,important
+||storieswatch.com^$all,important
+||story-down.com^$all,important
 ||story-viewer.co^$all,important
 ||story-viewer.org^$all,important
+||storyinsta.com^$all,important
+||storyinstanavigation.com^$all,important
+||storynavigation.com^$all,important
+||storysaver.fun^$all,important
+||storysaver.io^$all,important
+||storysaver.net^$all,important
+||storysaver.to^$all,important
 ||storyviewer.ai^$all,important
 ||storyviewer.com^$all,important
 ||viewerstory.com^$all,important
+||viewgram.net^$all,important
+||viewinsta.com^$all,important
+||viewprivateinsta.net^$all,important
+||viewprivateprofiles.net^$all,important
+||viewsstory.com^$all,important
+||viewstoriesanonymously.com^$all,important
+||watchinsta.com^$all,important
+||webinstagram.org^$all,important
+||webstagram.org^$all,important
+||zoominsta.com^$all,important
+||zoominsta.de^$all,important
+||zoomprofile.com^$all,important
 
 
 
 
+
+! ** Uncategorized **
 ||0insta.com^$all,important
 ||1stagram.com^$all,important
 ||ahasave.com^$all,important
 ||allstories.co^$all,important
-||anongram.com^$all,important
-||anonimoig.com^$all,important
-||anonimostory.com^$all,important
-||anonstories.app^$all,important
-||anonstories.com^$all,important
-||anonstories.org^$all,important
-||anony-ig.com^$all,important
-||anonyig.com^$all,important
-||anonyig.io^$all,important
-||anonyig.org^$all,important
-||anonypro.com^$all,important
 ||anotherfollower.com^$all,important
-||anticapitalist.party^$all,important
-||anycontrol.app^$all,important
-||apkun.com^$all,important
 ||aware-online.com^$all,important
-||bigbangram.com^$all,important
 ||bigsta.net^$all,important
 ||bitchipdigital.com^$all,important
 ||blastup.com^$all,important
@@ -238,7 +418,6 @@
 ||buzzoid.com^$all,important
 ||c.im^$all,important
 ||chaos.social^$all,important
-||clonestagram.com^$all,important
 ||counter.social^$all,important
 ||daikatsu-navi.com^$all,important
 ||darnell.one^$all,important
@@ -252,7 +431,6 @@
 ||dumpor.io^$all,important
 ||embedsocial.com^$all,important
 ||espressocoder.com^$all,important
-||exploreig.com^$all,important
 ||famety.com^$all,important
 ||fenced.ai^$all,important
 ||flocksocial.com^$all,important
@@ -264,57 +442,24 @@
 ||gfe.gg^$all,important
 ||glassagrm.com^$all,important
 ||go5.dev^$all,important
-||goread.io^$all,important
-||gram-log-in.com^$all,important
 ||gramblr.me^$all,important
-||gramhir.com^$all,important
-||gramhir.pro^$all,important
-||gramhir.us^$all,important
-||gramho.com^$all,important
-||gramsnap.com^$all,important
-||gramvio.com^$all,important
-||gramvio.net^$all,important
-||gramzoom.com^$all,important
-||greatercollinwood.org^$all,important
 ||greatfon.com^$all,important
 ||greatfon.my^$all,important
 ||gwaa.net^$all,important
 ||hachyderm.io^$all,important
 ||heylocate.mobi^$all,important
 ||howsights.com^$all,important
-||hypeauditor.com^$all,important
-||ig-analyzer.com^$all,important
 ||ig-crate.com^$all,important
-||ig.me^$all,important
-||iganony.cc^$all,important
-||iganony.cloud^$all,important
-||iganony.com^$all,important
-||iganony.one^$all,important
-||iganony.org^$all,important
 ||igcomment.com^$all,important
 ||igmods.com^$all,important
 ||igrab.online^$all,important
-||igram.app^$all,important
-||igram.mx^$all,important
-||igram.world^$all,important
-||igreveal.com^$all,important
 ||igsonar.net^$all,important
 ||igstan.com^$all,important
 ||imagerocket.com^$all,important
-||imganony.com^$all,important
-||imginn-instanavigation.com^$all,important
-||imginn.com^$all,important
-||imginn.io^$all,important
-||imginn.org^$all,important
-||imginnn.com^$all,important
-||imginnta.com^$all,important
-||imgko.com^$all,important
 ||imperiafollowers.com^$all,important
 ||indown.io^$all,important
 ||inflact.com^$all,important
-||influence.co^$all,important
 ||infosec.exchange^$all,important
-||ingramstory.com^$all,important
 ||inksem.com^$all,important
 ||inkstagram.com^$all,important
 ||insacret.app^$all,important
@@ -329,61 +474,22 @@
 ||insta-downloader.net^$all,important
 ||insta-editor.com^$all,important
 ||insta-follow-checker.com^$all,important
-||insta-navigator.com^$all,important
-||insta-recovery.com^$all,important
-||insta-stories.online^$all,important
-||insta-stories.ru^$all,important
 ||instaanony.com^$all,important
 ||instabiography.com^$all,important
 ||instabusters.com^$all,important
-||instaccess.net^$all,important
-||instadp.fun^$all,important
-||instadp.io^$all,important
-||instadp.net^$all,important
 ||instafinsta.com^$all,important
-||instafollowers.co^$all,important
 ||instafonts.io^$all,important
-||instagimg.com^$all,important
-||instagrab.net^$all,important
-||instagram.net^$all,important
-||instagrap.net^$all,important
-||instagrilz.com^$all,important
 ||instahack.org^$all,important
-||instanavi.me^$all,important
-||instanavigation.com^$all,important
-||instanavigation.net^$all,important
-||instanavigation.social^$all,important
-||instanavigationbr.com^$all,important
 ||instanonimo.com^$all,important
 ||instanonymous.com^$all,important
-||instant-stories.com^$all,important
 ||instaoffline.net^$all,important
-||instaprofiler.com^$all,important
-||instapv.com^$all,important
-||instapv.org^$all,important
-||instasafecheck.com^$all,important
-||instasave.website^$all,important
-||instasaved.net^$all,important
-||instasaverr.com^$all,important
 ||instascop.com^$all,important
 ||instasize.com^$all,important
 ||instaspoof.com^$all,important
-||instastories.watch^$all,important
-||instastories2.com^$all,important
-||instastoriesru.com^$all,important
-||instastory.net^$all,important
-||instastory.org^$all,important
-||instastory.watch^$all,important
-||instasupersave.com^$all,important
 ||instasv.com^$all,important
-||instatracklog.com^$all,important
 ||instausernames.com^$all,important
 ||instausers.com^$all,important
-||instaview.me^$all,important
-||instaview.social^$all,important
 ||instavisor.net^$all,important
-||instazoom.co^$all,important
-||instazoom.mobi^$all,important
 ||instights.com^$all,important
 ||instuky.com^$all,important
 ||intagramb.com^$all,important
@@ -396,11 +502,9 @@
 ||kahawatungu.com^$all,important
 ||keesy.com^$all,important
 ||kwai.com^$all,important
-||l.instagram.com^$all,important
 ||liangyu.dev^$all,important
 ||likee.video^$all,important
 ||likefy.com^$all,important
-||love.alicecomplex.com^$all,important
 ||m.cmx.im^$all,important
 ||mangools.net^$all,important
 ||megafamous.com^$all,important
@@ -412,27 +516,12 @@
 ||mollygram.org^$all,important
 ||monhai.com^$all,important
 ||morogaming.com^$all,important
-||mystalk.org^$all,important
 ||nerdacy.com^$all,important
 ||noagendasocial.com^$all,important
-||noxinfluencer.com^$all,important
 ||one.darnell.one^$all,important
-||pathsocial.com^$all,important
 ||pawoo.net^$all,important
 ||paxtier.com^$all,important
-||picgger.com^$all,important
-||picnob.co.uk^$all,important
-||picnob.info^$all,important
-||picnobi.com^$all,important
-||pictame.com^$all,important
-||picuki.com^$all,important
-||picuki.io^$all,important
-||picuki.me^$all,important
-||picuki.my^$all,important
-||picuki.site^$all,important
-||picuki.tv^$all,important
 ||pieville.net^$all,important
-||pikdo.net^$all,important
 ||piktag.com^$all,important
 ||piktuk.com^$all,important
 ||pixelfed.social^$all,important
@@ -441,31 +530,20 @@
 ||pixwox.net^$all,important
 ||pixwox.uk^$all,important
 ||plixi.com^$all,important
-||popygram.com^$all,important
-||privateinsta.com^$all,important
 ||qevna.com^$all,important
 ||quasa.io^$all,important
 ||quickfansandlikes.com^$all,important
-||recently-followed.com^$all,important
 ||ruby.social^$all,important
 ||s.sneak.berlin^$all,important
-||save-free.app^$all,important
-||save-free.com^$all,important
-||save-insta.com^$all,important
 ||scanick.com^$all,important
 ||searchengineinsight.com^$all,important
-||secure-instagram.com^$all,important
-||secureinsta.net^$all,important
-||signininsta.com^$all,important
 ||simpliers.co^$all,important
 ||simpliers.com^$all,important
-||skweezer.net^$all,important
 ||smihub.com^$all,important
 ||smihub.io^$all,important
 ||smihub.net^$all,important
 ||snapinsta.app^$all,important
 ||snapsave.app^$all,important
-||socialblade.com^$all,important
 ||socialoapp.com^$all,important
 ||socialplug.io^$all,important
 ||socinator.com^$all,important
@@ -474,41 +552,13 @@
 ||sssgram.com^$all,important
 ||sssinstagram.com^$all,important
 ||ssstory.io^$all,important
-||starngage.com^$all,important
 ||stealthgram.com^$all,important
 ||stealthgram.net^$all,important
 ||storieanonimo.com^$all,important
 ||stories-agent.com^$all,important
-||stories-view.com^$all,important
-||stories.watch^$all,important
-||storiesanonimo.co^$all,important
-||storiesdown.com^$all,important
-||storiesdown.fun^$all,important
-||storiesdown.info^$all,important
-||storiesig.com^$all,important
-||storiesig.fun^$all,important
-||storiesig.me^$all,important
-||storiesig.net^$all,important
-||storiesig.ninja^$all,important
-||storiesig.website^$all,important
-||storiesigapp.com^$all,important
-||storieswatch.com^$all,important
-||storistalk.com^$all,important
-||storistalker.com^$all,important
-||storiystalker.com^$all,important
-||story-down.com^$all,important
 ||storybox.io^$all,important
 ||storyghost.online^$all,important
-||storyinsta.com^$all,important
-||storyinstanavigation.com^$all,important
-||storynavigation.com^$all,important
 ||storyninja.app^$all,important
-||storysaver.fun^$all,important
-||storysaver.io^$all,important
-||storysaver.net^$all,important
-||storysaver.to^$all,important
-||storystalk.com^$all,important
-||storystalker.app^$all,important
 ||superviral.io^$all,important
 ||swarmapp.com^$all,important
 ||swioz.com^$all,important
@@ -519,7 +569,6 @@
 ||thepicnob.com^$all,important
 ||tigoen.com^$all,important
 ||tinygrab.com^$all,important
-||toolzu.com^$all,important
 ||toot.dummy.cafe^$all,important
 ||trailblazer.me^$all,important
 ||tubtic.com^$all,important
@@ -529,34 +578,16 @@
 ||ulust.com^$all,important
 ||unfollowgram.com^$all,important
 ||universeodon.com^$all,important
-||upgrow.com^$all,important
 ||vapingcorp.com^$all,important
-||veloceinternational.com^$all,important
 ||vi-ck.com^$all,important
-||viewgram.net^$all,important
-||viewinsta.com^$all,important
-||viewprivateinsta.net^$all,important
-||viewprivateprofiles.net^$all,important
-||views4you.com^$all,important
-||viewsocials.com^$all,important
-||viewsstory.com^$all,important
-||viewstoriesanonymously.com^$all,important
-||viralblade.com^$all,important
-||viralyft.com^$all,important
 ||virtualsocialmedia.com^$all,important
-||vistasocial.com^$all,important
 ||wan.io^$all,important
-||watchinsta.com^$all,important
 ||weareiu.com^$all,important
 ||webinstagram.org^$all,important
 ||webstagram.org^$all,important
 ||witches.live^$all,important
-||xnspy.com^$all,important
 ||yooying.com^$all,important
 ||zirk.us^$all,important
-||zoominsta.com^$all,important
-||zoominsta.de^$all,important
-||zoomprofile.com^$all,important
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 4. Mastodon
@@ -609,7 +640,6 @@
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 5. Reddit
-! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Reddit.txt
 
 ! Domains & Subdomains
 ||reddit.com^$all,important
@@ -624,7 +654,6 @@
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 6. Snapchat
-! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Snapchat.txt
 
 ! Assets & CDNs
 ||feelinsonice.com^$all,important
@@ -682,7 +711,6 @@
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 9. TikTok
-! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/TikTok.txt
 
 ! Anaytics & Tracking
 ||ads.tiktok.com^$all,important
@@ -715,7 +743,6 @@
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 10. Twitter
-! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Twitter.txt
 
 ! Analytics & Tracking
 ||ads-twitter.com^$all,important
@@ -776,13 +803,12 @@
 ||vk.cc^$all,important
 ||vk.me^$all,important
 
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! 11. WhatsApp
+
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 11. Whatsapp
-
-
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 11. Myspace
+! 12. Myspace
 
 ! Assets & CDNs
 ||*.myspacecdn.com^$all,important
@@ -795,7 +821,7 @@
 ||myspace.com^$all,important
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 11. Clubhouse
+! 13. Clubhouse
 
 ! Analytics & Tracking
 ||*.analytics.clubhouse.com^$all,important
@@ -810,7 +836,7 @@
 ||clubhouse.com^$all,important
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 11. Tumblr
+! 14. Tumblr
 
 ! Analytics & Tracking
 ||*.analytics.tumblr.com^$all,important
@@ -831,7 +857,7 @@
 ||tumblr.com^$all,important
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 12. ...
+! 15. ...
 
 ||ask.fm^$all,important
 ||bere.al^$all,important
