@@ -3,7 +3,7 @@
 ! DeDup: Y, Sorted: Y
 ! Note: Pinterest domains excluded, but available from NyeUsr
 ! M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/AdGuard/Gi0x's%20Social.txt
-! R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Social.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Blocklists/AdGuard/Gi0x's%20Social.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
