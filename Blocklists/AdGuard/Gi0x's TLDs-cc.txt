@@ -9,560 +9,245 @@
 ! 🛖 AFRICA
 
 ||*.ao^
-||*.bf^
-||*.bi^
-||*.bj^
-||*.bw^
-||*.cd^
-||*.cf^
-||*.cg^
-||*.ci^
-||*.cm^
-||*.cv^
-||*.dj^
-||*.dz^
-||*.eg^
-||*.eh^
-||*.er^
-||*.et^
-||*.ga^
-||*.gh^
-||*.gm^
-||*.gn^
-||*.gq^
-||*.gw^
-||*.ke^
-||*.km^
-||*.lr^
-||*.ls^
-||*.ly^
-||*.ma^
-||*.mg^
-||*.ml^
-||*.mr^
-||*.mu^
-||*.mw^
-||*.mz^
-||*.na^
+||*.(bf|bi|bj|bw)^
+||*.(cd|cf|cg|ci|cm|cv)^
+||*.(dj|dz)^
+||*.(eg|eh|er|et)^
+||*.(ga|gh|gm|gn|gq|gw)^
+||*.(ke|km)^
+||*.(lr|ls|ly)^
+||*.(ma|mg|ml|mr|mu|mw|mz)^
+||*.(na|ng)^
 @@||*.ne^
-||*.ng^
 ||*.rw^
-||*.sc^
-||*.sd^
-||*.sh^
-||*.sl^
-||*.sn^
-||*.so^
-||*.ss^
-||*.st^
-||*.sz^
-||*.td^
-||*.tg^
-||*.tn^
-||*.tz^
+||*.(sc|sd|sh|sl|sn|so|ss|st|sz)^
+||*.(td|tg|tn|tz)^
 ||*.ug^
 ||*.yt^
-||*.za^
-||*.zm^
-||*.zr^
-||*.zw^
+||*.(za|zm|zr|zw)^
 
-! .ao - Angola
-! .bf - Burkina Faso
-! .bi - Burundi
-! .bj - Benin
-! .bw - Botswana
-! .cd - Democratic Republic of the Congo
-! .cf - Central African Republic
-! .cg - Republic of the Congo
-! .ci - Côte d'Ivoire
-! .cm - Cameroon
-! .cv - Cabo Verde
-! .dj - Djibouti
-! .dz - Algeria
-! .eg - Egypt
-! .eh - Western Sahara
-! .er - Eritrea
-! .et - Ethiopia
-! .ga - Gabon
-! .gh - Ghana
-! .gm - The Gambia
-! .gn - Guinea
-! .gq - Equatorial Guinea
-! .gw - Guinea-Bissau
-! .ke - Kenya
-! .km - Comoros
-! .lr - Liberia
-! .ls - Lesotho
-! .ly - Libya
-! .ma - Morocco
-! .mg - Madagascar
-! .ml - Mali
-! .mr - Mauritania
-! .mu - Mauritius
-! .mw - Malawi
-! .mz - Mozambique
-! .na - Namibia
-! .ne - Niger
-! .ng - Nigeria
-! .rw - Rwanda
-! .sc - Seychelles
-! .sd - Sudan
-! .sh - Saint Helena, Ascension & Tristan da Cunha
-! .sl - Sierra Leone
-! .sn - Senegal
-! .so - Somalia
-! .ss - South Sudan
-! .st - São Tomé & Príncipe
-! .sz - Eswatini
-! .td - Chad
-! .tg - Togo
-! .tn - Tunisia
-! .tz - Tanzania
-! .ug - Uganda
-! .yt - Mayotte
-! .za - South Africa
-! .zm - Zambia
-! .zr - Zaire
-! .zw - Zimbabwe 
+! .ao = Angola
+! .bf = Burkina Faso, .bi = Burundi, .bj = Benin, .bw = Botswana
+! .cd = Democratic Republic of the Congo, .cf = Central African Republic, .cg = Republic of the Congo, .ci = Côte d'Ivoire, .cm = Cameroon, .cv = Cabo Verde
+! .dj = Djibouti, .dz = Algeria
+! .eg = Egypt, .eh = Western Sahara, .er = Eritrea, .et = Ethiopia
+! .ga = Gabon, .gh = Ghana, .gm = The Gambia, .gn = Guinea, .gq = Equatorial Guinea, .gw = Guinea-Bissau
+! .ke = Kenya, .km = Comoros
+! .lr = Liberia, .ls = Lesotho, .ly = Libya
+! .ma = Morocco, .mg = Madagascar, .ml = Mali, .mr = Mauritania, .mu = Mauritius, .mw = Malawi, .mz = Mozambique
+! .na = Namibia, .ne = Niger, .ng = Nigeria
+! .rw = Rwanda
+! .sc = Seychelles, .sd = Sudan, .sh = Saint Helena, Ascension & Tristan da Cunha, .sl = Sierra Leone, .sn = Senegal, .so = Somalia, .ss = South Sudan, .st = São Tomé & Príncipe, .sz = Eswatini
+! .td = Chad, .tg = Togo, .tn = Tunisia, .tz = Tanzania
+! .ug = Uganda
+! .yt = Mayotte
+! .za = South Africa, .zm = Zambia, .zr = Zaire, .zw = Zimbabwe 
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🇺🇸 AMERICAS 
 
-||*.ag^
-||*.ai^
-||*.an^
-||*.ar^
-||*.aw^
-||*.bb^
-||*.bm^
-||*.bo^
-||*.br^
-||*.bs^
-||*.bz^
+||*.(ag|ai|an|ar|aw)^
+||*.(bb|bm|bo|br|bs|bz)^
 @@||*.ca^
-||*.cl^
+||*.(cl|cr|cu)^
 @@||*.co^
-||*.cr^
-||*.cu^
-||*.dm^
-||*.do^
+||*.(dm|do)^
 ||*.ec^
-||*.gd^
-||*.gf^
-||*.gl^
-||*.gp^
-||*.gt^
-||*.gy^
-||*.hn^
-||*.ht^
+||*.(gd|gf|gl|gp|gt|gy)^
+||*.(hn|ht)^
 ||*.jm^
-||*.kn^
-||*.ky^
+||*.(kn|ky)^
 ||*.lc^
-||*.mq^
-||*.ms^
-||*.mx^
+||*.(mq|ms|mx)^
 ||*.ni^
-||*.pa^
-||*.pe^
-||*.pm^
-||*.pr^
-||*.py^
-||*.sr^
-||*.sv^
-||*.tc^
-||*.tt^
-||*.us^
-||*.uy^
-||*.vc^
-||*.ve^
-||*.vg^
-||*.vi^
+||*.(pa|pe|pm|pr|py)^
+||*.(sr|sv)^
+||*.(tc|tt)^
+||*.(us|uy)^
+||*.(vc|ve|vg|vi)^
 
-! .ag - Antigua & Barbuda
-! .ai - Anguilla
-! .an - Dutch Antilles
-! .ar - Argentina
-! .aw - Aruba
-! .bb - Barbados
-! .bl - Saint Barthélemy
-! .bm - Bermuda
-! .bo - Bolivia
-! .bq - Bonaire, Sint Eustatius & Saba
-! .br - Brazil
-! .bs - Bahamas
-! .bz - Belize
-! .ca - Canada
-! .cl - Chile
-! .co - Colombia
-! .cr - Costa Rica
-! .cu - Cuba
-! .dm - Dominica
-! .do - Dominican Republic
-! .ec - Ecuador
-! .fk - Falkland Islands
-! .gd - Grenada
-! .gf - French Guiana
-! .gl - Greenland
-! .gp - Guadeloupe
-! .gt - Guatemala
-! .gy - Guyana
-! .hn - Honduras
-! .ht - Haiti
-! .jm - Jamaica
-! .kn - Saint Kitts & Nevis
-! .ky - Cayman Islands
-! .lc - Saint Lucia
-! .mq - Martinique
-! .ms - Montserrat
-! .mx - Mexico
-! .ni - Nicaragua
-! .pa - Panama
-! .pe - Peru
-! .pm - Saint Pierre & Miquelon
-! .pr - Puerto Rico
-! .py - Paraguay
-! .sr - Suriname
-! .sv - El Salvador
-! .tc - Turks & Caicos Islands
-! .tt - Trinidad & Tobago
-! .us - United States
-! .uy - Uruguay
-! .vc - Saint Vincent & the Grenadines
-! .ve - Venezuela
-! .vg - British Virgin Islands
-! .vi - U.S. Virgin Islands 
+! .ag = Antigua & Barbuda, .ai = Anguilla, .an = Dutch Antilles, .ar = Argentina, .aw = Aruba
+! .bb = Barbados, .bl = Saint Barthélemy, .bm = Bermuda, .bo = Bolivia, .bq = Bonaire, Sint Eustatius & Saba, .br = Brazil, .bs = Bahamas, .bz = Belize
+! .ca = Canada, .cl = Chile, .co = Colombia, .cr = Costa Rica, .cu = Cuba
+! .dm = Dominica, .do = Dominican Republic
+! .ec = Ecuador
+! .fk = Falkland Islands
+! .gd = Grenada, .gf = French Guiana, .gl = Greenland, .gp = Guadeloupe, .gt = Guatemala, .gy = Guyana
+! .hn = Honduras, .ht = Haiti
+! .jm = Jamaica
+! .kn = Saint Kitts & Nevis, .ky = Cayman Islands
+! .lc = Saint Lucia
+! .mq = Martinique, .ms = Montserrat, .mx = Mexico
+! .ni = Nicaragua
+! .pa = Panama, .pe = Peru, .pm = Saint Pierre & Miquelon, .pr = Puerto Rico, .py = Paraguay
+! .sr = Suriname, .sv = El Salvador
+! .tc = Turks & Caicos Islands, .tt = Trinidad & Tobago
+! .us = United States, .uy = Uruguay
+! .vc = Saint Vincent & the Grenadines, .ve = Venezuela, .vg = British Virgin Islands, .vi = U.S. Virgin Islands 
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🧊 ANTARCTICA & OVERSEAS SPECIAL TERRITORIES
 
 ||*.aq^
-||*.bv^
-||*.bq^
-||*.cc^
-||*.cx^
+||*.(bv|bq)^
+||*.(cc|cx)^
 ||*.hm^
 @@||*.io^
 ||*.mf^
 ||*.pn^
 ||*.re^
-||*.sj^
-||*.sx^
+||*.(sj|sx)^
 ||*.tf^
 ||*.um^
 ||*.xk^
 
-! .aq - Antarctica
-! .bv - Bouvet Island
-! .cc - Cocos (Keeling) Islands
-! .cx - Christmans Island
-! .gs - South Georgia & the South Sandwich Islands
-! .hm - Heard Island & McDonald Islands
-! .io - British Indian Ocean Territory
-! .mf - Saint Martin
-! .pn - Pitcairn Islands
-! .re - Réunion
-! .sj - Svalbard and Jan Mayen
-! .sx - Sint Maarten
-! .tf - French Southern Territories
-! .um - United States Minor Outlying Islands
+! .aq = Antarctica
+! .bv = Bouvet Island
+! .cc = Cocos (Keeling) Islands, .cx = Christmans Island
+! .gs = South Georgia & the South Sandwich Islands
+! .hm = Heard Island & McDonald Islands
+! .io = British Indian Ocean Territory
+! .mf = Saint Martin
+! .pn = Pitcairn Islands
+! .re = Réunion
+! .sj = Svalbard and Jan Mayen, .sx = Sint Maarten
+! .tf = French Southern Territories
+! .um = United States Minor Outlying Islands
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🐲 ASIA
 
-||*.ae^
-||*.af^
-||*.am^
-||*.az^
-||*.bd^
-||*.bh^
-||*.bn^
-||*.bt^
-||*.bu^
-||*.cn^
-||*.cy^
+||*.(ae|af|am|az)^
+||*.(bd|bh|bn|bt|bu)^
+||*.(cn|cy)^
 ||*.ge^
 ||*.hk^
-||*.id^
-||*.il^
-||*.in^
-||*.iq^
-||*.ir^
-||*.jo^
-||*.jp^
-||*.kg^
-||*.kh^
-||*.kr^
-||*.kw^
-||*.kz^
-||*.la^
-||*.lb^
-||*.lk^
-||*.mm^
-||*.mn^
-||*.mo^
-||*.mv^
-||*.my^
+||*.(id|il|in|iq|ir)^
+||*.(jo|jp)^
+||*.(kg|kh|kr|kw|kz)^
+||*.(la|lb|lk)^
+||*.(mm|mn|mo|mv|my)^
 ||*.np^
 ||*.om^
-||*.ph^
-||*.pk^
-||*.ps^
+||*.(ph|pk|ps)^
 ||*.qa^
-||*.sa^
-||*.sg^
-||*.su^
-||*.sy^
-||*.th^
-||*.tj^
-||*.tm^
-||*.tp^
-||*.tr^
-||*.tw^
+||*.(sa|sg|su|sy)^
+||*.(th|tj|tm|tp|tr|tw)^
 ||*.uz^
 ||*.vn^
 ||*.ye^
 
-! .ae - United Arab Emirates
-! .af - Afghanistan
-! .am - Armenia
-! .az - Azerbaijan
-! .bd - Bangladesh
-! .bh - Bahrain
-! .bn - Brunei
-! .bt - Bhutan
-! .bu - Burma
-! .cc - Cocos (Keeling) Islands
-! .cn - China
-! .cy - Cyprus
-! .ge - Georgia
-! .hk - Hong Kong
-! .id - Indonesia
-! .il - Israel
-! .in - India
-! .iq - Iraq
-! .ir - Iran
-! .jo - Jordan
-! .jp - Japan
-! .kg - Kyrgyzstan
-! .kh - Cambodia
-! .kp - North Korea
-! .kr - South Korea
-! .kw - Kuwait
-! .kz - Kazakhstan
-! .la - Laos
-! .lb - Lebanon
-! .lk - Sri Lanka
-! .mm - Myanmar
-! .mn - Mongolia
-! .mo - Macao
-! .mv - Maldives
-! .my - Malaysia
-! .np - Nepal
-! .om - Oman
-! .ph - Philippines
-! .pk - Pakistan
-! .ps - Palestine
-! .qa - Qatar
-! .sa - Saudi Arabia
-! .sg - Singapore
-! .su - Soviet Union
-! .sy - Syria
-! .th - Thailand
-! .tj - Tajikistan
-! .tm - Turkmenistan
-! .tp - East Timor
-! .tr - Turkey
-! .tw - Taiwan
-! .uz - Uzbekistan
-! .vn - Vietnam 
-! .ye - Yemen
+! .ae = United Arab Emirates, .af = Afghanistan, .am = Armenia, .az = Azerbaijan
+! .bd = Bangladesh, .bh = Bahrain, .bn = Brunei, .bt = Bhutan, .bu = Burma
+! .cc = Cocos (Keeling) Islands, .cn = China, .cy = Cyprus
+! .ge = Georgia
+! .hk = Hong Kong
+! .id = Indonesia, .il = Israel, .in = India, .iq = Iraq, .ir = Iran
+! .jo = Jordan, .jp = Japan
+! .kg = Kyrgyzstan, .kh = Cambodia, .kp = North Korea, .kr = South Korea, .kw = Kuwait, .kz = Kazakhstan
+! .la = Laos, .lb = Lebanon, .lk = Sri Lanka
+! .mm = Myanmar, .mn = Mongolia, .mo = Macao, .mv = Maldives, .my = Malaysia
+! .np = Nepal
+! .om = Oman
+! .ph = Philippines, .pk = Pakistan, .ps = Palestine
+! .qa = Qatar
+! .sa = Saudi Arabia, .sg = Singapore, .su = Soviet Union, .sy = Syria
+! .th = Thailand, .tj = Tajikistan, .tm = Turkmenistan, .tp = East Timor, .tr = Turkey, .tw = Taiwan
+! .uz = Uzbekistan
+! .vn = Vietnam 
+! .ye = Yemen
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🇪🇺 EUROPE
 
-||*.ad^
-||*.al^
-||*.at^
-||*.ax^
-||*.ba^
-||*.be^
-||*.bg^
-||*.by^
+||*.(ad|al|at|ax)^
+||*.(ba|be|bg|by)^
 @@||*.ch^
-||*.cs^
-||*.cz^
-||*.dd^
+||*.(cs|cz)^
+||*.(dd|dk)^
 @@||*.de^
-||*.dk^
 ||*.ee^
-@@||*.es^
-@@||*.eu^
-||*.fi^
-||*.fo^
+@@||*.(es|eu)^
+||*.(fi|fo)^
 @@||*.fr^
-||*.gg^
-||*.gi^
-||*.gr^
+||*.(gg|gi|gr)^
 ||*.hr^
 @@||*.hu^
-||*.ie^
-||*.im^
-||*.is^
+||*.(ie|im|is)^
 @@||*.it^
 ||*.je^
-||*.li^
-||*.lt^
-||*.lu^
-||*.lv^
-||*.mc^
-||*.md^
+||*.(li|lt|lu|lv)^
+||*.(mc|md|mk|mt)^
 @@||*.me^
-||*.mk^
-||*.mt^
-||*.nl^
-||*.no^
-||*.pl^
-||*.pt^
-||*.ro^
+||*.(nl|no)^
+||*.(pl|pt)^
+||*.(ro|ru)^
 @@||*.rs^
-||*.ru^
-||*.se^
-||*.si^
-||*.sk^
-||*.sm^
+||*.(se|si|sk|sm)^
 @@||*.ua^
 ||*.uk^
 ||*.va^
 ||*.xk^
 ||*.yu^
 
-! .ad - Andorra
-! .al - Albania
-! .at - Austria
-! .ax - Åland Islands
-! .ba - Bosnia & Herzegovina
-! .be - Belgium
-! .bg - Bulgaria
-! .by - Belarus
-! .ch - Switzerland
-! .cs - Serbia & Montenegro
-! .cz - Czech Republic
-! .dd - East Germany (GDR)
-! .de - Germany
-! .dk - Denmark
-! .ee - Estonia
-! .es - Spain
-! .eu - European Union
-! .fi - Finland
-! .fo - Faroe Islands
-! .fr - France
-! .gb - United Kingdom
-! .gg - Guernsey
-! .gi - Gibraltar
-! .gl - Greenland
-! .gr - Greece
-! .hr - Croatia
-! .hu - Hungary
-! .ie - Ireland
-! .im - Isle of Man
-! .is - Iceland
-! .it - Italy
-! .je - Jersey
-! .li - Liechtenstein
-! .lt - Lithuania
-! .lu - Luxembourg
-! .lv - Latvia
-! .mc - Monaco
-! .md - Moldova
-! .me - Montenegro
-! .mk - North Macedonia
-! .mt - Malta
-! .nl - Netherlands
-! .no - Norway
-! .pl - Poland
-! .pt - Portugal
-! .ro - Romania
-! .rs - Serbia
-! .ru - Russia
-! .se - Sweden
-! .si - Slovenia
-! .sk - Slovakia
-! .sm - San Marino
-! .ua - Ukraine
-! .uk - United Kingdom
-! .va - Vatican City
-! .xk - Kosovo
-! .yu - Yugoslavia
+! .ad = Andorra, .al = Albania, .at = Austria, .ax = Åland Islands
+! .ba = Bosnia & Herzegovina, .be = Belgium, .bg = Bulgaria, .by = Belarus
+! .ch = Switzerland, .cs = Serbia & Montenegro, .cz = Czech Republic
+! .dd = East Germany (GDR), .de = Germany, .dk = Denmark
+! .ee = Estonia, .es = Spain, .eu = European Union
+! .fi = Finland, .fo = Faroe Islands, .fr = France
+! .gb = United Kingdom, .gg = Guernsey, .gi = Gibraltar, .gl = Greenland, .gr = Greece
+! .hr = Croatia, .hu = Hungary
+! .ie = Ireland, .im = Isle of Man, .is = Iceland, .it = Italy
+! .je = Jersey
+! .li = Liechtenstein, .lt = Lithuania, .lu = Luxembourg, .lv = Latvia
+! .mc = Monaco, .md = Moldova, .me = Montenegro, .mk = North Macedonia, .mt = Malta
+! .nl = Netherlands, .no = Norway
+! .pl = Poland, .pt = Portugal
+! .ro = Romania, .rs = Serbia, .ru = Russia
+! .se = Sweden, .si = Slovenia, .sk = Slovakia, .sm = San Marino
+! .ua = Ukraine, .uk = United Kingdom
+! .va = Vatican City
+! .xk = Kosovo
+! .yu = Yugoslavia
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🌴 OCEANIA
 
-||*.as^
-||*.au^
+||*.(as|au)^
 ||*.ck^
-||*.fj^
-||*.fm^
+||*.(fj|fm)^
 ||*.gu^
 ||*.ki^
-||*.mh^
-||*.mp^
-||*.nc^
-||*.nf^
-||*.nh^
-||*.nr^
-||*.nu^
-||*.nz^
-||*.pg^
-||*.pw^
+||*.(mh|mp)^
+||*.(nc|nf|nh|nr|nu|nz)^
+||*.(pg|pw)^
 ||*.sb^
-||*.tk^
-||*.tl^
-||*.to^
-||*.tv^
+||*.(tk|tl|to|tv)^
 ||*.vu^
-||*.wf^
-||*.ws^
+||*.(wf|ws)^
 
-! .as - American Samoa
-! .au - Australia
-! .ck - Cook Islands
-! .fj - Fiji
-! .fm - Micronesia
-! .gu - Guam
-! .ki - Kiribati
-! .mh - Marshall Islands
-! .mp - Northern Mariana Islands
-! .nc - New Caledonia
-! .nf - Norfolk Island
-! .nh - New Hebrides
-! .nr - Nauru
-! .nu - Niue
-! .nz - New Zealand
-! .pf - French Polynesia
-! .pg - Papua New Guinea
-! .pw - Palau
-! .sb - Solomon Islands
-! .tk - Tokelau
-! .tl - Timor-Leste
-! .to - Tonga
-! .tv - Tuvalu
-! .vu - Vanuatu
-! .wf - Wallis & Futuna
-! .ws - Samoa
+! .as = American Samoa, .au = Australia
+! .ck = Cook Islands
+! .fj = Fiji, .fm = Micronesia
+! .gu = Guam
+! .ki = Kiribati
+! .mh = Marshall Islands, .mp = Northern Mariana Islands
+! .nc = New Caledonia, .nf = Norfolk Island, .nh = New Hebrides, .nr = Nauru, .nu = Niue, .nz = New Zealand
+! .pf = French Polynesia, .pg = Papua New Guinea, .pw = Palau
+! .sb = Solomon Islands
+! .tk = Tokelau, .tl = Timor-Leste, .to = Tonga, .tv = Tuvalu
+! .vu = Vanuatu
+! .wf = Wallis & Futuna, .ws = Samoa
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🌍 MISC 
 
-||*.бг^
-||*.бел^
+||*.(бг|бел)^
 ||*.ею^
-||*.ευ^
-||*.ελ^
+||*.(ευ|ελ)^
 ||*.қаз^
-||*.мкд^
-||*.мон^
+||*.(мкд|мон)^
 ||*.рф^
 ||*.срб^
 ||*.укр^
