@@ -1,4 +1,4 @@
-# Title: Gi0x's TLDs-cc
+# Title: Gi0x's ccTLDs
 # Description: Hides Top Level Domains by their Country Codes
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/uBlacklist/Gi0x's%20TLDs-cc.txt
