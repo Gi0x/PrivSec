@@ -1,5 +1,5 @@
 ! Title: Gi0x's TLDs-cc
-! Description: Blocks Top Level Domains by their Country Codes
+! Description: Blocks Top Level Domains by Country Codes
 ! Dedup: Y, Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
 ! M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/AdGuard/Gi0x's%20TLDs-cc.txt
