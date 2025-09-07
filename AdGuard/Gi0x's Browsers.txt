@@ -1,11 +1,9 @@
 ! Title: Gi0x's Browsers
 ! Description: Blocks select browsers
 ! Dedup: Y, Sorted: Y
-! M: 
-! R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Browsers.txt
+! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Browsers.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Browsers.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Browsers
 
 ||arc.net^
 ||avantbrowser.com^
