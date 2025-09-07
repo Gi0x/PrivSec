@@ -1,5 +1,5 @@
 ! Title: Gi0x's Gambling
-! Description: Blocks gambling & betting sites
+! Description: Blocks gambling domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Gambling.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Gambling.txt
