@@ -1,1 +1,7 @@
+! Title: Gi0x's Google
+! Description: Blocks google domains
+! DeDup: Y, Sorted: Y
+! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Google.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Google.txt
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
