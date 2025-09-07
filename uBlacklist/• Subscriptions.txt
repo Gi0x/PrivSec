@@ -1,17 +1,3 @@
-Input Order: 
-
-> Ad & Tracking Server Domain List
-> BadwebsiteBlocklist
-> Fake Webstores
-> FMHY Unsafe Sites Filterlist
-> Generic Content Farms
-> SpamdexingSites
-> Super-SEO-Spam-Suppressor
-> uBlacklist Filters for Suspicious Downloads
-> uBlock-Origin-Dev-Filter
-> uBlockOrigin & uBlacklist Nuclear AI Blocklist
-> Gi0x's Lists (A-Z)
-
 Sources: 
 A. https://ublacklist.github.io/subscriptions
 B. https://github.com/rjaus/awesome-ublacklist?tab=readme-ov-file
@@ -19,54 +5,42 @@ C. https://github.com/nicoleahmed/nicoles-ublacklist/
 D: https://github.com/NyeUsr/Blacklist/tree/main/uBlacklist
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-> AI GENERATED IMAGES
+> 1. Ad & Tracking Server Domain List
+  Ad & tracking server domain list maintained since 2001
+  R: https://pgl.yoyo.org/as/serverlist.php?hostformat=plain&mimetype=plaintext&prepend=*://*.&append=/*&showintro=0
 
-1. uBlockOrigin & uBlacklist Nuclear AI Blocklist
-Blocks AI generated image results
-Raw: https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt
+> 2. BadwebsiteBlocklist
+  Blocks AI generated spam, misleading ads, SEO bait, badware sites, & generally low-effort spam websites
+  R: https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt
 
-> CONTENT FARMS
+> 3. Fake Webstores
+  Blocks fake machine-translated web stores that only redirect you to AliExpress
+  R: https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt
 
-1. Generic Content Farms
-Blocks AI content farms
-Raw: https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt
+> 4. FMHY Unsafe Sites Filterlist
+  Blocks a bunch of unsafe, harmful & malicious websites listed in FMHY Unsafe Sites page
+  R: https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt
 
-> COPYCAT SITES
+> 5. Generic Content Farms
+  Blocks AI content farms
+  R: https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt
 
-1. uBlock Origin Global Dev Filter
-Supports StackOverflow, GitHub, NPM, Wikipedia & SEO Spam
-Raw: https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/global.txt
+> 6. SpamdexingSites
+  URL feed for blocking spamdexing websites
+  R: https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/refs/heads/main/blocklist_UBL.txt
 
-> SHOPPING
+> 7. Super-SEO-Spam-Suppressor
+  Targets websites abusing SEO tactics, content farms, scrapers, copycats, generative AIs, scams, advertisements & malware
+  R: https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/refs/heads/main/ublacklist.txt
 
-1. Fake Webstores
-Blocks fake machine-translated web stores that only redirect you to AliExpress
-Raw: https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt
+> 8. uBlacklist Filters for Suspicious Downloads
+  Blocks sites that host suspicious downloads
+  R: https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt
 
-> SPAM
+> 9. uBlock-Origin-Dev-Filter
+  Supports StackOverflow, GitHub, NPM, Wikipedia & SEO Spam
+  R: https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/global.txt
 
-1. Ad & Tracking Server Domain List
-Ad & tracking server domain list maintained since 2001
-Raw: https://pgl.yoyo.org/as/serverlist.php?hostformat=plain&mimetype=plaintext&prepend=*://*.&append=/*&showintro=0
-
-2. BadWebsiteBlocklist
-Blocks AI generated spam, misleading ads, SEO bait, badware sites, & generally low-effort spam websites
-Raw: https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt
-
-3. SpamdexingSites
-URL feed for blocking spamdexing websites
-Raw: https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/refs/heads/main/blocklist_UBL.txt
-
-4. Super-SEO-Spam-Suppressor
-Info: Targets websites abusing SEO tactics, content farms, scrapers, copycats, generative AIs, scams, advertisements & malware
-Raw: https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/refs/heads/main/ublacklist.txt
-
-> UNSAFE & MALICIOUS SITES
-
-1. FMHY Unsafe Sites Filterlist
-Blocks a bunch of unsafe, harmful & malicious websites listed in FMHY Unsafe Sites page
-Raw: https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt
-
-2. uBlacklist Filters for Suspicious Downloads
-Blocks sites that host suspicious downloads
-Raw: https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt
+> 10. uBlockOrigin & uBlacklist Nuclear AI Blocklist
+  Blocks AI generated image results
+  R: https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt
