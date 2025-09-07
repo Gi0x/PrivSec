@@ -1,7 +1,7 @@
 ! Title: Gi0x's Search
 ! Description: Blocks & redirects select search engines
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/Blocklists/AdGuard/Gi0x's%20Search%20Engines.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/AdGuard/Gi0x's%20Search.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Blocklists/AdGuard/Gi0x's%20Search%20Engines.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
