@@ -1,5 +1,5 @@
 ! Title: Gi0x's AI
-! Description: Blocks select AI apps, domains & tools
+! Description: Blocks select AI apps, sites & tools
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20AI.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20AI.txt
