@@ -1,5 +1,5 @@
 ! Title: Gi0x's Streaming
-! Description: Blocks audio & video streaming sites
+! Description: Blocks audio & video streaming domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Streaming.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Streaming.txt
