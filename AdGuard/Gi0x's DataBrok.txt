@@ -1,6 +1,6 @@
 ! Title: Gi0x's Data Brokers
 ! Description: Blocks data broker sites
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Brokers.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Brokers.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/AdGuard/Gi0x's%20DataBrok.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20DataBrok.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
