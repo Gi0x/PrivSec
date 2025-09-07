@@ -1,5 +1,5 @@
 ! Title: Gi0x's Porn
-! Description: Blocks adult sites
+! Description: Blocks porn
 ! DeDup: Y, Sorted: Y
 ! Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Porn.txt
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Porn.txt
