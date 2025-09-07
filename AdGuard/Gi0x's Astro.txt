@@ -1,6 +1,7 @@
 ! Title: Gi0x's Astro
 ! Description: Blocks astrology & tarot sites
-! DeDup: Y, Sorted: N
-! https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Astro.txt
+! DeDup: N, Sorted: N
+! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Astro.txt
+! R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Astro.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
