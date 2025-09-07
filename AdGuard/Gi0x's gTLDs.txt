@@ -135,6 +135,7 @@
 ||blackfriday^
 ||blanco^
 ||blockbuster^
+||blockchain^
 ||blog^
 ||bloomberg^
 ||blue^
