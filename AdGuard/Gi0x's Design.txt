@@ -1,5 +1,5 @@
 ! Title: Gi0x's Design
-! Description: Blocks select web design sites & tools
+! Description: Blocks select web design domains & tools
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/AdGuard/Gi0x's%20Design.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Design.txt
