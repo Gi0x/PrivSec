@@ -1,6 +1,6 @@
 ! Title: Gi0x's Gaming
 ! Description: Blocks gaming related sites
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/AdGuard/Gi0x's%20Gaming.txt
-! R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Gaming.txt
+! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Gaming.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Gaming.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
