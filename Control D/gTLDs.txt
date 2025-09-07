@@ -1,4 +1,4 @@
-Title: Gi0x's TLDs-g
+Title: gTLDs
 Description: Blocks Generic Top Level Domains
 DeDup: Y, Sorted: Y
 Source: https://www.iana.org/domains/root/db
@@ -133,6 +133,7 @@ B
 *.blackfriday
 *.blanco
 *.blockbuster
+*.blockchain
 *.blog
 *.bloomberg
 *.blue
@@ -257,7 +258,7 @@ C
 *.consulting
 *.contact
 *.contractors
-*.contruction
+*.construction
 *.cooking
 *.cookingchannel
 *.cool
@@ -346,7 +347,6 @@ E
 *.eat
 *.eco
 *.edeka
-@@*.edu
 *.education
 *.email
 *.emerck
@@ -371,6 +371,8 @@ E
 *.exposed
 *.express
 *.extraspace
+
+Allowed: *.edu
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 F 
@@ -479,7 +481,6 @@ G
 *.google
 *.gop
 *.got
-*.gov
 *.grainger
 *.graphics
 *.gratis
@@ -493,6 +494,8 @@ G
 *.guide
 *.guitars
 *.guru
+
+Allowed: *.gov
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 H 
@@ -770,7 +773,6 @@ M
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 N 
-
 
 *.nab
 *.nadex
@@ -1234,6 +1236,10 @@ W
 *.wow
 *.wtc
 *.wtf
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+X
+
 *.xbox
 *.xerox
 *.xfinity
@@ -1242,6 +1248,10 @@ W
 *.xperia
 *.xxx
 *.xyz
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Y
+
 *.yachts
 *.yahoo
 *.yamaxun
@@ -1252,6 +1262,10 @@ W
 *.you
 *.youtube
 *.yun
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Z
+
 *.zappos
 *.zara
 *.zero
