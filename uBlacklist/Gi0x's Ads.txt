@@ -1,8 +1,8 @@
 # Title: Gi0x's Ads
 # Description: Hides select ad & tracking domains
 # DeDup: Y, Sorted: Y
-# M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/uBlacklist/Gi0x's%20Ads.txt
-# R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Ads.txt
+# M: https://github.com/Gi0x/PrivSec/edit/main/uBlacklist/Gi0x's%20Ads.txt
+# R: 
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. Ad Delivery Domains
