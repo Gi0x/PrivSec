@@ -1,7 +1,7 @@
 ! Title: Gi0x's Cloudflare
 ! Description: Blocks all known Cloudflare domains & subsidiaries
-! DeDup: Y, Sorted: Y
+! DeDup: N, Sorted: N
 ! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Cloudflare.txt
-! M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/AdGuard/Gi0x's%20Cloudflare.txt
-! R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Cloudflare.txt
+! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Cloudflare.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Cloudflare.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
