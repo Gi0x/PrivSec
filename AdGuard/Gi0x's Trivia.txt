@@ -1,1 +1,6 @@
-
+! Title: Gi0x's Trivia
+! Description: Blocks pop trivia domains
+! DeDup: Y, Sorted: Y
+! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Trivia.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Streaming.txt
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
