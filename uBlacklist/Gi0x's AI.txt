@@ -1,5 +1,5 @@
 # Title: Gi0x's AI
 # Description: Hides AI apps, sites & tools
 # M: https://github.com/Gi0x/PrivSec/edit/main/uBlacklist/Gi0x's%20AI.txt
-# R: 
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/uBlacklist/Gi0x's%20AI.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
