@@ -1,5 +1,5 @@
 ! Title: Gi0x's News
-! Description: Blocks mainstream news sites
+! Description: Blocks mainstream news domains
 ! DeDup: N, Sorted: N
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20News.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20News.txt
