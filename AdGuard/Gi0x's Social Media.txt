@@ -398,11 +398,7 @@
 ||zoominsta.de^$all,important
 ||zoomprofile.com^$all,important
 
-
-
-
-
-! ** Uncategorized **
+! ** ... **
 ||0insta.com^$all,important
 ||1stagram.com^$all,important
 ||ahasave.com^$all,important
