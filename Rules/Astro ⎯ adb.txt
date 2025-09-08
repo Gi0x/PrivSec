@@ -1,7 +1,7 @@
-! Title: Astro - [AdG,uBO]
+! Title: Astro ⎯ adb
 ! Description: Blocks astrology & tarot domains
 ! DeDup: N, Sorted: N
-! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Astro.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Astro.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Astro%20%E2%8E%AF%20adb.txt
+! R: 
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
