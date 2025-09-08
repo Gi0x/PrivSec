@@ -2,7 +2,7 @@
 ! Description: Blocks Top Level Domains by Country Codes
 ! Dedup: Y, Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
-! M: https://github.com/Gi0x/PrivSec/edit/main/Rules/ccTLDs%20%E2%8E%AF%20adb.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/ccTLDs%20%E2%8E%AF%20adb.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/ccTLDs%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
