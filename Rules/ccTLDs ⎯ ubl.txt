@@ -1,4 +1,4 @@
-# Title: Gi0x's ccTLDs
+# Title: ccTLDs ⎯ ubl
 # Description: Hides Top Level Domains by their Country Codes
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Rules/ccTLDs%20%E2%8E%AF%20ubl.txt
