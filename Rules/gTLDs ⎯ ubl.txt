@@ -75,6 +75,7 @@
 /.*\.(dvag|dvr)($|\/)/
 
 # ...
+*://*.dpdns.org/*
 /.*\.(dclk|dds|dhl|dnp|drive|dtv)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -86,7 +87,7 @@
 /.*\.(energy|engineer|engineering|enterprises)($|\/)/
 /.*\.(epost|epson)($|\/)/
 /.*\.(ericsson|erni)($|\/)/
-/.*\.(estate|esurance)($|\/)/
+/.*\.(esq|estate|esurance)($|\/)/
 /.*\.(eurovision|eus)($|\/)/
 /.*\.(events|everbank)($|\/)/
 /.*\.(exchange|expert|exposed|express|extraspace)($|\/)/
@@ -209,7 +210,7 @@
 /.*\.(nab|nadex|nagoya|name|nationwide|natura|navy)($|\/)/
 /.*\.(nec|netbank|netflix|network|neustar|new|newholland|news|next|nextdirect|nexus)($|\/)/
 /.*\.(nico|nike|nikon|ninja|nissan|nissay)($|\/)/
-/.*\.(nokia|northwesternmutual|norton|now|nowruz|nowtv)($|\/)/
+/.*\.(nokia|non|northwesternmutual|norton|now|nowruz|nowtv)($|\/)/
 /.*\.(nra|nrw)($|\/)/
 
 # ...
@@ -248,6 +249,7 @@
 /.*\.(quebec|quest)($|\/)/
 
 # ...
+*://*.qzz.io/*
 /.*\.(qpon|qvc)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -282,6 +284,7 @@
 /.*\.(sydney|symantec|systems)($|\/)/
 
 # ...
+*://*.sa.com/*
 /.*\.(sfr|sling|sncf)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -301,6 +304,7 @@
 /.*\.(unicom|university|uno)($|\/)/
 
 # ...
+*://*.us.kg/*
 /.*\.(uconnect|uol|ups)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -332,6 +336,7 @@
 /.*\.(xihuan|xin)($|\/)/
 
 # ...
+*://*.xx.kg/*
 /.*\.(xbox|xerox|xfinity|xperia|xxx|xyz)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -350,6 +355,7 @@
 /.*\.(zip|zippo)($|\/)/
 
 # ...
+*://*.za.com/*
 /.*\.(zero|zone|zuerich)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
