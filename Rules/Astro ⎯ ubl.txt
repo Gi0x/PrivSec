@@ -2,7 +2,7 @@
 # Description: Hides astrology & tarot sites
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Astro%20%E2%8E%AF%20ubl.txt
-# R: 
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Astro%20%E2%8E%AF%20ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # 1. Astrology Portals (Mainstream)
