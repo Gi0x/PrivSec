@@ -1,6 +1,6 @@
-! Title: Ads-[AdG,uBO]
+! Title: Ads ⎯ adb
 ! Description: Blocks ad & tracking domains
 ! DeDup: Y, Sorted: Y
-! M: 
+! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Ads%20%E2%8E%AF%C2%A0adb.txt
 ! R: 
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
