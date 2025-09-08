@@ -1,4 +1,4 @@
-! Title: AI-[AdG,uBO]
+! Title: AI–[AdG,uBO]
 ! Description: Blocks select AI apps, domains & tools
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20AI.txt
