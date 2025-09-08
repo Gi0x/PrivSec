@@ -1,4 +1,4 @@
-! Title: Gi0x's Social
+! Title: Social ⎯ adb
 ! Description: Blocks select social media
 ! DeDup: Y, Sorted: Y
 ! Note: Pinterest domains excluded, but available from NyeUsr
