@@ -67,23 +67,6 @@
 ||*.zr^
 ||*.zw^
 
-! .ao = Angola
-! .bf = Burkina Faso, .bi = Burundi, .bj = Benin, .bw = Botswana
-! .cd = Democratic Republic of the Congo, .cf = Central African Republic, .cg = Republic of the Congo, .ci = Côte d'Ivoire, .cm = Cameroon, .cv = Cabo Verde
-! .dj = Djibouti, .dz = Algeria
-! .eg = Egypt, .eh = Western Sahara, .er = Eritrea, .et = Ethiopia
-! .ga = Gabon, .gh = Ghana, .gm = The Gambia, .gn = Guinea, .gq = Equatorial Guinea, .gw = Guinea-Bissau
-! .ke = Kenya, .km = Comoros
-! .lr = Liberia, .ls = Lesotho, .ly = Libya
-! .ma = Morocco, .mg = Madagascar, .ml = Mali, .mr = Mauritania, .mu = Mauritius, .mw = Malawi, .mz = Mozambique
-! .na = Namibia, .ne = Niger, .ng = Nigeria
-! .rw = Rwanda
-! .sc = Seychelles, .sd = Sudan, .sh = Saint Helena, Ascension & Tristan da Cunha, .sl = Sierra Leone, .sn = Senegal, .so = Somalia, .ss = South Sudan, .st = São Tomé & Príncipe, .sz = Eswatini
-! .td = Chad, .tg = Togo, .tn = Tunisia, .tz = Tanzania
-! .ug = Uganda
-! .yt = Mayotte
-! .za = South Africa, .zm = Zambia, .zr = Zaire, .zw = Zimbabwe 
-
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 2. 🇺🇸 AMERICAS 
 
@@ -138,25 +121,6 @@
 ||*.vg^
 ||*.vi^
 
-! .ag = Antigua & Barbuda, .ai = Anguilla, .an = Dutch Antilles, .ar = Argentina, .aw = Aruba
-! .bb = Barbados, .bl = Saint Barthélemy, .bm = Bermuda, .bo = Bolivia, .bq = Bonaire, Sint Eustatius & Saba, .br = Brazil, .bs = Bahamas, .bz = Belize
-! .ca = Canada, .cl = Chile, .co = Colombia, .cr = Costa Rica, .cu = Cuba
-! .dm = Dominica, .do = Dominican Republic
-! .ec = Ecuador
-! .fk = Falkland Islands
-! .gd = Grenada, .gf = French Guiana, .gl = Greenland, .gp = Guadeloupe, .gt = Guatemala, .gy = Guyana
-! .hn = Honduras, .ht = Haiti
-! .jm = Jamaica
-! .kn = Saint Kitts & Nevis, .ky = Cayman Islands
-! .lc = Saint Lucia
-! .mq = Martinique, .ms = Montserrat, .mx = Mexico
-! .ni = Nicaragua
-! .pa = Panama, .pe = Peru, .pm = Saint Pierre & Miquelon, .pr = Puerto Rico, .py = Paraguay
-! .sr = Suriname, .sv = El Salvador
-! .tc = Turks & Caicos Islands, .tt = Trinidad & Tobago
-! .us = United States, .uy = Uruguay
-! .vc = Saint Vincent & the Grenadines, .ve = Venezuela, .vg = British Virgin Islands, .vi = U.S. Virgin Islands 
-
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 3. 🧊 ANTARCTICA & OVERSEAS SPECIAL TERRITORIES
 
@@ -175,19 +139,6 @@
 ||*.tf^
 ||*.um^
 ||*.xk^
-
-! .aq = Antarctica
-! .bv = Bouvet Island
-! .cc = Cocos (Keeling) Islands, .cx = Christmans Island
-! .gs = South Georgia & the South Sandwich Islands
-! .hm = Heard Island & McDonald Islands
-! .io = British Indian Ocean Territory
-! .mf = Saint Martin
-! .pn = Pitcairn Islands
-! .re = Réunion
-! .sj = Svalbard and Jan Mayen, .sx = Sint Maarten
-! .tf = French Southern Territories
-! .um = United States Minor Outlying Islands
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 4. 🐲 ASIA
@@ -244,26 +195,6 @@
 ||*.uz^
 ||*.vn^
 ||*.ye^
-
-! .ae = United Arab Emirates, .af = Afghanistan, .am = Armenia, .az = Azerbaijan
-! .bd = Bangladesh, .bh = Bahrain, .bn = Brunei, .bt = Bhutan, .bu = Burma
-! .cc = Cocos (Keeling) Islands, .cn = China, .cy = Cyprus
-! .ge = Georgia
-! .hk = Hong Kong
-! .id = Indonesia, .il = Israel, .in = India, .iq = Iraq, .ir = Iran
-! .jo = Jordan, .jp = Japan
-! .kg = Kyrgyzstan, .kh = Cambodia, .kp = North Korea, .kr = South Korea, .kw = Kuwait, .kz = Kazakhstan
-! .la = Laos, .lb = Lebanon, .lk = Sri Lanka
-! .mm = Myanmar, .mn = Mongolia, .mo = Macao, .mv = Maldives, .my = Malaysia
-! .np = Nepal
-! .om = Oman
-! .ph = Philippines, .pk = Pakistan, .ps = Palestine
-! .qa = Qatar
-! .sa = Saudi Arabia, .sg = Singapore, .su = Soviet Union, .sy = Syria
-! .th = Thailand, .tj = Tajikistan, .tm = Turkmenistan, .tp = East Timor, .tr = Turkey, .tw = Taiwan
-! .uz = Uzbekistan
-! .vn = Vietnam 
-! .ye = Yemen
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 5. 🇪🇺 EUROPE
@@ -324,27 +255,6 @@
 ||*.xk^
 ||*.yu^
 
-! .ad = Andorra, .al = Albania, .at = Austria, .ax = Åland Islands
-! .ba = Bosnia & Herzegovina, .be = Belgium, .bg = Bulgaria, .by = Belarus
-! .ch = Switzerland, .cs = Serbia & Montenegro, .cz = Czech Republic
-! .dd = East Germany (GDR), .de = Germany, .dk = Denmark
-! .ee = Estonia, .es = Spain, .eu = European Union
-! .fi = Finland, .fo = Faroe Islands, .fr = France
-! .gb = United Kingdom, .gg = Guernsey, .gi = Gibraltar, .gl = Greenland, .gr = Greece
-! .hr = Croatia, .hu = Hungary
-! .ie = Ireland, .im = Isle of Man, .is = Iceland, .it = Italy
-! .je = Jersey
-! .li = Liechtenstein, .lt = Lithuania, .lu = Luxembourg, .lv = Latvia
-! .mc = Monaco, .md = Moldova, .me = Montenegro, .mk = North Macedonia, .mt = Malta
-! .nl = Netherlands, .no = Norway
-! .pl = Poland, .pt = Portugal
-! .ro = Romania, .rs = Serbia, .ru = Russia
-! .se = Sweden, .si = Slovenia, .sk = Slovakia, .sm = San Marino
-! .ua = Ukraine, .uk = United Kingdom
-! .va = Vatican City
-! .xk = Kosovo
-! .yu = Yugoslavia
-
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 6. 🌴 OCEANIA
 
@@ -373,19 +283,6 @@
 ||*.vu^
 ||*.wf^
 ||*.ws^
-
-! .as = American Samoa, .au = Australia
-! .ck = Cook Islands
-! .fj = Fiji, .fm = Micronesia
-! .gu = Guam
-! .ki = Kiribati
-! .mh = Marshall Islands, .mp = Northern Mariana Islands
-! .nc = New Caledonia, .nf = Norfolk Island, .nh = New Hebrides, .nr = Nauru, .nu = Niue, .nz = New Zealand
-! .pf = French Polynesia, .pg = Papua New Guinea, .pw = Palau
-! .sb = Solomon Islands
-! .tk = Tokelau, .tl = Timor-Leste, .to = Tonga, .tv = Tuvalu
-! .vu = Vanuatu
-! .wf = Wallis & Futuna, .ws = Samoa
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 7. 🌍 MISC 
@@ -427,3 +324,269 @@
 ||*.இந்தியா^
 ||*.հայ^
 ||*.新加坡^
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! KEY
+
+! .ad = Andorra
+! .ae = United Arab Emirates
+! .af = Afghanistan
+! .ag = Antigua & Barbuda
+! .ai = Anguilla
+! .al = Albania
+! .am = Armenia
+! .an = Dutch Antilles
+! .ao = Angola
+! .aq = Antarctica
+! .ar = Argentina
+! .as = American Samoa
+! .at = Austria
+! .au = Australia
+! .aw = Aruba
+! .ax = Åland Islands
+! .az = Azerbaijan
+! .ba = Bosnia & Herzegovina
+! .bb = Barbados
+! .bd = Bangladesh
+! .be = Belgium
+! .bf = Burkina Faso
+! .bg = Bulgaria
+! .bh = Bahrain
+! .bi = Burundi
+! .bj = Benin
+! .bl = Saint Barthélemy
+! .bm = Bermuda
+! .bn = Brunei
+! .bo = Bolivia
+! .bq = Bonaire, Sint Eustatius & Saba
+! .br = Brazil
+! .bs = Bahamas
+! .bt = Bhutan
+! .bu = Burma
+! .bv = Bouvet Island
+! .bw = Botswana
+! .by = Belarus
+! .bz = Belize
+! .ca = Canada
+! .cc = Cocos (Keeling) Islands
+! .cc = Cocos (Keeling) Islands
+! .cd = Democratic Republic of the Congo
+! .cf = Central African Republic
+! .cg = Republic of the Congo
+! .ch = Switzerland
+! .ci = Côte d'Ivoire
+! .ck = Cook Islands
+! .cl = Chile
+! .cm = Cameroon
+! .cn = China
+! .co = Colombia
+! .cr = Costa Rica
+! .cs = Serbia & Montenegro
+! .cu = Cuba
+! .cv = Cabo Verde
+! .cx = Christmans Island
+! .cy = Cyprus
+! .cz = Czech Republic
+! .dd = East Germany (GDR)
+! .de = Germany
+! .dj = Djibouti
+! .dk = Denmark
+! .dm = Dominica
+! .do = Dominican Republic
+! .dz = Algeria
+! .ec = Ecuador
+! .ee = Estonia
+! .eg = Egypt
+! .eh = Western Sahara
+! .er = Eritrea
+! .es = Spain
+! .et = Ethiopia
+! .eu = European Union
+! .fi = Finland
+! .fj = Fiji
+! .fk = Falkland Islands
+! .fm = Micronesia
+! .fo = Faroe Islands
+! .fr = France
+! .ga = Gabon
+! .gb = United Kingdom
+! .gd = Grenada
+! .ge = Georgia
+! .gf = French Guiana
+! .gg = Guernsey
+! .gh = Ghana
+! .gi = Gibraltar
+! .gl = Greenland
+! .gl = Greenland
+! .gm = The Gambia
+! .gn = Guinea
+! .gp = Guadeloupe
+! .gq = Equatorial Guinea
+! .gr = Greece
+! .gs = South Georgia & the South Sandwich Islands
+! .gt = Guatemala
+! .gu = Guam
+! .gw = Guinea-Bissau
+! .gy = Guyana
+! .hk = Hong Kong
+! .hm = Heard Island & McDonald Islands
+! .hn = Honduras
+! .hr = Croatia
+! .ht = Haiti
+! .hu = Hungary
+! .id = Indonesia
+! .ie = Ireland
+! .il = Israel
+! .im = Isle of Man
+! .in = India
+! .io = British Indian Ocean Territory
+! .iq = Iraq
+! .ir = Iran
+! .is = Iceland
+! .it = Italy
+! .je = Jersey
+! .jm = Jamaica
+! .jo = Jordan
+! .jp = Japan
+! .ke = Kenya
+! .kg = Kyrgyzstan
+! .kh = Cambodia
+! .ki = Kiribati
+! .km = Comoros
+! .kn = Saint Kitts & Nevis
+! .kp = North Korea
+! .kr = South Korea
+! .kw = Kuwait
+! .ky = Cayman Islands
+! .kz = Kazakhstan
+! .la = Laos
+! .lb = Lebanon
+! .lc = Saint Lucia
+! .li = Liechtenstein
+! .lk = Sri Lanka
+! .lr = Liberia
+! .ls = Lesotho
+! .lt = Lithuania
+! .lu = Luxembourg
+! .lv = Latvia
+! .ly = Libya
+! .ma = Morocco
+! .mc = Monaco
+! .md = Moldova
+! .me = Montenegro
+! .mf = Saint Martin
+! .mg = Madagascar
+! .mh = Marshall Islands
+! .mk = North Macedonia
+! .ml = Mali
+! .mm = Myanmar
+! .mn = Mongolia
+! .mo = Macao
+! .mp = Northern Mariana Islands
+! .mq = Martinique
+! .mr = Mauritania
+! .ms = Montserrat
+! .mt = Malta
+! .mu = Mauritius
+! .mv = Maldives
+! .mw = Malawi
+! .mx = Mexico
+! .my = Malaysia
+! .mz = Mozambique
+! .na = Namibia
+! .nc = New Caledonia
+! .ne = Niger
+! .nf = Norfolk Island
+! .ng = Nigeria
+! .nh = New Hebrides
+! .ni = Nicaragua
+! .nl = Netherlands
+! .no = Norway
+! .np = Nepal
+! .nr = Nauru
+! .nu = Niue
+! .nz = New Zealand
+! .om = Oman
+! .pa = Panama
+! .pe = Peru
+! .pf = French Polynesia
+! .pg = Papua New Guinea
+! .ph = Philippines
+! .pk = Pakistan
+! .pl = Poland
+! .pm = Saint Pierre & Miquelon
+! .pn = Pitcairn Islands
+! .pr = Puerto Rico
+! .ps = Palestine
+! .pt = Portugal
+! .pw = Palau
+! .py = Paraguay
+! .qa = Qatar
+! .re = Réunion
+! .ro = Romania
+! .rs = Serbia
+! .ru = Russia
+! .rw = Rwanda
+! .sa = Saudi Arabia
+! .sb = Solomon Islands
+! .sc = Seychelles
+! .sd = Sudan
+! .se = Sweden
+! .sg = Singapore
+! .sh = Saint Helena, Ascension & Tristan da Cunha
+! .si = Slovenia
+! .sj = Svalbard and Jan Mayen
+! .sk = Slovakia
+! .sl = Sierra Leone
+! .sm = San Marino
+! .sn = Senegal
+! .so = Somalia
+! .sr = Suriname
+! .ss = South Sudan
+! .st = São Tomé & Príncipe
+! .su = Soviet Union
+! .sv = El Salvador
+! .sx = Sint Maarten
+! .sy = Syria
+! .sz = Eswatini
+! .tc = Turks & Caicos Islands
+! .td = Chad
+! .tf = French Southern Territories
+! .tg = Togo
+! .th = Thailand
+! .tj = Tajikistan
+! .tk = Tokelau
+! .tl = Timor-Leste
+! .tm = Turkmenistan
+! .tn = Tunisia
+! .to = Tonga
+! .tp = East Timor
+! .tr = Turkey
+! .tt = Trinidad & Tobago
+! .tv = Tuvalu
+! .tw = Taiwan
+! .tz = Tanzania
+! .ua = Ukraine
+! .ug = Uganda
+! .uk = United Kingdom
+! .um = United States Minor Outlying Islands
+! .us = United States
+! .uy = Uruguay
+! .uz = Uzbekistan
+! .va = Vatican City
+! .vc = Saint Vincent & the Grenadines
+! .ve = Venezuela
+! .vg = British Virgin Islands
+! .vi = U.S. Virgin Islands 
+! .vn = Vietnam 
+! .vu = Vanuatu
+! .wf = Wallis & Futuna
+! .ws = Samoa
+! .xk = Kosovo
+! .ye = Yemen
+! .yt = Mayotte
+! .yu = Yugoslavia
+! .za = South Africa
+! .zm = Zambia
+! .zr = Zaire
+! .zw = Zimbabwe 
