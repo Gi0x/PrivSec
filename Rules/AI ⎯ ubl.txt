@@ -1,5 +1,5 @@
-# Title: AI - [uBL]
+# Title: AI ⎯ ubl
 # Description: Hides AI apps, sites & tools
-# M: https://github.com/Gi0x/PrivSec/edit/main/uBlacklist/Gi0x's%20AI.txt
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/uBlacklist/Gi0x's%20AI.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/AI%20%E2%8E%AF%20ubl.txt
+# R: 
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
