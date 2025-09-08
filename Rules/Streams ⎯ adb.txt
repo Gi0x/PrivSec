@@ -1,4 +1,4 @@
-! Title: Gi0x's Streaming
+! Title: Streams ⎯ adb
 ! Description: Blocks audio & video streaming domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Streaming.txt
