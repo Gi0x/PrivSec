@@ -1,4 +1,4 @@
-! Title: Gi0x's Ads
+! Title: Ads-[AdG,uBO]
 ! Description: Blocks ad & tracking domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Ads.txt
