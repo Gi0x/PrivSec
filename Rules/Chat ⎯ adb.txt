@@ -1,8 +1,8 @@
-! Title: Gi0x's Chat
+! Title: Chat ⎯ adb
 ! Description: Blocks select chat apps & domains
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Chat.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Chat.txt
+! M: 
+! R: 
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||321chat.com^
