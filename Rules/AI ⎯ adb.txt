@@ -1,4 +1,4 @@
-! Title: AI–[AdG,uBO]
+! Title: AI ⎯ adb
 ! Description: Blocks select AI apps, domains & tools
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/AI%20%E2%8E%AF%20adb.txt#L251C22
