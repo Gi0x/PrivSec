@@ -1,8 +1,8 @@
-# Title: Gi0x's Astro
+# Title: Astro ⎯ ubl
 # Description: Hides astrology & tarot sites
 # DeDup: Y, Sorted: Y
-# M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/uBlacklist/Gi0x's%20Astro.txt
-# R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Astro.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Astro%20%E2%8E%AF%20ubl.txt
+# R: 
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # 1. Astrology Portals (Mainstream)
