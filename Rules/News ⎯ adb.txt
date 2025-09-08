@@ -1,8 +1,8 @@
-! Title: Gi0x's News
+! Title: News ⎯ adb 
 ! Description: Blocks mainstream news media
-! DeDup: N, Sorted: N
-! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20News.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20News.txt
+! DeDup: -, Sorted: -
+! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/News%20%E2%8E%AF%20adb.txt 
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/News%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||1stnews.com^

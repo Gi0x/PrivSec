@@ -1,6 +1,6 @@
-! Title: Gi0x's Crypto
+! Title: Crypto ⎯ adb
 ! Description: Blocks select crypto domains
-! DeDup: N, Sorted: N
-! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Crypto.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Crypto.txt
+! DeDup: -, Sorted: -
+! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Crypto%20%E2%8E%AF%20adb.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Crypto%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

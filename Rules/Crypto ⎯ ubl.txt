@@ -1,8 +1,8 @@
-# Title: Gi0x's Crypto
+# Title: Crypto ⎯ ubl
 # Description: Hides select crypto domains
 # DeDup: Y, Sorted: Y
-# M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/uBlacklist/Gi0x's%20Crypto.txt
-# R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Crypto.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Crypto%20%E2%8E%AF%20ubl.txt
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Crypto%20%E2%8E%AF%20ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # Crypto-Adjacent Grifting & Web3 Hype Sites
 

@@ -1,7 +1,7 @@
-! Title: Gi0x's Porn
+! Title: Porn ⎯ adb
 ! Description: Blocks porn
 ! DeDup: Y, Sorted: Y
 ! Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Porn.txt
-! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Porn.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Porn.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Porn%20%E2%8E%AF%20adb.txt  
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Porn%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

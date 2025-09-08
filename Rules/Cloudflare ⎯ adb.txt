@@ -1,7 +1,7 @@
-! Title: Gi0x's Cloudflare
+! Title: Cloudflare ⎯ adb
 ! Description: Blocks all known Cloudflare domains & subsidiaries
 ! DeDup: N, Sorted: N
 ! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Cloudflare.txt
-! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Cloudflare.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Cloudflare.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Cloudflare%20%E2%8E%AF%20adb.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Cloudflare%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

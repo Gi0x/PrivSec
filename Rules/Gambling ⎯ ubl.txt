@@ -1,8 +1,8 @@
-# Title: Gi0x's Gambling
+# Title: Gambling ⎯ ubl 
 # Description: Hides gambling & betting sites
 # DeDup: Y, Sorted: Y
-# M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/uBlacklist/Gi0x's%20Gambling.txt
-# R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Gambling.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Gambling%20%E2%8E%AF%20ubl.txt   
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Gambling%20%E2%8E%AF%20ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.00000onlinecasino.com/*

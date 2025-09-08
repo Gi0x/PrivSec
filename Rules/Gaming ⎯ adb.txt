@@ -1,6 +1,6 @@
-! Title: Gi0x's Gaming
+! Title: Gaming ⎯ adb  
 ! Description: Blocks gaming related domains
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Gaming.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Gaming.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Gaming%20%E2%8E%AF%20adb.txt   
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Gaming%20%E2%8E%AF%20adb.txt  
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
