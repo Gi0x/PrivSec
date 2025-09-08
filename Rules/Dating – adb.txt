@@ -1,4 +1,4 @@
-! Title: Gi0x's Dating
+! Title: Dating – adb
 ! Description: Blocks dating related apps & domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Dating.txt
