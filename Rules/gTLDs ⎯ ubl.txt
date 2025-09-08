@@ -1,4 +1,4 @@
-# Title: Gi0x's gTLDs
+# Title: gTLDs ⎯ ubl.
 # Description: Hides Generic Top Level Domains
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/edit/main/uBlacklist/Gi0x's%20gTLDs.txt
