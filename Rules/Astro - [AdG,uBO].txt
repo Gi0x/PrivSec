@@ -1,4 +1,4 @@
-! Title: Gi0x's Astro
+! Title: Astro - [AdG,uBO]
 ! Description: Blocks astrology & tarot domains
 ! DeDup: N, Sorted: N
 ! M: https://github.com/Gi0x/PrivSec/edit/main/AdGuard/Gi0x's%20Astro.txt
