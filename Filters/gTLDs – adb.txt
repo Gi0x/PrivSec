@@ -3,7 +3,7 @@
 ! DeDup: Y, Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/gTLDs%20%E2%80%93%C2%A0adb.txt 
-! R: 
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/gTLDs%20%E2%80%93%C2%A0adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! A
