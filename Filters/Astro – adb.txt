@@ -1,0 +1,7 @@
+! Title: Astro – adb
+! Description: Blocks astrology & tarot domains
+! DeDup: N, Sorted: N
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Astro%20%E2%8E%AF%20adb.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Astro%20%E2%8E%AF%20adb.txt
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+

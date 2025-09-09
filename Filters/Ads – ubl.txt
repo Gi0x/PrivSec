@@ -1,4 +1,4 @@
-# Title: Ads — ubl
+# Title: Ads – ubl
 # Description: Hides select ad & tracking domains
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Ads — ubl.txt

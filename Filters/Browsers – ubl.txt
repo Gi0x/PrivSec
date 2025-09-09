@@ -1,4 +1,4 @@
-! Title: Browsers ⎯ ubl
+! Title: Browsers – ubl
 ! Description: Hides select browsers
 ! Dedup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Browsers%20%E2%8E%AF%20ubl.txt
