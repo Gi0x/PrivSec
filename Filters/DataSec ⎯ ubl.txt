@@ -1,8 +1,8 @@
 # Title: DataSec ⎯ ubl
 # Description: Hides data broker sites
 # DeDup: Y, Sorted: Y
-# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/DataSec%20%E2%8E%AF%20ubl.txt
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/DataSec%20%E2%8E%AF%20ubl.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/DataSec%20%E2%8E%AF%20ubl.txt
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/DataSec%20%E2%8E%AF%20ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.addresses.com/*

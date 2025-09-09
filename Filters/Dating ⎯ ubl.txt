@@ -1,8 +1,8 @@
 # Title: Dating ⎯ ubl
 # Description: Hides dating related apps & sites
 # DeDup: Y, Sorted: Y
-# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Dating%20%E2%8E%AF%20ubl.txt
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Dating%20%E2%8E%AF%20ubl.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Dating%20%E2%8E%AF%20ubl.txt
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Dating%20%E2%8E%AF%20ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # 1. Adult, Casual & Hookup-Oriented Dating Platforms
@@ -985,7 +985,7 @@
 *://*.thegoodmenproject.com/*
 *://*.thelifestyletv.com/*
 *://*.themindfulattraction.org/*
-*://*.therulesrevisited.com/*
+*://*.theFiltersrevisited.com/*
 *://*.thesocialman.com/*
 *://*.thetalko.com/*
 *://*.thisisgame.com/*

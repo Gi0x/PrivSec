@@ -2,6 +2,6 @@
 ! Description: Blocks all known Cloudflare domains & subsidiaries
 ! DeDup: N, Sorted: N
 ! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Cloudflare.txt
-! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Cloudflare%20%E2%8E%AF%20adb.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Cloudflare%20%E2%8E%AF%20adb.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Cloudflare%20%E2%8E%AF%20adb.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Cloudflare%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

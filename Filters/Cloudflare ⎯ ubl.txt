@@ -2,8 +2,8 @@
 # Description: Hide all known Cloudflare domains & subsidiaries
 # DeDup: Y, Sorted: Y
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Cloudflare.txt
-# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Cloudflare%20%E2%8E%AF%20ubl.txt
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Cloudflare%20%E2%8E%AF%20ubl.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Cloudflare%20%E2%8E%AF%20ubl.txt
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Cloudflare%20%E2%8E%AF%20ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.1.0.0.1/*

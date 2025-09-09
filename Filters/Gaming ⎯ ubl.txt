@@ -1,8 +1,8 @@
 # Title: Gaming ⎯ ubl 
 # Description: Hides gaming related sites
 # DeDup: N, Sorted: N
-# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Gaming%20%E2%8E%AF%20ubl.txt   
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Gaming%20%E2%8E%AF%20ubl.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Gaming%20%E2%8E%AF%20ubl.txt   
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Gaming%20%E2%8E%AF%20ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # 1. Browser-Based Gaming ... ok

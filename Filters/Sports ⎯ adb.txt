@@ -1,8 +1,8 @@
 ! Title: Sports ⎯ adb 
 ! Description: Blocks sports related sites (incl. streaming)
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Sports%20%E2%8E%AF%20adb.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Sports%20%E2%8E%AF%20adb.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Sports%20%E2%8E%AF%20adb.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Sports%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||1-2pitch.com^

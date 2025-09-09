@@ -1,7 +1,7 @@
 ! Title: Dating – adb
 ! Description: Blocks dating related apps & domains
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Dating%20%E2%8E%AF%20adb.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Dating%20%E2%8E%AF%20adb.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Dating%20%E2%8E%AF%20adb.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Dating%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 

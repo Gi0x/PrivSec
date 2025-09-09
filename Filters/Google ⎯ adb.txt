@@ -1,7 +1,7 @@
 ! Title: Google ⎯ adb 
 ! Description: Blocks google domains
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Google%20%E2%8E%AF%20adb.txt  
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Google%20%E2%8E%AF%20adb.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Google%20%E2%8E%AF%20adb.txt  
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Google%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
