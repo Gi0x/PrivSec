@@ -1,1 +1,6 @@
-
+# Title: Search ⎯ ubl
+# Description: Hides select search engines
+# DeDup: Y, Sorted: Y
+# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Search%20%E2%8E%AF%20ubl.txt  
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Search%20%E2%8E%AF%20ubl.txt
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

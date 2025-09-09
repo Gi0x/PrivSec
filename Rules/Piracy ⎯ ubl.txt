@@ -1,6 +1,6 @@
-! Title: Piracy ⎯ ubl
-! Description: Blocks piracy domains
-! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Piracy%20%E2%8E%AF%20ubl.txt 
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Piracy%20%E2%8E%AF%20ubl.txt
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# Title: Piracy ⎯ ubl
+# Description: Hides piracy domains
+# DeDup: Y, Sorted: Y
+# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Piracy%20%E2%8E%AF%20ubl.txt 
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Piracy%20%E2%8E%AF%20ubl.txt
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

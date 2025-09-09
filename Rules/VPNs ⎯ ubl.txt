@@ -1,7 +1,6 @@
-# Title: Gi0x's VPNs
+# Title: VPNs ⎯ ubl 
 # Description: Hides select VPN apps & sites
 # DeDup: N, Sorted: N
-# M: https://github.com/Gi0x/PrivSec/edit/main/Blocklists/uBlacklist/Gi0x's%20VPNs.txt
-# R: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20VPNs.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Rules/VPNs%20%E2%8E%AF%20ubl.txt 
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/VPNs%20%E2%8E%AF%20ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––

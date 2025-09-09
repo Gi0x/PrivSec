@@ -49,4 +49,3 @@
 *://*.trustmachine.io/*
 *://*.uphold.com/blog/*
 *://*.venturecoinist.com/*
-

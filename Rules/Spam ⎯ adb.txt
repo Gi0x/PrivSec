@@ -1,8 +1,8 @@
-! Name: Gi0x's Spam
-! Description: Blocks fake & spammy domains
+! Title: Spam ⎯ adb
+! Description: Blocks low-quality, fake & spammy sites
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/AdGuard/Gi0x's%20Spam.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/AdGuard/Gi0x's%20Spam.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Rules/Spam%20%E2%8E%AF%20adb.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Rules/Spam%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Affiliate SEO spam
