@@ -1,8 +1,8 @@
 # Title: Ads — ubl
 # Description: Hides select ad & tracking domains
 # DeDup: Y, Sorted: Y
-# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Ads%20%E2%8E%AF%20ubl.txt
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Ads%20%E2%8E%AF%20ubl.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Ads — ubl.txt
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Ads — ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. Ad Delivery Domains
