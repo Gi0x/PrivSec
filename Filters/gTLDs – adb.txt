@@ -2,7 +2,7 @@
 ! Description: Blocks Generic Top Level Domains
 ! DeDup: Y, Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
-! M: 
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/gTLDs%20%E2%80%93%C2%A0adb.txt 
 ! R: 
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
