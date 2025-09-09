@@ -1,4 +1,4 @@
-# Title: DataSec ⎯ ubl
+# Title: DataSec – ubl
 # Description: Hides data broker sites
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/DataSec%20%E2%8E%AF%20ubl.txt

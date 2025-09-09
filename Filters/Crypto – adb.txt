@@ -1,4 +1,4 @@
-! Title: Crypto ⎯ adb
+! Title: Crypto – adb
 ! Description: Blocks select crypto domains
 ! DeDup: -, Sorted: -
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Crypto%20%E2%8E%AF%20adb.txt

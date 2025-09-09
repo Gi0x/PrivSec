@@ -1,4 +1,4 @@
-! Title: Chat ⎯ adb
+! Title: Chat – adb
 ! Description: Blocks select chat apps & domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Chat%20%E2%8E%AF%20adb.txt

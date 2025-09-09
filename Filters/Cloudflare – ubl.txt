@@ -1,4 +1,4 @@
-# Title: Cloudflare ⎯ ubl
+# Title: Cloudflare – ubl
 # Description: Hide all known Cloudflare domains & subsidiaries
 # DeDup: Y, Sorted: Y
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Cloudflare.txt

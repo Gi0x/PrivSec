@@ -1,4 +1,4 @@
-# Title: Chat ⎯ ubl
+# Title: Chat – ubl
 # Description: Hides chat apps & sites
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Chat%20%E2%8E%AF%20ubl.txt
