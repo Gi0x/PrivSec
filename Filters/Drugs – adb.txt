@@ -1,4 +1,4 @@
-! Title: Drugs ⎯ adb
+! Title: Drugs – adb
 ! Description: Blocks drugs & tobacco related domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Drugs%20%E2%8E%AF%20adb.txt 
