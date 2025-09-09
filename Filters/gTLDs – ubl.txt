@@ -50,7 +50,7 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # C
 
-/.*\(cab|cafe|cal|call|calvinklein|cam|camera|camp|cancerresearch|canon|capetown|capital|capitalone|car|caravan|cards|care|career|careers|cars|cartier|casa|case|caseih|cash|casino|cat|catering|catholic)($|\/)/
+/.*\.(cab|cafe|cal|call|calvinklein|cam|camera|camp|cancerresearch|canon|capetown|capital|capitalone|car|caravan|cards|care|career|careers|cars|cartier|casa|case|caseih|cash|casino|cat|catering|catholic)($|\/)/
 /.*\.(cba|cbn|cbre|cbs)($|\/)/
 /.*\.(ceb|center|ceo|cern)($|\/)/
 /.*\.(cfa|cfd)($|\/)/
@@ -122,7 +122,7 @@
 /.*\.(guardian|gucci|guge|guide|guitars|guru)($|\/)/
 
 # ...
-/.*\.(gbiz|gdn|ggee)
+/.*\.(gbiz|gdn|ggee)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # H

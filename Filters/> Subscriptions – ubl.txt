@@ -13,34 +13,42 @@ D: https://github.com/NyeUsr/Blacklist/tree/main/uBlacklist
   Blocks AI generated spam, misleading ads, SEO bait, badware sites, & generally low-effort spam websites
   R: https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt
 
-> 3. Fake Webstores
+> 3. ccTLDs
+  Hides Top Level Domains by their Country Codes
+  R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/ccTLDs%20%E2%80%93%C2%A0ubl.txt
+
+> 4. Fake Webstores
   Blocks fake machine-translated web stores that only redirect you to AliExpress
   R: https://raw.githubusercontent.com/franga2000/aliexpress-fake-sites/main/domains_uBlacklist.txt
 
-> 4. FMHY Unsafe Sites Filterlist
+> 5. FMHY Unsafe Sites Filterlist
   Blocks a bunch of unsafe, harmful & malicious websites listed in FMHY Unsafe Sites page
   R: https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt
 
-> 5. Generic Content Farms
+> 6. Generic Content Farms
   Blocks AI content farms
   R: https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt
 
-> 6. SpamdexingSites
+> 7. gTLDs
+  Hides Generic Top Level Domains
+  R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/gTLDs%20%E2%80%93%C2%A0ubl.txt
+
+> 8. SpamdexingSites
   URL feed for blocking spamdexing websites
   R: https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/refs/heads/main/blocklist_UBL.txt
 
-> 7. Super-SEO-Spam-Suppressor
+> 9. Super-SEO-Spam-Suppressor
   Targets websites abusing SEO tactics, content farms, scrapers, copycats, generative AIs, scams, advertisements & malware
   R: https://raw.githubusercontent.com/NotaInutilis/Super-SEO-Spam-Suppressor/refs/heads/main/ublacklist.txt
 
-> 8. uBlacklist Filters for Suspicious Downloads
+> 10. uBlacklist Filters for Suspicious Downloads
   Blocks sites that host suspicious downloads
   R: https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt
 
-> 9. uBlock-Origin-Dev-Filter
+> 11. uBlock-Origin-Dev-Filter
   Supports StackOverflow, GitHub, NPM, Wikipedia & SEO Spam
   R: https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/other_format/uBlacklist/global.txt
 
-> 10. uBlockOrigin & uBlacklist Nuclear AI Blocklist
+> 12. uBlockOrigin & uBlacklist Nuclear AI Blocklist
   Blocks AI generated image results
   R: https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist_nuclear.txt
