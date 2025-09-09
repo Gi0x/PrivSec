@@ -1,6 +1,6 @@
 ! Title: AI ⎯ adb
 ! Description: Blocks select AI apps, domains & tools
 ! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/AI%20%E2%8E%AF%20adb.txt#L251C22
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/AI%20%E2%8E%AF%20adb.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/AI%20%E2%8E%AF%20adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
