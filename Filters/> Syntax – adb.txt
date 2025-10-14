@@ -60,3 +60,58 @@
 ! *. — matches all subdomains and domains.
 ! aaa — the gTLD you want to block.
 ! ^ — marks the end of the domain part.
+
+The /keyword/i rules mean "block any URL containing this word (case-insensitive)".
+The | *keyword*^ rules block any domain or subdomain containing the word.
+You can expand this list with your own keywords - just follow the same syntax.
+Safe sites may sometimes get caught (false positives) → you can whitelist them with exceptions like:
+
+@@||khanacademy.org^
+@@||wikipedia.org
+
+! ==== Parental Keyword Blocking (AdGuard Filters) ===-
+! Blocks requests containing explicit keywords in the URL or path ! Add this to your Custom Filters list in AdGuard
+(Filters panel)
+
+! --- General Adult Keywords ---
+/porn/i 
+/sex/i 
+/xxx/i 
+/erotic/i 
+/nude/i 
+/adult/i 
+/hentai/i
+/escort/i 
+/camgirl/i 
+/hookup/i 
+/fetish/i 
+/milf/i 
+/bdsm/i
+/nsfw/i
+
+! —- Gambling Keywords ---
+/casino/i 
+/poker/i 
+/betting/i 
+/lotto/i 
+/slots/i 
+/bookmaker/i 
+/wager/i
+
+! -- Dating Keywords --- 
+/dating/i 
+/hookup/i 
+/sugarbaby/i 
+/tinder/i 
+/okcupid/i
+/bumble/i 
+/hinge/i 
+/grindr/i
+/matchmaking/i
+
+! --- Prevent URL-based Evasion ---
+||*sex*^
+||*porn*^
+||*xxx*^
+||*cam*^
+||*adult*^
