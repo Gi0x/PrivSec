@@ -162,3 +162,15 @@
 *://*.watch-sports.live/*
 *://*.watchsportonline.co/*
 *://*.watchsportsonline.net/*
+
+*://*.meridiansport.rs/*
+*://*.sportske.net/*
+*://*.volimpartizan.rs/*
+*://*.partizan.rs/*
+*://*.tvarenasport.com/*
+*://*.sportnetwork.rs/*
+*://*.soccersportal.rs/*
+*://*.sportskacentrala.com/*
+*://*.partizan.rs/*
+*://*.sportske.net/*
+*://*.in4s.net/*
