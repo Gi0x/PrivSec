@@ -312,6 +312,7 @@
 *://*.celebmix.com/*
 *://*.celebnetwork.com/*
 *://*.celebnetworth.net/*
+*://*.celebnetworthinfo.com/*
 *://*.celebnetworthpost.com/*
 *://*.celebnetworths.com/*
 *://*.celebnetworthwiki.com/*
@@ -862,6 +863,7 @@
 *://*.theeventchronicle.com/*
 *://*.thefactscity.com/*
 *://*.thenewsgod.com/*
+*://*.thestickyfacts.com/*
 *://*.thunkhuma.info/*
 *://*.thutazone.org/*
 *://*.tiemmesspecialnews.com/*
