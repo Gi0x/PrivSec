@@ -5,16 +5,13 @@
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Search%20%E2%80%93%C2%A0adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-! 1. SafeSearch
-! 2. AI Search Engines
-! 3. Standard Search Engines
+! 1. SafeSearch 
+! 2. Standard Search Engines
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 1. SafeSearch
 
-! --- DuckDuckGo ---
-! DNS-level SafeSearch redirect handled in Control D
-! duckduckgo.com → safe.duckduckgo.com
+! ... DuckDuckGo ...
 
 ! UI: Hide SafeSearch toggle elements
 safe.duckduckgo.com##.js-setting-toggle:has-text(/SafeSearch/i)
@@ -24,7 +21,7 @@ safe.duckduckgo.com##a[href*="kp=-2"]
 ! Extra safety: remove SafeSearch toggle elements via scriptlet
 safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="kp=-1"], a[href*="kp=-2"]')
 
-! --- Kagi ---
+! ... Kagi ...
 ! Block attempts to disable SafeSearch via URL parameters
 ||kagi.com^safe=0*^^
 ||kagi.com^safesearch=off*^^
@@ -37,24 +34,22 @@ kagi.com##.sidebar a[href*="safesearch"]
 kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safesearch"]')
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 1. AOL
+! 2. Standard Search Engines
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––– AOL 
 
 ||aol.com/search^^
 ||aol.com^^
 
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 3. Bing
+! –––––––––––––––––––––––––––––––––––––––––––––––––––– Bing 
 
 ||bing.com/search?q=*&showconv=1^^
 
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 4. Brave
+! –––––––––––––––––––––––––––––––––––––––––––––––––––– Brave
 
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 5. Ecosia
+! –––––––––––––––––––––––––––––––––––––––––––––––––––– Ecosia
 
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 5. Google
+! –––––––––––––––––––––––––––––––––––––––––––––––––––– Google
 
 ||google.ad^
 ||google.ae^
@@ -246,8 +241,7 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 
 ||google.*^^
 
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 6. Searx
+! –––––––––––––––––––––––––––––––––––––––––––––––––––– Searx
 
 ! ... Generic Searx Patterns ...
 
@@ -365,15 +359,12 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||sx.catgirl.cloud^
 ||www.gruble.de^
 
-
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 6. Startpage
+! –––––––––––––––––––––––––––––––––––––––––––––––––––– Startpage
 
 ||startpage.com^^
 ||startpage.eu^^
 
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 7. Yandex
+! –––––––––––––––––––––––––––––––––––––––––––––––––––– Yandex
 
 ||yandex.com^
 ||yandex.com.am^
@@ -394,7 +385,7 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||yandex.uz^
 ||ya.ru^
 
-
+–––––––––––––––––––––––––––––––––––––––––––––––––––– ...
 
 ||$alltheinternet.com^^
 ||100searchengines.com^^
