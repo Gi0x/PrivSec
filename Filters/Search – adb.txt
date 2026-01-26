@@ -5,22 +5,6 @@
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Search%20%E2%80%93%C2%A0adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-
-! ... Kagi ...
-! Block attempts to disable SafeSearch via URL parameters
-||kagi.com^safe=0*^^
-||kagi.com^safesearch=off*^^
-
-! UI: Hide SafeSearch toggles in settings/sidebar
-kagi.com##.settings-section:has-text(/SafeSearch/i)
-kagi.com##.sidebar a[href*="safesearch"]
-
-! Extra safety: remove toggle elements via scriptlet
-kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safesearch"]')
-
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 2. Standard Search Engines
-
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– AOL 
 
 ||aol.com/search^^
@@ -34,7 +18,7 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– DuckDuckGo
 
-! UI: Hide SafeSearch toggle elements
+! Hide SafeSearch toggle elements
 safe.duckduckgo.com##.js-setting-toggle:has-text(/SafeSearch/i)
 safe.duckduckgo.com##a[href*="kp=-1"]
 safe.duckduckgo.com##a[href*="kp=-2"]
@@ -241,7 +225,20 @@ safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="k
 
 ||google.*^^
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––– Searx
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Kagi
+
+! Block attempts to disable SafeSearch via URL parameters
+||kagi.com^safe=0*^^
+||kagi.com^safesearch=off*^^
+
+! Hide SafeSearch toggles in settings/sidebar
+kagi.com##.settings-section:has-text(/SafeSearch/i)
+kagi.com##.sidebar a[href*="safesearch"]
+
+! Remove toggle elements via scriptlet
+kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safesearch"]')
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Searx
 
 ! ... Generic Searx Patterns ...
 
