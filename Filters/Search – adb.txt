@@ -16,6 +16,11 @@
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Brave
 
+||search.brave.com/images^
+||search.brave.com/search^
+||search.brave.com/news^
+||search.brave.com/videos^
+
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– DuckDuckGo
 
 ! Hide SafeSearch toggle elements
