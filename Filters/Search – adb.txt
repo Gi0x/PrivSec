@@ -9,13 +9,31 @@
 
 ||aol.com^
 
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Ask
+
+||ask.com^
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Baidu
+
+||baidu.com^
+
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Bing 
 
 ||bing.com^
 
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Bndkt
+
+||bndkt.cz^
+||bndkt.io^
+
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Brave
 
 ||search.brave.com^
+
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Dogpile
+
+||dogpile.com^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– DuckDuckGo
 
@@ -266,6 +284,10 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||mojeek.co.uk^
 ||mojeek.com^
 
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Qwant
+
+||qwant.com^
+
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Searx
 
 ! ... Generic Searx Patterns ...
@@ -389,26 +411,48 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||startpage.com^
 ||startpage.eu^
 
+! –––––––––––––––––––––––––––––––––––––––––––––––––––– Yahoo
+
+||search.yahoo.com^
+||yahoo.co.jp^
+||yahoo.com^
+
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––– Yandex
 
-||yandex.com^
-||yandex.com.am^
+||yandex.^
+
+||ya.ru^
+||yandex.am^
 ||yandex.az^
 ||yandex.by^
+||yandex.co.il^
+||yandex.co.il^x
+||yandex.com.am^
+||yandex.com.ge^
+||yandex.com.tr^
+||yandex.com^
 ||yandex.ee^
 ||yandex.eu^
-||yandex.com.ge^
-||yandex.co.il^
+||yandex.eu^
+||yandex.fi^
+||yandex.fr^
+||yandex.ge^
 ||yandex.kz^
 ||yandex.lt^
 ||yandex.lv^
 ||yandex.md^
+||yandex.net^
+||yandex.pl^
 ||yandex.ru^
 ||yandex.tj^
 ||yandex.tm^
-||yandex.com.tr^
+||yandex.ua^
 ||yandex.uz^
-||ya.ru^
+
+! ... Sub-Services ...
+
+||yandexsearch.*^
+||yandex.*search*^
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––– ...
 
@@ -419,17 +463,12 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||acxiomsearch.com^
 ||andisearch.com^
 ||apkmirror.com/search^
-||ask.com^
 ||auone.jp^
-||baidu.com^
 ||beagle.io^
 ||becovi.com^
 ||biglobe.ne.jp^
-||bing.com^
 ||blekko.com^
 ||blinde-kuh.de^
-||bndkt.cz^
-||bndkt.io^
 ||boardreader.com^
 ||bunse.xyz^
 ||busca.uol.com.br^
@@ -438,8 +477,6 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||daosearch.com^
 ||daum.net^
 ||disconnect.me/search^
-||dogpile.com^
-||duck.com^
 ||entireweb.com^
 ||etools.ch^
 ||eurekster.com^
@@ -486,13 +523,10 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||peekyou.com^
 ||presearch.com^
 ||qrobe.it^
-||qwant.com^
 ||rambler.ru^
 ||runnaroo.com^
-||safesearchkids.com^
 ||search-results.com^
 ||search.com^
-||search.yahoo.com^
 ||searchalot.com^
 ||searchencrypt.com^
 ||searchengine.party^
@@ -505,7 +539,6 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||sogou.com^
 ||st8.at^
 ||teoma.com^
-||terra.com.br/busca^
 ||terra.com^
 ||thefloatinglab.world^
 ||tiscali.it^
@@ -521,7 +554,6 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||wp.pl^
 ||xayn.com^
 ||ya.ru^
-||yahoo.com^
 ||yep.com^
 ||yioop.com^
 ||you.com^
