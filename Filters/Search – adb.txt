@@ -14,6 +14,11 @@
 ||ask.com^
 ||ask.co.uk^
 
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Ask Jeeves
+
+||askjeeves.com^
+||askjeeves.net^
+
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Baidu
 
 ||baidu.com^
@@ -47,7 +52,18 @@ safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="k
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Ecosia
 
+||ecosia.^
+
+||ecosia.co.uk^
+||ecosia.co^
+||ecosia.de^
+||ecosia.dk^
+||ecosia.es^
+||ecosia.fr^
+||ecosia.it^
+||ecosia.nl^
 ||ecosia.org^
+||ecosia.se^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Google
 
