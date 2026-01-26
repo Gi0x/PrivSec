@@ -7,7 +7,7 @@
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– AOL 
 
-||aol.com/search^^
+||aol.com/search^
 ||aol.com^^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Bing 
@@ -363,8 +363,10 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––– Startpage
 
-||startpage.com^^
-||startpage.eu^^
+||startpage.com^
+||startpage.com/rvd^
+||startpage.com/sp^
+||startpage.eu^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––– Yandex
 
