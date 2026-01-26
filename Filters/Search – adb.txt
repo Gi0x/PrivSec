@@ -263,7 +263,7 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 */search?q=*searx*
 
 ! ... Public Instances ...
-! Note: Frequently change, retrieved from https://github.com/searxng/searx-instances
+! Note: Instances frequently change, retrieved from https://github.com/searxng/searx-instances
 
 ||baresearch.org^
 ||copp.gg^
