@@ -7,19 +7,15 @@
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– AOL 
 
-||aol.com/search^
-||aol.com^^
+||aol.com^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Bing 
 
-||bing.com/search?q=*&showconv=1^^
+||bing.com^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Brave
 
-||search.brave.com/images^
-||search.brave.com/news^
-||search.brave.com/search^
-||search.brave.com/videos^
+||search.brave.com^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– DuckDuckGo
 
@@ -33,24 +29,32 @@ safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="k
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Ecosia
 
-||ecosia.org/images^
-||ecosia.org/news^
-||ecosia.org/search^
-||ecosia.org/videos^
+||ecosia.org^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Google
 
+||google.*^
+
+||google.ac^
 ||google.ad^
 ||google.ae^
+||google.af^
+||google.ag^
+||google.ai^
 ||google.al^
 ||google.am^
+||google.ao^
+||google.ar^
 ||google.as^
 ||google.at^
+||google.au^
 ||google.az^
 ||google.ba^
+||google.bd^
 ||google.be^
 ||google.bf^
 ||google.bg^
+||google.bh^
 ||google.bi^
 ||google.bj^
 ||google.bs^
@@ -66,6 +70,7 @@ safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="k
 ||google.cl^
 ||google.cm^
 ||google.cn^
+||google.co^
 ||google.co.ao^
 ||google.co.bw^
 ||google.co.ck^
@@ -90,15 +95,17 @@ safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="k
 ||google.co.za^
 ||google.co.zm^
 ||google.co.zw^
+||google.com^
 ||google.com.af^
 ||google.com.ag^
+||google.com.ai^
 ||google.com.ar^
 ||google.com.au^
 ||google.com.bd^
 ||google.com.bh^
-||google.com.bn^
 ||google.com.bo^
 ||google.com.br^
+||google.com.by^
 ||google.com.bz^
 ||google.com.co^
 ||google.com.cu^
@@ -146,7 +153,6 @@ safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="k
 ||google.com.uy^
 ||google.com.vc^
 ||google.com.vn^
-||google.com^
 ||google.cv^
 ||google.cz^
 ||google.de^
@@ -164,6 +170,7 @@ safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="k
 ||google.gg^
 ||google.gl^
 ||google.gm^
+||google.gp^
 ||google.gr^
 ||google.gy^
 ||google.hn^
@@ -192,6 +199,7 @@ safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="k
 ||google.mk^
 ||google.ml^
 ||google.mn^
+||google.ms^
 ||google.mu^
 ||google.mv^
 ||google.mw^
@@ -225,16 +233,21 @@ safe.duckduckgo.com#%#//scriptlet('remove-elem', '.js-setting-toggle, a[href*="k
 ||google.tn^
 ||google.to^
 ||google.tt^
+||google.us^
+||google.vg^
 ||google.vu^
 ||google.ws^
 
-||google.*^^
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Ixquick
+
+||ixquick.com^
+||ixquick.eu^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Kagi
 
 ! Block attempts to disable SafeSearch via URL parameters
-||kagi.com^safe=0*^^
-||kagi.com^safesearch=off*^^
+||kagi.com^safe=0*^
+||kagi.com^safesearch=off*^
 
 ! Hide SafeSearch toggles in settings/sidebar
 kagi.com##.settings-section:has-text(/SafeSearch/i)
@@ -242,6 +255,16 @@ kagi.com##.sidebar a[href*="safesearch"]
 
 ! Remove toggle elements via scriptlet
 kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safesearch"]')
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Metacrawler
+
+||metacrawler.com^
+||metacrawler.us^
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Mojeek 
+
+||mojeek.co.uk^
+||mojeek.com^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Searx
 
@@ -259,7 +282,7 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 */search?q=*searx*
 
 ! ... Public Instances ...
-! Note: Instances frequently change, retrieved from https://github.com/searxng/searx-instances
+! Instances frequently change, retrieved from https://github.com/searxng/searx-instances
 
 ||baresearch.org^
 ||copp.gg^
@@ -359,13 +382,11 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 ||searxng.website^
 ||seek.fyi^
 ||sx.catgirl.cloud^
-||www.gruble.de^
+||gruble.de^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––– Startpage
 
 ||startpage.com^
-||startpage.com/rvd^
-||startpage.com/sp^
 ||startpage.eu^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––– Yandex
@@ -391,127 +412,117 @@ kagi.com#%#//scriptlet('remove-elem', '.settings-section, .sidebar a[href*="safe
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––– ...
 
-||$alltheinternet.com^^
-||100searchengines.com^^
-||123people.de^^
-||9ifly.cn^^
-||acxiomsearch.com^^
-||andisearch.com^^
-||aol.com/search^^
-||aol.com^^
-||apkmirror.com/search^^
-||ask.com^^
-||auone.jp^^
-||baidu.com^^
-||beagle.io^^
-||becovi.com^^
-||biglobe.ne.jp^^
-||bing.com^^
-||blekko.com^^
-||blinde-kuh.de^^
-||bndkt.cz^^
-||bndkt.io^^
-||boardreader.com^^
-||bunse.xyz^^
-||busca.uol.com.br^^
-||clusty.com^^
-||coccoc.com/search^^
-||daosearch.com^^
-||daum.net^^
-||disconnect.me/search^^
-||dogpile.com^^
-||duck.com^^
-||ecosia.org^^
-||entireweb.com^^
-||etools.ch^^
-||eurekster.com^^
-||exalead.com^^
-||excite.com^^
-||factbites.com^^
-||faganfinder.com^^
-||faroo.com^^
-||findability.com^^
-||findit.com^^
-||findx.com^^
-||gibiru.com^^
-||gigablast.com^^
-||globo.com/busca^^
-||gmx.net/web/search^^
-||gogglesearch.net^^
-||goo.ne.jp^^
-||goodsearch.com^^
-||hotbot.com^^
-||info.com^^
-||infospace.com^^
-||interia.pl^^
-||isearchfrom.com^^
-||ixquick.com^^
-||ixquick.eu^^
-||joshcenters.com^^
-||joshuab.xyz^^
-||jtateossian.xyz^^
-||kiddle.co^^
-||ksearch.com^^
-||lukol.com^^
-||lycos.com^^
-||mail.ru^^
-||metacrawler.com^^
-||metacrawler.us^^
-||metager.org^^
-||mojeek.co.uk^^
-||mojeek.com^^
-||msn.com/search^^
-||naver.com^^
-||neeva.com^^
-||nigma.ru^^
-||nobigtech.es^^
-||nona.to^^
-||nortonsafe.search.com^^
-||onesearch.com^^
-||onet.pl^^
-||oscobo.com^^
-||ozzu.com^^
-||peekier.com^^
-||peekyou.com^^
-||presearch.com^^
-||qrobe.it^^
-||qwant.com^^
-||rambler.ru^^
-||runnaroo.com^^
-||safesearchkids.com^^
-||search-results.com^^
-||search.com^^
-||search.yahoo.com^^
-||searchalot.com^^
-||searchencrypt.com^^
-||searchengine.party^^
-||searchonlinenow.net^^
-||searchzillions.com^^
-||seznam.cz^^
-||slickvpnsearch.com^^
-||sm.cn^^
-||so.com^^
-||sogou.com^^
-||st8.at^^
-||teoma.com^^
-||terra.com.br/busca^^
-||terra.com^^
-||thefloatinglab.world^^
-||tiscali.it^^
-||trovit.com^^
-||uol.com.br/busca^^
-||veromi.com^^
-||viendex.com^^
-||virgilio.it^^
-||webcrawler.com^^
-||wiby.me^^
-||wiby.org^^
-||wow.com^^
-||wp.pl^^
-||xayn.com^^
-||ya.ru^^
-||yahoo.com^^
-||yep.com^^
-||yioop.com^^
-||you.com^^
-||zapmeta.com^^
+||$alltheinternet.com^
+||100searchengines.com^
+||123people.de^
+||9ifly.cn^
+||acxiomsearch.com^
+||andisearch.com^
+||apkmirror.com/search^
+||ask.com^
+||auone.jp^
+||baidu.com^
+||beagle.io^
+||becovi.com^
+||biglobe.ne.jp^
+||bing.com^
+||blekko.com^
+||blinde-kuh.de^
+||bndkt.cz^
+||bndkt.io^
+||boardreader.com^
+||bunse.xyz^
+||busca.uol.com.br^
+||clusty.com^
+||coccoc.com/search^
+||daosearch.com^
+||daum.net^
+||disconnect.me/search^
+||dogpile.com^
+||duck.com^
+||entireweb.com^
+||etools.ch^
+||eurekster.com^
+||exalead.com^
+||excite.com^
+||factbites.com^
+||faganfinder.com^
+||faroo.com^
+||findability.com^
+||findit.com^
+||findx.com^
+||gibiru.com^
+||gigablast.com^
+||globo.com/busca^
+||gmx.net/web/search^
+||gogglesearch.net^
+||goo.ne.jp^
+||goodsearch.com^
+||hotbot.com^
+||info.com^
+||infospace.com^
+||interia.pl^
+||isearchfrom.com^
+||joshuab.xyz^
+||jtateossian.xyz^
+||kiddle.co^
+||ksearch.com^
+||lukol.com^
+||lycos.com^
+||mail.ru^
+||metager.org^
+||msn.com/search^
+||naver.com^
+||neeva.com^
+||nigma.ru^
+||nobigtech.es^
+||nona.to^
+||nortonsafe.search.com^
+||onesearch.com^
+||onet.pl^
+||oscobo.com^
+||ozzu.com^
+||peekier.com^
+||peekyou.com^
+||presearch.com^
+||qrobe.it^
+||qwant.com^
+||rambler.ru^
+||runnaroo.com^
+||safesearchkids.com^
+||search-results.com^
+||search.com^
+||search.yahoo.com^
+||searchalot.com^
+||searchencrypt.com^
+||searchengine.party^
+||searchonlinenow.net^
+||searchzillions.com^
+||seznam.cz^
+||slickvpnsearch.com^
+||sm.cn^
+||so.com^
+||sogou.com^
+||st8.at^
+||teoma.com^
+||terra.com.br/busca^
+||terra.com^
+||thefloatinglab.world^
+||tiscali.it^
+||trovit.com^
+||uol.com.br/busca^
+||veromi.com^
+||viendex.com^
+||virgilio.it^
+||webcrawler.com^
+||wiby.me^
+||wiby.org^
+||wow.com^
+||wp.pl^
+||xayn.com^
+||ya.ru^
+||yahoo.com^
+||yep.com^
+||yioop.com^
+||you.com^
+||zapmeta.com^
