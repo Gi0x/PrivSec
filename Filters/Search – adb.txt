@@ -17,8 +17,8 @@
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Brave
 
 ||search.brave.com/images^
-||search.brave.com/search^
 ||search.brave.com/news^
+||search.brave.com/search^
 ||search.brave.com/videos^
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– DuckDuckGo
