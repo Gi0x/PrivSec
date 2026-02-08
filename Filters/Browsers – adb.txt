@@ -20,7 +20,7 @@
 ||comet.perplexity.ai^
 ||diabrowser.com^
 ||dolphin-browser-app.com^
-||dolphin.com^
+||dolphin.com^$document,important
 ||dolphinbrowserfree.com^
 ||duckduckgo.com/app^
 ||epicbrowser.com^
