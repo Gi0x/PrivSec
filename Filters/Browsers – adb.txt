@@ -50,7 +50,7 @@
 ||mozilla.org^
 ||omnigroup.com/more^
 ||opera.com/download^
-||opera.com^
+||opera.com^$document,redirect=blocked.html,important
 ||palemoon.org^
 ||polaritybrowser.netlify.app^
 ||puffin.com^
@@ -69,7 +69,7 @@
 ||ucweb.com^
 ||ungoogled-software.github.io/ungoogled-chromium^
 ||vivaldi.com/download^
-||vivaldi.com^
+||vivaldi.com^$document,redirect=blocked.html,important
 ||waterfox.net^
 ||webkit.org^
 ||whale.naver.com^
