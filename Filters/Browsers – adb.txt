@@ -46,8 +46,6 @@
 ||microsoft.com/edge^
 ||microsoft.com/en-us/edge^
 ||morequick.com^
-||mozilla.org/firefox^
-||mozilla.org^
 ||omnigroup.com/more^
 ||opera.com/download^
 ||opera.com^$document,redirect=blocked.html,important
