@@ -5,6 +5,7 @@
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Porn%20%E2%80%93%C2%A0ubl.txt  
 # R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Porn%20%E2%80%93%C2%A0ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# Domains not covered by OISD's Nsfw List for uBlacklist
 
 *://*.abprintshop.com/*
 *://*.adultsextoywholesalers.com.au/*
@@ -16,11 +17,13 @@
 *://*.ayurvedalive.in/*
 *://*.babes.gallery/*
 *://*.babesrater.com/*
+*://*.beautifulporn.net/*
 *://*.beeg.tv/*
 *://*.belrose.eu/*
 *://*.bestsexgif.com/*
 *://*.blackbabesblog.com/*
 *://*.blackpornhub.org/*
+*://*.bol.com/*
 *://*.bonkr.com.au/*
 *://*.bratopia.ca/*
 *://*.bunnylust.com/*
@@ -31,8 +34,12 @@
 *://*.csfd.cz/*
 *://*.csfd.sk/*
 *://*.cumception.com/*
+*://*.curve-models.com/*
 *://*.datingskillsreview.com/*
 *://*.ddf-models.com/*
+*://*.desitales2.com/*
+*://*.deviantart.com/*
+*://*.diamondescort-frankfurt.de/*
 *://*.drrideout.com/*
 *://*.eachporn.com/*
 *://*.efappy.com/*
@@ -42,17 +49,23 @@
 *://*.faperoni.com/*
 *://*.fapfappy.com/*
 *://*.far-light-photography.at/*
+*://*.fetcherx.com/*
 *://*.fhm.com/*
 *://*.flashingjungle.com/*
 *://*.fleshlight.eu/*
 *://*.fooxybabes.com/*
 *://*.fotonovelasxxx.com/*
+*://*.gay45.eu/*
 *://*.ggjav.tv/*
+*://*.girlswithmuscle.com/*
 *://*.girlyjuice.net/*
+*://*.girlytutus.rest/*
 *://*.hagiang.gov.vn/*
 *://*.hot-vixens.com/*
 *://*.hotnessrater.com/*
+*://*.hotpic.cc/*
 *://*.idposter.com/*
+*://*.ilovnudes.com/*
 *://*.im9.eu/*
 *://*.imagepost.com/*
 *://*.imperiodefamosas.com/*
@@ -62,24 +75,34 @@
 *://*.kantotin.com/*
 *://*.kendralust.com/*
 *://*.kinkly.com/*
+*://*.klipon.com/*
+*://*.krasavica.info/*
 *://*.lingerie-beauties.com/*
 *://*.lionsden.com/*
 *://*.loyalfans.com/*
 *://*.lukeford.com/*
 *://*.lukeisback.com/*
+*://*.maxim.com/*
+*://*.mensxp.com/*
 *://*.michelebergh.com/*
+*://*.modelmayhem.com/*
 *://*.mompornpics.club/*
 *://*.myfriendshotmom.com/*
 *://*.mykinkystuff.com/*
+*://*.mysextoyguide.com/*
 *://*.mysistershotfriend.com/*
 *://*.mytaboo.net/*
 *://*.naughtyamericavr.com/*
+*://*.news18.com/*
+*://*.nudecelebrityblogs.net/*
 *://*.nuslut.com/*
 *://*.ohueli.net/*
 *://*.openerotik.com/*
 *://*.osobnosti.cz/*
 *://*.peakpx.com/*
 *://*.penthousegold.com/*
+*://*.pillowfort.social/*
+*://*.pleasurechest.com.au/*
 *://*.porncorporation.com/*
 *://*.pornhint.com/*
 *://*.pornokral.sk/*
@@ -87,11 +110,14 @@
 *://*.pornpics.vip/*
 *://*.pornstar-search.com/*
 *://*.pornstar.actor/*
+*://*.purelynudegoddesses.com/*
+*://*.pureplaymedia.com/*
 *://*.rabbitsfun.com/*
 *://*.ravishly.com/*
 *://*.rogreviews.com/*
 *://*.rssing.com/*
 *://*.sassiholford.com/*
+*://*.schoolofsquirt.com/*
 *://*.sexiestpornstars.com/*
 *://*.sexmixxx.com/*
 *://*.sexodi.com/*
@@ -101,10 +127,12 @@
 *://*.sexwithemily.com/*
 *://*.siliconelovers.com/*
 *://*.silkengirl.net/*
+*://*.sluttygirlproblems.com/*
 *://*.sndoll.com/*
 *://*.spicyporntrials.com/*
 *://*.teamskeettube.com/*
 *://*.theguyshack.com/*
+*://*.thenudecartoons.blogspot.com/*
 *://*.thepleasurechest.com/*
 *://*.therealpornwikileaks.com/*
 *://*.thumbnailseries.com/*
@@ -138,6 +166,8 @@
 *://*.ubuy.sn/*
 *://*.ubuy.tn/*
 *://*.ubuy.ug/*
+*://*.uncutdesi2.com/*
+*://*.unlockd.me/*
 *://*.unmsm.edu.pe/*
 *://*.utetobias.de/*
 *://*.vsdoll.net/*
