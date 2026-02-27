@@ -5,7 +5,7 @@
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Porn%20%E2%80%93%C2%A0ubl.txt  
 # R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Porn%20%E2%80%93%C2%A0ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-# Domains not covered by OISD's Nsfw List for uBlacklist
+# Domains not covered by OISD's nsfw list for uBlacklist can be found below
 
 *://*.abprintshop.com/*
 *://*.adultsextoywholesalers.com.au/*
@@ -64,6 +64,7 @@
 *://*.hot-vixens.com/*
 *://*.hotnessrater.com/*
 *://*.hotpic.cc/*
+*://*.hubzter.pro/*
 *://*.idposter.com/*
 *://*.ilovnudes.com/*
 *://*.im9.eu/*
@@ -125,6 +126,7 @@
 *://*.sextoys.co.uk/*
 *://*.sexualpositionsfree.com/*
 *://*.sexwithemily.com/*
+*://*.sheeshporn69.info/*
 *://*.siliconelovers.com/*
 *://*.silkengirl.net/*
 *://*.sluttygirlproblems.com/*
@@ -136,6 +138,7 @@
 *://*.thepleasurechest.com/*
 *://*.therealpornwikileaks.com/*
 *://*.thumbnailseries.com/*
+*://*.tiekoetter.com/*
 *://*.u-buy.ch/*
 *://*.u-buy.co.nz/*
 *://*.u-buy.co.uk/*
@@ -176,10 +179,12 @@
 *://*.westdelhiescorts.com/*
 *://*.wildfantasy.com.au/*
 *://*.wordpress.com/*
+*://*.xb1.com/*
 *://*.xndoll.com/*
 *://*.xnxx.rodeo/*
 *://*.xxxporn.pics/*
 *://*.xxxpornimages.net/*
 *://*.xxxpussy.net/*
+*://*.yespornotube.com/*
 *://*.ynot.com/*
 *://*.ynoteurope.com/*
