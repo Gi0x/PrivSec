@@ -1,4 +1,4 @@
-# Title: Astro – ubl
+# Title: Astro
 # Description: Hides astrology & tarot sites
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Astro%20%E2%80%93%C2%A0ubl.txt
