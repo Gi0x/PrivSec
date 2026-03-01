@@ -1,7 +1,7 @@
-! Title: Porn ⎯ adb
+! Title: Adult ⎯ adb
 ! Description: Blocks porn
 ! DeDup: Y, Sorted: Y
-! Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Porn.txt
-! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Porn%20%E2%80%93%C2%A0adb.txt  
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Porn%20%E2%80%93%C2%A0adb.txt
+! Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Adult.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Adult%20%E2%80%93%C2%A0adb.txt  
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Adult%20%E2%80%93%C2%A0adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

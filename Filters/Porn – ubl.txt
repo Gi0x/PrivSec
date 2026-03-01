@@ -1,11 +1,11 @@
 
+# Title: Porn ⎯ ubl
 # DeDup: Y, Sorted: Y
 # Description: Hides porn
 # Domains not covered by OISD's nsfw list for uBlacklist can be found below
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Porn%20%E2%80%93%C2%A0ubl.txt  
 # R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Porn%20%E2%80%93%C2%A0ubl.txt
 # Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Porn.txt
-# Title: Porn ⎯ ubl
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.abprintshop.com/*

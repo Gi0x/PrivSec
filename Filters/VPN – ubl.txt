@@ -1,6 +1,0 @@
-# Title: VPNs ⎯ ubl 
-# Description: Hides select VPN apps & sites
-# DeDup: N, Sorted: N
-# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/VPNs%20%E2%80%93%C2%A0ubl.txt 
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/VPNs%20%E2%80%93%C2%A0ubl.txt
-# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

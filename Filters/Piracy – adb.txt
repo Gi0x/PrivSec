@@ -1,7 +1,0 @@
-! Title: Piracy ⎯ adb
-! Description: Blocks piracy domains
-! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Piracy%20%E2%80%93%C2%A0adb.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Piracy%20%E2%80%93%C2%A0adb.txt
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-

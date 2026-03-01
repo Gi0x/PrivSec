@@ -1,6 +1,0 @@
-! Title: Ads – lbk
-! Description: Blocks ad & tracking domains
-! DeDup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Ads%20%E2%80%93%C2%A0lbk.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Ads%20%E2%80%93%C2%A0lbk.txt
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

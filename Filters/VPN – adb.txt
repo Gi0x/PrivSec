@@ -1,7 +1,0 @@
-! Title: VPNs ⎯ adb
-! Description: Blocks select VPN apps & domains
-! DeDup: -, Sorted: -
-! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/VPNs%20%E2%80%93%C2%A0adb.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/VPNs%20%E2%80%93%C2%A0adb.txt
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
