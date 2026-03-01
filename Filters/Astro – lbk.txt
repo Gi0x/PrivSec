@@ -1,7 +1,7 @@
-! Title: Astro – lcb
+! Title: Astro – lbk
 ! Description: Blocks astrology & tarot domains
 ! DeDup: N, Sorted: N
-! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Astro%20%E2%80%93%C2%A0lcb.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Astro%20%E2%80%93%C2%A0lcb.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Astro%20%E2%80%93%C2%A0lbk.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Astro%20%E2%80%93%C2%A0lbk.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 

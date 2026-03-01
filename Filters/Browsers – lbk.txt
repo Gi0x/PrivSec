@@ -1,8 +1,8 @@
-! Title: Browsers – adb
+! Title: Browsers – lbk
 ! Description: Blocks select browsers
 ! Dedup: Y, Sorted: Y
-! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Browsers%20%E2%80%93%C2%A0adb.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Browsers%20%E2%80%93%C2%A0adb.txt
+! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Browsers%20%E2%80%93%C2%A0lbk.txt
+! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Browsers%20%E2%80%93%C2%A0lbk.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||arc.net^
