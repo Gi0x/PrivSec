@@ -7,76 +7,109 @@
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-# 1. BeReal
-# 2. Discord
-# 3. Facebook
-# 4. Giphy
-# 5. Instagram
-# 6. LinkedIn
-# 7. Mastodon
-# 8. Messenger
-# 9. Reddit
-# 10. Snapchat
-# 11. Telegram
-# 12. Threads
-# 13. TikTok
-# 14. Twitter [X]
-# 15. VK
-# 16. WhatsApp
-# 17. ...
-
-# Sources:
-# https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Discord.txt
-# https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Facebook.txt
-# https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Reddit.txt
-# https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Snapchat.txt
-# https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/TikTok.txt
+# 1. Ask.fm
+# 2. BeReal
+# 3. Classmates
+# 4. Clubhouse
+# 5. Collabstr
+# 6. DeviantArt
+# 7. Discord
+# 8. Disqus
+# 9. Facebook
+# 10. Giphy
+# 11. Goodreads
+# 12. Instagram
+# 13. LinkedIn
+# 14. Mastodon
+# 15. Messenger
+# 16. Myspace
+# 17. Quora
+# 18. Reddit
+# 19. Snapchat
+# 20. Telegram
+# 21. Threads
+# 22. TikTok
+# 23. Tumblr
+# 24. Twitter & x
+# 25. VK
+# 26. Wattpad
+# 27. WeHeartIt
+# 28. WhatsApp
+# 29. Wopita
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. BeReal
+# 1. Ask.fm
+
+*://*.ask.fm/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 2. BeReal
 
 *://*.bere.al/*
 *://*.bereal.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Discord
+# 3. Classmates
+
+*://*.classmates.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 4. Clubhouse
+
+*://*.clubhouse.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 5. Collabstr
+
+*://*.collabstr.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 6. DeviantArt
+
+*://*.deviantart.com/*
+*://*.deviantart.net/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 7. Discord
 
 *://*.discord.com/*
 *://*.discord.gg/*
-*://*.discord.media/*
 *://*.discordapp.com/*
-*://*.discordapp.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Facebook
+# 8. Disqus
 
-*://*.face.com/*
-*://*.facebook-hardware.com/*
+*://*.disqus.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 9. Facebook
+
 *://*.facebook.com/*
 *://*.facebook.de/*
 *://*.facebook.net/*
 *://*.facebook.org/*
-*://*.facebookblueprint.com/*
-*://*.facebookbrand.com/*
-*://*.facebookrecruiting.com/*
 *://*.fb.com/*
 *://*.fb.gg/*
 *://*.fb.me/*
-*://*.fbcdn.net/*
-*://*.fbpigeon.com/*
-*://*.fbsbx.com/*
-*://*.fbwat.ch/*
-*://*.tfbnw.net/*
+*://*.meta.com/*
 *://*.thefacebook.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Giphy
+# 10. Giphy
 
 *://*.giphy.com/*
-*://*.giphy.world/*
+*://*.giphyusercontent.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Instagram
+# 11. Goodreads
+
+*://*.goodreads.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 12. Instagram
+
+*://*.instagram.com/*
+*://*.instagr.am/*
 
 *://*.0insta.com/*
 *://*.1stagram.com/*
@@ -147,7 +180,6 @@
 *://*.goread.io/*
 *://*.gram-log-in.com/*
 *://*.gramblr.me/*
-*://*.gramhir.com/
 *://*.gramhir.com/*
 *://*.gramhir.pro/*
 *://*.gramhir.us/*
@@ -259,7 +291,6 @@
 *://*.instafreeview.com/*
 *://*.instagimg.com/*
 *://*.instagrab.net/*
-*://*.instagram.com/*
 *://*.instagram.net/*
 *://*.instagramviewer.com/*
 *://*.instagrap.net/*
@@ -355,7 +386,6 @@
 *://*.noagendasocial.com/*
 *://*.noxinfluencer.com/*
 *://*.one.darnell.one/*
-*://*.pages.dev/*
 *://*.pathsocial.com/*
 *://*.pawoo.net/*
 *://*.paxtier.com/*
@@ -383,7 +413,6 @@
 *://*.privateinsta.com/*
 *://*.privatephotoviewer.com/*
 *://*.privateviewer.net/*
-*://*.pypi.org/*
 *://*.qevna.com/*
 *://*.quasa.io/*
 *://*.quickfansandlikes.com/*
@@ -485,7 +514,6 @@
 *://*.upgrow.com/*
 *://*.vapingcorp.com/*
 *://*.veloceinternational.com/*
-*://*.vercel.app/*
 *://*.vi-ck.com/*
 *://*.viewerstory.com/*
 *://*.viewgram.net/*
@@ -514,139 +542,118 @@
 *://*.zoomprofile.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. LinkedIn
+# 13. LinkedIn
 
 *://*.linkedin.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. Mastodon
+# 14. Mastodon
 
 *://*.joinmastodon.org/*
 *://*.mas.to/*
-*://*.masto.ai/*
-*://*.masto.host/*
-*://*.mastodon.blackblock.rocks/*
 *://*.mastodon.cloud/*
 *://*.mastodon.online/*
-*://*.mastodon.party.at/*
-*://*.mastodon.sdf.org/*
 *://*.mastodon.social/*
-*://*.mastodon.top/*
 *://*.mastodon.uno/*
 *://*.mastodon.world/*
-*://*.mastodonapp.uk/*
-*://*.meetup.com/*
 *://*.mstdn.jp/*
 *://*.mstdn.party/*
 *://*.mstdn.social/*
-*://*.mstdn.starnix.network/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 8. Messenger
+# 15. Messenger
 
 *://*.m.me/*
 *://*.messenger.com/*
-*://*.messengerdevelopers.com/*
 *://*.messengerkids.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 9. Reddit
+# 16. Myspace
+
+*://*.myspace.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 17. Quora
+
+*://*.quora.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 18. Reddit
 
 *://*.redd.it/*
 *://*.reddit.com/*
+*://*.reddithelp.com/*
+*://*.redditinc.com/*
 *://*.redditmedia.com/*
 *://*.redditreads.com/*
 *://*.redditstatic.com/*
 *://*.subredditstats.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 10. Snapchat
+# 19. Snapchat
 
 *://*.bitmoji.com/*
-*://*.feelinsonice.com/*
-*://*.sc-cdn.net/*
-*://*.sc-gw.com/*
-*://*.sc-jpl.com/*
-*://*.sc-prod.ne/*
-*://*.sc-prod.net/*
-*://*.sc-static.net/*
 *://*.snap.com/*
-*://*.snapads.com/*
 *://*.snapchat.com/*
-*://*.snapkit.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 11. Telegram
+# 20. Telegram
 
-*://*.mytelegram.org/*
 *://*.t.me/*
 *://*.telegram.im/*
 *://*.telegram.me/*
 *://*.telegram.org/*
-*://*.telegram.tips/*
-*://*.webogram.org/*
+*://*.telegramchannels.me/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 12. Threads
+# 21. Threads
 
 *://*.threads.com/*
 *://*.threads.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 13. TikTok
+# 22. TikTok
 
-*://*.bytedance.com/*
-*://*.byteoversea.com/*
-*://*.byteoversea.net/*
-*://*.ibytedtos.com/*
+*://*.lifeattiktok.com/*
 *://*.musical.ly/*
-*://*.musically.ly/*
+*://*.snaptik.kim/*
 *://*.tiktok.com/*
-*://*.tiktokcdn.com/*
-*://*.tiktokv.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 14. Twitter [X]
+# 23. Tumblr
 
-*://*.mopub.com/*
-*://*.periscope.tv/*
-*://*.pscp.tv/*
+*://*.tumblr.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 24. Twitter & X
+
 *://*.t.co/*
-*://*.twimg.com/*
 *://*.twitter.com/*
-*://*.twitterinc.com/*
-*://*.twttr.com/*
-*://*.twtrdns.net/*
 *://*.x.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 15. VK
+# 25. VK
 
 *://*.vk.com/*
 *://*.vk.me/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 16. WhatsApp
+# 26. Wattpad
+
+*://*.wattpad.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 27. WeHeartIt
+
+*://*.weheartit.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 28. WhatsApp
 
 *://*.wa.me/*
 *://*.whatsapp.com/*
-*://*.whatsapp.me/*
-*://*.whatsapp.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 17. ...
+# 29. Wopita
 
-*://*.ask.fm/*
-*://*.classmates.com/*
-*://*.clubhouse.com/*
-*://*.collabstr.com/*
-*://*.commentsmodule.com/*
-*://*.deviantart.com/*
-*://*.disqus.com/*
-*://*.goodreads.com/*
-*://*.myspace.com/*
-*://*.quora.com/*
-*://*.tumblr.com/*
-*://*.wattpad.com/*
-*://*.weheartit.com/*
 *://*.wopita.com/*
