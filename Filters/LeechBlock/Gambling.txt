@@ -1,4 +1,4 @@
-! Title: Gambling ⎯ lbk 
+! Title: Gambling 
 ! Description: Blocks gambling domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Gambling%20%E2%80%93%C2%A0lbk.txt

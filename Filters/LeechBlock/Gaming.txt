@@ -1,4 +1,4 @@
-! Title: Gaming ⎯ lbk  
+! Title: Gaming  
 ! Description: Blocks gaming related domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Gaming%20%E2%80%93%C2%A0lbk.txt  

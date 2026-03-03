@@ -1,4 +1,4 @@
-! Title: Social ⎯ adb
+! Title: Social
 ! Description: Blocks select social media
 ! DeDup: Y, Sorted: Y
 ! Note: Pinterest domains excluded, but available from NyeUsr
