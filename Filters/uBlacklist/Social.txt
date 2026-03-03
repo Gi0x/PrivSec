@@ -115,6 +115,7 @@
 *://*.1stagram.com/*
 *://*.ahasave.com/*
 *://*.allstories.co/*
+*://*.analyz.io/*
 *://*.anon-viewer.com/*
 *://*.anongram.com/*
 *://*.anonigviewer.com/*
@@ -148,6 +149,7 @@
 *://*.brighteon.social/*
 *://*.buzzoid.com/*
 *://*.c.im/*
+*://*.cdninstagram.com/*
 *://*.chaos.social/*
 *://*.clonestagram.com/*
 *://*.counter.social/*
@@ -167,6 +169,7 @@
 *://*.fakelogininstagram.com/*
 *://*.fakeloginpages.com/*
 *://*.famety.com/*
+*://*.fastlykke.com/*
 *://*.fenced.ai/*
 *://*.flocksocial.com/*
 *://*.floss.social/*
@@ -200,12 +203,14 @@
 *://*.idcrawl.com/*
 *://*.ig-analyzer.com/*
 *://*.ig-crate.com/*
+*://*.ig.me/*
 *://*.iganony.cc/*
 *://*.iganony.cloud/*
 *://*.iganony.com/*
 *://*.iganony.one/*
 *://*.iganony.org/*
 *://*.iganonyviewer.com/*
+*://*.igblade.com/*
 *://*.igcomment.com/*
 *://*.ighighlightviewer.com/*
 *://*.iglogins.com/*
@@ -222,6 +227,7 @@
 *://*.igstan.com/*
 *://*.igstoryviewer.pro/*
 *://*.igstoryviewers.com/*
+*://*.igtvhub.com/*
 *://*.igviewer.io/*
 *://*.igviewer.one/*
 *://*.igviewer.pro/*
@@ -261,6 +267,7 @@
 *://*.inspiretothrive.com/*
 *://*.inst-account-verification.com/*
 *://*.inst4gram.com/*
+*://*.insta-account-verification.com/*
 *://*.insta-checker.com/*
 *://*.insta-downloader.net/*
 *://*.insta-editor.com/*
@@ -275,6 +282,7 @@
 *://*.insta-stories.online/*
 *://*.insta-stories.ru/*
 *://*.insta-story-viewer.pl/*
+*://*.insta-tools.com/*
 *://*.insta-viewer.com/*
 *://*.instaanony.com/*
 *://*.instabiography.com/*
@@ -299,6 +307,7 @@
 *://*.instaloginpanel.com/*
 *://*.instalogon.net/*
 *://*.instalooker.org/*
+*://*.instametrics.net/*
 *://*.instanavi.me/*
 *://*.instanavigation.com/*
 *://*.instanavigation.net/*
@@ -362,6 +371,7 @@
 *://*.keesy.com/*
 *://*.kwai.com/*
 *://*.liangyu.dev/*
+*://*.like4like.org/*
 *://*.likee.video/*
 *://*.likefy.com/*
 *://*.login-ig.com/*
@@ -397,6 +407,7 @@
 *://*.picuki.com/*
 *://*.picuki.io/*
 *://*.picuki.me/*
+*://*.picuki.my/*
 *://*.picuki.site/*
 *://*.picuki.tv/*
 *://*.pieville.net/*
@@ -439,6 +450,7 @@
 *://*.socialoapp.com/*
 *://*.socialplug.io/*
 *://*.socialprivateviewer.com/*
+*://*.socialrank.com/*
 *://*.socinator.com/*
 *://*.spyinsta.org/*
 *://*.spystoryviewer.com/*
@@ -474,7 +486,7 @@
 *://*.storistalk.com/*
 *://*.storistalker.com/*
 *://*.storiystalker.com/*
-*://*.story-down.com
+*://*.story-down.com/*
 *://*.story-viewer.co/*
 *://*.story-viewer.org/*
 *://*.storybox.io/*
@@ -496,6 +508,7 @@
 *://*.swioz.com/*
 *://*.tagged.com/*
 *://*.techhub.social/*
+*://*.tfbnw.net/*
 *://*.the-picnob.com/*
 *://*.theinstanavigation.com/*
 *://*.thepicnob.com/*
@@ -634,8 +647,10 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 25. VK
 
+*://*.vk.cc/*
 *://*.vk.com/*
 *://*.vk.me/*
+*://*.vkontakte.ru/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 26. Wattpad
