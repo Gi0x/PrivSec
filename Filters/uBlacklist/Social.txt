@@ -2,8 +2,8 @@
 # Description: Hides select social media
 # DeDup: Y, Sorted: Y
 # Note: Pinterest domains excluded, but available from NyeUsr
-# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/uBlacklist/Social.txt
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/Social.txt
+# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Social%20%E2%80%93%C2%A0ubl.txt
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Social%20%E2%80%93%C2%A0ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
@@ -36,6 +36,7 @@
 # 27. WeHeartIt
 # 28. WhatsApp
 # 29. Wopita
+# 30. ...
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. Ask.fm
@@ -672,3 +673,8 @@
 # 29. Wopita
 
 *://*.wopita.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 30. ...
+
+*://*.connectwithinfluencers.com/*
