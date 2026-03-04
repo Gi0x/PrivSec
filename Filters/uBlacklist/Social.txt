@@ -678,3 +678,4 @@
 # 30. ...
 
 *://*.connectwithinfluencers.com/*
+*://*.heepsy.com/*
