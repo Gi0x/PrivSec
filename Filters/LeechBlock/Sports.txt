@@ -1,5 +1,5 @@
 ! Title: Sports
-! Description: Blocks sports related sites (incl. streaming)
+! Info: Blocks sports related sites (incl. streaming)
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Sports%20%E2%80%93%C2%A0adb.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Sports%20%E2%80%93%C2%A0adb.txt

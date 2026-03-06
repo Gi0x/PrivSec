@@ -1,4 +1,4 @@
-! Title: Audio ⎯ adb
+! Title: Audio
 ! Description: Blocks audio & video streaming domains
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Streams%20%E2%80%93%C2%A0adb.txt
