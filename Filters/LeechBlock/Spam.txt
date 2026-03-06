@@ -1,4 +1,4 @@
-! Title: Spam ⎯ adb
+! Title: Spam
 ! Description: Blocks low-quality, fake & spammy sites
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Spam%20%E2%80%93%C2%A0adb.txt
