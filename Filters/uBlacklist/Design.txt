@@ -1,4 +1,4 @@
-# Title: Design ⎯ ubl 
+# Title: Design 
 # Description: Hides select web design sites & tools
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Design%20%E2%80%93%C2%A0ubl.txt 

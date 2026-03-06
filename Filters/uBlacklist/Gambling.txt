@@ -1,4 +1,4 @@
-# Title: Gambling ⎯ ubl 
+# Title: Gambling 
 # Description: Hides gambling & betting sites
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Gambling%20%E2%80%93%C2%A0ubl.txt   

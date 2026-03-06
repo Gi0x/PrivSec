@@ -1,4 +1,4 @@
-# Title: Gaming ⎯ ubl 
+# Title: Gaming
 # Description: Hides gaming related sites
 # DeDup: N, Sorted: N
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Gaming%20%E2%80%93%C2%A0ubl.txt   

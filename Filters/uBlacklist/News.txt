@@ -1,4 +1,4 @@
-# Title: News ⎯ ubl 
+# Title: News
 # Description: Hides mainstream news sites
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/News%20%E2%80%93%C2%A0ubl.txt  

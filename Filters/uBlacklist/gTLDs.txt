@@ -1,4 +1,4 @@
-# Title: gTLDs ⎯ ubl
+# Title: gTLDs
 # Description: Hides Generic Top Level Domains
 # DeDup: Y, Sorted: Y
 # M: https://github.com/Gi0x/PrivSec/blob/main/Filters/gTLDs%20%E2%80%93%C2%A0ubl.txt

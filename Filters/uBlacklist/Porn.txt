@@ -1,5 +1,5 @@
 
-# Title: Porn ⎯ ubl
+# Title: Porn
 # DeDup: Y, Sorted: Y
 # Description: Hides porn
 # Domains not covered by OISD's nsfw list for uBlacklist can be found below
