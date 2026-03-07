@@ -1,7 +1,7 @@
 # Title: ccTLDs
 # Info: Hides Top Level Domains by their Country Codes
 # DeDup: Y, Sorted: Y
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/ccTLDs.txt
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/ccTLDs.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # 1. AFRICA 🛖 
 
