@@ -1,7 +1,7 @@
 # Title: Streaming
 # Info: Blocks audio & video streaming domains
 # DeDup: Y, Sorted: Y
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Streaming%20%E2%80%93%C2%A0ubl.txt
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/Streaming.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 1. Back-End File Hosting Sites
