@@ -32,7 +32,6 @@
 # Excluded = .at, .ch, .de, .es, .eu, .fr, .gr, .hu, .it, .me, .rs, .ua
 
 /.*\.(ad|al|ba|be|bg|bl|by|cy|ee|fi|fo|gb|gi|gl|hr|ie|im|is|je|li|lt|lu|lv|mc|md|mk|mt|nl|no|pl|pt|ro|ru|se|si|sk|sm|su|va|xk|yu)($|\/)/
-# Excluded: .at, .ch, .cz, .de, .dk, .es, .eu, .fr, .gr, .hu, .it, .me, .rs, .ua, .uk
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 6. 🌴 OCEANIA
