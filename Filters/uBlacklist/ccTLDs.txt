@@ -3,6 +3,7 @@
 # DeDup: Y, Sorted: Y
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/ccTLDs.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. AFRICA 🛖 
 
 /.*\.(ao|bf|bi|bj|bw|cd|cf|cg|ci|cm|cv|dj|dz|eg|eh|er|et|ga|gh|gm|gn|gq|gw|ke|km|lr|ls|ly|ma|mg|ml|mr|mu|mw|mz|na|ng|rw|sc|sd|sl|sn|so|ss|st|sz|td|tg|tn|tz|ug|yt|za|zm|zw)($|\/)/
