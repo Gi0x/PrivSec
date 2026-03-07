@@ -1,7 +1,7 @@
 # Title: gTLDs
-# Description: Hides Generic Top Level Domains
+# Info: Hides Generic Top Level Domains
 # DeDup: Y, Sorted: Y
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/gTLDs%20%E2%80%93%C2%A0ubl.txt
+# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/gTLDs.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # A
