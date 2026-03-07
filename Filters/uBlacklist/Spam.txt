@@ -1,8 +1,7 @@
-# Title: Spam ⎯ ubl
-# Description: Hides low-quality, fake & spammy sites
+# Title: Spam
+# Info: Hides low-quality, fake & spammy sites
 # DeDup: Y, Sorted: Y
-# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Spam%20%E2%80%93%C2%A0ubl.txt
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Spam%20%E2%80%93%C2%A0ubl.txt
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Spam%20%E2%80%93%C2%A0ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
