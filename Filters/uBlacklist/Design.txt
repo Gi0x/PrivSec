@@ -1,74 +1,21 @@
-# Title: Design 
-# Info: Hides select web design sites & tools
+# Title: Utilities 
+# Info: Hides select sites & tools
 # DeDup: Y, Sorted: Y
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/Design.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-# 1. 2D/3D Modeling & Design Platforms
-# 2. AI Art Generators & Creative Experiments
-# 3. AI-Powered Image Tools (Upscalers, Enhancers, Background Removers & Generators)
-# 4. Graphic Design & Layout Tools (Presentation, Print & Web Templates)
-# 5. Image Editors (Browser-Based Photoshop Alternatives)
-# 6. Video Editors & Animation Tools (Online Editing, Short-Form Content)
-# 7. Wallpapers
-
-# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. 2D/3D Modeling & Design Platforms
-
-*://*.blendernation.com/*
-*://*.figma.com/*
-*://*.gravit.io/*
-*://*.sketch.metademolab.com/*
-*://*.sketchfab.com/*
-*://*.spline.design/*
-*://*.vectary.com/*
-*://*.vectr.com/*
+# 1. Browsers
+# 2. Search Enginers
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. AI Art Generators & Creative Experiments
+# 1. Browsers
 
-*://*.avatoon.me/*
-*://*.deeparteffects.com/*
-*://*.playgroundai.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. AI-Powered Image Tools (Upscalers, Enhancers, Background Removers & Generators)
 
-*://*.artbreeder.com/*
-*://*.bigjpg.com/*
-*://*.cartoonize.net/*
-*://*.changefaces.com/*
-*://*.cleanup.pictures/*
-*://*.deepai.org/*
-*://*.designify.com/*
-*://*.donesmart.com/*
-*://*.glazero.com/*
-*://*.hotpot.ai/*
-*://*.imgcreator.zmo.ai/*
-*://*.imglarger.com/*
-*://*.letsenhance.io/*
-*://*.paintschainer.preferred.tech/*
-*://*.remove.bg/*
-*://*.thispersondoesnotexist.com/*
-*://*.vanceai.com/*
-*://*.waifu2x.udp.jp/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Graphic Design & Layout Tools (Presentation, Print & Web Templates)
 
-*://*.123rf.com/*
-*://*.adobe.com/express/*
-*://*.adobeexpress.com/*
-*://*.canva.com/*
-*://*.crello.com/*
-*://*.desygner.com/*
-*://*.designs.ai/*
-*://*.designwizard.com/*
-*://*.designer.microsoft.com/*
-*://*.simplified.com/*
-*://*.snappa.com/*
-*://*.visme.co/*
+
+
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 5. Image Editors (Browser-Based Photoshop Alternatives)
@@ -152,20 +99,7 @@
 *://*.vsco.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Video Editors & Animation Tools (Online Editing, Short-Form Content)
-
-*://*.clipchamp.com/*
-*://*.flexclip.com/*
-*://*.invideo.io/*
-*://*.kapwing.com/*
-*://*.lumen5.com/*
-*://*.magisto.com/*
-*://*.movavi.com/*
-*://*.runwayml.com/*
-*://*.wevideo.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. Wallpapers
+# 3. Wallpapers
 
 *://*.1freewallpapers.com/*
 *://*.1zoom.me/*
