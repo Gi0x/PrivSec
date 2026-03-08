@@ -1,7 +1,7 @@
 # Title: Drugs
 # Info: Hides drugs & tobacco related sites
 # DeDup: Y, Sorted: Y
-# 
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/Drugs.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # 1. Cannabis & Marijuana (Retail, Culture, Info)
