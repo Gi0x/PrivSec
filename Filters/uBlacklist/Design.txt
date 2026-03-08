@@ -1,7 +1,7 @@
 # Title: Design 
 # Info: Hides select web design sites & tools
 # DeDup: Y, Sorted: Y
-# 
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/Design.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # 1. 2D/3D Modeling & Design Platforms
