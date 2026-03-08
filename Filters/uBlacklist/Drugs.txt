@@ -1,8 +1,7 @@
 # Title: Drugs
-# Description: Hides drugs & tobacco related sites
+# Info: Hides drugs & tobacco related sites
 # DeDup: Y, Sorted: Y
-# M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Drugs%20%E2%80%93%C2%A0ubl.txt  
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Drugs%20%E2%80%93%C2%A0ubl.txt
+# 
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # 1. Cannabis & Marijuana (Retail, Culture, Info)
