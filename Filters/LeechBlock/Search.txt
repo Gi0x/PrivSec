@@ -1,2 +1,0 @@
-! Title: Search
-! Info: Blocks or modifies select search engines
