@@ -5,12 +5,8 @@
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-# 1. Ad Delivery Domains
-# 2. Affiliate SEO spam
-# 3. AI Generated Nonesense & Content Spam Farms
-# 4. AI Tool Directories & Generators 
-# 5. Antivirus
-# 6. Bios
+
+# 1. Bios
 # 7. Celebrities
 # 8. Clickait Misc
 # 9. Copycat Tutorials
@@ -30,147 +26,8 @@
 # 23. Software Mirror & Download Sites
 # 24. Stars
 # 25. Tech News, Error Fix Blogs & How-To Spam
+# 26. Wallpapers
 # 26. Wikis
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Affiliate SEO spam
-
-*://*.bestreviewsite.com/*
-*://*.productrankings.co/*
-*://*.top10best.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. AI Generated Nonesense & Content Spam Farms
-
-*://*.answerbun.com/*
-*://*.answercatch.com/*
-*://*.answerdev.com/*
-*://*.answerown.com/*
-*://*.answers.com/*
-*://*.answersjet.com/*
-*://*.ask.com/*
-*://*.askyourquery.net/*
-*://*.autoblog.com/*
-*://*.brainlyads.com/*
-*://*.byebyebadgrades.com/*
-*://*.culturalmaya.com/*
-*://*.droidrant.com/*
-*://*.ecusocmin.org/*
-*://*.educationwaves.com/*
-*://*.faq-blog.com/*
-*://*.howtodiscuss.com/*
-*://*.howtodothings.com/*
-*://*.infocomm.ky/*
-*://*.instalker.org/*
-*://*.justanswer.com/*
-*://*.keablogs.com/*
-*://*.mecedorama.com/*
-*://*.mindrightdetroit.com/*
-*://*.mytechremedy.com/*
-*://*.neeness.com/*
-*://*.profound-answers.com/*
-*://*.qa.engineer.com/*
-*://*.questionsgems.com/*
-*://*.remodelormove.com/*
-*://*.retrotechno.com/*
-*://*.socratic.org/*
-*://*.textanswer.com/*
-*://*.thisinterestsme.com/*
-*://*.timesmojo.com/*
-*://*.topqa.info/*
-*://*.validsense.com/*
-*://*.vimbuzz.com/*
-*://*.yourquickinfo.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. AI Tool Directories & Generators 
-
-*://*.ai-directory.top/*
-*://*.aibesttools.com/*
-*://*.aidirectory.site/*
-*://*.aifinder.tools/*
-*://*.aitools.fyi/*
-*://*.aitoolslist.io/*
-*://*.aitoptools.com/*
-*://*.allabtai.com/*
-*://*.bestaitools.ai/*
-*://*.futurpedia.io/*
-*://*.futurepedia.io/*
-*://*.gptdirectory.ai/*
-*://*.gptunfiltered.com/*
-*://*.insidr.ai/*
-*://*.thereisan.ai/*
-*://*.toolfinder.ai/*
-*://*.toolpilot.ai/*
-*://*.toolzz.com/*
-*://*.topaitools.online/*
-*://*.topai.tools/*
-*://*.unite.ai/*
-*://*.zmo.ai/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Antivirus
-
-*://*.1virusremoval.com/*
-*://*.advancedpctools.com/*
-*://*.antivirus-review.com/*
-*://*.antivirus360.org/*
-*://*.antivirus-live.com/*
-*://*.antiviruspcscans.com/*
-*://*.antispyware-101.com/*
-*://*.avast-download-free.com/*
-*://*.avira-security-download.com/*
-*://*.bestpctools.com/*
-*://*.cleanyourpcnow.com/*
-*://*.cloudav.net/*
-*://*.computervirusprotection.org/*
-*://*.defencescan.com/*
-*://*.easyantivirus.com/*
-*://*.fastpcspeed.com/*
-*://*.fixyourbrowser.com/*
-*://*.free-pc-scan.com/*
-*://*.freevirusremoval.com/*
-*://*.getavastfree.com/*
-*://*.instanthackscan.com/*
-*://*.malware-cleaner.com/*
-*://*.malwarefixes.com/*
-*://*.mypcutilities.com/*
-*://*.mypcspeedup.com/*
-*://*.myantispyware.com/*
-*://*.netscanner.co/*
-*://*.newsoftwares.net/*
-*://*.onlinesecurityscanner.com/*
-*://*.pccleanupsoftware.com/*
-*://*.pccurepro.com/*
-*://*.pcfixhelpcenter.com/*
-*://*.pcoptimizerhub.com/*
-*://*.pcprotectnow.com/*
-*://*.pcsecurityscan.net/*
-*://*.pcspeedup.com/*
-*://*.pcvirusscan.net/*
-*://*.pcvirusremovaltool.com/*
-*://*.reimageplus.com/*
-*://*.removepcviruses.com/*
-*://*.removethreats.com/*
-*://*.scanandrepairyourpc.com/*
-*://*.scanguard.com/*
-*://*.scanspyware.net/*
-*://*.secureyourpcnow.com/*
-*://*.securityscannersite.com/*
-*://*.soft-portal.com/*
-*://*.spywareremove.com/*
-*://*.spywareremovertool.com/*
-*://*.stopzilla.com/*
-*://*.superantispyware-free-download.com/*
-*://*.systemmechanicfree.com/*
-*://*.totalav.com/*
-*://*.trustmypc.com/*
-*://*.virus-cleaner.net/*
-*://*.virus-alerts.com/*
-*://*.virusbuster.org/*
-*://*.virusscanonline.com/*
-*://*.windows-defender-security-alert.com/*
-*://*.yourpcguardian.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 6. Bios
@@ -745,7 +602,7 @@
 *://*.yourcelebritymagazines.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 8. Clickait Misc – Listicles, Rankings etc.
+# 8. Clickbait Misc – Listicles, Rankings etc.
 
 *://*.24online.news/*
 *://*.24usainfo.com/*
@@ -1119,39 +976,6 @@
 *://*.youhaveacalling.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 12. Fake Learning Platforms & Low-Quality Course Sites
-
-*://*.acadium.com/*
-*://*.alison.com/*
-*://*.bitdegree.org/*
-*://*.blog.udemy.com/*
-*://*.coursemarks.com/*
-*://*.coursesity.com/*
-*://*.edapp.com/*
-*://*.eduonix.com/*
-*://*.eudemy.org/*
-*://*.grinfer.com/*
-*://*.guroo.pro/*
-*://*.instructor-academy.online/*
-*://*.learndigital.withgoogle.com/*
-*://*.learnvern.com/*
-*://*.learninglinked.com/*
-*://*.learningplatforms.org/*
-*://*.masterofproject.com/*
-*://*.mygreatlearning.com/*
-*://*.quickstart.com/*
-*://*.reed.co.uk/courses/*
-*://*.scrimba.com/*
-*://*.skilllync.com/*
-*://*.teachfloor.com/*
-*://*.teachable.com/blog/*
-*://*.teachinguide.com/*
-*://*.tutorialspoint.com/*
-*://*.upskillwise.com/*
-*://*.xllearning.org/*
-*://*.zenva.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 13. Fame & Glamour
 
 *://*.allfamous.org/*
@@ -1211,37 +1035,6 @@
 *://*.thefamouspeople.com/*
 *://*.toptenfamous.co/*
 *://*.waytofamous.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 14. GitHub
-
-*://*.bestgithub.com/*
-*://*.downloadgithub.com/*
-*://*.downloadergit.com/*
-*://*.freegithub.com/*
-*://*.gitclone.com/*
-*://*.gitcode.com/*
-*://*.gitcool.com/*
-*://*.gitdownload.net/*
-*://*.gitflic.ru/*
-*://*.githack.com/*
-*://*.github.io.cn/*
-*://*.github-proxy.xyz/*
-*://*.githubclone.com/*
-*://*.githubdownloader.com/*
-*://*.githubfast.com/*
-*://*.githubmemory.com/*
-*://*.githubplus.com/*
-*://*.githubs.cn/*
-*://*.gitlab.cn/*
-*://*.gitlabplus.com/*
-*://*.gitlink.org.cn/*
-*://*.gitmirror.com/*
-*://*.gitmirror.net/*
-*://*.gitproxy.com/*
-*://*.gittopdownload.com/*
-*://*.jsdelivr.xyz/*
-*://*.jsdelivrproxy.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 15. Gossip & Rumors
@@ -1781,14 +1574,6 @@
 *://*.softwares-free-download.com/*
 *://*.softget.com/*
 *://*.softonic.com/*
-*://*.softonit.com/*
-*://*.softspecial.com/*
-*://*.startcrack.com/*
-*://*.top4download.com/*
-*://*.uptodown.net/*
-*://*.windowslatestdownload.com/*
-*://*.yakhoe.com/*
-*://*.zcteam.id/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 24. Stars
@@ -1910,32 +1695,171 @@
 *://*.zoomstars.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 25. Tech News, Error Fix Blogs & How-To Spam
+# 26. Wallpapers
 
-*://*.appuals.com/*
-*://*.auslogics.com/en/articles/*
-*://*.bobbingwidewebdesign.com/*
-*://*.decortweaks.com/*
-*://*.digitbin.com/*
-*://*.driverfix.com/*
-*://*.easeus.com/resource/*
-*://*.expertratings.net/*
-*://*.geekdashboard.com/*
-*://*.getdroidtips.com/*
-*://*.itechhacks.com/*
-*://*.itechtics.com/*
-*://*.itechpost.com/*
-*://*.malwarefixes.com/*
-*://*.mytechrepublic.com/*
-*://*.nolongerset.com/*
-*://*.remosoftware.com/*
-*://*.techbullion.com/*
-*://*.technipages.com/*
-*://*.thewindowsclub.com/*
-*://*.ugetfix.com/*
-*://*.windowsreport.com/*
-*://*.woshub.com/*
-*://*.zeallsoft.com/*
+*://*.1freewallpapers.com/*
+*://*.1zoom.me/*
+*://*.4kwallpapers.com/*
+*://*.4kwallpapers.net/*
+*://*.abduzeedo.com/*
+*://*.allwallpapersfree.org/*
+*://*.alphacoders.com/*
+*://*.amazingwallpapers.org/*
+*://*.androidwallpape.rs/*
+*://*.anime-wallpaper.com/*
+*://*.animemotivation.com/*
+*://*.artstation.com/*
+*://*.awesomewallpapers.info/*
+*://*.best-wallpaper.net/*
+*://*.bingwallpaper.net/*
+*://*.bingwallpaperhd.com/*
+*://*.coloringpagesonly.com/*
+*://*.coolbackgrounds.io/*
+*://*.coolwallpapers.me/*
+*://*.cutewallpaper.org/*
+*://*.dailywallpapers.net/*
+*://*.designyourway.net/*
+*://*.desktopnexus.com/*
+*://*.deviantart.com/*
+*://*.digitalblasphemy.com/*
+*://*.dribbble.com/*
+*://*.eskipaper.com/*
+*://*.fantasymoods.com/*
+*://*.flickriver.com/*
+*://*.fullhdpictures.com/*
+*://*.gamingwallpapers.com/*
+*://*.getwallpapers.com/*
+*://*.goldposter.com/*
+*://*.goodfon.com/*
+*://*.hdqwalls.com/*
+*://*.hdwalle.com/*
+*://*.hdwallpapers.cat/*
+*://*.hdwallpapers.in/*
+*://*.hdwallpapers.net/*
+*://*.hdwpro.com/*
+*://*.hivewallpaper.com/*
+*://*.idposter.com/*
+*://*.ilikewallpaper.net/*
+*://*.instagram.com/4kwallpapers/*
+*://*.instagram.com/abstract.wallpapers/*
+*://*.instagram.com/aesthetic.wallpapers/*
+*://*.instagram.com/amoled.backgrounds/*
+*://*.instagram.com/amoledpanel/*
+*://*.instagram.com/amoledpix/*
+*://*.instagram.com/cleanwallpapers/*
+*://*.instagram.com/hdwallpapersclub/*
+*://*.instagram.com/hdwallpapersofficial/*
+*://*.instagram.com/minimal.wallpapers/*
+*://*.instagram.com/minimalist.wallpapers/*
+*://*.instagram.com/minimalisticscreen/*
+*://*.instagram.com/retrowallpapers/*
+*://*.instagram.com/superbwallpapers/*
+*://*.instagram.com/wallpaper.central/*
+*://*.instagram.com/wallpaper.gallery/*
+*://*.instagram.com/wallpaper.mania/*
+*://*.instagram.com/wallpaper.mob/*
+*://*.instagram.com/wallpaperaccess/*
+*://*.instagram.com/wallpapergram/*
+*://*.instagram.com/wallpapers.4k/*
+*://*.instagram.com/wallpapers_club/*
+*://*.instagram.com/wallpapersarena/*
+*://*.instagram.com/wallpapersgram/*
+*://*.interfacelift.com/*
+*://*.ioshacker.com/*
+*://*.jootix.com/*
+*://*.kde-look.org/*
+*://*.minimaldesktops.com/*
+*://*.mob.org/*
+*://*.mobileabyss.com/*
+*://*.mobileswall.com/*
+*://*.mobilewallpapers.com/*
+*://*.moviehdwallpapers.com/*
+*://*.myanimelist.net/*
+*://*.myhdwallpapers.net/*
+*://*.mywallpapers.net/*
+*://*.papers.co/*
+*://*.pexels.com/*
+*://*.picswalls.com/*
+*://*.pixabay.com/*
+*://*.pixmule.com/*
+*://*.pngall.com/*
+*://*.pxfuel.com/*
+*://*.rare-gallery.com/*
+*://*.reddit.com/r/4kWallpaper/*
+*://*.reddit.com/r/ArtWallpapers/*
+*://*.reddit.com/r/CabinPorn/*
+*://*.reddit.com/r/CityPorn/*
+*://*.reddit.com/r/EarthPorn/*
+*://*.reddit.com/r/GameWallpapers/*
+*://*.reddit.com/r/ImaginarySpace/*
+*://*.reddit.com/r/ImaginaryTechnology/*
+*://*.reddit.com/r/MinimalWallpaper/*
+*://*.reddit.com/r/MinimalisticWallpapers/*
+*://*.reddit.com/r/MobileWallpapers/*
+*://*.reddit.com/r/PCWallpapers/*
+*://*.reddit.com/r/SkyPorn/*
+*://*.reddit.com/r/UltraHDWallpapers/*
+*://*.reddit.com/r/VerticalWallpapers/*
+*://*.reddit.com/r/VillagePorn/*
+*://*.reddit.com/r/WQHD_Wallpapers/*
+*://*.reddit.com/r/iWallpaper/*
+*://*.reddit.com/r/wallpaper/*
+*://*.reddit.com/r/wallpapercollections/*
+*://*.reddit.com/r/wallpaperdump/*
+*://*.reddit.com/r/wallpapers/*
+*://*.s9wallpapers.com/*
+*://*.scenicreflections.com/*
+*://*.setaswall.com/*
+*://*.setaswallpapers.com/*
+*://*.simpledesktops.com/*
+*://*.simplewallpapers.cc/*
+*://*.theotaku.com/*
+*://*.thepaperwall.com/*
+*://*.topwallpaper.net/*
+*://*.truehdwallpaper.com/*
+*://*.tumblr.com/blog/4kwallpapers/*
+*://*.tumblr.com/blog/abstractwallpapers/*
+*://*.tumblr.com/blog/cityscapewallpapers/*
+*://*.tumblr.com/blog/dopebackgrounds/*
+*://*.tumblr.com/blog/hd-wallpapers/*
+*://*.tumblr.com/blog/minimalwallpaper/*
+*://*.tumblr.com/blog/wallhavenofficial/*
+*://*.tumblr.com/blog/wallpaperscraft/*
+*://*.uhdpaper.com/*
+*://*.ultrahdwallpapers.net/*
+*://*.unsplash.com/*
+*://*.v3wall.com/*
+*://*.vladstudio.com/*
+*://*.wall.alphacoders.com/*
+*://*.wallcoo.net/*
+*://*.wallhaven.cc/*
+*://*.wallpaperabyss.com/*
+*://*.wallpaperaccess.com/*
+*://*.wallpaperbetter.com/*
+*://*.wallpaperboat.com/*
+*://*.wallpaperbro.com/*
+*://*.wallpapercave.com/*
+*://*.wallpapercrafter.com/*
+*://*.wallpaperflare.com/*
+*://*.wallpapers.com/*
+*://*.wallpapersafari.com/*
+*://*.wallpaperscraft.com/*
+*://*.wallpapersden.com/*
+*://*.wallpaperset.com/*
+*://*.wallpapersforu.com/*
+*://*.wallpapershdbackgrounds.com/*
+*://*.wallpapershdfree.com/*
+*://*.wallpapershome.com/*
+*://*.wallpapersmob.com/*
+*://*.wallpaperswide.com/*
+*://*.wallpapertag.com/*
+*://*.wallpapertip.com/*
+*://*.wallsdesk.com/*
+*://*.wallspedia.com/*
+*://*.wallup.net/*
+*://*.wlppr.com/*
+*://*.yandex.com/images/*
+*://*.zedge.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 27. Wikis
