@@ -674,6 +674,7 @@
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 30. ...
+# Note: Pinterest domains excluded, but available from NyeUsr
 
 *://*.connectwithinfluencers.com/*
 *://*.heepsy.com/*
