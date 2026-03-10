@@ -104,12 +104,8 @@
 
 *://*.alexa.amazon.com/*
 *://*.alexa.amazon.co.uk/*
-*://*.device-metrics-us.amazon.com/*
-*://*.device-metrics.amazon.com/*
-*://*.gpmusic-pa.googleapis.com/*
 *://*.play.google.com/music/*
 *://*.sonos.com/*
-*://*.api.sonos.com/*
 *://*.music.amazon.com/*
 *://*.voice.google.com/*
 
