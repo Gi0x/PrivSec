@@ -1,5 +1,5 @@
 ! Title: Social
-! Description: Blocks select social media
+! Info: Blocks select social media
 ! DeDup: Y, Sorted: Y
 ! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/Social%20%E2%80%93%C2%A0adb.txt
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Social%20%E2%80%93%C2%A0adb.txt

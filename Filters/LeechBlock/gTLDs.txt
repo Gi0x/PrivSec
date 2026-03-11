@@ -239,10 +239,10 @@
 *.computer
 *.comsec
 *.condos
+*.construction
 *.consulting
 *.contact
 *.contractors
-*.construction
 *.cooking
 *.cookingchannel
 *.cool
