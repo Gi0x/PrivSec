@@ -4,23 +4,7 @@
 ! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Design%20%E2%80%93%C2%A0adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 2D/3D Modeling & Design Platforms
 
-||blendernation.com^
-||figma.com^
-||gravit.io^
-||sketch.metademolab.com^
-||sketchfab.com^
-||spline.design^
-||vectary.com^
-||vectr.com^
-
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! AI Art Generators & Creative Experiments
-
-||avatoon.me^
-||deeparteffects.com^
-||playgroundai.com^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! AI-Powered Image Tools (Upscalers, Enhancers, Background Removers, Generators)
@@ -44,21 +28,6 @@
 ||vanceai.com^
 ||waifu2x.udp.jp^
 
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Graphic Design & Layout Tools (Presentation, Print, Web Templates)
-
-||123rf.com^
-||adobe.com/express^
-||adobeexpress.com^
-||canva.com^
-||crello.com^
-||desygner.com^
-||designs.ai^
-||designwizard.com^
-||designer.microsoft.com^
-||simplified.com^
-||snappa.com^
-||visme.co^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Image Editors (Traditional, Browser-Based Photoshop Alternatives)
@@ -140,16 +109,3 @@
 ||upperpix.com^
 ||v2.polarr.co^
 ||vsco.co^
-
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Video Editors & Animation Tools (Online Editing, Short-Form Content)
-
-||clipchamp.com^
-||flexclip.com^
-||invideo.io^
-||kapwing.com^
-||lumen5.com^
-||magisto.com^
-||movavi.com^
-||runwayml.com^
-||wevideo.com^
