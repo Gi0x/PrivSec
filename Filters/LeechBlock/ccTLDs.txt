@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+Title: ccTLDs
+Description: Blocks Top Level Domains by Country Codes
+Dedup: Y, Sorted: Y
+Source: https://www.iana.org/domains/root/db
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+🛖 AFRICA
+> Allowed: .ne
+
+=======
+>>>>>>> 0f70c3e48df860a2fd56ad48e0ee38c49167b591
 *.ao
 *.bf
 *.bi
