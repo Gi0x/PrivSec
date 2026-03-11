@@ -1,565 +1,275 @@
+*.ad
+*.ae
+*.af
+*.ag
+*.ai
+*.al
+*.am
+*.an
 *.ao
+*.aq
+*.ar
+*.as
+*.au
+*.aw
+*.ax
+*.az
+*.ba
+*.bb
+*.bd
+*.be
 *.bf
+*.bg
+*.bh
 *.bi
 *.bj
+*.bm
+*.bn
+*.bo
+*.bq
+*.br
+*.bs
+*.bt
+*.bu
+*.bv
 *.bw
+*.by
+*.bz
+*.cc
 *.cd
 *.cf
 *.cg
 *.ci
+*.ck
+*.cl
 *.cm
+*.cn
+*.cr
+*.cs
+*.cu
 *.cv
+*.cx
+*.cy
+*.cz
+*.dd
 *.dj
+*.dk
+*.dm
+*.do
 *.dz
+*.ec
+*.ee
 *.eg
 *.eh
 *.er
 *.et
+*.fi
+*.fj
+*.fm
+*.fo
 *.ga
+*.gd
+*.ge
+*.gf
+*.gg
 *.gh
+*.gi
+*.gl
 *.gm
 *.gn
+*.gp
 *.gq
+*.gr
+*.gt
+*.gu
 *.gw
+*.gy
+*.hk
+*.hm
+*.hn
+*.hr
+*.ht
+*.id
+*.ie
+*.il
+*.im
+*.in
+*.iq
+*.ir
+*.is
+*.je
+*.jm
+*.jo
+*.jp
 *.ke
+*.kg
+*.kh
+*.ki
 *.km
+*.kn
+*.kr
+*.kw
+*.ky
+*.kz
+*.la
+*.lb
+*.lc
+*.li
+*.lk
 *.lr
 *.ls
+*.lt
+*.lu
+*.lv
 *.ly
 *.ma
+*.mc
+*.md
+*.mf
 *.mg
+*.mh
+*.mk
 *.ml
+*.mm
+*.mn
+*.mo
+*.mp
+*.mq
 *.mr
+*.ms
+*.mt
 *.mu
+*.mv
 *.mw
+*.mx
+*.my
 *.mz
 *.na
+*.nc
+*.nf
 *.ng
-*.rw
-*.sc
-*.sd
-*.sh
-*.sl
-*.sn
-*.so
-*.ss
-*.st
-*.sz
-*.td
-*.tg
-*.tn
-*.tz
-*.ug
-*.yt
-*.za
-*.zm
-*.zr
-*.zw
-
-
-*.ag
-*.ai
-*.an
-*.ar
-*.aw
-*.bb
-*.bm
-*.bo
-*.br
-*.bs
-*.bz
-*.cl
-*.cr
-*.cu
-*.dm
-*.do
-*.ec
-*.gd
-*.gf
-*.gl
-*.gp
-*.gt
-*.gy
-*.hn
-*.ht
-*.jm
-*.kn
-*.ky
-*.lc
-*.mq
-*.ms
-*.mx
+*.nh
 *.ni
+*.nl
+*.no
+*.np
+*.nr
+*.nu
+*.nz
+*.om
 *.pa
 *.pe
+*.pg
+*.ph
+*.pk
+*.pl
 *.pm
+*.pn
 *.pr
+*.ps
+*.pt
+*.pw
 *.py
+*.qa
+*.re
+*.ro
+*.ru
+*.rw
+*.sa
+*.sb
+*.sc
+*.sd
+*.se
+*.sg
+*.sh
+*.si
+*.sj
+*.sk
+*.sl
+*.sm
+*.sn
+*.so
 *.sr
+*.ss
+*.st
+*.su
 *.sv
+*.sx
+*.sy
+*.sz
 *.tc
+*.td
+*.tf
+*.tg
+*.th
+*.tj
+*.tk
+*.tl
+*.tm
+*.tn
+*.to
+*.tp
+*.tr
 *.tt
+*.tv
+*.tw
+*.tz
+*.ug
+*.um
 *.us
 *.uy
+*.uz
+*.va
 *.vc
 *.ve
 *.vg
 *.vi
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-🧊 ANTARCTICA & OVERSEAS SPECIAL TERRITORIES
-> Allowed: .io
-
-*.aq
-*.bv
-*.bq
-*.cc
-*.cx
-*.hm
-*.mf
-*.pn
-*.re
-*.sj
-*.sx
-*.tf
-*.um
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-🐲 ASIA
-
-*.ae
-*.af
-*.am
-*.az
-*.bd
-*.bh
-*.bn
-*.bt
-*.bu
-*.cn
-*.cy
-*.ge
-*.hk
-*.id
-*.il
-*.in
-*.iq
-*.ir
-*.jo
-*.jp
-*.kg
-*.kh
-*.kr
-*.kw
-*.kz
-*.la
-*.lb
-*.lk
-*.mm
-*.mn
-*.mo
-*.mv
-*.my
-*.np
-*.om
-*.ph
-*.pk
-*.ps
-*.qa
-*.sa
-*.sg
-*.su
-*.sy
-*.th
-*.tj
-*.tm
-*.tp
-*.tr
-*.tw
-*.uz
 *.vn
-*.ye
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-🇪🇺 EUROPE
-> Allowed: .at, .ch, .de, .es, .eu, .fr, .hu, .it, .me, .rs, .ua, .uk
-
-*.ad
-*.al
-*.ax
-*.ba
-*.be
-*.bg
-*.by
-*.cs
-*.cz
-*.dd
-*.dk
-*.ee
-*.fi
-*.fo
-*.gg
-*.gi
-*.gr
-*.hr
-*.ie
-*.im
-*.is
-*.je
-*.li
-*.lt
-*.lu
-*.lv
-*.mc
-*.md
-*.mk
-*.mt
-*.nl
-*.no
-*.pl
-*.pt
-*.ro
-*.ru
-*.se
-*.si
-*.sk
-*.sm
-*.va
-*.xk
-*.yu
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-🌴 OCEANIA
-
-*.as
-*.au
-*.ck
-*.fj
-*.fm
-*.gu
-*.ki
-*.mh
-*.mp
-*.nc
-*.nf
-*.nh
-*.nr
-*.nu
-*.nz
-*.pg
-*.pw
-*.sb
-*.tk
-*.tl
-*.to
-*.tv
 *.vu
 *.wf
 *.ws
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-🌍 MISC 
-
+*.xk
+*.ye
+*.yt
+*.yu
+*.za
+*.zm
+*.zr
+*.zw
+*.ελ
+*.ευ
 *.бг
 *.бел
 *.ею
-*.ευ
-*.ελ
-*.қаз
 *.мкд
 *.мон
 *.рф
 *.срб
 *.укр
-*.한국
-*.中国
-*.中國
-*.香港
-*.台湾
-*.澳門
-*.ଭାରତ
-*.ಭಾರತ
-*.ভারত
+*.қаз
+*.հայ
+*.भारत
+*.भारतम्
+*.भारोत
 *.বাংলা
+*.ভারত
+*.ਭਾਰਤ
+*.ભારત
+*.ଭାରତ
+*.இந்தியா
+*.இலங்கை
 *.சிங்கப்பூர்
 *.భారత్
+*.ಭಾರತ
+*.ഭാരതം
 *.ලංකා
-*.ભારત
-*.भारतम्
-*.भारत
-*.भारोत
-*.გე
 *.ไทย
 *.ລາວ
-*.ഭാരതം
-*.ਭਾਰਤ
-*.இலங்கை
-*.இந்தியா
-*.հայ
+*.გე
+*.中国
+*.中國
+*.台湾
 *.新加坡
-
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-KEY
-
-> .ad = Andorra
-> .ae = United Arab Emirates
-> .af = Afghanistan
-> .ag = Antigua & Barbuda
-> .ai = Anguilla
-> .al = Albania
-> .am = Armenia
-> .an = Dutch Antilles
-> .ao = Angola
-> .aq = Antarctica
-> .ar = Argentina
-> .as = American Samoa
-> .at = Austria
-> .au = Australia
-> .aw = Aruba
-> .ax = Åland Islands
-> .az = Azerbaijan
-> .ba = Bosnia & Herzegovina
-> .bb = Barbados
-> .bd = Bangladesh
-> .be = Belgium
-> .bf = Burkina Faso
-> .bg = Bulgaria
-> .bh = Bahrain
-> .bi = Burundi
-> .bj = Benin
-> .bl = Saint Barthélemy
-> .bm = Bermuda
-> .bn = Brunei
-> .bo = Bolivia
-> .bq = Bonaire, Sint Eustatius & Saba
-> .br = Brazil
-> .bs = Bahamas
-> .bt = Bhutan
-> .bu = Burma
-> .bv = Bouvet Island
-> .bw = Botswana
-> .by = Belarus
-> .bz = Belize
-> .ca = Canada
-> .cc = Cocos (Keeling) Islands
-> .cc = Cocos (Keeling) Islands
-> .cd = Democratic Republic of the Congo
-> .cf = Central African Republic
-> .cg = Republic of the Congo
-> .ch = Switzerland
-> .ci = Côte d'Ivoire
-> .ck = Cook Islands
-> .cl = Chile
-> .cm = Cameroon
-> .cn = China
-> .co = Colombia
-> .cr = Costa Rica
-> .cs = Serbia & Montenegro
-> .cu = Cuba
-> .cv = Cabo Verde
-> .cx = Christmans Island
-> .cy = Cyprus
-> .cz = Czech Republic
-> .dd = East Germany (GDR)
-> .de = Germany
-> .dj = Djibouti
-> .dk = Denmark
-> .dm = Dominica
-> .do = Dominican Republic
-> .dz = Algeria
-> .ec = Ecuador
-> .ee = Estonia
-> .eg = Egypt
-> .eh = Western Sahara
-> .er = Eritrea
-> .es = Spain
-> .et = Ethiopia
-> .eu = European Union
-> .fi = Finland
-> .fj = Fiji
-> .fk = Falkland Islands
-> .fm = Micronesia
-> .fo = Faroe Islands
-> .fr = France
-> .ga = Gabon
-> .gb = United Kingdom
-> .gd = Grenada
-> .ge = Georgia
-> .gf = French Guiana
-> .gg = Guernsey
-> .gh = Ghana
-> .gi = Gibraltar
-> .gl = Greenland
-> .gl = Greenland
-> .gm = The Gambia
-> .gn = Guinea
-> .gp = Guadeloupe
-> .gq = Equatorial Guinea
-> .gr = Greece
-> .gs = South Georgia & the South Sandwich Islands
-> .gt = Guatemala
-> .gu = Guam
-> .gw = Guinea-Bissau
-> .gy = Guyana
-> .hk = Hong Kong
-> .hm = Heard Island & McDonald Islands
-> .hn = Honduras
-> .hr = Croatia
-> .ht = Haiti
-> .hu = Hungary
-> .id = Indonesia
-> .ie = Ireland
-> .il = Israel
-> .im = Isle of Man
-> .in = India
-> .io = British Indian Ocean Territory
-> .iq = Iraq
-> .ir = Iran
-> .is = Iceland
-> .it = Italy
-> .je = Jersey
-> .jm = Jamaica
-> .jo = Jordan
-> .jp = Japan
-> .ke = Kenya
-> .kg = Kyrgyzstan
-> .kh = Cambodia
-> .ki = Kiribati
-> .km = Comoros
-> .kn = Saint Kitts & Nevis
-> .kp = North Korea
-> .kr = South Korea
-> .kw = Kuwait
-> .ky = Cayman Islands
-> .kz = Kazakhstan
-> .la = Laos
-> .lb = Lebanon
-> .lc = Saint Lucia
-> .li = Liechtenstein
-> .lk = Sri Lanka
-> .lr = Liberia
-> .ls = Lesotho
-> .lt = Lithuania
-> .lu = Luxembourg
-> .lv = Latvia
-> .ly = Libya
-> .ma = Morocco
-> .mc = Monaco
-> .md = Moldova
-> .me = Montenegro
-> .mf = Saint Martin
-> .mg = Madagascar
-> .mh = Marshall Islands
-> .mk = North Macedonia
-> .ml = Mali
-> .mm = Myanmar
-> .mn = Mongolia
-> .mo = Macao
-> .mp = Northern Mariana Islands
-> .mq = Martinique
-> .mr = Mauritania
-> .ms = Montserrat
-> .mt = Malta
-> .mu = Mauritius
-> .mv = Maldives
-> .mw = Malawi
-> .mx = Mexico
-> .my = Malaysia
-> .mz = Mozambique
-> .na = Namibia
-> .nc = New Caledonia
-> .ne = Niger
-> .nf = Norfolk Island
-> .ng = Nigeria
-> .nh = New Hebrides
-> .ni = Nicaragua
-> .nl = Netherlands
-> .no = Norway
-> .np = Nepal
-> .nr = Nauru
-> .nu = Niue
-> .nz = New Zealand
-> .om = Oman
-> .pa = Panama
-> .pe = Peru
-> .pf = French Polynesia
-> .pg = Papua New Guinea
-> .ph = Philippines
-> .pk = Pakistan
-> .pl = Poland
-> .pm = Saint Pierre & Miquelon
-> .pn = Pitcairn Islands
-> .pr = Puerto Rico
-> .ps = Palestine
-> .pt = Portugal
-> .pw = Palau
-> .py = Paraguay
-> .qa = Qatar
-> .re = Réunion
-> .ro = Romania
-> .rs = Serbia
-> .ru = Russia
-> .rw = Rwanda
-> .sa = Saudi Arabia
-> .sb = Solomon Islands
-> .sc = Seychelles
-> .sd = Sudan
-> .se = Sweden
-> .sg = Singapore
-> .sh = Saint Helena, Ascension & Tristan da Cunha
-> .si = Slovenia
-> .sj = Svalbard and Jan Mayen
-> .sk = Slovakia
-> .sl = Sierra Leone
-> .sm = San Marino
-> .sn = Senegal
-> .so = Somalia
-> .sr = Suriname
-> .ss = South Sudan
-> .st = São Tomé & Príncipe
-> .su = Soviet Union
-> .sv = El Salvador
-> .sx = Sint Maarten
-> .sy = Syria
-> .sz = Eswatini
-> .tc = Turks & Caicos Islands
-> .td = Chad
-> .tf = French Southern Territories
-> .tg = Togo
-> .th = Thailand
-> .tj = Tajikistan
-> .tk = Tokelau
-> .tl = Timor-Leste
-> .tm = Turkmenistan
-> .tn = Tunisia
-> .to = Tonga
-> .tp = East Timor
-> .tr = Turkey
-> .tt = Trinidad & Tobago
-> .tv = Tuvalu
-> .tw = Taiwan
-> .tz = Tanzania
-> .ua = Ukraine
-> .ug = Uganda
-> .uk = United Kingdom
-> .um = United States Minor Outlying Islands
-> .us = United States
-> .uy = Uruguay
-> .uz = Uzbekistan
-> .va = Vatican City
-> .vc = Saint Vincent & the Grenadines
-> .ve = Venezuela
-> .vg = British Virgin Islands
-> .vi = U.S. Virgin Islands 
-> .vn = Vietnam 
-> .vu = Vanuatu
-> .wf = Wallis & Futuna
-> .ws = Samoa
-> .xk = Kosovo
-> .ye = Yemen
-> .yt = Mayotte
-> .yu = Yugoslavia
-> .za = South Africa
-> .zm = Zambia
-> .zr = Zaire
-> .zw = Zimbabwe 
+*.澳門
+*.香港
+*.한국
