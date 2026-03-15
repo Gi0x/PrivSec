@@ -1,7 +1,7 @@
 ! Title: Utilities
 ! Info: Blocks select sites & tools
 ! DeDup: Y, Sorted: Y
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Design%20%E2%80%93%C2%A0adb.txt
+! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Design%20%E2%80%93%C2%A0adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Browsers
