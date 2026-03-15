@@ -1,8 +1,7 @@
-! Title: News ⎯ adb 
-! Description: Blocks mainstream news media
+! Title: News
+! Info: Blocks mainstream news media
 ! DeDup: -, Sorted: -
-! M: https://github.com/Gi0x/PrivSec/blob/main/Filters/News%20%E2%80%93%C2%A0adb.txt
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/News%20%E2%80%93%C2%A0adb.txt
+! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/News%20%E2%80%93%C2%A0adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||1stnews.com^

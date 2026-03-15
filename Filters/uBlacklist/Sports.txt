@@ -1,7 +1,7 @@
 # Title: Sports
 # Info: Hides sports related sites (incl. streaming)
 # DeDup: Y, Sorted: Y
-# R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Sports%20%E2%80%93%C2%A0ubl.txt
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Sports%20%E2%80%93%C2%A0ubl.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # 1. Betting & Odds Sites

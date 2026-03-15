@@ -1,7 +1,7 @@
 ! Name: Profanity
 ! Info: Blocks explicit content based on keywords
 ! DeDup: Y, Sorted: Y
-! R: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Profanity%20%E2%80%93%C2%A0adb.txt
+! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Profanity%20%E2%80%93%C2%A0adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! Unsorted
 

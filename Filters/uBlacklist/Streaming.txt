@@ -17,7 +17,7 @@
 # V3. Legit Streaming Sites
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. Audiobook Platforms
+# A1. Audiobook Platforms
 
 *://*.audible.com/*
 *://*.audiobooks.com/*
@@ -30,7 +30,7 @@
 *://*.storytel.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Internet Radio Platforms
+# A2. Internet Radio Platforms
 
 *://*.bbc.co.uk/sounds/*
 *://*.cbc.ca/listen/*
@@ -47,7 +47,7 @@
 *://*.tunein.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Music Streaming Sites
+# A3. Music Streaming Sites
 
 *://*.amazonmusic.com/*
 *://*.anghami.com/*
@@ -74,7 +74,7 @@
 *://*.yandex.music.ru/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Niche Audio Upload Platforms
+# A4. Niche Audio Upload Platforms
 
 *://*.8tracks.com/*
 *://*.bandcamp.com/*
@@ -87,7 +87,7 @@
 *://*.sonicbids.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Podcast Platforms
+# A5. Podcast Platforms
 
 *://*.anchor.fm/*
 *://*.blubrry.com/*
