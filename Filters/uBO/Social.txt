@@ -1,6 +1,7 @@
 ! Title: Social
 ! Info: Blocks select social media
 ! DeDup: Y, Sorted: Y
+! Note: Pinterest domains excluded, but available from NyeUsr
 ! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Social%20%E2%80%93%C2%A0adb.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
@@ -673,7 +674,6 @@
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 30. ...
-! Note: Pinterest domains excluded, but available from NyeUsr
 
 ||connectwithinfluencers.com^
 ||heepsy.com^
