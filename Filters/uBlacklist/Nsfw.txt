@@ -1,26 +1,20 @@
-# Title: Porn
-# Info: Hides porn
+# Title: Nsfw
+# Info: Hides Nsfw
 # DeDup: Y, Sorted: Y
-# Note: Contains domains not covered by oisd nsfw
-# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/Porn.txt
+# Note: Contains domains not in oisd nsfw
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/Nsfw.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.abprintshop.com/*
 *://*.adultsextoywholesalers.com.au/*
 *://*.adulttheculture.com/*
 *://*.alluringartprints.com/*
-*://*.artx.at/*
 *://*.askmen.com/*
 *://*.aventertainments.com/*
 *://*.ayurvedalive.in/*
 *://*.babes.gallery/*
-*://*.babesrater.com/*
 *://*.beautifulporn.net/*
-*://*.beeg.tv/*
 *://*.belrose.eu/*
-*://*.bestsexgif.com/*
-*://*.blackbabesblog.com/*
-*://*.blackpornhub.org/*
 *://*.bol.com/*
 *://*.bonkr.com.au/*
 *://*.bratopia.ca/*
@@ -40,19 +34,15 @@
 *://*.diamondescort-frankfurt.de/*
 *://*.drrideout.com/*
 *://*.eachporn.com/*
-*://*.efappy.com/*
 *://*.elite-modules.ru/*
 *://*.erofound.com/*
 *://*.erotictradeonly.com/*
 *://*.fantasyfunfactory.com/*
 *://*.faperoni.com/*
-*://*.fapfappy.com/*
 *://*.far-light-photography.at/*
 *://*.fetcherx.com/*
 *://*.fhm.com/*
-*://*.flashingjungle.com/*
 *://*.fleshlight.eu/*
-*://*.fooxybabes.com/*
 *://*.fotonovelasxxx.com/*
 *://*.gay45.eu/*
 *://*.ggjav.tv/*
@@ -67,14 +57,12 @@
 *://*.hotpic.cc/*
 *://*.hubzter.pro/*
 *://*.idposter.com/*
-*://*.ilovnudes.com/*
 *://*.im9.eu/*
 *://*.imagepost.com/*
 *://*.imperiodefamosas.com/*
 *://*.importdvdx.com/*
 *://*.iuk.ac.ke/*
 *://*.jjvids.com/*
-*://*.kantotin.com/*
 *://*.kendralust.com/*
 *://*.kinkly.com/*
 *://*.klipon.com/*
@@ -105,16 +93,13 @@
 *://*.penthousegold.com/*
 *://*.pillowfort.social/*
 *://*.pleasurechest.com.au/*
-*://*.porncorporation.com/*
 *://*.pornhint.com/*
 *://*.pornokral.sk/*
 *://*.pornpics.app/*
 *://*.pornpics.vip/*
 *://*.pornstar-search.com/*
-*://*.pornstar.actor/*
 *://*.purelynudegoddesses.com/*
 *://*.pureplaymedia.com/*
-*://*.rabbitsfun.com/*
 *://*.ravishly.com/*
 *://*.rogreviews.com/*
 *://*.romaninlondra.com/*
@@ -122,7 +107,6 @@
 *://*.sassiholford.com/*
 *://*.schoolofsquirt.com/*
 *://*.sexiestpornstars.com/*
-*://*.sexmixxx.com/*
 *://*.sexodi.com/*
 *://*.sextoymen.in/*
 *://*.sextoys.co.uk/*
@@ -130,7 +114,6 @@
 *://*.sexwithemily.com/*
 *://*.sheeshporn69.info/*
 *://*.siliconelovers.com/*
-*://*.silkengirl.net/*
 *://*.sluttygirlproblems.com/*
 *://*.sndoll.com/*
 *://*.spicyporntrials.com/*
@@ -140,7 +123,6 @@
 *://*.thepleasurechest.com/*
 *://*.therealpornwikileaks.com/*
 *://*.thumbnailseries.com/*
-*://*.tiekoetter.com/*
 *://*.u-buy.ch/*
 *://*.u-buy.co.nz/*
 *://*.u-buy.co.uk/*
@@ -180,12 +162,8 @@
 *://*.web-starlets.com/*
 *://*.westdelhiescorts.com/*
 *://*.wildfantasy.com.au/*
-*://*.wordpress.com/*
 *://*.xb1.com/*
-*://*.xndoll.com/*
 *://*.xxxporn.pics/*
-*://*.xxxpornimages.net/*
-*://*.xxxpussy.net/*
 *://*.yespornotube.com/*
 *://*.ynot.com/*
 *://*.ynoteurope.com/*
