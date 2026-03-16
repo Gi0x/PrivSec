@@ -30,7 +30,7 @@
 # 26. Wikis
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Bios
+# 1. Bios
 
 *://*.aajivanbiography.com/*
 *://*.arrivebio.org/*
@@ -82,7 +82,7 @@
 *://*.vidasybiografias.blogspot.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. Celebrities 
+# 2. Celebrities 
 
 *://*.123celebritygossip.com/*
 *://*.1celebritysearch.com/*
@@ -602,7 +602,7 @@
 *://*.yourcelebritymagazines.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 8. Clickbait Misc – Listicles, Rankings etc.
+# 3. Listicles, Rankings etc.
 
 *://*.24online.news/*
 *://*.24usainfo.com/*
@@ -737,77 +737,6 @@
 *://*.wisetoast.com/*
 *://*.wowmyanmar.com/*
 *://*.zoomboola.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 9. Copycat Tutorials
-
-*://*.askavy.com/*
-*://*.askcodez.com/*
-*://*.bavotasan.com/*
-*://*.btechgeeks.com/*
-*://*.codegrepper.com/*
-*://*.codelearners.net/*
-*://*.codepre.com/*
-*://*.codespeedy.com/*
-*://*.codexworld.com/*
-*://*.codingpointer.com/*
-*://*.cppsecrets.com/*
-*://*.crazytechtricks.com/*
-*://*.delftstack.com/*
-*://*.dotnettutorials.net/*
-*://*.educba.com/*
-*://*.edugradients.com/*
-*://*.edureka.co/*
-*://*.etutorialspoint.com/*
-*://*.geeksforgeeks.org/*
-*://*.grabthiscode.com/*
-*://*.howtodoinjava.com/*
-*://*.infinitbility.com/*
-*://*.interviewbit.com/*
-*://*.itsourcecode.com/*
-*://*.java2blog.com/*
-*://*.java67.com/*
-*://*.javagoal.com/*
-*://*.javaprogramto.com/*
-*://*.javatpoint.com/*
-*://*.learnersbucket.com/*
-*://*.learnshareit.com/*
-*://*.linuxhint.com/*
-*://*.mkyong.com/*
-*://*.net-informations.com/*
-*://*.newbedev.com/*
-*://*.phptpoint.com/*
-*://*.pythonexamples.org/*
-*://*.pythonguides.com/*
-*://*.pythonpool.com/*
-*://*.pythontic.com/*
-*://*.pythontutor.com/*
-*://*.quescol.com/*
-*://*.revisitclass.com/*
-*://*.rosanswer.com/*
-*://*.sciencx.com/*
-*://*.sitedesignmaster.com/*
-*://*.softwaretestingo.com/*
-*://*.stackhowto.com/*
-*://*.stackoverflowpoint.com/*
-*://*.studytonight.com/*
-*://*.techtutorialsx.com/*
-*://*.tutorialexample.com/*
-*://*.tutorialgateway.org/*
-*://*.tutorialride.com/*
-*://*.tutorialspoint.dev/*
-*://*.tutorialspoint.com/*
-*://*.w3adda.com/*
-*://*.w3schools.blog/*
-*://*.w3schools.in/*
-*://*.w3schools.info/*
-*://*.w3schools.org/*
-*://*.webrewrite.com/*
-*://*.webtrainingroom.com/*
-*://*.wikitechy.com/*
-*://*.www.csinfo360.com/*
-*://*.www.educba.com/*
-*://*.www.interviewbit.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 10. Fake Entrepreneurship, Hustle Culture, Success & Income Claim Sites
@@ -1435,7 +1364,7 @@
 *://*.waterforpeople.org/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 21. Pop Psychology & Productivity Spam Blogs
+# 21. Spam Blogs
 
 *://*.alifeofproductivity.com/*
 *://*.artofmanliness.com/*

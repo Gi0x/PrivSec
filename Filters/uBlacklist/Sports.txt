@@ -55,31 +55,6 @@
 *://*.winners.bet/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Mobile App Links
-
-*://*.apps.apple.com/us/app/espn/*
-*://*.apps.apple.com/us/app/yahoo-sports/*
-*://*.apps.apple.com/us/app/the-athletic/*
-*://*.apps.apple.com/us/app/cbs-sports/*
-*://*.apps.apple.com/us/app/bleacher-report/*
-*://*.apps.apple.com/us/app/sofascore/*
-*://*.apps.apple.com/us/app/thescore-sports/*
-*://*.apps.apple.com/us/app/flashscore/*
-*://*.apps.apple.com/us/app/fotmob/*
-*://*.apps.apple.com/us/app/mlb/*
-*://*.apps.apple.com/us/app/nba-app/*
-*://*.apps.apple.com/us/app/nhl/*
-*://*.apps.apple.com/us/app/nfl/*
-*://*.play.google.com/store/apps/details?id=com.espn.score_center/*
-*://*.play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.sportacular/*
-*://*.play.google.com/store/apps/details?id=com.cbs.sportscbssportsapp/*
-*://*.play.google.com/store/apps/details?id=com.fivemobile.thescore/*
-*://*.play.google.com/store/apps/details?id=com.sofascore.results/*
-*://*.play.google.com/store/apps/details?id=com.fotmob.fotmobapp/*
-*://*.play.google.com/store/apps/details?id=com.bleacherreport.android.teamstream/*
-*://*.play.google.com/store/apps/details?id=com.flashscore.android/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 3. News, Scores & Leagues
 
 *://*.abcsports.go.com/*

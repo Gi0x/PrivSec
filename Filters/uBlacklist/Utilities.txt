@@ -316,7 +316,6 @@ yandex.com/browser
 ||google.ws^
 
 
-
 ! Instances frequently change, retrieved from https://github.com/searxng/searx-instances
 
 ||baresearch.org^
