@@ -92,6 +92,8 @@
 *://*.powerfulmind.co/category/astrology/*
 *://*.theastrologer.com/*
 *://*.theastrologypodcast.com/*
+*://*.patternastrology.com/*
+*://*.sanctuaryastrologyapp.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 2. Horoscope
@@ -130,32 +132,6 @@
 *://*.thehoroscope.co/*
 *://*.weeklyhoroscope.com/*
 *://*.yourtango.com/horoscope/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Misc Astro Sites
-
-*://*.askmyoracle.com/*
-*://*.chinesefortunecalendar.com/*
-*://*.ganeshaspeaks.com/*
-*://*.keen.com/*
-*://*.linda-goodman.com/*
-*://*.mylovecal.com/*
-*://*.sanctuaryworld.co/*
-*://*.seeroracle.com/*
-*://*.sunmoonrise.com/*
-*://*.thebirthchart.com/*
-*://*.vedicfolks.com/*
-*://*.wmagazine.com/*
-
-*://*.labyrinthos.co/*
-*://*.mysticapp.io/*
-*://*.chani.app/*
-*://*.patternastrology.com/*
-*://*.zodiacmatch.app/*
-*://*.dailytarotapp.com/*
-*://*.sanctuaryastrologyapp.com/*
-*://*.zodist.com/*
-*://*.moonly.app/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 5. Numerology
@@ -222,6 +198,7 @@
 
 *://*.atlassace.com/tarot/*
 *://*.daily-tarot-girl.com/*
+*://*.dailytarotapp.com/*
 *://*.darktarot.com/*
 *://*.e-tarocchi.com/*
 *://*.etarocchi.com/*
@@ -271,3 +248,25 @@
 *://*.zodiacsigncompatibilitycharts.com/*
 *://*.zodiacsigns-horoscope.com/*
 *://*.zodiacstyle.com/*
+*://*.zodiacmatch.app/*
+*://*.zodist.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 11. ...
+
+*://*.askmyoracle.com/*
+*://*.chani.app/*
+*://*.chinesefortunecalendar.com/*
+*://*.ganeshaspeaks.com/*
+*://*.keen.com/*
+*://*.labyrinthos.co/*
+*://*.linda-goodman.com/*
+*://*.moonly.app/*
+*://*.mylovecal.com/*
+*://*.mysticapp.io/*
+*://*.sanctuaryworld.co/*
+*://*.seeroracle.com/*
+*://*.sunmoonrise.com/*
+*://*.thebirthchart.com/*
+*://*.vedicfolks.com/*
+*://*.wmagazine.com/*
