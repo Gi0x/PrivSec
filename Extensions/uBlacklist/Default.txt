@@ -1,19 +1,25 @@
-# Title: Astro
-# Info: Hides astrology & tarot sites
+# Title: Default
+# Info: uBlacklist Default List
 # DeDup: Y, Sorted: Y
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Extensions/uBlacklist/Default.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-# 1. Astrology
-# 2. Horoscope
-# 5. Numerology & Pseudoscience
-# 6. Psychic
-# 8. Star signs
-# 9. Tarot
-# 11. Zodiac
+# [1] ASTROLOGY
+# [2] CHAT
+# [3] DATING
+# [4] DRUGS & TOBACCO
+# [5] GAMBLING
+# [6] GAMING
+# [7] NEWS
+# [8] PORN
+# [9] SOCIAL MEDIA
+# [10] SPAM
+# [11] SPORTS
+# [12] STREAMING A/V
+# [13] UTILITIES
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# 1. ASTROLOGY
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [1] ASTROLOGY
 
 *://*.ancientastrologytalks.com/*
 *://*.artcharts.com/*
@@ -271,8 +277,8 @@
 *://*.vedicfolks.com/*
 *://*.wmagazine.com/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# CHAT
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [2] CHAT
 
 *://*.321chat.com/*
 *://*.7strangers.com/*
@@ -486,162 +492,9 @@
 *://*.younow.com/*
 *://*.zoosk.com/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# DRUGS & TOBACCO
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [3] DATING
 
-# 1. Cannabis & Marijuana (Retail, Culture, Info)
-# 2. CBD Product Retailers
-# 3. Darknet Drug Market Mirrors / Directories
-# 4. Drug Forums, Smart Drugs, Nootropics, Research Chems
-# 5. Tobacco & Cigarettes
-# 6. Vaping & E-Cigarettes
-
-# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. Cannabis & Marijuana (Retail, Culture, Info)
-
-*://*.apothecarium.com/*
-*://*.barneysfarm.com/*
-*://*.bcseedking.com/*
-*://*.buyweedonlineusa.com/*
-*://*.cannabis.net/*
-*://*.dutch-passion.com/*
-*://*.greenrush.com/*
-*://*.greenthumbindustries.com/*
-*://*.growerschoiceseeds.com/*
-*://*.hempyresearch.com/*
-*://*.herb.co/*
-*://*.highthere.com/*
-*://*.homegrowncannabisco.com/*
-*://*.ilovegrowingmarijuana.com/*
-*://*.kingbong.com.br/*
-*://*.leafbuyer.com/*
-*://*.leafly.com/*
-*://*.marijuanabreak.com/*
-*://*.marijuanapackaging.com/*
-*://*.medicalmarijuanainc.com/*
-*://*.potguide.com/*
-*://*.royalqueenseeds.com/*
-*://*.thecannabist.co/*
-*://*.theweedblog.com/*
-*://*.weedmaps.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. CBD Product Retailers
-
-*://*.absolute-nature-cbd.com/*
-*://*.americanhempoil.net/*
-*://*.blosumcbd.com/*
-*://*.cbd.co/*
-*://*.cbd.market/*
-*://*.cbdchoice.com/*
-*://*.cbdfx.com/*
-*://*.cbdistillery.com/*
-*://*.cbdliving.com/*
-*://*.cbdmd.com/*
-*://*.charlottesweb.com/*
-*://*.fabcbd.com/*
-*://*.greenroads.com/*
-*://*.hempbombs.com/*
-*://*.joyorganics.com/*
-*://*.kyhicbd.com/*
-*://*.medterracbd.com/*
-*://*.purekana.com/*
-*://*.royalcbd.com/*
-*://*.savagecbd.com/*
-*://*.veritasfarms.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Darknet Drug Market Mirrors / Directories
-
-*://*.dark.fail/*
-*://*.darknetlive.com/*
-*://*.dnstats.net/*
-*://*.onion.live/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Drug Forums, Smart Drugs, Nootropics, Research Chems
-
-*://*.afinilexpress.com/*
-*://*.bluelight.org/*
-*://*.buyxanaxonline.org/*
-*://*.drugs-forum.com/*
-*://*.erowid.org/*
-*://*.liftmode.com/*
-*://*.modafinil.org/*
-*://*.modafiniledge.com/*
-*://*.modafinilxl.com/*
-*://*.nootropicsexpert.com/*
-*://*.nootropics.com/*
-*://*.nootropicsdepot.com/*
-*://*.science.bio/*
-*://*.supersmart.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Tobacco & Cigarettes
-
-*://*.buycigarettesonline.org/*
-*://*.cheapcigarettes.com/*
-*://*.cigaretteprices.net/*
-*://*.cigarettesamerica.com/*
-*://*.cigs4less.com/*
-*://*.dutyfreedepot.com/*
-*://*.smokersunit.com/*
-*://*.tobaccoonline.co.uk/*
-*://*.tobaccostock.com/*
-*://*.tobaccousa.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Vaping & E-Cigarettes
-
-*://*.centralvapors.com/*
-*://*.ecig-city.com/*
-*://*.elementvape.com/*
-*://*.eightvape.com/*
-*://*.fugginvapor.com/*
-*://*.misthub.com/*
-*://*.myfreedomsmokes.com/*
-*://*.myvpro.com/*
-*://*.smokstore.com/*
-*://*.vape-box.com/*
-*://*.vape-deals.com/*
-*://*.vape.com/*
-*://*.vape4ever.com/*
-*://*.vapejuice.com/*
-*://*.vapes.com/*
-*://*.vapedeal.com/*
-*://*.vaped.com/*
-*://*.vapeshack.com/*
-*://*.vapesocietysupply.com/*
-*://*.vapordna.com/*
-*://*.vaporesso.com/*
-*://*.vaporfi.com/*
-*://*.vaporhub.com/*
-*://*.vapewild.com/*
-
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# DRUGS & TOBACCO
-
-
-
-
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# DATING
-
-# 1. Adult, Casual & Hookup-Oriented Dating Platforms
-# 2. AI Companions, Virtual Girlfriends & Simulated Romance
-# 3. App Store Redirects & Promotional Microsites
-# 4. Escort Directories & “Companion” Booking Services
-# 5. Fake, Spammy & Scam-Prone Dating Domains
-# 6. Fetish-Specific Dating & Kink Communities
-# 7. General Dating Platforms (Mainstream & Intl.)
-# 8. Influencer Redirects, Cloakers & Affiliate Networks
-# 9. Niche Dating Platforms (Religion, Lifestyle, Subcultures, Interests)
-# 10. OnlyFans Discovery & Promotion Platforms
-# 11. Regional & Language Specific Dating Platforms
-# 12. Soft-Core NSFW “Advice” for Men & Lifestyle Improvement Media
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. Adult, Casual & Hookup-Oriented Dating Platforms
 
 *://*.1fuckdate.com/*
@@ -886,9 +739,6 @@
 *://*.wannaapp.com/*
 *://*.want2flirt.com/*
 *://*.yourmatchzone.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Escort Directories & “Companion” Booking Services
 
 *://*.adultsearch.com/*
 *://*.adultlook.com/*
@@ -1632,8 +1482,133 @@
 *://*.zanperion.com/*
 *://*.zenofman.com/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# GAMBLING
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [4] DRUGS & TOBACCO
+
+# 
+# 1. Cannabis & Marijuana
+
+*://*.apothecarium.com/*
+*://*.barneysfarm.com/*
+*://*.bcseedking.com/*
+*://*.buyweedonlineusa.com/*
+*://*.cannabis.net/*
+*://*.dutch-passion.com/*
+*://*.greenrush.com/*
+*://*.greenthumbindustries.com/*
+*://*.growerschoiceseeds.com/*
+*://*.hempyresearch.com/*
+*://*.herb.co/*
+*://*.highthere.com/*
+*://*.homegrowncannabisco.com/*
+*://*.ilovegrowingmarijuana.com/*
+*://*.kingbong.com.br/*
+*://*.leafbuyer.com/*
+*://*.leafly.com/*
+*://*.marijuanabreak.com/*
+*://*.marijuanapackaging.com/*
+*://*.medicalmarijuanainc.com/*
+*://*.potguide.com/*
+*://*.royalqueenseeds.com/*
+*://*.thecannabist.co/*
+*://*.theweedblog.com/*
+*://*.weedmaps.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 2. CBD Product Retailers
+
+*://*.absolute-nature-cbd.com/*
+*://*.americanhempoil.net/*
+*://*.blosumcbd.com/*
+*://*.cbd.co/*
+*://*.cbd.market/*
+*://*.cbdchoice.com/*
+*://*.cbdfx.com/*
+*://*.cbdistillery.com/*
+*://*.cbdliving.com/*
+*://*.cbdmd.com/*
+*://*.charlottesweb.com/*
+*://*.fabcbd.com/*
+*://*.greenroads.com/*
+*://*.hempbombs.com/*
+*://*.joyorganics.com/*
+*://*.kyhicbd.com/*
+*://*.medterracbd.com/*
+*://*.purekana.com/*
+*://*.royalcbd.com/*
+*://*.savagecbd.com/*
+*://*.veritasfarms.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 3. Darknet Drug Market Mirrors / Directories
+
+*://*.dark.fail/*
+*://*.darknetlive.com/*
+*://*.dnstats.net/*
+*://*.onion.live/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 4. Drug Forums, Smart Drugs, Nootropics, Research Chems
+
+*://*.afinilexpress.com/*
+*://*.bluelight.org/*
+*://*.buyxanaxonline.org/*
+*://*.drugs-forum.com/*
+*://*.erowid.org/*
+*://*.liftmode.com/*
+*://*.modafinil.org/*
+*://*.modafiniledge.com/*
+*://*.modafinilxl.com/*
+*://*.nootropicsexpert.com/*
+*://*.nootropics.com/*
+*://*.nootropicsdepot.com/*
+*://*.science.bio/*
+*://*.supersmart.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 5. Tobacco & Cigarettes
+
+*://*.buycigarettesonline.org/*
+*://*.cheapcigarettes.com/*
+*://*.cigaretteprices.net/*
+*://*.cigarettesamerica.com/*
+*://*.cigs4less.com/*
+*://*.dutyfreedepot.com/*
+*://*.smokersunit.com/*
+*://*.tobaccoonline.co.uk/*
+*://*.tobaccostock.com/*
+*://*.tobaccousa.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 6. Vaping & E-Cigarettes
+
+*://*.centralvapors.com/*
+*://*.ecig-city.com/*
+*://*.elementvape.com/*
+*://*.eightvape.com/*
+*://*.fugginvapor.com/*
+*://*.misthub.com/*
+*://*.myfreedomsmokes.com/*
+*://*.myvpro.com/*
+*://*.smokstore.com/*
+*://*.vape-box.com/*
+*://*.vape-deals.com/*
+*://*.vape.com/*
+*://*.vape4ever.com/*
+*://*.vapejuice.com/*
+*://*.vapes.com/*
+*://*.vapedeal.com/*
+*://*.vaped.com/*
+*://*.vapeshack.com/*
+*://*.vapesocietysupply.com/*
+*://*.vapordna.com/*
+*://*.vaporesso.com/*
+*://*.vaporfi.com/*
+*://*.vaporhub.com/*
+*://*.vapewild.com/*
+
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [5] GAMBLING
 
 *://*.00000onlinecasino.com/*
 *://*.000333onlinecasino.com/*
@@ -4896,30 +4871,12 @@
 *://*.zpoker.fr/*
 *://*.zyngapoker.com/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# GAMING
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [6] GAMING
 
-# 1. Browser-Based Gaming ... ok
-# 2. Developers (AAA, Indie, Mobile, VR, Web3 & Blockchain) & Publisher Sites ... ok
-# 3. Streaming Platforms, eSports & Video Creators ... ok
-# 4. Addons, Maps, & Tools ... ok
-# 5. Adjacent Domains ... ok
-# 6. Analytics, Benchmarking, & Performance ... ok
-# 7. Catalogs, Lists, & Stats ... ok
-# 8. Cheats, Mods & Trainers ... ok
-# 9. Communities & Forums (incl. Fan-Made, Niche and Obscure) ... ok
-# 10. Console Specific Services ... ok
-# 11. Databases & Companion Apps ... ok
-# 12. Distribution Platforms ... ok
-# 13. Merchandise & Gear ... 
-# 14. News & Reviews ... 
-# 15. VR-AR Sites & Platforms ...
-# 16. Guides, Subreddits & Wikis ... 
-# 17. Mobile Portals & App-Based Games ... ok
-# 18. Niche & Indie Game Portals ... ok
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. Browser-Based Gaming
+# Browser-Based Gaming
 
 *://*.2pg.com/*
 *://*.7k7k.com/*
@@ -5256,7 +5213,7 @@
 *://*.zibbo.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Developers
+# Developers
 
 *://*.4:33.co.kr/*
 *://*.99games.in/*
@@ -5617,7 +5574,7 @@
 *://*.zlongame.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Streaming
+# Streaming
 
 *://*.4gamers.tv/*
 *://*.100thieves.com/*
@@ -5876,7 +5833,7 @@
 *://*.zhanqi.tv/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Addons
+# Addons
 
 *://*.7mods.ru/*
 *://*.9minecraft.net/*
@@ -6171,7 +6128,7 @@
 *://*.zophar.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Adjacent Domains
+# Adjacent Domains
 
 *://*.achievementhunter.com/*
 *://*.adventurenerds.com/*
@@ -8310,8 +8267,8 @@
 *://*.nitrome.com/*
 *://*.tigsource.com/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# NEWS
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [7] NEWS
 
 # 1. News 🇷🇸 🇲🇪 🇧🇦
 # 2. Tabloids 🇷🇸 🇲🇪 🇧🇦
@@ -8887,8 +8844,8 @@
 *://*.zalebs.com/*
 *://*.zismile.com/celebs/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# NSFW
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [8] PORN
 
 *://*.abprintshop.com/*
 *://*.adultsextoywholesalers.com.au/*
@@ -9054,30 +9011,26 @@
 *://*.ynot.com/*
 *://*.ynoteurope.com/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# SOCIAL MEDIA
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [9] SOCIAL MEDIA
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. BeReal
+# –––––––––––––––––––––––––––––––––––––––– BeReal
 
 *://*.bere.al/*
 *://*.bereal.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. DeviantArt
+# –––––––––––––––––––––––––––––––––––––––– DeviantArt
 
 *://*.deviantart.com/*
 *://*.deviantart.net/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. Discord
+# –––––––––––––––––––––––––––––––––––––––– Discord
 
 *://*.discord.com/*
 *://*.discord.gg/*
 *://*.discordapp.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 9. Facebook
+# –––––––––––––––––––––––––––––––––––––––– Facebook
 
 *://*.facebook.com/*
 *://*.facebook.de/*
@@ -9089,14 +9042,12 @@
 *://*.meta.com/*
 *://*.thefacebook.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 10. Giphy
+# –––––––––––––––––––––––––––––––––––––––– Giphy
 
 *://*.giphy.com/*
 *://*.giphyusercontent.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 12. Instagram
+# –––––––––––––––––––––––––––––––––––––––– Instagram
 
 *://*.instagram.com/*
 *://*.instagr.am/*
@@ -9544,8 +9495,7 @@
 *://*.zoominsta.de/*
 *://*.zoomprofile.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 14. Mastodon
+# –––––––––––––––––––––––––––––––––––––––– Mastodon
 
 *://*.joinmastodon.org/*
 *://*.mas.to/*
@@ -9558,15 +9508,13 @@
 *://*.mstdn.party/*
 *://*.mstdn.social/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 15. Messenger
+# –––––––––––––––––––––––––––––––––––––––– Messenger
 
 *://*.m.me/*
 *://*.messenger.com/*
 *://*.messengerkids.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 18. Reddit
+# –––––––––––––––––––––––––––––––––––––––– Reddit
 
 *://*.redd.it/*
 *://*.reddit.com/*
@@ -9577,15 +9525,13 @@
 *://*.redditstatic.com/*
 *://*.subredditstats.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 19. Snapchat
+# –––––––––––––––––––––––––––––––––––––––– Snapchat
 
 *://*.bitmoji.com/*
 *://*.snap.com/*
 *://*.snapchat.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 20. Telegram
+# –––––––––––––––––––––––––––––––––––––––– Telegram
 
 *://*.t.me/*
 *://*.telegram.im/*
@@ -9593,43 +9539,37 @@
 *://*.telegram.org/*
 *://*.telegramchannels.me/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 21. Threads
+# –––––––––––––––––––––––––––––––––––––––– Threads
 
 *://*.threads.com/*
 *://*.threads.net/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 22. TikTok
+# –––––––––––––––––––––––––––––––––––––––– TikTok
 
 *://*.lifeattiktok.com/*
 *://*.musical.ly/*
 *://*.snaptik.kim/*
 *://*.tiktok.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 24. Twitter & X
+# –––––––––––––––––––––––––––––––––––––––– Twitter & X
 
 *://*.t.co/*
 *://*.twitter.com/*
 *://*.x.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 25. VK
+# –––––––––––––––––––––––––––––––––––––––– VK
 
 *://*.vk.cc/*
 *://*.vk.com/*
 *://*.vk.me/*
 *://*.vkontakte.ru/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 28. WhatsApp
+# –––––––––––––––––––––––––––––––––––––––– WhatsApp
 
 *://*.wa.me/*
 *://*.whatsapp.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 30. ...
+# –––––––––––––––––––––––––––––––––––––––– ...
 
 *://*.ask.fm/*
 *://*.classmates.com/*
@@ -9647,34 +9587,10 @@
 *://*.weheartit.com/*
 *://*.wopita.com/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# SPAM
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [10] SPAM
 
-# 1. Bios
-# 7. Celebrities
-# 8. Clickait Misc
-# 9. Copycat Tutorials
-# 10. Fake Entrepreneurship, Hustle Culture, Success & Income Claim Sites
-# 11. Fake Psychology & Therapy Advice Blogs 
-# 12. Fake Learning Platforms & Low-Quality Course Sites
-# 13. Fame & Glamour
-# 14. GitHub
-# 15. Gossip & Rumors
-# 16. Hollywood (incl. Bollywood)
-# 17. Jet Set
-# 18. Lyrics
-# 19. Networth
-# 20. People & Pop Culture
-# 21. Pop Psychology & Productivity Spam Blogs
-# 22. Quotes
-# 23. Software Mirror & Download Sites
-# 24. Stars
-# 25. Tech News, Error Fix Blogs & How-To Spam
-# 26. Wallpapers
-# 26. Wikis
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. Bios
+# –––––––––––––––––––––––––––––––––––––––– Bios
 
 *://*.aajivanbiography.com/*
 *://*.arrivebio.org/*
@@ -9725,8 +9641,7 @@
 *://*.shortbiography.info/*
 *://*.vidasybiografias.blogspot.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Celebrities 
+# –––––––––––––––––––––––––––––––––––––––– Celebs
 
 *://*.123celebritygossip.com/*
 *://*.1celebritysearch.com/*
@@ -10245,8 +10160,7 @@
 *://*.yourcelebrity.net/*
 *://*.yourcelebritymagazines.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Listicles, Rankings etc.
+# –––––––––––––––––––––––––––––––––––––––– Listicles
 
 *://*.24online.news/*
 *://*.24usainfo.com/*
@@ -10548,8 +10462,7 @@
 *://*.wakeupcloud.com/*
 *://*.youhaveacalling.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 13. Fame & Glamour
+# –––––––––––––––––––––––––––––––––––––––– Fame
 
 *://*.allfamous.org/*
 *://*.allfamoustrend.com/*
@@ -10712,8 +10625,7 @@
 *://*.timessquaregossip.com/*
 *://*.ubergossip.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 16. Hollywood (incl. Bollywood)
+# –––––––––––––––––––––––––––––––––––––––– Hollywood
 
 *://*.accesshollywoodtours.com/*
 *://*.bollywoodfox.com/*
@@ -10750,8 +10662,7 @@
 *://*.thehollywoodgossip.com/*
 *://*.younghollywood.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 17. Jet Set
+# –––––––––––––––––––––––––––––––––––––––– Jet-Set
 
 *://*.designjetset.com/*
 *://*.drinkjetset.com/*
@@ -10798,8 +10709,7 @@
 *://*.twojetsetdivas.com/*
 *://*.ultimate-jetset.xooit.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 18. Lyrics
+# –––––––––––––––––––––––––––––––––––––––– Lyrics
 
 *://*.123lyrics.com/*
 *://*.azlyrics.biz/*
@@ -10849,8 +10759,7 @@
 *://*.xtralyrics.com/*
 *://*.youlistener.com/lyrics/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 19. Networth
+# –––––––––––––––––––––––––––––––––––––––– Networth
 
 *://*.anetworth.net/*
 *://*.bossnetworth.com/*
@@ -10908,8 +10817,7 @@
 *://*.wealthypeeps.com/*
 *://*.worthpoint.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 20. People & Pop Culture
+# –––––––––––––––––––––––––––––––––––––––– Ppl & Pop Culture
 
 *://*.123people.com/*
 *://*.actualitepeople.tootisy.com/*
@@ -11007,8 +10915,7 @@
 *://*.thepersonage.com/*
 *://*.waterforpeople.org/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 21. Spam Blogs
+# –––––––––––––––––––––––––––––––––––––––– Blogs
 
 *://*.alifeofproductivity.com/*
 *://*.artofmanliness.com/*
@@ -11042,8 +10949,7 @@
 *://*.tomorrow.do/*
 *://*.zenhabits.net/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 22. Quotes
+# –––––––––––––––––––––––––––––––––––––––– Quotes
 
 *://*.azquotes.com/*
 *://*.citationcelebre.com/*
@@ -11491,8 +11397,8 @@
 *://*.wikiwiki.in/*
 *://*.wikiyeah.com/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# SPORTS
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [11] SPORTS
 
 # 1. Betting & Odds Sites
 # 2. Mobile App Links
@@ -11639,8 +11545,8 @@
 *://*.sportske.net/*
 *://*.in4s.net/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# STREAMING
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [12] STREAMING A/V
 
 # AUDIO 
 # A1. Audiobook Platforms
@@ -12649,12 +12555,8 @@
 *://*.wavehd.com/*
 *://*.wolfstream.tv/*
 
-# ███████████████████████████████████████████████████████████████████████████████████████████
-# UTILITIES
-
-# 1. Browsers
-# 2. Media
-# 3. Search Engines
+# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# [13] UTILITIES
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. Browsers
