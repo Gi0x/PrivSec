@@ -86,41 +86,45 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # A
 
-/.*\.(aaa|aarp)($|\/)/
-/.*\.(abarth|abb|abbott|abbvie|abc|able|abogado|abudhabi)($|\/)/
-/.*\.(academy|accenture|accountant|accountants|aco|active|actor)($|\/)/
-/.*\.(adac|ads|adult)($|\/)/
-/.*\.(aeg|aero|aetna)($|\/)/
-/.*\.(afamilycompany|afl|africa)($|\/)/
-/.*\.(agakhan|agency)($|\/)/
-/.*\.(aig|aigo|airbus|airforce|airtel)($|\/)/
-/.*\.(alfaromeo|alibaba|alipay|allfinanz|allstate|ally|alsace|alstom)($|\/)/
-/.*\.(amazon|americanexpress|americanfamily|amex|amfam|amica|amsterdam)($|\/)/
-/.*\.(analytics|android|anquan|anz)($|\/)/
-/.*\.(apartments|apple)($|\/)/
-/.*\.(arab|aramco|archi|army|arpa|art|arte)($|\/)/
-/.*\.(asda|asia|associates)($|\/)/
-/.*\.(athleta|attorney)($|\/)/
-/.*\.(auction|audi|audible|audio|auspost|author|auto|autos)($|\/)/
+/.*\.(
+aaa|aarp|
+abarth|abb|abbott|abbvie|abc|able|abogado|abudhabi|
+academy|accenture|accountant|accountants|aco|active|actor|
+adac|ads|adult|
+aeg|aero|aetna|
+afamilycompany|afl|africa|
+agakhan|agency|
+aig|aigo|airbus|airforce|airtel|
+alfaromeo|alibaba|alipay|allfinanz|allstate|ally|alsace|alstom|
+amazon|americanexpress|americanfamily|amex|amfam|amica|amsterdam|
+analytics|android|anquan|anz|
+apartments|apple|
+arab|aramco|archi|army|arpa|art|arte|
+asda|asia|associates|
+athleta|attorney|
+auction|audi|audible|audio|auspost|author|auto|autos|
+)($|\/)/
 
 # ...
-/.*\.(akdn|aol|aquarelle|avianca|aws|axa|azure)($|\/)/
 # Excluded: app
+/.*\.(akdn|aol|aquarelle|avianca|aws|axa|azure)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # B
 
-/.*\.(baby|baidu|banamex|bananarepublic|band|bank|bar|barcelona|barclaycard|barclays|barefoot|bargains|baseball|basketball|bauhaus|bayern)($|\/)/
-/.*\.(bbc|bbt|bbva)($|\/)/
-/.*\.(bcg|bcn)($|\/)/
-/.*\.(beats|beauty|beats|beauty|beer|bentley|berlin|best|bestbuy|bet)($|\/)/
-/.*\.(bible|bid|bike|bing|bingo|bio|biz)($|\/)/
-/.*\.(black|blackfriday|blanco|blockbuster|blockchain|blog|bloomberg|blue)($|\/)/
-/.*\.(bms|bmw)($|\/)/
-/.*\.(bnl|bnpparibas)($|\/)/
-/.*\.(boats|boehringer|bofa|bom|bond|boo|book|booking|boots|bosch|bostik|boston|bot|boutique|box)($|\/)/
-/.*\.(bradesco|bridgestone|broadway|broker|brother|brussels)($|\/)/
-/.*\.(budapest|bugatti|build|builders|business|buy|buzz)($|\/)/
+/.*\.(
+baby|baidu|banamex|bananarepublic|band|bank|bar|barcelona|barclaycard|barclays|barefoot|bargains|baseball|basketball|bauhaus|bayern|
+bbc|bbt|bbva|
+bcg|bcn|
+beats|beauty|beats|beauty|beer|bentley|berlin|best|bestbuy|bet|
+bible|bid|bike|bing|bingo|bio|biz|
+black|blackfriday|blanco|blockbuster|blockchain|blog|bloomberg|blue|
+bms|bmw|
+bnl|bnpparibas|
+boats|boehringer|bofa|bom|bond|boo|book|booking|boots|bosch|bostik|boston|bot|boutique|box|
+bradesco|bridgestone|broadway|broker|brother|brussels|
+budapest|bugatti|build|builders|business|buy|buzz
+)($|\/)/
 
 # ...
 /.*\.(bharti|bzh)($|\/)/
@@ -128,19 +132,31 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # C
 
-/.*\.(cab|cafe|cal|call|calvinklein|cam|camera|camp|cancerresearch|canon|capetown|capital|capitalone|car|caravan|cards|care|career|careers|cars|cartier|casa|case|caseih|cash|casino|cat|catering|catholic)($|\/)/
-/.*\.(cba|cbn|cbre|cbs)($|\/)/
-/.*\.(ceb|center|ceo|cern)($|\/)/
-/.*\.(cfa|cfd)($|\/)/
-/.*\.(chanel|channel|charity|chase|chat|cheap|chintai|chloe|christmas|chrome|chrysler|church)($|\/)/
-/.*\.(cipriani|circle|cisco|citadel|citi|citic|city|cityeats)($|\/)/
-/.*\.(claims|cleaning|click|clinic|clinique|clothing|cloud|club|clubmed)($|\/)/
-/.*\.(coach|codes|coffee|college|cologne|comcast|commbank|community|company|compare|computer|comsec|condos|contruction|consulting|contact|contractors|cooking|cookingchannel|cool|coop|corsica|country|coupon|coupons|courses)($|\/)/
-/.*\.(credit|creditcard|creditunion|cricket|crown|crs|cruise|cruises)($|\/)/
-/.*\.(cymru|cyou)($|\/)/
+/.*\.(
+cab|cafe|
+cal|call|calvinklein|
+cam|camera|camp|
+cancerresearch|canon|capetown|capital|capitalone|
+car|caravan|cards|care|career|careers|cars|cartier|
+casa|case|caseih|cash|casino|
+cat|catering|catholic|
+cba|cbn|cbre|cbs|
+ceb|center|ceo|cern|
+cfa|cfd|
+chanel|channel|charity|chase|chat|cheap|chintai|chloe|christmas|chrome|chrysler|church|
+cipriani|circle|cisco|citadel|citi|citic|city|cityeats|
+claims|cleaning|click|clinic|clinique|clothing|cloud|club|clubmed|
+college|cologne|
+comcast|commbank|community|company|compare|computer|comsec|
+condos|contruction|consulting|contact|contractors|
+cooking|cookingchannel|cool|coop|
+country|coupon|coupons|courses|
+credit|creditcard|creditunion|cricket|crown|crs|cruise|cruises|
+cymru|cyou|
+)($|\/)/
 
 # ...
-/(cpa|csc|cuisinella)($|\/)/
+/(coach|codes|coffee|corsica|cpa|csc|cuisinella)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # D
