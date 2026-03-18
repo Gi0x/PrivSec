@@ -9572,6 +9572,7 @@
 # –––––––––––––––––––––––––––––––––––––––– ...
 
 *://*.ask.fm/*
+*://*.bsky.app/*
 *://*.classmates.com/*
 *://*.clubhouse.com/*
 *://*.collabstr.com/*
