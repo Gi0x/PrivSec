@@ -1,7 +1,7 @@
 # Title: TLDs
 # Info: Hides Top Level Domains
 # DeDup: Y, Sorted: Y
-# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/TLDs.txt
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Extensions/uBlacklist/TLDs.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # ccTLDs
@@ -102,7 +102,7 @@ apartments|apple|
 arab|aramco|archi|army|arpa|art|arte|
 asda|asia|associates|
 athleta|attorney|
-auction|audi|audible|audio|auspost|author|auto|autos|
+auction|audi|audible|audio|auspost|author|auto|autos
 )($|\/)/
 
 # ...
@@ -133,40 +133,36 @@ budapest|bugatti|build|builders|business|buy|buzz
 # C
 
 /.*\.(
-cab|cafe|
-cal|call|calvinklein|
-cam|camera|camp|
-cancerresearch|canon|capetown|capital|capitalone|
-car|caravan|cards|care|career|careers|cars|cartier|
-casa|case|caseih|cash|casino|
-cat|catering|catholic|
+cab|cafe|cal|call|calvinklein|cam|camera|camp|cancerresearch|canon|capetown|capital|capitalone|car|caravan|cards|care|career|careers|cars|cartier|casa|case|caseih|cash|casino|cat|catering|catholic|
 cba|cbn|cbre|cbs|
 ceb|center|ceo|cern|
 cfa|cfd|
 chanel|channel|charity|chase|chat|cheap|chintai|chloe|christmas|chrome|chrysler|church|
 cipriani|circle|cisco|citadel|citi|citic|city|cityeats|
 claims|cleaning|click|clinic|clinique|clothing|cloud|club|clubmed|
-college|cologne|
+coach|codes|coffee|corsica|college|cologne|
 comcast|commbank|community|company|compare|computer|comsec|
 condos|contruction|consulting|contact|contractors|
 cooking|cookingchannel|cool|coop|
 country|coupon|coupons|courses|
 credit|creditcard|creditunion|cricket|crown|crs|cruise|cruises|
-cymru|cyou|
+cymru|cyou
 )($|\/)/
 
 # ...
-/(coach|codes|coffee|corsica|cpa|csc|cuisinella)($|\/)/
+/(cpa|csc|cuisinella)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # D
 
-/.*\.(dabur|dad|dance|data|date|dating|datsun|day)($|\/)/
-/.*\.(deal|dealer|deals|degree|delivery|dell|deloitte|delta|democrat|dental|dentist|desi|design|dev)($|\/)/
-/.*\.(diamonds|diet|digital|direct|directory|discount|discover|dish|diy)($|\/)/
-/.*\.(docs|doctor|dodge|dog|doha|domains|doosan|dot|download)($|\/)/
-/.*\.(dubai|duck|dunlop|duns|dupont|durban)($|\/)/
-/.*\.(dvag|dvr)($|\/)/
+/.*\.(
+dabur|dad|dance|data|date|dating|datsun|day|
+deal|dealer|deals|degree|delivery|dell|deloitte|delta|democrat|dental|dentist|desi|design|dev|
+diamonds|diet|digital|direct|directory|discount|discover|dish|diy|
+docs|doctor|dodge|dog|doha|domains|doosan|dot|download|
+dubai|duck|dunlop|duns|dupont|durban|
+dvag|dvr
+)($|\/)/
 
 # ...
 *://*.dpdns.org/*
@@ -175,16 +171,18 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # E
 
-/.*\.(earth|eat)($|\/)/
-/.*\.(edeka|education)($|\/)/
-/.*\.(email|emerck)($|\/)/
-/.*\.(energy|engineer|engineering|enterprises)($|\/)/
-/.*\.(epost|epson)($|\/)/
-/.*\.(ericsson|erni)($|\/)/
-/.*\.(esq|estate|esurance)($|\/)/
-/.*\.(eurovision|eus)($|\/)/
-/.*\.(events|everbank)($|\/)/
-/.*\.(exchange|expert|exposed|express|extraspace)($|\/)/
+/.*\.(
+earth|eat|
+edeka|education|
+email|emerck|
+energy|engineer|engineering|enterprises|
+epost|epson|
+ericsson|erni|
+esq|estate|esurance|
+eurovision|eus|
+events|everbank|
+exchange|expert|exposed|express|extraspace
+)($|\/)/
 
 # ...
 /.*\.(eco|equipment|etisalat)($|\/)/
@@ -192,13 +190,15 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # F
 
-/.*\.(fage|fail|fairwinds|faith|family|fan|fans|farm|farmers|fashion|fast)($|\/)/
-/.*\.(fedex|feedback|ferrari|ferrero)($|\/)/
-/.*\.(fiat|fidelity|fido|film|final|finance|financial|fire|firestone|firmdale|fish|fishing|fit|fitness)($|\/)/
-/.*\.(flickr|flights|flir|florist|flowers|flsmidth|fly)($|\/)/
-/.*\.(foo|food|foodnetwork|football|ford|forex|forsale|forum|foundation|fox)($|\/)/
-/.*\.(free|fresenius|frl|frogans|frontdoor|frontier)($|\/)/
-/.*\.(fujitsu|fujixerox|fun|fund|furniture|futbol)($|\/)/
+/.*\.(
+fage|fail|fairwinds|faith|family|fan|fans|farm|farmers|fashion|fast|
+fedex|feedback|ferrari|ferrero|
+fiat|fidelity|fido|film|final|finance|financial|fire|firestone|firmdale|fish|fishing|fit|fitness|
+flickr|flights|flir|florist|flowers|flsmidth|fly|
+foo|food|foodnetwork|football|ford|forex|forsale|forum|foundation|fox|
+free|fresenius|frl|frogans|frontdoor|frontier|
+fujitsu|fujixerox|fun|fund|furniture|futbol
+)($|\/)/
 
 # ...
 /.*\.(ftr|fyi)($|\/)/
@@ -206,14 +206,16 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # G
 
-/.*\.(gal|gallery|gallo|gallup|game|games|gap|garden|gay)($|\/)/
-/.*\.(gea|gent|genting|george)($|\/)/
-/.*\.(gift|gifts|gives|giving)($|\/)/
-/.*\.(glade|glass|gle|global|globo)($|\/)/
-/.*\.(gmail|gmbh|gmo|gmx)($|\/)/
-/.*\.(godaddy|gold|goldpoint|golf|goo|goodhands|goodyear|goog|google|gop|got)($|\/)/
-/.*\.(grainger|graphics|gratis|green|gripe|grocery|group)($|\/)/
-/.*\.(guardian|gucci|guge|guide|guitars|guru)($|\/)/
+/.*\.(
+gal|gallery|gallo|gallup|game|games|gap|garden|gay|
+gea|gent|genting|george|
+gift|gifts|gives|giving|
+glade|glass|gle|global|globo|
+gmail|gmbh|gmo|gmx|
+godaddy|gold|goldpoint|golf|goo|goodhands|goodyear|goog|google|gop|got|
+grainger|graphics|gratis|green|gripe|grocery|group|
+guardian|gucci|guge|guide|guitars|guru
+)($|\/)/
 
 # ...
 /.*\.(gbiz|gdn|ggee)($|\/)/
@@ -221,12 +223,14 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # H
 
-/.*\.(hair|hamburg|hangout|haus)($|\/)/
-/.*\.(hdfc|hdfcbank)($|\/)/
-/.*\.(health|healthcare|help|helsinki|here|hermes)($|\/)/
-/.*\.(hiphop|hisamitsu|hitachi|hiv)($|\/)/
-/.*\.(hockey|holdings|holiday|homedepot|homegoods|homes|homesense|honda|honeywell|horse|hospital|host|hosting|hot|hoteles|hotels|hotmail|house|how)($|\/)/
-/.*\.(hyatt|hyundai)($|\/)/
+/.*\.(
+hair|hamburg|hangout|haus|
+hdfc|hdfcbank|
+health|healthcare|help|helsinki|here|hermes|
+hiphop|hisamitsu|hitachi|hiv|
+hockey|holdings|holiday|homedepot|homegoods|homes|homesense|honda|honeywell|horse|hospital|host|hosting|hot|hoteles|hotels|hotmail|house|how|
+hyatt|hyundai
+)($|\/)/
 
 # ...
 /.*\.(hbo|hgtv|hkt|hsbc|htc|hughes)($|\/)/
@@ -234,11 +238,13 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # I
 
-/.*\.(icbc|ice|icu)($|\/)/
-/.*\.(imamat|imdb|immo|immobilien)($|\/)/
-/.*\.(inc|industries|infiniti|info|ing|ink|institute|insurance|insure|int|intel|international|intuit|investments)($|\/)/
-/.*\.(iselect|ismaili|ist|istanbul)($|\/)/
-/.*\.(itau|itv)($|\/)/
+/.*\.(
+icbc|ice|icu|
+imamat|imdb|immo|immobilien|
+inc|industries|infiniti|info|ing|ink|institute|insurance|insure|int|intel|international|intuit|investments|
+iselect|ismaili|ist|istanbul|
+itau|itv
+)($|\/)/
 
 # ...
 /.*\.(ibm|ieee|ifm|iinet|ikano|ipiranga|irish|iveco)($|\/)/
@@ -246,12 +252,14 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # J
 
-/.*\.(jaguar|java)($|\/)/
-/.*\.(jcb|jcp)($|\/)/
-/.*\.(jeep|jetzt|jewelry)($|\/)/
-/.*\.(jobs|joburg|jot|joy)($|\/)/
-/.*\.(jpmorgan|jprs)($|\/)/
-/.*\.(juegos|juniper)($|\/)/
+/.*\.(
+jaguar|java|
+jcb|jcp|
+jeep|jetzt|jewelry|
+jobs|joburg|jot|joy|
+jpmorgan|jprs|
+juegos|juniper
+)($|\/)/
 
 # ...
 /.*\.(jio|jlc|jll|jmp|jnj)($|\/)/
@@ -259,11 +267,13 @@ cymru|cyou|
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # K
 
-/.*\.(kerryhotels|kerrylogistics|kerryproperties)($|\/)/
-/.*\.(kia|kids|kim|kinder|kindle|kitchen|kiwi)($|\/)/
-/.*\.(koeln|komatsu|kosher)($|\/)/
-/.*\.(kpmg|kpn)($|\/)/
-/.*\.(krd|kred)($|\/)/
+/.*\.(
+kerryhotels|kerrylogistics|kerryproperties|
+kia|kids|kim|kinder|kindle|kitchen|kiwi|
+koeln|komatsu|kosher|
+kpmg|kpn|
+krd|kred
+)($|\/)/
 
 # ...
 /.*\.(kaufen|kddi|kfh|kuokgroup|kyoto)($|\/)/
@@ -271,14 +281,16 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # L
 
-/.*\.(lacaixa|ladbrokes|lamborghini|lamer|lancaster|lancia|lancome|land|landrover|lanxess|lasalle|lat|latino|latrobe|law|lawyer)($|\/)/
-/.*\.(lease|leclerc|lefrak|legal|lego|lexus)($|\/)/
-/.*\.(liaison|lidl|life|lifeinsurance|lifestyle|lighting|like|lilly|limited|limo|lincoln|linde|link|lipsy|live|living|lixil)($|\/)/
-/.*\.(llc|llp)($|\/)/
-/.*\.(loan|loans|locker|locus|loft|lol|london|lotte|lotto|love)($|\/)/
-/.*\.(lpl|lplfinancial)($|\/)/
-/.*\.(ltd|ltda)($|\/)/
-/.*\.(lundbeck|lupin|luxe|luxury)($|\/)/
+/.*\.(
+lacaixa|ladbrokes|lamborghini|lamer|lancaster|lancia|lancome|land|landrover|lanxess|lasalle|lat|latino|latrobe|law|lawyer|
+lease|leclerc|lefrak|legal|lego|lexus|
+liaison|lidl|life|lifeinsurance|lifestyle|lighting|like|lilly|limited|limo|lincoln|linde|link|lipsy|live|living|lixil|
+llc|llp|
+loan|loans|locker|locus|loft|lol|london|lotte|lotto|love|
+lpl|lplfinancial|
+ltd|ltda|
+lundbeck|lupin|luxe|luxury
+)($|\/)/
 
 # ...
 /.*\.(lds|lgbt)($|\/)/
@@ -286,14 +298,16 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # M
 
-/.*\.(macys|madrid|maif|maison|makeup|man|management|mango|map|market|marketing|markets|marriott|marshalls|maserati|mattel)($|\/)/
-/.*\.(mcd|mcdonalds|mckinsey)($|\/)/
-/.*\.(med|media|meet|melbourne|meme|memorial|men|menu|meo|merckmsd|metlife)($|\/)/
-/.*\.(miami|microsoft|mil|mini|mint|mit|mitsubishi)($|\/)/
-/.*\.(mlb|mls)($|\/)/
-/.*\.(mobi|mobile|mobily|moda|moe|moi|mom|monash|money|monster|montblanc|mopar|mormon|mortgage|moscow|moto|motorcycles|mov|movie|movistar)($|\/)/
-/.*\.(mtn|mtpc|mtr)($|\/)/
-/.*\.(museum|music|mutual|mutuelle)($|\/)/
+/.*\.(
+macys|madrid|maif|maison|makeup|man|management|mango|map|market|marketing|markets|marriott|marshalls|maserati|mattel|
+mcd|mcdonalds|mckinsey|
+med|media|meet|melbourne|meme|memorial|men|menu|meo|merckmsd|metlife|
+miami|microsoft|mil|mini|mint|mit|mitsubishi|
+mlb|mls|
+mobi|mobile|mobily|moda|moe|moi|mom|monash|money|monster|montblanc|mopar|mormon|mortgage|moscow|moto|motorcycles|mov|movie|movistar|
+mtn|mtpc|mtr|
+museum|music|mutual|mutuelle
+)($|\/)/
 
 # ...
 /.*\.(mba|mma|msd)($|\/)/
@@ -301,11 +315,13 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # N
 
-/.*\.(nab|nadex|nagoya|name|nationwide|natura|navy)($|\/)/
-/.*\.(nec|netbank|netflix|network|neustar|new|newholland|news|next|nextdirect|nexus)($|\/)/
-/.*\.(nico|nike|nikon|ninja|nissan|nissay)($|\/)/
-/.*\.(nokia|non|northwesternmutual|norton|now|nowruz|nowtv)($|\/)/
-/.*\.(nra|nrw)($|\/)/
+/.*\.(
+nab|nadex|nagoya|name|nationwide|natura|navy|
+nec|netbank|netflix|network|neustar|new|newholland|news|next|nextdirect|nexus|
+nico|nike|nikon|ninja|nissan|nissay|
+nokia|non|northwesternmutual|norton|now|nowruz|nowtv|
+nra|nrw
+)($|\/)/
 
 # ...
 /.*\.(nba|nfl|ngo|nhk|ntt|nyc)($|\/)/
@@ -313,13 +329,15 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # O
 
-/.*\.(obi|observer)($|\/)/
-/.*\.(off|office)($|\/)/
-/.*\.(olayan|olayangroup|oldnavy|ollo)($|\/)/
-/.*\.(one|ong|onl|online|onyourside)($|\/)/
-/.*\.(ooo|open)($|\/)/
-/.*\.(oracle|orange|organic|orientexpress|origins)($|\/)/
-/.*\.(otsuka|ott)($|\/)/
+/.*\.(
+obi|observer|
+off|office|
+olayan|olayangroup|oldnavy|ollo|
+one|ong|onl|online|onyourside|
+ooo|open|
+oracle|orange|organic|orientexpress|origins|
+otsuka|ott
+)($|\/)/
 
 # ...
 /.*\.(okinawa|omega|osaka|ovh)($|\/)/
@@ -327,12 +345,14 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # P
 
-/.*\.(page|pamperedchef|panasonic|panerai|paris|pars|partners|parts|party|passagens|pay)($|\/)/
-/.*\.(pharmacy|phd|philips|phone|photo|photos|photography|physio)($|\/)/
-/.*\.(piaget|pics|pictet|pictures|pid|pin|ping|pink|pioneer|pizza)($|\/)/
-/.*\.(place|play|playstation|plumbing|plus)($|\/)/
-/.*\.(pohl|poker|politie|porn|post)($|\/)/
-/.*\.(pramerica|praxi|press|prime|pro|prod|productions|prof|progressive|promo|properties|property|protection|pru|prudential)($|\/)/
+/.*\.(
+page|pamperedchef|panasonic|panerai|paris|pars|partners|parts|party|passagens|pay|
+pharmacy|phd|philips|phone|photo|photos|photography|physio|
+piaget|pics|pictet|pictures|pid|pin|ping|pink|pioneer|pizza|
+place|play|playstation|plumbing|plus|
+pohl|poker|politie|porn|post|
+pramerica|praxi|press|prime|pro|prod|productions|prof|progressive|promo|properties|property|protection|pru|prudential
+)($|\/)/
 
 # ...
 /.*\.(pccw|pet|pfizer|pnc|pub|pwc)($|\/)/
@@ -349,11 +369,13 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # R
 
-/.*\.(racing|radio|raid)($|\/)/
-/.*\.(read|realestate|realtor|realty|recipes|red|redstone|redumbrella|rehab|reise|reisen|reit|reliance|ren|rent|rentals|repair|report|republican|rest|restaurant|review|reviews|rexroth)($|\/)/
-/.*\.(rich|richardli|ricoh|rightathome|ril|rio|rip)($|\/)/
-/.*\.(rocher|rocks|rodeo|rogers|room)($|\/)/
-/.*\.(rugby|ruhr|run)($|\/)/
+/.*\.(
+racing|radio|raid|
+read|realestate|realtor|realty|recipes|red|redstone|redumbrella|rehab|reise|reisen|reit|reliance|ren|rent|rentals|repair|report|republican|rest|restaurant|review|reviews|rexroth|
+rich|richardli|ricoh|rightathome|ril|rio|rip|
+rocher|rocks|rodeo|rogers|room|
+rugby|ruhr|run
+)($|\/)/
 
 # ...
 /.*\.(rmit|rsvp|rwe|ryukyu)($|\/)/
@@ -361,21 +383,23 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # S
 
-/.*\.(saarland|safe|safety|sakura|sale|salon|samsclub|samsung|sandvik|sandvikcoromant|sanofi|sap|sapo|sarl|sas|save|saxo)($|\/)/
-/.*\.(sbi|sbs)($|\/)/
-/.*\.(sca|scb|schaeffler|schmidt|scholarships|school|schule|schwarz|science|scjohnson|scor|scot)($|\/)/
-/.*\.(search|seat|secure|security|seek|select|sener|services|ses|seven|sew|sex|sexy)($|\/)/
-/.*\.(shangrila|sharp|shaw|shell|shia|shiksha|shoes|shop|shopping|shouji|show|showtime|shriram)($|\/)/
-/.*\.(silk|sina|singles|site)($|\/)/
-/.*\.(ski|skin|sky|skype)($|\/)/
-/.*\.(smart|smile)($|\/)/
-/.*\.(social|softbank|software|sohu|solar|solutions|song|sony|soy)($|\/)/
-/.*\.(spa|space|spiegel|sport|spot|spreadbetting)($|\/)/
-/.*\.(srl|srt)($|\/)/
-/.*\.(stada|staples|star|starhub|statebank|statefarm|statoil|stc|stcgroup|stockholm|storage|store|stream|studio|study|style)($|\/)/
-/.*\.(sucks|supplies|supply|support|surf|surgery|suzuki)($|\/)/
-/.*\.(swatch|swiftcover|swiss)($|\/)/
-/.*\.(sydney|symantec|systems)($|\/)/
+/.*\.(
+saarland|safe|safety|sakura|sale|salon|samsclub|samsung|sandvik|sandvikcoromant|sanofi|sap|sapo|sarl|sas|save|saxo|
+sbi|sbs|
+sca|scb|schaeffler|schmidt|scholarships|school|schule|schwarz|science|scjohnson|scor|scot|
+search|seat|secure|security|seek|select|sener|services|ses|seven|sew|sex|sexy|
+shangrila|sharp|shaw|shell|shia|shiksha|shoes|shop|shopping|shouji|show|showtime|shriram|
+silk|sina|singles|site|
+ski|skin|sky|skype|
+smart|smile|
+social|softbank|software|sohu|solar|solutions|song|sony|soy|
+spa|space|spiegel|sport|spot|spreadbetting|
+srl|srt|
+stada|staples|star|starhub|statebank|statefarm|statoil|stc|stcgroup|stockholm|storage|store|stream|studio|study|style|
+sucks|supplies|supply|support|surf|surgery|suzuki|
+swatch|swiftcover|swiss|
+sydney|symantec|systems
+)($|\/)/
 
 # ...
 *://*.sa.com/*
@@ -384,9 +408,11 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # T
 
-/.*\.(tab|taipei|talk|taobao|target|tatamotors|tatar|tattoo|tax|taxi)($|\/)/
-/.*\.(team|tech|technology|tel|telecity|telefonica)($|\/)/
-/.*\.(thd|theater|theatre|tiaa|tickets|tienda|tiffany|tips|tires|tirol|tjmaxx|tjx|tkmaxx|tmall|today|tokyo|tools|top|toray|toshiba|total|tours|town|toyota|toys|trade|trading|training|travel|travelchannel|travelers|travelersinsurance|trust|trv|tube|tui|tunes|tushu|tvs)($|\/)/
+/.*\.(
+tab|taipei|talk|taobao|target|tatamotors|tatar|tattoo|tax|taxi|
+team|tech|technology|tel|telecity|telefonica|
+thd|theater|theatre|tiaa|tickets|tienda|tiffany|tips|tires|tirol|tjmaxx|tjx|tkmaxx|tmall|today|tokyo|tools|top|toray|toshiba|total|tours|town|toyota|toys|trade|trading|training|travel|travelchannel|travelers|travelersinsurance|trust|trv|tube|tui|tunes|tushu|tvs
+)($|\/)/
 
 # ...
 /.*\.(tci|tdk|temasek|tennis|teva)($|\/)/
@@ -394,8 +420,10 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # U
 
-/.*\.(ubank|ubs)($|\/)/
-/.*\.(unicom|university|uno)($|\/)/
+/.*\.(
+ubank|ubs|
+unicom|university|uno
+)($|\/)/
 
 # ...
 *://*.us.kg/*
@@ -404,10 +432,12 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # V
 
-/.*\.(vacations|vana|vanguard)($|\/)/
-/.*\.(vegas|ventures|verisign|vermögensberater|vermögensberatung|versicherung|vet)($|\/)/
-/.*\.(viajes|video|vig|viking|villas|vin|vip|virgin|visa|vision|vista|vistaprint|viva|vivo)($|\/)/
-/.*\.(vodka|volkswagen|volvo|vote|voting|voto|voyage)($|\/)/
+/.*\.(
+vacations|vana|vanguard|
+vegas|ventures|verisign|vermögensberater|vermögensberatung|versicherung|vet|
+viajes|video|vig|viking|villas|vin|vip|virgin|visa|vision|vista|vistaprint|viva|vivo|
+vodka|volkswagen|volvo|vote|voting|voto|voyage
+)($|\/)/
 
 # ...
 /.*\.(vlaanderen|vuelos)($|\/)/
@@ -415,11 +445,13 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # W
 
-/.*\.(wales|walmart|walter|wang|wanggou|warman|watch|watches)($|\/)/
-/.*\.(weather|weatherchannel|webcam|weber|website|wed|wedding|weibo|weir)($|\/)/
-/.*\.(wien|wiki|williamhill|win|windows|wine|winners)($|\/)/
-/.*\.(wolterskluwer|woodside|work|works|world|wow)($|\/)/
-/.*\.(wtc|wtf)($|\/)/
+/.*\.(
+wales|walmart|walter|wang|wanggou|warman|watch|watches|
+weather|weatherchannel|webcam|weber|website|wed|wedding|weibo|weir|
+wien|wiki|williamhill|win|windows|wine|winners|
+wolterskluwer|woodside|work|works|world|wow|
+wtc|wtf
+)($|\/)/
 
 # ...
 /.*\.(whoswho|wme)($|\/)/
@@ -436,8 +468,10 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Y
 
-/.*\.(yachts|yahoo|yamaxun|yandex)($|\/)/
-/.*\.(yodobashi|yoga|yokohama|you|youtube)($|\/)/
+/.*\.(
+yachts|yahoo|yamaxun|yandex|
+yodobashi|yoga|yokohama|you|youtube
+)($|\/)/
 
 # ...
 /.*\.(yun)($|\/)/
@@ -445,8 +479,10 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Z
 
-/.*\.(zappos|zara)($|\/)/
-/.*\.(zip|zippo)($|\/)/
+/.*\.(
+zappos|zara
+zip|zippo
+)($|\/)/
 
 # ...
 *://*.za.com/*
@@ -455,8 +491,10 @@ cymru|cyou|
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # ...
 
-/.*\.(католик|ком)($|\/)/
-/.*\.(онлайн|орг)($|\/)/
-/.*\.(δοκιμή|сайт|дети|испытание|москва|рус)($|\/)/
-/.*\.(セール|ファッション|ストア|アマゾン|クラウド|ポイント|グーグル|テスト)($|\/)/
-/.*\.(测试|कॉम|परीक्षा|佛山|慈善|集团|在线|大众汽车|点看|คอม|八卦|موقع‎|公益|公司|香格里拉|网站|移动|我爱你|联通|时尚|微博|테스트|淡马锡|नेट|삼성|商标|商店|商城|新闻|工行|家電|中文网|中信|娱乐|谷歌|電訊盈科|购物|測試|通販‎|பரிட்சை|网店|संगठन|餐厅|网络|亚马逊|诺基亚|食品|飞利浦|手表|手机|닷컴|政府|机构|组织机构|健康|招聘|珠宝|大拿|みんな|世界|書籍|网址|닷넷|コム|天主教|游戏|企业|信息|嘉里大酒店|嘉里|广东|政务)($|\/)/
+/.*\.(
+католик|ком|
+онлайн|орг|
+δοκιμή|сайт|дети|испытание|москва|рус|
+セール|ファッション|ストア|アマゾン|クラウド|ポイント|グーグル|テスト|
+测试|कॉम|परीक्षा|佛山|慈善|集团|在线|大众汽车|点看|คอม|八卦|موقع‎|公益|公司|香格里拉|网站|移动|我爱你|联通|时尚|微博|테스트|淡马锡|नेट|삼성|商标|商店|商城|新闻|工行|家電|中文网|中信|娱乐|谷歌|電訊盈科|购物|測試|通販‎|பரிட்சை|网店|संगठन|餐厅|网络|亚马逊|诺基亚|食品|飞利浦|手表|手机|닷컴|政府|机构|组织机构|健康|招聘|珠宝|大拿|みんな|世界|書籍|网址|닷넷|コム|天主教|游戏|企业|信息|嘉里大酒店|嘉里|广东|政务
+)($|\/)/
