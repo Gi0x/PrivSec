@@ -4,20 +4,16 @@
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/uBlacklist/Astro.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-# 1. Astrology Portals (Mainstream)
-# 2. Horoscope Spam Blogs & Content Farms
-# 3. Misc Astro Sites
-# 4. Mobile App Landing Pages
+# 1. Astrology
+# 2. Horoscope
 # 5. Numerology & Pseudoscience
-# 6. Psychic & Spiritual Services
-# 7. Reddit Soft Influencer Channels & Communities 
+# 6. Psychic
 # 8. Star signs
-# 9. Tarot Reading Platforms
-# 10. YouTube & TikTok Soft Influencer Channels
+# 9. Tarot
 # 11. Zodiac
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. Astrology Portals (Mainstream)
+# 1. Astrology 
 
 *://*.ancientastrologytalks.com/*
 *://*.artcharts.com/*
@@ -98,7 +94,7 @@
 *://*.theastrologypodcast.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Horoscope Spam Blogs & Content Farms
+# 2. Horoscope
 
 *://*.123horoscope.com/*
 *://*.3ho.org/*
@@ -151,9 +147,6 @@
 *://*.vedicfolks.com/*
 *://*.wmagazine.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Mobile App Landing Pages
-
 *://*.labyrinthos.co/*
 *://*.mysticapp.io/*
 *://*.chani.app/*
@@ -165,7 +158,7 @@
 *://*.moonly.app/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Numerology & Pseudoscience
+# 5. Numerology
 
 *://*.365numerology.com/*
 *://*.astrology-numerology.com/*
@@ -183,7 +176,7 @@
 *://*.yournumerologychart.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Psychic & Spiritual Services
+# 6. Psychic
 
 *://*.absolutelypsychic.com/*
 *://*.askonefreequestion.com/*
@@ -217,29 +210,7 @@
 *://*.truepsychics.ca/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. Reddit Soft Influencer Channels & Communities 
-
-*://*.reddit.com/r/AdvancedAstrology/*
-*://*.reddit.com/r/AskAstrologers/*
-*://*.reddit.com/r/AstrologyMemes/*
-*://*.reddit.com/r/Cartomancy/*
-*://*.reddit.com/r/DailyTarot/*
-*://*.reddit.com/r/FreeTarotReadings/*
-*://*.reddit.com/r/SunMoonRising/*
-*://*.reddit.com/r/TarotDecks/*
-*://*.reddit.com/r/TarotReadings/*
-*://*.reddit.com/r/astrocartography/*
-*://*.reddit.com/r/astrology/*
-*://*.reddit.com/r/astrologygadgets/*
-*://*.reddit.com/r/learntarot/*
-*://*.reddit.com/r/moonology/*
-*://*.reddit.com/r/oraclecards/*
-*://*.reddit.com/r/tarot/*
-*://*.reddit.com/r/tarotpractice/*
-*://*.reddit.com/r/vedicastrology/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 8. Star signs
+# 8. Star Signs
 
 *://*.kellystarsigns.com/*
 *://*.starsigns.co/*
@@ -247,7 +218,7 @@
 *://*.sunsigns.org/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 9. Tarot Reading Platforms
+# 9. Tarot
 
 *://*.atlassace.com/tarot/*
 *://*.daily-tarot-girl.com/*
@@ -286,21 +257,6 @@
 *://*.thetarotguide.com/*
 *://*.thetarotlady.com/*
 *://*.trustedtarot.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 10. YouTube & TikTok Soft Influencer Channels
-
-*://*.youtube.com/@kristinalawsonastrology/*
-*://*.youtube.com/@soulfulrevolution/*
-*://*.youtube.com/@canceriantarot/*
-*://*.youtube.com/@minnowpond/*
-*://*.youtube.com/@bravelybeautiful/*
-*://*.youtube.com/@whitefeatheroracle/*
-*://*.youtube.com/@tarotbybronx/*
-*://*.tiktok.com/@zodiaccorner/*
-*://*.tiktok.com/@tarotbabe/*
-*://*.tiktok.com/@astroknowlogy/*
-*://*.tiktok.com/@cosmicrx/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 11. Zodiac

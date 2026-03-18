@@ -1,5 +1,0 @@
-! Title: Gaming  
-! Info: Blocks gaming related domains
-! DeDup: Y, Sorted: Y
-! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Gaming%20%E2%80%93%C2%A0lbk.txt
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂

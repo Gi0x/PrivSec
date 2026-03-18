@@ -1,0 +1,452 @@
+! Title: Astro
+! Info: Blocks astrology & tarot domains
+! DeDup: N, Sorted: N
+! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Astro%20%E2%80%93%C2%A0lbk.txt
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+! 1. Astrology
+! 2. Chat
+! 3. Dating
+! 4. Drugs & Tobacco
+! 5. Gambling
+! 6. Gaming
+! 7. News
+! 8. Social Media
+! 9. Spam
+! 10. Sports
+! 11. Streaming A/V
+! 12. Utilities
+
+!! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+!! 1. Astrology
+
+!! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+!! 2. Chat 
+
+||321chat.com^
+||7strangers.com^
+||acebookchat.com^
+||adriachat.com^
+||airtalk.live^
+||anonchat.app^
+||anonychat.com^
+||azarlive.com^
+||b-cdn.net^
+||babelchat.com^
+||babichat.com^
+||badoo.com^
+||balkan.chat^
+||balkanchatcity.com^
+||bang.chat^
+||bazoocam.app^
+||bazoocam.io^
+||bazoocam.org^
+||bazoocam.plus^
+||bazoocam.pro^
+||beachcam.co^
+||bestchatroulette.com^
+||blab.im^
+||blurtit.com^
+||bolchat.org^
+||bozocam.com^
+||camfrog.com^
+||camki.com^
+||camloo.com^
+||cammatch.io^
+||camround.com^
+||camsurf.com^
+||camtostrangers.com^
+||camtwice.com^
+||camzl.com^
+||chat-avenue.com^
+||chat-brasil.com^
+||chat-de.com^
+||chat-pl.com^
+||chat-pt.com^
+||chat-roulette.pro^
+||chat-roulette.ru^
+||chat-ruletka.net^
+||chat-to-strangers.com^
+||chat.chatous.com^
+||chat.org^
+||chat45.com^
+||chatalternative.app^
+||chatalternative.com^
+||chatalyze.com^
+||chatblink.com^
+||chateasy.app^
+||chateek.com^
+||chateek.org^
+||chatgig.com^
+||chathour.com^
+||chathub.chat^
+||chathub.net^
+||chathub.tv^
+||chatib.us^
+||chatingly.com^
+||chatingly.org^
+||chatiw.io^
+||chatki.com^
+||chatogo.com^
+||chatous.com^
+||chatovod.com^
+||chatpig.com^
+||chatrad.com^
+||chatrad.live^
+||chatrandom.net^
+||chatride.com^
+||chatroulette.app^
+||chatroulette.club^
+||chatroulette.com^
+||chatroulette.fr^
+||chatroulette.gg^
+||chatroulette.red^
+||chatroulette.st^
+||chatroulette.to^
+||chatroulette.top^
+||chatruletka.com^
+||chatruletka.ua^
+||chatrush.com^
+||chatspin.com^
+||chaturbate.com^
+||chatusnl.com^
+||chitchat.gg^
+||chitchat.org^
+||coolchatrooms.com^
+||coomeet.chat^
+||coomeet.com^
+||couchsurfing.com^
+||crushroulette.chat^
+||crushroulette.com^
+||dirtyroulette.com^
+||dirtyroulette.io^
+||dodocam.com^
+||echat.live^
+||echat.one^
+||emeraldchat.com^
+||faceflow.com^
+||fachat.app^
+||fancychat.net^
+||flingster.com^
+||flingster.io^
+||freecam.chat^
+||freechat.one^
+||freechatrandom.com^
+||freeroulette.chat^
+||fruzo.com^
+||funyo.com^
+||funyo.tv^
+||gibber.chat^
+||guyspy.com^
+||hay.fun^
+||holla.world^
+||hopematch.com^
+||horizontalroulette.com^
+||icq.com^
+||imeetzu.com^
+||instachatrooms.com^
+||joingy.app^
+||joingy.com^
+||jollyjerk.com^
+||kick.com^
+||kik.com^
+||livu.me^
+||lovoo.com^
+||minichat.com^
+||miramichat.net^
+||mnogo.chat^
+||mnogochat.com^
+||mocospace.com^
+||monkey.app^
+||mychatrooms.com^
+||myyearbook.com^
+||nowchatting.com^
+||ohello.app^
+||ome-tv.com^
+||ome-tv.net^
+||ome.tv^
+||omega.app^
+||omegla.chat^
+||omegla.live^
+||omegle.cc^
+||omegle.com^
+||omegle.is^
+||omegle.onl^
+||omeglefun.com^
+||ometv.chat^
+||oncam.me^
+||only2.chat^
+||only2chat.com^
+||paltalk.com^
+||plexstorm.org^
+||poqe.app^
+||puggle.chat^
+||rabbitvideochat.com^
+||random-talk.com^
+||randomchat.cc^
+||randomchat.com^
+||randomstrangerchats.com^
+||randomworldchat.com^
+||rendezvouschat.com^
+||rouletka.ru^
+||roulette-chat.fr^
+||roulette-espanol.com^
+||roulette.chat^
+||roulettechat.com^
+||rouletteride.com^
+||shagle.click^
+||shagle.com^
+||shomla.com^
+||snapstrip.com^
+||strangercam.chat^
+||strangercam.com^
+||strangerchat.org^
+||strangermeetup.com^
+||strangerschat.in^
+||talkwithstranger.com^
+||telegram.org^
+||thundr.com^
+||tinychat.com^
+||tohla.com^
+||trulovechat.com^
+||uhmegle.com^
+||ulive.chat^
+||video-roulette.online^
+||videochat-de.com^
+||videochat.chat^
+||videochatde.com^
+||videochatonline.com^
+||videochatplanet.com^
+||videochatru.com^
+||videochatusde.com^
+||videochatusus.com^
+||vidizzy.com^
+||worldchatonline.com^
+||yesichat.com^
+||youchat.it^
+||younow.com^
+||zoosk.com^
+
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! 3. Drugs & Tobacco
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! 3a. Cannabis & Marijuana
+
+||apothecarium.com^
+||barneysfarm.com^
+||bcseedking.com^
+||buyweedonlineusa.com^
+||cannabis.net^
+||dutch-passion.com^
+||greenrush.com^
+||greenthumbindustries.com^
+||growerschoiceseeds.com^
+||hempyresearch.com^
+||herb.co^
+||highthere.com^
+||homegrowncannabisco.com^
+||ilovegrowingmarijuana.com^
+||kingbong.com.br^
+||leafbuyer.com^
+||leafly.com^
+||marijuanabreak.com^
+||marijuanapackaging.com^
+||medicalmarijuanainc.com^
+||potguide.com^
+||royalqueenseeds.com^
+||thecannabist.co^
+||theweedblog.com^
+||weedmaps.com^
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! 3b. CBD Product Retailers
+
+||absolute-nature-cbd.com^
+||americanhempoil.net^
+||blosumcbd.com^
+||cbd.co^
+||cbd.market^
+||cbdchoice.com^
+||cbdfx.com^
+||cbdistillery.com^
+||cbdliving.com^
+||cbdmd.com^
+||charlottesweb.com^
+||fabcbd.com^
+||greenroads.com^
+||hempbombs.com^
+||joyorganics.com^
+||kyhicbd.com^
+||medterracbd.com^
+||purekana.com^
+||royalcbd.com^
+||savagecbd.com^
+||veritasfarms.com^
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! 3c. Darknet Drug Market Mirrors / Directories
+
+||dark.fail^
+||darknetlive.com^
+||dnstats.net^
+||onion.live^
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! 3d. Drug Forums, Smart Drugs, Nootropics, Research Chems
+
+||afinilexpress.com^
+||bluelight.org^
+||buyxanaxonline.org^
+||drugs-forum.com^
+||erowid.org^
+||liftmode.com^
+||modafinil.org^
+||modafiniledge.com^
+||modafinilxl.com^
+||nootropicsexpert.com^
+||nootropics.com^
+||nootropicsdepot.com^
+||science.bio^
+||supersmart.com^
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! 3e. Tobacco & Cigarettes
+
+||buycigarettesonline.org^
+||cheapcigarettes.com^
+||cigaretteprices.net^
+||cigarettesamerica.com^
+||cigs4less.com^
+||dutyfreedepot.com^
+||smokersunit.com^
+||tobaccoonline.co.uk^
+||tobaccostock.com^
+||tobaccousa.com^
+
+!  –––––––––––––– –––––––––––––– –––––––––––––– –––––––––––––– –––––––––––––– ––––––––––––––
+! 3f. Vaping & E-Cigarettes
+
+||centralvapors.com^
+||ecig-city.com^
+||elementvape.com^
+||eightvape.com^
+||fugginvapor.com^
+||misthub.com^
+||myfreedomsmokes.com^
+||myvpro.com^
+||smokstore.com^
+||vape-box.com^
+||vape-deals.com^
+||vape.com^
+||vape4ever.com^
+||vapejuice.com^
+||vapes.com^
+||vapedeal.com^
+||vaped.com^
+||vapeshack.com^
+||vapesocietysupply.com^
+||vapordna.com^
+||vaporesso.com^
+||vaporfi.com^
+||vaporhub.com^
+||vapewild.com^
+
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! 3. Sports
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! 3. Utilities
+
+! –––––––––––––– –––––––––––––– ––––––––––––––
+! 3a. Browsers
+
+||arc.net
+||avantbrowser.com
+||avast.com/secure-browser  
+avg.com/en-ww/secure-browser
+beakerbrowser.com
+boltbrowser.app
+browser.qq.com
+browser.yandex.com
+chameleonbrowser.com
+chromium.org/getting-involved/download-chromium
+chromium.org
+citrio.com
+comet.perplexity.ai
+diabrowser.com
+dolphin-browser-app.com
+dolphin.com$document,important
+dolphinbrowserfree.com
+duckduckgo.com/app
+epicbrowser.com
+falkon.org
+flashpeak.com
+floorp.app
+fluidbrowser.com
+getdot.js.org
+ghostery.com/private-browser
+google.com/chrome/beta
+google.com/chrome/canary
+google.com/chrome/dev
+google.com/chrome
+icab.de
+ilvruan.com
+iridiumbrowser.de
+kingpinbrowser.com
+kmeleonbrowser.org
+librewolf.net
+lunascape.org
+lunascape.tv
+maxthon.com
+microsoft.com/edge
+microsoft.com/en-us/edge
+morequick.com
+omnigroup.com/more
+opera.com/download
+opera.com$document,redirect=blocked.html,important
+palemoon.org
+polaritybrowser.netlify.app
+puffin.com
+runecats.com
+salamweb.com
+seamonkey-project.org
+secure-browser.com
+seznam.cz
+slimbrowser.net
+slimjet.com
+soliton.co.jp
+srware.net
+torchbrowser.com
+torproject.org/download
+torproject.org
+ucweb.com
+ungoogled-software.github.io/ungoogled-chromium
+vivaldi.com/download
+vivaldi.com$document,redirect=blocked.html,important
+waterfox.net
+webkit.org
+whale.naver.com
+wwwdotbrowser.webs.com
+yandex.com/browser
+
+!  –––––––––––––– –––––––––––––– ––––––––––––––
+! Image Editors 
+
+||photopea.com^

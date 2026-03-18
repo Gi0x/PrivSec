@@ -1,6 +1,0 @@
-! Title: Dating
-! Info: Blocks dating related apps & domains
-! DeDup: Y, Sorted: Y
-! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Filters/Dating%20%E2%80%93%C2%A0adb.txt
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-
