@@ -1,20 +1,26 @@
 
-1. cc/gTLDs
+1. Domains
+
+Hides ccTLDs from search results: 
 /.*\.(ab|ac|ad|ae|af)($|\/)/
+
+Hides gTLDs from search results: 
 /.*\.(baby|baidu|banamex|bananarepublic|barcelona|barclaycard|barclays|barefoot|bargains|baseball|basketball|bauhaus|bayern)($|\/)/
 
-2. Domains
+Hides specific domains from search results: 
 /.*\.(bbc|bloomberg|businessnews)\.(com|net)($|\/)/i
 
-3. URL Keywords
+Highlights specific domains or TLDs in search results:
+@1*://*.github.com/*
+@2*://*.gov/*
+@2*://*.edu/*
+
+––––––––––––––––––––––––––––––––––––––––
+2. Keywords
+
+Hide domains from search results if a specific keyword is found in the URL
 /(astro(logy|scope|theme)?|horoscope|tarot)/i
 
-
-
-
-
-
 ...
-Notes
-
 astro(logy|scope|theme)? = astrology, astroscope, astrotheme
+
