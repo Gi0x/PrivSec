@@ -10,31 +10,66 @@
 @2*://*.gov/*
 @2*://*.edu/*
 
-––––––––––––––––––––––––––––––––––––––––
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 2. KEYWORDS
-
-> EX 1+2 - with ?
+> ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– EX1+2: With ?
 
 /(^|[-_/])(cunt(bag|s|whore|y)?)([-_/]|$)/i
 
-Matches: cunt,cuntbag,cunts,cuntwhore,cunty
+Matches: cunt, cuntbag, cunts, cuntwhore, cunty
 
 /(^|[-_/])(lube(ed|ing|s)?)([-_/]|$)/i
 
-Matches: lube,lubed,lubing,lubes
+Matches: lube, lubed, lubing, lubes
 Use this syntax ONLY if the root word is unambiguous
 
-> EX 3 - without ?
+> ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– EX3: Without ?
 
 /(^|[-_/])(ass(es|face|grab|hole))([-_/]|$)/i
 
-Precisely matches: asses,assface,assgrab,asshole but NOT ass itself
+Precisely matches –  asses, assface, assgrab, asshole but NOT ass itself
 Omit ? here because the root word is ambiguous and can form part of other words, ex. assign
 
+> ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– EX4: Chaining Multiple Terms
+
+/(^|[-_/])(celeb(s|rity|rities)|gossip(ed|er|ing|s|y)?)([-_/]|$)/i 
+
+Matches – celebs, celebrity, celebrities, gossip, gossiped, gossiper, gossiping, gossips, gossipy + 
+
+- /celebrities/
+- site.com/gossiping/news
+- celeb-gossip
+- news/gossipy_story
+
+> ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– EX5: [-_/] w/t 1 Term
+
+/(^|[-_/])(snarp(s|ing|ed|[-_/]?(face|hole|head))?)([-_/]|$)/i
+
+Matches: 
+
+snarp
+snarps
+snarping
+snarped
+snarpface
+snarphole
+snarphead
+snarp-face
+snarp-head
+snarp-hole
+snarp_face
+snarp_head
+snarp_hole
+snarp/face
+snarp/head
+snarp/hole
+
+> ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– EX6: [-_/] w/t multiple Terms
 
 
 
-/(^|[-_/])(celeb(s|rity|rities)|gossip)([-_/]|$)/i ...use this, hides more domains
+
+
 
 
 
