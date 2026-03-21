@@ -16,11 +16,13 @@
 
 /(^|[-_/])(cunt(bag|s|whore|y)?)([-_/]|$)/i
 
-Matches: cunt, cuntbag, cunts, cuntwhore, cunty
+Matches:
+cunt, cuntbag, cunts, cuntwhore, cunty
 
 /(^|[-_/])(lube(ed|ing|s)?)([-_/]|$)/i
 
-Matches: lube, lubed, lubing, lubes
+Matches: 
+lube, lubed, lubing, lubes
 Use this syntax ONLY if the root word is unambiguous
 
 > ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– EX3: Without ?
@@ -34,7 +36,8 @@ Omit ? here because the root word is ambiguous and can form part of other words,
 
 /(^|[-_/])(celeb(s|rity|rities)|gossip(ed|er|ing|s|y)?)([-_/]|$)/i 
 
-Matches – celebs, celebrity, celebrities, gossip, gossiped, gossiper, gossiping, gossips, gossipy + 
+Matches: 
+celebs, celebrity, celebrities, gossip, gossiped, gossiper, gossiping, gossips, gossipy + 
 
 - /celebrities/
 - site.com/gossiping/news
