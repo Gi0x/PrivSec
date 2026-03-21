@@ -1,26 +1,42 @@
 
-1. Domains
+1. DOMAINS
 
-Hides ccTLDs from search results: 
-/.*\.(ab|ac|ad|ae|af)($|\/)/
+> Hides ccTLDs from results: /.*\.(ab|ac|ad|ae|af)($|\/)/
+> Hides gTLDs from results: /.*\.(baby|baidu|banamex|bananarepublic|barclaycard|bauhaus|bayern)($|\/)/
+> Hides domains from results: /.*\.(bbc|bloomberg|businessnews)\.(com|net)($|\/)/i
+> Highlights specific domains or TLDs in results:
 
-Hides gTLDs from search results: 
-/.*\.(baby|baidu|banamex|bananarepublic|barcelona|barclaycard|barclays|barefoot|bargains|baseball|basketball|bauhaus|bayern)($|\/)/
-
-Hides specific domains from search results: 
-/.*\.(bbc|bloomberg|businessnews)\.(com|net)($|\/)/i
-
-Highlights specific domains or TLDs in search results:
 @1*://*.github.com/*
 @2*://*.gov/*
 @2*://*.edu/*
 
 ––––––––––––––––––––––––––––––––––––––––
-2. Keywords
+2. KEYWORDS
 
-Hide domains from search results if a specific keyword is found in the URL
-/(astro(logy|scope|theme)?|horoscope|tarot)/i
+> EX 1+2 - with ?
 
-...
-astro(logy|scope|theme)? = astrology, astroscope, astrotheme
+/(^|[-_/])(cunt(bag|s|whore|y)?)([-_/]|$)/i
+
+Matches: cunt,cuntbag,cunts,cuntwhore,cunty
+
+/(^|[-_/])(lube(ed|ing|s)?)([-_/]|$)/i
+
+Matches: lube,lubed,lubing,lubes
+Use this syntax ONLY if the root word is unambiguous
+
+> EX 3 - without ?
+
+/(^|[-_/])(ass(es|face|grab|hole))([-_/]|$)/i
+
+Precisely matches: asses,assface,assgrab,asshole but NOT ass itself
+Omit ? here because the root word is ambiguous and can form part of other words, ex. assign
+
+
+
+
+/(^|[-_/])(celeb(s|rity|rities)|gossip)([-_/]|$)/i ...use this, hides more domains
+
+
+
+
 
