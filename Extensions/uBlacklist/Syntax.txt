@@ -1,0 +1,11 @@
+
+1. cc/gTLDs
+/.*\.(ab|ac|ad|ae|af)($|\/)/
+/.*\.(baby|baidu|banamex|bananarepublic|barcelona|barclaycard|barclays|barefoot|bargains|baseball|basketball|bauhaus|bayern)($|\/)/
+
+2. Domains
+/.*\.(bbc|bloomberg|businessnews)\.(com|net)($|\/)/i
+
+3. URL Keywords
+/(astro(logy|scope|theme)?|horoscope|tarot)/i
+astro(logy|scope|theme)? = astrology, astroscope, astrotheme
