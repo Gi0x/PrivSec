@@ -9,5 +9,12 @@
 3. URL Keywords
 /(astro(logy|scope|theme)?|horoscope|tarot)/i
 
-Note: 
+
+
+
+
+
+...
+Notes
+
 astro(logy|scope|theme)? = astrology, astroscope, astrotheme
