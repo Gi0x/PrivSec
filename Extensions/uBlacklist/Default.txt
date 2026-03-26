@@ -7907,12 +7907,12 @@
 *://*.steamdeckgamedb.com/*
 *://*.steampowered.com/*
 *://*.steamunlocked.net/tools/*
-*://*.store.epicgames.com/*
-*://*.store.playstation.com/*
-*://*.store.rockstargames.com/*
-*://*.store.steampowered.com/*
-*://*.store.ubi.com/*
-*://*.store.xbox.com/*
+*://*.epicgames.com/*
+*://*.playstation.com/*
+*://*.rockstargames.com/*
+*://*.steampowered.com/*
+*://*.ubi.com/*
+*://*.xbox.com/*
 *://*.sunshine-stream.com/*
 *://*.support.activision.com/*
 *://*.sysctl-explorer.dev/*
@@ -7925,7 +7925,6 @@
 *://*.tencentgames.com/*
 *://*.thepiratebay10.org/category/400/*
 *://*.tlauncher.org/*
-*://*.tlauncher.org/tools/*
 *://*.tobii.com/*
 *://*.ubisoft.com/*
 *://*.ubisoftconnect.com/*
@@ -8549,6 +8548,13 @@
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 2. Tabloids 🇷🇸 🇲🇪 🇧🇦
+
+# .com
+
+
+
+
+# .rs
 
 *://*.alo.rs/*
 *://*.ana.rs/*
