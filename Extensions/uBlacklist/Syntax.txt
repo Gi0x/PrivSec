@@ -29,7 +29,7 @@
 
 /^https?:\/\/([^\/]+\.)?(365numerology|astrology-numerology|free-name-meaning|name-meanings|nameanalyzer|numerology(namecalculator|central|decoder|secrets|sign)?|psychicnumerology|seventhlifepath|yournumerologychart)\.(com|net|org)\//
 
-> > ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Highlights specific domains or TLDs in results
+> > ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Highlight specific domains or TLDs in results
 
 @1*://*.github.com/*
 @2*://*.gov/*
