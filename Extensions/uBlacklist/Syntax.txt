@@ -7,6 +7,7 @@
 
 > ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Hides domains
 
+EX1
 ^https?:\/\/([^\/]+\.)?(DOMAIN)\.(com|net|org)\/
 
 *://*.365numerology.com/*
@@ -14,6 +15,10 @@
 *://*.free-name-meaning.com/*
 *://*.name-meanings.org/*
 *://*.nameanalyzer.net/*
+
+EX2
+/^https?:\/\/([^\/]+\.)?(365numerology|astrology-numerology|free-name-meaning|name-meanings|nameanalyzer)\.(com|net|org)\//
+
 *://*.numerology.com/*
 *://*.numerologycentral.com/*
 *://*.numerologydecoder.com/*
@@ -24,7 +29,7 @@
 *://*.seventhlifepath.com/*
 *://*.yournumerologychart.com/*
 
-/^https?:\/\/([^\/]+\.)?(365numerology|astrology-numerology|free-name-meaning|name-meanings|nameanalyzer|numerology(namecalculator|central|decoder|secrets|sign)?|psychicnumerology|seventhlifepath|yournumerologychart)\.(com|net|org)\//
+/^https?:\/\/([^\/]+\.)?(numerology(namecalculator|central|decoder|secrets|sign)?|psychicnumerology|seventhlifepath|yournumerologychart)\.(com|net)\//
 
 ==================================================================================================================================
 2. KEYWORDS
