@@ -2,7 +2,7 @@
 # Info: uBlacklist Default List
 # DeDup: Y, Sorted: Y
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Extensions/uBlacklist/Default.txt
-# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 # [1] ASTROLOGY
 # [2] CHAT
@@ -18,7 +18,7 @@
 # [12] STREAMING A/V
 # [13] UTILITIES
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [1] ASTROLOGY
 
 *://*.ancientastrologytalks.com/*
@@ -101,8 +101,7 @@
 *://*.patternastrology.com/*
 *://*.sanctuaryastrologyapp.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Horoscope
+# –––––––––––––––––––––––––––––––––––––––– Horoscope
 
 *://*.123horoscope.com/*
 *://*.3ho.org/*
@@ -139,8 +138,7 @@
 *://*.weeklyhoroscope.com/*
 *://*.yourtango.com/horoscope/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Numerology
+# –––––––––––––––––––––––––––––––––––––––– Numerology
 
 *://*.365numerology.com/*
 *://*.astrology-numerology.com/*
@@ -157,8 +155,7 @@
 *://*.seventhlifepath.com/*
 *://*.yournumerologychart.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Psychic
+# –––––––––––––––––––––––––––––––––––––––– Psychic
 
 *://*.absolutelypsychic.com/*
 *://*.askonefreequestion.com/*
@@ -191,16 +188,14 @@
 *://*.thepsychicline.com/*
 *://*.truepsychics.ca/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 8. Star Signs
+# –––––––––––––––––––––––––––––––––––––––– Star Signs
 
 *://*.kellystarsigns.com/*
 *://*.starsigns.co/*
 *://*.starsignstyle.com/*
 *://*.sunsigns.org/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 9. Tarot
+# –––––––––––––––––––––––––––––––––––––––– Tarot
 
 *://*.atlassace.com/tarot/*
 *://*.daily-tarot-girl.com/*
@@ -241,8 +236,7 @@
 *://*.thetarotlady.com/*
 *://*.trustedtarot.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 11. Zodiac
+# –––––––––––––––––––––––––––––––––––––––– Zodiac
 
 *://*.izodiacsigns.com/*
 *://*.yourzodiacsign.com/*
@@ -257,8 +251,7 @@
 *://*.zodiacmatch.app/*
 *://*.zodist.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 11. ...
+# –––––––––––––––––––––––––––––––––––––––– ...
 
 *://*.askmyoracle.com/*
 *://*.chani.app/*
@@ -277,7 +270,7 @@
 *://*.vedicfolks.com/*
 *://*.wmagazine.com/*
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [2] CHAT
 
 *://*.321chat.com/*
@@ -492,10 +485,10 @@
 *://*.younow.com/*
 *://*.zoosk.com/*
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [3] DATING
 
-# 1. Adult, Casual & Hookup-Oriented Dating Platforms
+# –––––––––––––––––––––––––––––––––––––––– Adult, Casual & Hookup-Oriented Dating Platforms
 
 *://*.1fuckdate.com/*
 *://*.3somer.com/*
@@ -613,8 +606,7 @@
 *://*.youpornmate.com/*
 *://*.zoosksexdate.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. AI Companions, Virtual Girlfriends & Simulated Romance
+# –––––––––––––––––––––––––––––––––––––––– AI Companions, Virtual Girlfriends & Simulated Romance
 
 *://*.animaapp.ai/*
 *://*.anima.ai/*
@@ -661,8 +653,7 @@
 *://*.yourai.ai/*
 *://*.yourwaifu.ai/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. App Store Redirects & Promotional Microsites
+# –––––––––––––––––––––––––––––––––––––––– App Store Redirects & Promotional Microsites
 
 *://*.1clickmatch.com/*
 *://*.adating.site/*
@@ -739,7 +730,6 @@
 *://*.wannaapp.com/*
 *://*.want2flirt.com/*
 *://*.yourmatchzone.com/*
-
 *://*.adultsearch.com/*
 *://*.adultlook.com/*
 *://*.backpage.com/*
@@ -794,8 +784,7 @@
 *://*.worldescortindex.com/*
 *://*.yesbackpage.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Fake, Spammy & Scam-Prone Dating Domains
+# –––––––––––––––––––––––––––––––––––––––– Fake, Spammy & Scam-Prone Dating Domains
 
 *://*.1fuckdate.com/*
 *://*.adultchatdatings.com/*
@@ -915,8 +904,7 @@
 *://*.xmeetsex.com/*
 *://*.yourhotmatch.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Fetish-Specific Dating & Kink Communities
+# –––––––––––––––––––––––––––––––––––––––– Fetish-Specific Dating & Kink
 
 *://*.alt.com/*
 *://*.altplayground.net/*
@@ -956,8 +944,7 @@
 *://*.trueselves.com/*
 *://*.whiplr.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. General Dating Platforms (Mainstream & Intl.)
+# –––––––––––––––––––––––––––––––––––––––– General Dating Platforms
 
 *://*.adatingnest.com/*
 *://*.adultfriendfinder.com/*
@@ -1027,8 +1014,7 @@
 *://*.zoosk.de/*
 *://*.zoosk.co.uk/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 8. Influencer Redirects, Cloakers & Affiliate Networks
+# –––––––––––––––––––––––––––––––––––––––– Influencer Redirects, Cloakers & Affiliate Networks
 
 *://*.allmylinks.com/*
 *://*.beacons.ai/*
@@ -1068,8 +1054,7 @@
 *://*.withkoji.com/*
 *://*.znap.link/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 9. Niche Dating Platforms (Religion, Lifestyle, Subcultures, Interests)
+# –––––––––––––––––––––––––––––––––––––––– Niche Dating Platforms
 
 *://*.airg.com/*
 *://*.bbwdatefinder.com/*
@@ -1188,8 +1173,7 @@
 *://*.youflirt.com/*
 *://*.youreable.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 10. OnlyFans Discovery & Promotion Platforms
+# –––––––––––––––––––––––––––––––––––––––– OnlyFans Discovery & Promotion Platforms
 
 *://*.allfans.cc/*
 *://*.allfansleaks.com/*
@@ -1233,8 +1217,7 @@
 *://*.whorehub.ai/*
 *://*.yournsfwfinder.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 11. Regional & Language Specific Dating Platforms
+# –––––––––––––––––––––––––––––––––––––––– Regional & Language Specific Platforms
 
 *://*.2redbeans.com/*
 *://*.amolatina.com/*
@@ -1316,8 +1299,7 @@
 *://*.woosa.org/*
 *://*.zhenai.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 12. Soft-Core NSFW “Advice” for Men & Lifestyle Improvement Media
+# –––––––––––––––––––––––––––––––––––––––– Soft-Core NSFW “Advice”
 
 *://*.aaronmarino.com/*
 *://*.alpha-m.com/*
@@ -1482,11 +1464,8 @@
 *://*.zanperion.com/*
 *://*.zenofman.com/*
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [4] DRUGS & TOBACCO
-
-# 
-# 1. Cannabis & Marijuana
 
 *://*.apothecarium.com/*
 *://*.barneysfarm.com/*
@@ -1513,10 +1492,6 @@
 *://*.thecannabist.co/*
 *://*.theweedblog.com/*
 *://*.weedmaps.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. CBD Product Retailers
-
 *://*.absolute-nature-cbd.com/*
 *://*.americanhempoil.net/*
 *://*.blosumcbd.com/*
@@ -1538,18 +1513,10 @@
 *://*.royalcbd.com/*
 *://*.savagecbd.com/*
 *://*.veritasfarms.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Darknet Drug Market Mirrors / Directories
-
 *://*.dark.fail/*
 *://*.darknetlive.com/*
 *://*.dnstats.net/*
 *://*.onion.live/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Drug Forums, Smart Drugs, Nootropics, Research Chems
-
 *://*.afinilexpress.com/*
 *://*.bluelight.org/*
 *://*.buyxanaxonline.org/*
@@ -1564,10 +1531,6 @@
 *://*.nootropicsdepot.com/*
 *://*.science.bio/*
 *://*.supersmart.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Tobacco & Cigarettes
-
 *://*.buycigarettesonline.org/*
 *://*.cheapcigarettes.com/*
 *://*.cigaretteprices.net/*
@@ -1578,10 +1541,6 @@
 *://*.tobaccoonline.co.uk/*
 *://*.tobaccostock.com/*
 *://*.tobaccousa.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Vaping & E-Cigarettes
-
 *://*.centralvapors.com/*
 *://*.ecig-city.com/*
 *://*.elementvape.com/*
@@ -1607,7 +1566,7 @@
 *://*.vaporhub.com/*
 *://*.vapewild.com/*
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [5] GAMBLING
 
 *://*.00000onlinecasino.com/*
@@ -1719,11 +1678,6 @@
 *://*.5dimes.com/*
 *://*.5dimes.eu/*
 *://*.5dimes.mobi/*
-*://*.62.81.237.170/*
-*://*.62.81.62.169/*
-*://*.65.212.166.36/*
-*://*.65.88.74.82/*
-*://*.66.96.228.157/*
 *://*.666casino.com/*
 *://*.6sixsix.com/*
 *://*.724sports.com/*
@@ -4062,7 +4016,6 @@
 *://*.poker.coral.co.uk/*
 *://*.poker.cz/*
 *://*.poker.everygame.eu/*
-*://*.poker.fandom.com/*
 *://*.poker.fr/*
 *://*.poker.gioco888.com/*
 *://*.poker.goodgamestudios.com/*
@@ -4871,12 +4824,10 @@
 *://*.zpoker.fr/*
 *://*.zyngapoker.com/*
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [6] GAMING
 
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Browser-Based Gaming
+# –––––––––––––––––––––––––––––––––––––––– Browser-Based Gaming
 
 *://*.2pg.com/*
 *://*.7k7k.com/*
@@ -5212,8 +5163,7 @@
 *://*.zeezgames.com/*
 *://*.zibbo.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Developers
+# –––––––––––––––––––––––––––––––––––––––– Developers
 
 *://*.4:33.co.kr/*
 *://*.99games.in/*
@@ -5573,8 +5523,7 @@
 *://*.zetaplay.com/*
 *://*.zlongame.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Streaming
+# –––––––––––––––––––––––––––––––––––––––– Streaming
 
 *://*.4gamers.tv/*
 *://*.100thieves.com/*
@@ -5692,7 +5641,6 @@
 *://*.koi.gg/*
 *://*.koji.to/*
 *://*.kukuluLIVE.com/*
-*://*.leagueoflegends.fandom.com/*
 *://*.liquipedia.net/*
 *://*.loco.gg/*
 *://*.lolesports.com/*
@@ -5732,7 +5680,6 @@
 *://*.opticgaming.com/*
 *://*.origen.gg/*
 *://*.osu.ppy.sh/*
-*://*.overwatch.fandom.com/*
 *://*.overwatchleague.com/*
 *://*.own3d.tv/*
 *://*.paiN.gg/*
@@ -5808,7 +5755,6 @@
 *://*.twitchcon.com/*
 *://*.unikrn.com/*
 *://*.upliveweb.com/*
-*://*.valorant.fandom.com/*
 *://*.valorantesports.com/*
 *://*.vaughn.live/*
 *://*.vct.gg/*
@@ -5822,7 +5768,6 @@
 *://*.wehustle.co/*
 *://*.wikia.com/*
 *://*.winners.bet/*
-*://*.wowpedia.fandom.com/*
 *://*.wzranked.com/*
 *://*.wzreplays.com/*
 *://*.xset.com/*
@@ -5832,8 +5777,7 @@
 *://*.ytarchive.com/*
 *://*.zhanqi.tv/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Addons
+# –––––––––––––––––––––––––––––––––––––––– Addons
 
 *://*.7mods.ru/*
 *://*.9minecraft.net/*
@@ -6127,8 +6071,7 @@
 *://*.zombsroyalecheats.com/*
 *://*.zophar.net/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Adjacent Domains
+# –––––––––––––––––––––––––––––––––––––––– Adjacent Domains
 
 *://*.achievementhunter.com/*
 *://*.adventurenerds.com/*
@@ -6227,7 +6170,6 @@
 *://*.otakutale.com/*
 *://*.parodygamer.com/*
 *://*.playerauctions.com/*
-*://*.powerlisting.fandom.com/*
 *://*.proprofs.com/*
 *://*.psychologyjunkie.com/*
 *://*.quizexpo.com/*
@@ -6269,7 +6211,6 @@
 *://*.truachievements.com/*
 *://*.truetrophies.com/*
 *://*.tvtropes.org/*
-*://*.typemoon.fandom.com/*
 *://*.uproxx.com/gaming/*
 *://*.vg247.com/*
 *://*.vicioustrap.com/*
@@ -6282,8 +6223,7 @@
 *://*.zeldadungeon.net/*
 *://*.zerodrop.gg/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Analytics
+# –––––––––––––––––––––––––––––––––––––––– Analytics
 
 *://*.3dmark.com/*
 *://*.afterburner-download.com/*
@@ -6343,8 +6283,7 @@
 *://*.yantra.gg/*
 *://*.yourgamingsetup.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. Catalogs
+# –––––––––––––––––––––––––––––––––––––––– Catalogs
 
 *://*.1morecastle.com/*
 *://*.1001games.com/*
@@ -6400,7 +6339,6 @@
 *://*.mobygames.com/*
 *://*.myabandonware.com/*
 *://*.myvideogamelist.com/*
-*://*.nintendo.fandom.com/*
 *://*.nintendopedia.com/*
 *://*.nintenpedia.com/*
 *://*.opencritic.com/*
@@ -6443,8 +6381,7 @@
 *://*.xcloudplay.io/*
 *://*.zeldadungeon.net/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 8. Cheats
+# –––––––––––––––––––––––––––––––––––––––– Cheats
 
 *://*.247cheats.com/*
 *://*.aimexcheats.com/*
@@ -6762,8 +6699,7 @@
 *://*.zmodsapk.com/*
 *://*.zombsroyalecheats.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 9. Communities
+# –––––––––––––––––––––––––––––––––––––––– Communities
 
 *://*.4chan.org/v/*
 *://*.4players.de/*
@@ -6866,52 +6802,52 @@
 *://*.fivem.net/forums/*
 *://*.forhonorgame.com/forums/*
 *://*.forumjeuxvideo.com/*
-*://*.forums.7daystodie.com/*
-*://*.forums.ageofempires.com/*
-*://*.forums.anime-expo.org/*
-*://*.forums.bladeandsoul.com/*
-*://*.forums.blizzard.com/*
-*://*.forums.cityofheroes.com/*
-*://*.forums.daybreakgames.com/*
-*://*.forums.dota2.com/*
-*://*.forums.ea.com/*
-*://*.forums.eveonline.com/*
-*://*.forums.faforever.com/*
-*://*.forums.finalfantasyxiv.com/*
-*://*.forums.fortnite.com/*
-*://*.forums.frontier.co.uk/*
-*://*.forums.gamersfirst.com/*
-*://*.forums.gamingonlinux.com/*
-*://*.forums.guildwars2.com/*
-*://*.forums.heroesofnewerth.com/*
-*://*.forums.kleientertainment.com/*
-*://*.forums.legendsofruneterra.com/*
-*://*.forums.minecraftforum.net/*
-*://*.forums.mmorpg.com/*
-*://*.forums.mmosite.com/*
-*://*.forums.nexusmods.com/*
-*://*.forums.nintendo.com/*
-*://*.forums.origin.com/*
-*://*.forums.penny-arcade.com/*
-*://*.forums.playredfox.com/*
-*://*.forums.playstarbound.com/*
-*://*.forums.playvalorant.com/*
-*://*.forums.poxnora.com/*
-*://*.forums.runescape.com/*
-*://*.forums.somethingawful.com/*
-*://*.forums.station.sony.com/*
-*://*.forums.steampowered.com/*
-*://*.forums.supercell.com/*
-*://*.forums.terraria.org/*
-*://*.forums.tibiammo.com/*
-*://*.forums.twitch.tv/*
-*://*.forums.ubi.com/*
-*://*.forums.ubisoft.com/*
-*://*.forums.vrchat.com/*
-*://*.forums.warframe.com/*
-*://*.forums.wowhead.com/*
-*://*.forums.xbox.com/*
-*://*.forums.xonotic.org/*
+*://*.7daystodie.com/*
+*://*.ageofempires.com/*
+*://*.anime-expo.org/*
+*://*.bladeandsoul.com/*
+*://*.blizzard.com/*
+*://*.cityofheroes.com/*
+*://*.daybreakgames.com/*
+*://*.dota2.com/*
+*://*.ea.com/*
+*://*.eveonline.com/*
+*://*.faforever.com/*
+*://*.finalfantasyxiv.com/*
+*://*.fortnite.com/*
+*://*.frontier.co.uk/*
+*://*.gamersfirst.com/*
+*://*.gamingonlinux.com/*
+*://*.guildwars2.com/*
+*://*.heroesofnewerth.com/*
+*://*.kleientertainment.com/*
+*://*.legendsofruneterra.com/*
+*://*.minecraftforum.net/*
+*://*.mmorpg.com/*
+*://*.mmosite.com/*
+*://*.nexusmods.com/*
+*://*.nintendo.com/*
+*://*.origin.com/*
+*://*.penny-arcade.com/*
+*://*.playredfox.com/*
+*://*.playstarbound.com/*
+*://*.playvalorant.com/*
+*://*.poxnora.com/*
+*://*.runescape.com/*
+*://*.somethingawful.com/*
+*://*.station.sony.com/*
+*://*.steampowered.com/*
+*://*.supercell.com/*
+*://*.terraria.org/*
+*://*.tibiammo.com/*
+*://*.twitch.tv/*
+*://*.ubi.com/*
+*://*.ubisoft.com/*
+*://*.vrchat.com/*
+*://*.warframe.com/*
+*://*.wowhead.com/*
+*://*.xbox.com/*
+*://*.xonotic.org/*
 *://*.freemmogamer.com/*
 *://*.freestategamers.net/forums/*
 *://*.gaiaonline.com/*
@@ -6980,12 +6916,9 @@
 *://*.mmobomb.com/*
 *://*.mmoexp.com/forums/*
 *://*.mmohuts.com/*
-*://*.mmohuts.com/forums/*
 *://*.mmorpg.com/*
-*://*.mmorpg.com/forums/*
 *://*.mobafire.com/*
 *://*.moddb.com/*
-*://*.moddb.com/forum/*
 *://*.monsterhunterworldforums.com/*
 *://*.mundogamers.com/*
 *://*.myanimelist.net/forum/*
@@ -7025,13 +6958,6 @@
 *://*.razer.com/forums/*
 *://*.redd.it/r/gaming/*
 *://*.reddhub.com/forums/*
-*://*.reddit.com/r/*gaming*
-*://*.reddit.com/r/gamedev/*
-*://*.reddit.com/r/games/*
-*://*.reddit.com/r/gamesuggestions/*
-*://*.reddit.com/r/gaming/*
-*://*.reddit.com/r/indiegames/*
-*://*.reddit.com/r/pcgaming/*
 *://*.reddit.com/r/truegaming/*
 *://*.resetera.com/*
 *://*.rpgamer.com/forums/*
@@ -7087,7 +7013,6 @@
 *://*.warframe.com/forums/*
 *://*.warframe.market/*
 *://*.wargameforums.com/*
-*://*.warhammer40k.fandom.com/*
 *://*.warhammer-community.com/*
 *://*.warriorforums.com/*
 *://*.wowhead.com/forums/*
@@ -7100,8 +7025,7 @@
 *://*.zeldauniverse.net/forums/*
 *://*.zeldawiki.org/forums/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 10. Console Specific
+# –––––––––––––––––––––––––––––––––––––––– Console Specific
 
 *://*.account.sonyentertainmentnetwork.com/*
 *://*.amiibo.life/*
@@ -7168,8 +7092,7 @@
 *://*.xboxwire.com/*
 *://*.zeldadungeon.net/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 11. Databases & Companion Apps
+# –––––––––––––––––––––––––––––––––––––––– Databases & Companion Apps
 
 *://*.7ds.guide/*
 *://*.13sv.net/*
@@ -7181,9 +7104,7 @@
 *://*.aoe2insights.com/*
 *://*.apexitemstore.com/*
 *://*.app.mobalytics.gg/*
-*://*.ark.fandom.com/*
 *://*.arknights-en.wiki.gg/*
-*://*.arknights.fandom.com/*
 *://*.arknights.tools/*
 *://*.arkrecorder.com/*
 *://*.arkutils.net/*
@@ -7221,10 +7142,8 @@
 *://*.cod.tracker.gg/*
 *://*.codstats.net/*
 *://*.codwarfareforum.com/*
-*://*.conanexiles.fandom.com/*
 *://*.crkd.gg/*
 *://*.crstats.net/*
-*://*.crunchyroll.fandom.com/*
 *://*.crystalmathlabs.com/*
 *://*.csgo-stats.com/*
 *://*.csstats.gg/*
@@ -7236,14 +7155,11 @@
 *://*.d4builds.gg/*
 *://*.d4planner.io/*
 *://*.darkanddarker.wiki/*
-*://*.darkestdungeon.fandom.com/*
-*://*.darktide.fandom.com/*
 *://*.darktide.thechaoswastes.com/*
 *://*.darktide.tools/*
 *://*.dbd.tricky.lol/*
 *://*.dbdbuilds.com/*
 *://*.dbdloadout.com/*
-*://*.dbfz.fandom.com/*
 *://*.dbfztools.com/*
 *://*.dcl.gg/*
 *://*.destinyitemmanager.com/*
@@ -7281,14 +7197,12 @@
 *://*.eorzeacollection.com/*
 *://*.epic7x.com/*
 *://*.epicraidboss.com/*
-*://*.escapefromtarkov.fandom.com/*
 *://*.eso-fashion.com/*
 *://*.eso-skillbook.com/*
 *://*.eso-skillfactory.com/*
 *://*.esocraftexchange.com/*
 *://*.eternal.gg/*
 *://*.eternalreturn.gg/*
-*://*.everspace-2.fandom.com/*
 *://*.everspace.wiki/*
 *://*.evolve.gg/*
 *://*.exiled.gg/*
@@ -7307,7 +7221,6 @@
 *://*.fflogs.com/*
 *://*.ffrk.wiki/*
 *://*.ffxivguild.com/*
-*://*.finalfantasyxiv.fandom.com/*
 *://*.finalgear.gamerch.com/*
 *://*.fireemblemwiki.org/*
 *://*.firestoneapp.com/*
@@ -7342,9 +7255,7 @@
 *://*.ggapp.io/*
 *://*.ggez.gg/*
 *://*.ghostcalcs.com/*
-*://*.goddessofvictorynikke.fandom.com/*
 *://*.granblue-tools.com/*
-*://*.granblue.fandom.com/*
 *://*.gtfo.tools/*
 *://*.guardian.gg/*
 *://*.halo.api.stdlib.com/*
@@ -7354,7 +7265,6 @@
 *://*.hardstuck.gg/*
 *://*.hearthpwn.com/*
 *://*.hellhades.com/*
-*://*.hellletloose.fandom.com/*
 *://*.honeyhunterworld.com/*
 *://*.honkaistarrail.com/*
 *://*.hoyodex.com/*
@@ -7374,7 +7284,6 @@
 *://*.intotheabyss.gg/*
 *://*.itemdrop.app/*
 *://*.jinteki.net/*
-*://*.justdance.fandom.com/*
 *://*.kagerochart.net/*
 *://*.kaggle.com/datasets/*gaming*
 *://*.kalpas.gg/*
@@ -7403,11 +7312,9 @@
 *://*.lostmerchants.com/*
 *://*.lostsectortracker.com/*
 *://*.luckyapp.gg/*
-*://*.magireco.fandom.com/*
 *://*.mapgenie.io/*
 *://*.maplelegends.com/*
 *://*.maplestory-database.com/*
-*://*.mariokarttour.fandom.com/*
 *://*.masteroverwatch.com/*
 *://*.maxroll.gg/*
 *://*.megatenwiki.com/*
@@ -7421,7 +7328,6 @@
 *://*.mobafire.com/*
 *://*.mobalytics.gg/*
 *://*.modworkshop.net/*
-*://*.monstercat.fandom.com/*
 *://*.monsterhunterbuilds.com/*
 *://*.mooncell.wiki/*
 *://*.moonlight.gg/*
@@ -7432,12 +7338,10 @@
 *://*.mythictrap.com/*
 *://*.na.op.gg/*
 *://*.nakano.moe/*
-*://*.nekowiz.fandom.com/*
 *://*.nexus-z.com/*
 *://*.nexusfamily.org/*
 *://*.nexusmods.com/game/*
 *://*.nikkeguide.com/*
-*://*.ninjala.fandom.com/*
 *://*.nookazon.com/*
 *://*.nookipedia.com/*
 *://*.nsmbhd.net/*
@@ -7464,7 +7368,6 @@
 *://*.pathofbuilding.community/*
 *://*.peakmonsters.com/*
 *://*.pgrhub.com/*
-*://*.pikminbloom.fandom.com/*
 *://*.pinkcore.net/*
 *://*.planetdestiny.com/*
 *://*.pob.party/*
@@ -7472,7 +7375,6 @@
 *://*.poedb.tw/*
 *://*.poeplanner.com/*
 *://*.pokemondb.net/*
-*://*.pokemongo.fandom.com/*
 *://*.pokemonshowdown.com/*
 *://*.porofessor.gg/*
 *://*.prebuilds.com/*
@@ -7508,7 +7410,6 @@
 *://*.rpgbot.net/*
 *://*.runehq.com/*
 *://*.runelite.net/*
-*://*.runescape.fandom.com/*
 *://*.runitback.gg/*
 *://*.rustlabs.com/*
 *://*.satisfactory-calculator.com/*
@@ -7521,7 +7422,6 @@
 *://*.sfcalc.com/*
 *://*.shadowverse-portal.com/*
 *://*.shellshock.io/*
-*://*.shinmegamitensei.fandom.com/*
 *://*.smashmate.net/*
 *://*.smite.guru/*
 *://*.smitebuild.com/*
@@ -7548,11 +7448,8 @@
 *://*.swgoh.events/*
 *://*.swgoh.gg/*
 *://*.swgoh.help/*
-*://*.swtor.fandom.com/*
 *://*.swtorista.com/*
-*://*.synced.fandom.com/*
 *://*.syndicate.gg/*
-*://*.tacticsogre.fandom.com/*
 *://*.takoyaki.team/*
 *://*.tamrieltradecentre.com/*
 *://*.tarkov-market.com/*
@@ -7561,7 +7458,6 @@
 *://*.teamfighttactics.gg/*
 *://*.teamfire.gg/*
 *://*.tftactics.gg/*
-*://*.thedivision.fandom.com/*
 *://*.thedivisionbuilds.com/*
 *://*.thedivisiontracker.com/*
 *://*.thegamedatabase.org/*
@@ -7577,17 +7473,13 @@
 *://*.tornstats.com/*
 *://*.toweroffantasy.info/*
 *://*.toweroffantasyhub.com/*
-*://*.towerofsaviors.fandom.com/*
 *://*.tracker.gg/*
 *://*.trackernetwork.com/*
-*://*.triangle-strategy.fandom.com/*
 *://*.u.gg/*
-*://*.undertale.fandom.com/*
 *://*.unitystation.org/*
 *://*.upbuild.gg/*
 *://*.valkyrieconnect.wiki/*
 *://*.valorant-api.com/*
-*://*.valorant.fandom.com/*
 *://*.valorantbuilds.com/*
 *://*.valorantloadout.xyz/*
 *://*.valorantplanner.com/*
@@ -7623,8 +7515,7 @@
 *://*.zilliongamer.com/*
 *://*.zoneofgames.ru/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 12. Distribution Platforms
+# –––––––––––––––––––––––––––––––––––––––– Distribution Platforms
 
 *://*.2game.com/*
 *://*.aerosoft.com/*
@@ -7964,8 +7855,7 @@
 *://*.zloemu.net/*
 *://*.zorinbooster.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 13. Merchandise
+# –––––––––––––––––––––––––––––––––––––––– Merchandise
 
 *://*.alienware.com/*
 *://*.asus.com/*
@@ -7982,8 +7872,7 @@
 *://*.micromania.fr/*
 *://*.play-asia.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 14. News 
+# –––––––––––––––––––––––––––––––––––––––– News 
 
 *://*.a9vg.com/*
 *://*.dualshockers.com/*
@@ -8052,8 +7941,7 @@
 *://*.vgtime.com/*
 *://*.xgn.nl/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 15. VR / AR Sites & Platforms
+# –––––––––––––––––––––––––––––––––––––––– VR / AR Sites & Platforms
 
 *://*.altvr.com/*
 *://*.bigscreenvr.com/*
@@ -8062,8 +7950,7 @@
 *://*.sidequestvr.com/*
 *://*.vrchat.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 16. Guides, Subreddits & Wikis
+# –––––––––––––––––––––––––––––––––––––––– Guides, Subreddits & Wikis
 
 *://*.apexlegendsstatus.com/*
 *://*.dragonquest-fan.com/*
@@ -8107,8 +7994,7 @@
 *://*.zeldadungeon.net/*
 *://*.zeldauniverse.net/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 17. Mobile Portals & App-Based
+# –––––––––––––––––––––––––––––––––––––––– Mobile Portals & App-Based
 
 *://*.1apk.org/*
 *://*.5play.ru/*
@@ -8266,16 +8152,10 @@
 *://*.nitrome.com/*
 *://*.tigsource.com/*
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [7] NEWS
 
-# 1. News 🇷🇸 🇲🇪 🇧🇦
-# 2. Tabloids 🇷🇸 🇲🇪 🇧🇦
-# 3. News 🇺🇸 🇨🇦 🇬🇧
-# 4. Tabloids 🇺🇸 🇨🇦 🇬🇧
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. News 🇷🇸 🇲🇪 🇧🇦
+# –––––––––––––––––––––––––––––––––––––––– News 🇷🇸 🇲🇪 🇧🇦
 
 *://*.glassrpske.com/*
 *://*.soskanal.net/*
@@ -8290,7 +8170,6 @@
 *://*.sia.rs/*
 *://*.srpslinarodniinfo.co.rs/*
 *://*.skandal.in.rs/* 
-
 *://*.011info.com/*
 *://*.013info.rs/*
 *://*.021.rs/*
@@ -8546,15 +8425,7 @@
 *://*.zoomer.rs/*
 *://*.zvornikdanas.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Tabloids 🇷🇸 🇲🇪 🇧🇦
-
-# .com
-
-
-
-
-# .rs
+# –––––––––––––––––––––––––––––––––––––––– Tabloids 🇷🇸 🇲🇪 🇧🇦
 
 *://*.alo.rs/*
 *://*.ana.rs/*
@@ -8662,13 +8533,11 @@
 *://*.zenskimagazin.net/*
 *://*.zenskimagazin.rs/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. News 🇺🇸 🇨🇦 🇬🇧
+# –––––––––––––––––––––––––––––––––––––––– News 🇺🇸 🇨🇦 🇬🇧
 
 *://*.theguardian.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Tabloids 🇺🇸 🇨🇦 🇬🇧
+# –––––––––––––––––––––––––––––––––––––––– Tabloids 🇺🇸 🇨🇦 🇬🇧
 
 *://*.accessonline.com/*
 *://*.aceshowbiz.com/*
@@ -8851,7 +8720,7 @@
 *://*.zalebs.com/*
 *://*.zismile.com/celebs/*
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [8] PORN
 
 *://*.abprintshop.com/*
@@ -9032,7 +8901,7 @@
 *://*.ynoteurope.com/*
 *://*.youperv.com/*
 
-# ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [9] SOCIAL MEDIA
 
 # –––––––––––––––––––––––––––––––––––––––– BeReal

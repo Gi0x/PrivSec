@@ -5606,7 +5606,7 @@
 ! ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ! 8. UTILITIES
 
-! Browsers
+! –––––––––––––––––––––––––––––––––––––––– Browsers
 
 ||arc.net^
 ||avantbrowser.com^
@@ -5617,7 +5617,6 @@
 ||browser.qq.com^
 ||browser.yandex.com^
 ||chameleonbrowser.com^
-||chromium.org/getting-involved/download-chromium^
 ||chromium.org^
 citrio.com
 comet.perplexity.ai
@@ -5676,3 +5675,5 @@ webkit.org
 whale.naver.com
 wwwdotbrowser.webs.com
 yandex.com/browser
+
+! –––––––––––––––––––––––––––––––––––––––– Search Engines
