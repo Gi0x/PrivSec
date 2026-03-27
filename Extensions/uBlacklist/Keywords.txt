@@ -4,23 +4,18 @@
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Extensions/uBlacklist/Keywords.txt
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # SYNTAX
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– With ?
+# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– With ? & Without
 # /(^|[-_/])(cunt(bag|s|whore|y)?)([-_/]|$)/i
-# /(^|[-_/])(lube(ed|ing|s)?)([-_/]|$)/i
 
-# Matches:
-# cunt, cuntbag, cunts, cuntwhore, cunty
-# lube, lubed, lubing, lubes
-
+# Matches: cunt, cuntbag, cunts, cuntwhore, cunty
 # Use this syntax ONLY if the root word is 'unambiguous'
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Without ?
 # /(^|[-_/])(ass(es|face|grab|hole))([-_/]|$)/i
 
 # Matches: asses, assface, assgrab, asshole but does NOT match ass
-# Omit ? because the root word is ambiguous and can form part of other words, ex. assign
+# Omits ? because the root word is ambiguous and may form part of other words, ex. assign
 
-# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Chaining Multiple Terms
+# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Multiple Terms in ()
 # /(^|[-_/])(celeb(s|rity|rities)|gossip(ed|er|ing|s|y)?)([-_/]|$)/i 
 
 # Matches: celebs, celebrity, celebrities, gossip, gossiped, gossiper, gossiping, gossips, gossipy &
@@ -84,18 +79,45 @@
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [12] L
+# lesbian
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [13] M
 
+# Masturbate
+
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [14] N
+# nigger
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [15] O 
 
+# Orgasm, orgy, orgija, 
+
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [16] P
+
+# Pendejo/a
+# Penis
+# Picka
+# Pimp
+# Pizda
+# Porn
+# /(^|[-_/])(porn(hub|o|os|ography|ographic|ografia|ici|icu|star|stars)?)([-_/]|$)/i
+
+porno
+pornos
+pornhub
+pornography
+pornographic
+pornografia
+pornici
+pornicu
+
+# Pussy
+
+
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [17] Q 
