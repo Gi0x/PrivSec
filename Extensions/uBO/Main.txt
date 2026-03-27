@@ -240,41 +240,18 @@
 ! ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ! 3. DRUGS & TOBACCO
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 3a. Cannabis & Marijuana
-
+||absolute-nature-cbd.com^
+||afinilexpress.com^
+||americanhempoil.net^
 ||apothecarium.com^
 ||barneysfarm.com^
 ||bcseedking.com^
-||buyweedonlineusa.com^
-||cannabis.net^
-||dutch-passion.com^
-||greenrush.com^
-||greenthumbindustries.com^
-||growerschoiceseeds.com^
-||hempyresearch.com^
-||herb.co^
-||highthere.com^
-||homegrowncannabisco.com^
-||ilovegrowingmarijuana.com^
-||kingbong.com.br^
-||leafbuyer.com^
-||leafly.com^
-||marijuanabreak.com^
-||marijuanapackaging.com^
-||medicalmarijuanainc.com^
-||potguide.com^
-||royalqueenseeds.com^
-||thecannabist.co^
-||theweedblog.com^
-||weedmaps.com^
-
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 3b. CBD Product Retailers
-
-||absolute-nature-cbd.com^
-||americanhempoil.net^
 ||blosumcbd.com^
+||bluelight.org^
+||buycigarettesonline.org^
+||buyweedonlineusa.com^
+||buyxanaxonline.org^
+||cannabis.net^
 ||cbd.co^
 ||cbd.market^
 ||cbdchoice.com^
@@ -282,85 +259,85 @@
 ||cbdistillery.com^
 ||cbdliving.com^
 ||cbdmd.com^
+||centralvapors.com^
 ||charlottesweb.com^
-||fabcbd.com^
-||greenroads.com^
-||hempbombs.com^
-||joyorganics.com^
-||kyhicbd.com^
-||medterracbd.com^
-||purekana.com^
-||royalcbd.com^
-||savagecbd.com^
-||veritasfarms.com^
-
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 3c. Darknet Drug Market Mirrors / Directories
-
-||dark.fail^
-||darknetlive.com^
-||dnstats.net^
-||onion.live^
-
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 3d. Drug Forums, Smart Drugs, Nootropics, Research Chems
-
-||afinilexpress.com^
-||bluelight.org^
-||buyxanaxonline.org^
-||drugs-forum.com^
-||erowid.org^
-||liftmode.com^
-||modafinil.org^
-||modafiniledge.com^
-||modafinilxl.com^
-||nootropicsexpert.com^
-||nootropics.com^
-||nootropicsdepot.com^
-||science.bio^
-||supersmart.com^
-
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! 3e. Tobacco & Cigarettes
-
-||buycigarettesonline.org^
 ||cheapcigarettes.com^
 ||cigaretteprices.net^
 ||cigarettesamerica.com^
 ||cigs4less.com^
+||dark.fail^
+||darknetlive.com^
+||dnstats.net^
+||drugs-forum.com^
+||dutch-passion.com^
 ||dutyfreedepot.com^
+||ecig-city.com^
+||eightvape.com^
+||elementvape.com^
+||erowid.org^
+||fabcbd.com^
+||fugginvapor.com^
+||greenroads.com^
+||greenrush.com^
+||greenthumbindustries.com^
+||growerschoiceseeds.com^
+||hempbombs.com^
+||hempyresearch.com^
+||herb.co^
+||highthere.com^
+||homegrowncannabisco.com^
+||ilovegrowingmarijuana.com^
+||joyorganics.com^
+||kingbong.com.br^
+||kyhicbd.com^
+||leafbuyer.com^
+||leafly.com^
+||liftmode.com^
+||marijuanabreak.com^
+||marijuanapackaging.com^
+||medicalmarijuanainc.com^
+||medterracbd.com^
+||misthub.com^
+||modafinil.org^
+||modafiniledge.com^
+||modafinilxl.com^
+||myfreedomsmokes.com^
+||myvpro.com^
+||nootropics.com^
+||nootropicsdepot.com^
+||nootropicsexpert.com^
+||onion.live^
+||potguide.com^
+||purekana.com^
+||royalcbd.com^
+||royalqueenseeds.com^
+||savagecbd.com^
+||science.bio^
 ||smokersunit.com^
+||smokstore.com^
+||supersmart.com^
+||thecannabist.co^
+||theweedblog.com^
 ||tobaccoonline.co.uk^
 ||tobaccostock.com^
 ||tobaccousa.com^
-
-!  –––––––––––––– –––––––––––––– –––––––––––––– –––––––––––––– –––––––––––––– ––––––––––––––
-! 3f. Vaping & E-Cigarettes
-
-||centralvapors.com^
-||ecig-city.com^
-||elementvape.com^
-||eightvape.com^
-||fugginvapor.com^
-||misthub.com^
-||myfreedomsmokes.com^
-||myvpro.com^
-||smokstore.com^
 ||vape-box.com^
 ||vape-deals.com^
 ||vape.com^
 ||vape4ever.com^
+||vaped.com^
+||vapedeal.com^
 ||vapejuice.com^
 ||vapes.com^
-||vapedeal.com^
-||vaped.com^
 ||vapeshack.com^
 ||vapesocietysupply.com^
+||vapewild.com^
 ||vapordna.com^
 ||vaporesso.com^
 ||vaporfi.com^
 ||vaporhub.com^
-||vapewild.com^
+||veritasfarms.com^
+||weedmaps.com^
 
 ! ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 ! 4. SOCIAL MEDIA
@@ -5699,8 +5676,3 @@ webkit.org
 whale.naver.com
 wwwdotbrowser.webs.com
 yandex.com/browser
-
-!  –––––––––––––– –––––––––––––– ––––––––––––––
-! Image Editors 
-
-||photopea.com^
