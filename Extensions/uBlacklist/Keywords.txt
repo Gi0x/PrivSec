@@ -4,7 +4,6 @@
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Extensions/uBlacklist/Keywords.txt
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # SYNTAX
-
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– With ?
 
 # /(^|[-_/])(cunt(bag|s|whore|y)?)([-_/]|$)/i
@@ -20,7 +19,8 @@
 
 # /(^|[-_/])(ass(es|face|grab|hole))([-_/]|$)/i
 
-# Matches: asses, assface, assgrab, asshole but NOT ass itself
+# Matches: asses, assface, assgrab, asshole
+# Unmatched: ass
 # Omit ? because the root word is ambiguous and can form part of other words, ex. assign
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Chaining Multiple Terms
@@ -38,11 +38,11 @@
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  Multiple Characters w/t 1 Term
 
-# /(^|[-_/])(snarp(s|ing|ed|[-_/]?(face|hole|head))?)([-_/]|$)/i
+# /(^|[-_/])(poop(s|ing|ed|[-_/]?(face|hole|head))?)([-_/]|$)/i
 
 # Matches: 
-# snarp, snarps, snarping, snarped, snarpface, snarphole, snarphead, 
-# snarp-face, snarp-head, snarp-hole, snarp_face, snarp_head, snarp_hole, snarp/face, snarp/head, snarp/hole
+# poop, poops, pooping, pooped, poopface, poophole, poophead, 
+# poop-face, poop-head, poop-hole, poop_face, poop_head, poop_hole, poop/face, poop/head, poop/hole
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  [-_/+] w/t multiple Terms
 

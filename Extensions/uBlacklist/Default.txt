@@ -3,6 +3,32 @@
 # DeDup: Y, Sorted: Y
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Extensions/uBlacklist/Default.txt
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+# SYNTAX
+
+# General Rule: ^https?:\/\/([^\/]+\.)?(DOMAIN)\.(com|net|org)\/
+
+# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Example 1
+# *://*.365numerology.com/*
+# *://*.astrology-numerology.com/*
+# *://*.name-meanings.org/*
+# *://*.nameanalyzer.net/*
+
+# /^https?:\/\/([^\/]+\.)?(365numerology|astrology-numerology|name-meanings|nameanalyzer)\.(com|net|org)\//
+
+# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Example 2 
+# *://*.numerology.com/*
+# *://*.numerologycentral.com/*
+# *://*.numerologydecoder.com/*
+# *://*.numerologysecrets.net/*
+# *://*.numerologysign.com/*
+# *://*.psychicnumerology.net/*
+# *://*.seventhlifepath.com/*
+# *://*.yournumerologychart.com/*
+
+# /^https?:\/\/([^\/]+\.)?(numerology(central|decoder|secrets|sign)?|psychicnumerology|seventhlifepath|yournumerologychart)\.(com|net)\//
+
+# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+# ToC
 
 # [1] ASTROLOGY
 # [2] CHAT
