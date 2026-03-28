@@ -12,7 +12,61 @@
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! SYNTAX
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! EX1: 1 Keyword
 
+! ||*sex*^$all
+! ||*ass*^$all
+! ||*tit*^$all
+! ||*cum*^$all
+! ||*anal*^$all
+
+! This matches sex, ass, tit, cum, anal anywhere in a hostname. 
+! Use the syntax sparingly because it does not understand word boundaries. 
+! It can unintentionally block neutral websites like below: 
+
+! sex > essex.gov.uk, sussex.ac.uk, asexuality.org, unisexfashion.com ,midsexample.net
+! ass > passmark.com, constitution.org, entitledto.co.uk
+! cum > document, cumulative
+! tit > entitled, institution
+! anal > analysis
+
+! For better precision and LESS collateral damage, use ||word^$all
+
+! ||sex^$all
+! ||ass^$all
+! ||tit^$all
+
+! sex > sex.com, sex.net, sex.co.uk
+! ass > ass.com, ass.net, ass.co.uk
+! tit > tit.com, tit.net, tit.co.uk
+
+! The word must be the entire domain label. 
+
+! ONLY use the syntax below when the word is almost NEVER innocent: 
+
+! ||*poop*^$all
+! ||*hentai*^$all
+! ||*xxx*^$all
+! ||*camgirl*^$all
+! ||*onlyfans*^$all
+
+! poop > poop.com, poops.net, poopface.org, poop-rain.xxx, funny-poop-memes.com, superpooper.site
+! hentai > hentai.com, hentaigirl.uk, hentai-babes.xyz, 101-hentai-girl.you
+! camgirl> camgirls.org, camgirls-101.net, lexy-camgirl.org
+
+! The syntax covers plurals, verbal forms, and compounds. 
+
+! > ||*poop*^$all = “Block anything containing poop anywhere”
+! > ||poop^$all = “Block only domains literally called poop”
+
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+! EX2: 2 Keywords
+
+! Keyword: Buttfuck = Butt + Fuck
+! Syntax: ||*butt*face*^$all
+
+! Matches: buttface.com, butt-face.net, bigbuttface.org, butt--face.xxx, my-butt-face-site.com
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [123]
@@ -28,15 +82,10 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [A] 
 
-a-rab
 a55
 a_s_s
-abbie
-abbo
 abeed
-aboriginal
 aborto
-abuse
 acrotomophile
 acrotomophilia
 addict
@@ -60,16 +109,16 @@ algophile
 algophilia
 alligatorbait
 allupato
-alpine serb
 amador
 amcik
 americoon
 americunt
 amerikkkunt
-ammucchiata
-anal
-anal assassin
-anal astronaut
+*ammucchiata*
+
+||anal^$all
+||*anal*assassin*^
+||anal*astronaut
 analannie
 analprobe
 analritter
@@ -80,11 +129,9 @@ anilingus
 antifaggot
 antinigger
 anus
-ape shit
-ape-shit
+apeshit
 aperest
 apesault
-apeshit
 apotemnophile
 apotemnophilia
 ar5e
@@ -118,16 +165,14 @@ asholes
 asian
 asno
 ass
-ass bandit
-ass crack
-ass-fucker
-ass-hat
-ass-pirate
-assassinate
-assassination
+ass*bandit
+ass*crack
+ass*fucker
+ass*hat
+ass*pirate
 assatanato
-assbag
-assbagger
+ass*bag
+ass*bagger
 assbandit
 assbang
 assbanged
@@ -2168,7 +2213,6 @@ kacaps
 kackbratze
 kacke
 kacken
-kozojeb
 kackwurst
 kaffer
 kafferboom
@@ -2246,6 +2290,7 @@ kooch
 kooches
 koon
 kootch
+kozojeb
 koňomrd
 krap
 krappy
@@ -4174,8 +4219,6 @@ temeier
 terd
 teringlijer
 terrone
-terror
-terrorist
 teste
 testee
 testes
@@ -4264,7 +4307,6 @@ transbian
 transgendered
 transsexual
 transvestite
-trap
 trashy
 traumatophile
 traumatophilia
@@ -4381,9 +4423,7 @@ verga
 vergallen
 verkloten
 verneuken
-vgra
 viagra
-vibr
 vibrador
 vibrater
 vibrator
@@ -4404,10 +4444,8 @@ vitun
 vitusti
 vituttaa
 vitutus
-vixen
 vjayjay
 vleesroos
-vodka
 vollpfosten
 vomit
 vorarephile
@@ -4433,8 +4471,7 @@ w00se
 w0p
 wab
 wad
-wagon burner
-wagon-burner
+wagon*burner
 wang
 wank
 wanker
@@ -4481,7 +4518,6 @@ whites
 whitetrash
 whitewashing
 whitey
-whiteys
 whities
 whoar
 whop
@@ -4490,7 +4526,7 @@ whore
 whorealicious
 whorebag
 whored
-whoreface
+whoreface = *whore*face*^$all
 whorefucker
 whorehopper
 whorehouse
@@ -4506,7 +4542,6 @@ wiggers
 wiitwd
 wijf
 willie
-willies
 williewanker
 willy
 wimp
@@ -4517,7 +4552,6 @@ wokeness
 wolfbagging
 woose
 wop
-words
 worldsex
 wrapping men
 wrinkled starfish
@@ -4538,7 +4572,6 @@ xrated
 xtc
 xtube
 xvideos
-xx
 xxx
 xxxxxx
 xyrophile
@@ -4547,30 +4580,20 @@ xyrophilia
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [Y]
 
-yambag
-yank
-yaoi
-yard-ape
-yarpie
-yarpies
-yeasty
-yed
-yellow shower
-yellow showers
-yellow-man
-yellow-nigger
-yellowman
-yellowshowers
-yid
-yids
-yiffy
-yobbo
-yourboobs
-yourpenis
-yourtits
-yuon
-yury
-zmrd
+||*yambag
+||*yaoi
+||*yard*ape
+||*yarpie
+||*yed
+||*yellow*shower
+||*yellow*man
+||*yellow*nigger
+||*yid
+||*yiffy
+||*yobbo
+||*yourboobs
+||*yourpenis
+||*yourtits
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [Z]

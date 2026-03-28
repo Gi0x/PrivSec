@@ -41,8 +41,8 @@ Example 2
 # [5] GAMBLING
 # [6] GAMING
 # [7] NEWS
-# [8] PORN
-# [9] SOCIAL MEDIA
+# [8] SOCIAL MEDIA
+# [9] PORN
 # [10] SPAM
 # [11] SPORTS
 # [12] STREAMING A/V
