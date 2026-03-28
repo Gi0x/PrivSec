@@ -1,7 +1,7 @@
 ! Title: Astro
 ! Info: Blocks astrology & tarot domains
 ! DeDup: N, Sorted: N
-! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Extensions/Default.txt
+! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/Default.txt
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! ToC
 
@@ -930,7 +930,7 @@
 ||weheartit.com^
 ||wopita.com^
 
-! ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! 5. SPORTS
 
 ||1-2pitch.com^

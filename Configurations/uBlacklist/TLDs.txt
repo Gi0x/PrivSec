@@ -1,7 +1,7 @@
 # Title: TLDs
 # Info: Hides Top Level Domains
 # DeDup: Y, Sorted: Y
-# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Extensions/uBlacklist/TLDs.txt
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/uBlacklist/TLDs.txt
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # CCTLDs
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
