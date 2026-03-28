@@ -1,5 +1,5 @@
-! Title: Astro
-! Info: Blocks astrology & tarot domains
+! Title: Default
+! Info: Blocks domains
 ! DeDup: N, Sorted: N
 ! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/Default.txt
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
