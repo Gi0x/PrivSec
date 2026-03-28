@@ -1,6 +1,5 @@
 # Title: Default
-# Info: uBlacklist Default List
-# DeDup: Y, Sorted: Y
+# Info: Default List
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/uBlacklist/Default.txt
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # SYNTAX

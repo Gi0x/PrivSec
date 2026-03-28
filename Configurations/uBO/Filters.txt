@@ -6,14 +6,12 @@
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! COSMETIC FILTERS
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-! Brave Search
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Brave
 
 ! Search Results Panel
 safe.search.brave.com###search-page
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-! DuckDuckGo
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– DuckDuckGo
 
 ! All Carousels
 duckduckgo.com##li[data-layout="images"]
@@ -42,8 +40,7 @@ duckduckgo.com##button[data-testid="sidemenu-button"]
 duckduckgo.com##li:has(> a[href*="ia=news"])
 duckduckgo.com##li:has(> a[href*="ia=videos"])
 
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! YouTube
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– YouTube
 
 ! Create Button
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope

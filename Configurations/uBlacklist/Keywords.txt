@@ -1,6 +1,5 @@
 # Title: Keywords
 # Info: Keywords List
-# DeDup: , Sorted: 
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/uBlacklist/Keywords.txt
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # SYNTAX

@@ -1,6 +1,5 @@
 ! Title: Default
-! Info: Blocks domains
-! DeDup: N, Sorted: N
+! Info: Default List
 ! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/Default.txt
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! ToC
@@ -234,6 +233,9 @@
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [4] DRUGS & TOBACCO
+
+||*cigarette*^$all
+
 
 ||absolute-nature-cbd.com^
 ||afinilexpress.com^
