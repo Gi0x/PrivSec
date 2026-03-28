@@ -18,7 +18,7 @@
 # Omits ? because the root word is ambiguous and may form part of other words, ex. assign
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# Multiple Terms in ()
+# Multiple Keywords in ()
 
 # /(^|[-_/])(celeb(s|rity|rities)|gossip(ed|er|ing|s|y)?)([-_/]|$)/i
 
@@ -32,7 +32,7 @@
 # Optional, better to use a single string for 1 term per line
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
-# Multiple Characters w/t 1 Term
+# Multiple Characters w/t 1 Keyword
 
 # /(^|[-_/])(poop(s|ing|ed|[-_/]?(face|hole|head))?)([-_/]|$)/i
 
@@ -41,7 +41,7 @@
 # poop-face, poop-head, poop-hole, poop_face, poop_head, poop_hole, poop/face, poop/head, poop/hole
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
-# [-_/+] w/t multiple Terms
+# [-_/+] w/t Multiple Keywords
 
 # /(^|[-_/+])((fuck|boink)(s|ing|ed|[-_/+]?(face|hole))?)([-_/+]|$)/i
 
