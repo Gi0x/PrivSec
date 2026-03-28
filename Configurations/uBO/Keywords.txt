@@ -3,6 +3,14 @@
 ! DeDup: , Sorted: 
 ! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/uBO/Keywords.txt
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+! SOURCES
+
+! https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+! https://github.com/coffee-and-fun/google-profanity-words/blob/main/data/en.txt
+! 
+! https://github.com/profanitas/abuse/blob/master/abuse/dataset_en.csv
+
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! SYNTAX
 
 
@@ -19,7 +27,10 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [2] A
 
+
 a-rab
+a55
+a_s_s
 abbie
 abeed
 aboriginal
@@ -55,9 +66,11 @@ apesault
 apeshit
 apotemnophile
 apotemnophilia
+ar5e
 arabs
 arabush
 areola
+arrse
 arse
 arse bandit
 arsehole
@@ -65,19 +78,35 @@ aseng
 asian
 ass
 ass bandit
+ass-fucker
+ass-hat
+ass-pirate
 assassinate
 assassination
+assbag
 assbagger
+assbandit
+assbanger
+assbite
 assblaster
 assburgers
 assclown
+asscock
 asscowboy
+asscracker
 asses
+assface
 assfuck
 assfucker
+assfukka
+assgoblin
+asshat
+asshead
 asshole
 assholes
+asshopper
 asshore
+assjacker
 assjockey
 asskisser
 assklown
@@ -90,7 +119,12 @@ asspacker
 asspirate
 asspuppies
 assranger
+assshole
+asssucker
+asswad
+asswhole
 asswhore
+asswipe
 aunt-jemima
 autist
 auto erotic
@@ -100,6 +134,10 @@ ayrab
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [3] B 
 
+b!tch
+b00bs
+b17ch
+b1tch
 babeland
 baby batter
 baby gravy
@@ -119,11 +157,14 @@ ball-gag
 ball-kicking
 ball-licking
 ball-sucking
+ballbag
 ballcuzi
 ballgag
 balllicker
+balls
 ballsack
 bamboula
+bampot
 bang bros
 bang bus
 bangbros
@@ -132,8 +173,10 @@ banging
 bareback
 barely legal
 barelylegal
+barenaked
 bastard
 bastardess
+bastardo
 bastinado
 batty boi
 batty boy
@@ -141,23 +184,29 @@ battyboi
 battyboy
 bazongas
 bazooms
+bbw
 bdsm
 bean flicker
 bean queen
 bean-flicker
 beaner
-beaner
 beaners
 beanflicker
+beastial
 beastiality
+beastility
 beaver cleaver
 beaver lips
 beef curtains
 beestiality
 bellend
 bellesa
+bestial
 bestiality
+bi+ch
+biatch
 bicon
+big black
 big boobs
 big breasts
 big cock
@@ -165,28 +214,39 @@ big knockers
 big tits
 bigass
 bigbutt
+bimbos
 birdlock
 bitch
+bitcher
+bitchers
 bitches
 bitchez
+bitchin
 bitching
 bitchslap
 black
 black cock
 blackman
 blacks
+blonde action
+blonde on blonde action
 bloody
 blow job
 blow your load
 blow-job
 blowjob
+blowjobs
 blue waffle
 bluegum
 bluewaffle
 blumpkin
 boche
 bohunk
+boiolas
+bollock
 bollocks
+bollok
+bollox
 bomb
 bombing
 bondage
@@ -195,8 +255,14 @@ bone-smuggler
 boner
 bonesmuggler
 boob
+boobie
+boobs
 boong
 boonga
+booobs
+boooobs
+booooobs
+booooooobs
 bootlip
 booty buffer
 booty call
@@ -216,10 +282,11 @@ brown-piper
 brownie king
 brownie queen
 brownpiper
+brunette action
+buceta
 buckra
 buddha head
 buddha-head
-buddhahead
 buddhahead
 bufter
 bufty
@@ -234,6 +301,7 @@ bulldyke
 bullet vibe
 bullet vibrator
 bullshit
+bum
 bum boy
 bum chum
 bum driller
@@ -255,12 +323,16 @@ bumfuck
 bumhole engineer
 bumrider
 bumrobber
+bung hole
 bunghole
+bunny fucker
 burr-head
 burrhead
+busty
 butchbabes
 butchdike
 butchdyke
+butt
 butt boy
 butt pilot
 butt pirate
@@ -276,19 +348,24 @@ butt-pirate
 butt-robber
 buttbang
 buttboy
+buttcheeks
 buttface
 buttfuck
 buttfucker
+butthole
 butthole engineer
 buttman
 buttmunch
 buttpirate
+buttplug
 buttrider
 buttrobber
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [4] C
 
+c0ck
+c0cksucker
 camel jockey
 camel jockies
 camel toe
@@ -296,6 +373,9 @@ camel-jockey
 camelfucker
 cameljockey
 cameljockies
+camgirl
+camslut
+camwhore
 canadian porch swing
 cancer
 carcamano
@@ -304,6 +384,7 @@ carpet-muncher
 carpetbagger
 carpetmuncher
 catfucker
+cawk
 chankoro
 chav
 cheese eating surrender monkey
@@ -318,12 +399,10 @@ china man
 china men
 china-doll
 chinaman
-chinaman
 chinamen
+chinc
 ching chong
 ching-chong
-ching-chong
-chink
 chink
 chinkland
 chinks
@@ -342,46 +421,79 @@ chug
 cialis
 ciapaty-or-ciapak
 cina
+cipa
 circle-jerk
 circlejerk
 cisgender
 cishet
 cissie
 cissy
+cl1t
 claustrophile
 claustrophilia
 cleveland accordion
 cleveland hot waffle
 cleveland steamer
 clit
+clitface
 clitoris
+clits
 clover clamp
 clover clamps
 clunge
 cluster fuck
 cluster-fuck
 clusterfuck
+cnut
 cock
+cock-sucker
+cockbite
 cockblock
+cockburger
 cockcowboy
+cockface
 cockfight
 cockhead
+cockjockey
 cockknob
+cockknoker
 cocklicker
+cockmaster
+cockmongler
+cockmongruel
+cockmonkey
+cockmunch
+cockmuncher
+cocknose
+cocknugget
 cockpipe cosmonaut
 cockqueen
+cocks
+cockshit
 cocksmith
 cocksmoker
 cockstruction worker
 cocksucer
+cocksuck
+cocksuck 
+cocksucked
+cocksucked 
 cocksucker
 cocksucking
+cocksucks 
+cocksuka
+cocksukka
 cocktease
 coimetrophile
 coimetrophilia
+cok
 cokin
+cokmuncher
+coksucka
 collared
 collaring
+coochie
+coochy
 cooly
 coon
 coon-ass
@@ -391,6 +503,7 @@ coprolagnia
 coprophile
 coprophilia
 cornhole
+cox
 crack-whore
 cracker
 crackwhore
@@ -408,34 +521,58 @@ cum shots
 cum-dumpster
 cum-receptacle
 cumbubble
+cumdumpster
 cumfest
+cumguzzler
+cumjockey
 cummer
 cumming
 cumquat
 cumqueen
+cums
 cumshot
 cumshots
 cumskin
+cumslut
 cumsock
+cumtart
 cunilingus
+cunillingus
+cunnie
 cunnilingus
 cunt
 cunt boy
 cunt-boy
 cuntboy
 cunteyed
+cuntface
 cuntfucker
+cunthole
+cuntlick
+cuntlick 
 cuntlicker
+cuntlicker 
+cuntlicking
+cuntlicking 
+cuntrag
 cunts
 curry muncher
 curry-muncher
-curry-muncher
 curry-nigger
 currymuncher
+cyalis
+cyberfuc
+cyberfuck 
+cyberfucked 
+cyberfucker
+cyberfuckers
+cyberfucking 
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [5] D
 
+d1ck
+dammit
 damn
 darkey
 darkie
@@ -456,34 +593,53 @@ dhoti
 dick
 dick girl
 dick-girl
+dickbag
+dickbeater
 dickbrain
+dickface
 dickforbrains
 dickgirl
 dickhead
+dickhole
+dickjuice
 dickless
 dicklick
 dicklicker
+dickmilk
+dickmonger
+dickslap
+dicksucker
+dickwad
+dickweasel
 dickweed
+dickwod
 diddle
 dike
 dildo
 dildos
 dingleberries
 dingleberry
+dink
+dinks
 dipsea
 dipshit
+dirsa
 dirty pillows
 dirty sanchez
 dishabiliophile
 dishabiliophilia
 ditsoon
 dixiedyke
+dlck
 dog shit
 dog style
+dog-fucker
 dog-shit
 doggie style
 doggie-style
 doggiestyle
+doggin
+dogging
 doggy style
 doggy-style
 doggystyle
@@ -495,23 +651,33 @@ domme
 dommes
 dong
 donkey punch
+donkeyribber
 donut muncher
 donut puncher
+doochbag
+dookie
 doon coon
 dooncoon
+doosh
 dope
 dothead
+double dong
 double penetration
+douche
 douchebag
 dp action
 dripdick
 dry hump
+duche
+dumb
 dumbass
+dumbshit
+dumshit
 dune coon
-dune-coon
 dune-coon
 durka-durka
 dutch rudder
+dvda
 dyke
 dystychiphile
 dystychiphilia
@@ -519,63 +685,121 @@ dystychiphilia
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [6] E
 
+eat my ass
+ecchi
 edge play
 edgeplay
 eggplant
 ejaculate
 ejaculated
+ejaculates 
 ejaculating
+ejaculating 
+ejaculatings
 ejaculation
+ejakulate
 electro-play
 electroplay
 emetophile
 emetophilia
 enby
 erection
+erotic
+erotism
+escort
 eskimo
 eskimo trebuchet
+eunuch
 eye-tie
 eyetie
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [7] F
 
+f u c k
+f u c k e r
+f4nny
+f_u_c_k
 faeces
 fag
 fag bomb
 fag-bomb
 fag-marriage
 fag-rag
+fagbag
 fagbomb
+fagg
+fagging
+faggit
+faggitt
 faggot
 faggot-marriage
+faggs
 fagot
+fagots
+fags
+fagtard
 fairy
+fanny
+fannyflaps
 fannyfucker
+fanyy
+fart
+farted
+farting
+farty
 fastfuck
 fatass
 fatfuck
 fatfucker
 fatso
 fckcum
+fcuk
+fcuker
+fcuking
+fecal
 feces
+feck
+fecker
 felatio
 felch
 felching
+fellate
 fellating
 fellatio
+feltch
 female squirting
+femdom
 figging
 finger bang
 fingerbang
 fingerbanging
 fingered
+fingerfuck 
+fingerfucked 
+fingerfucker 
+fingerfuckers
+fingerfucking 
+fingerfucks 
 fingering
 finocchio
 finoccio
 finochio
 fisted
+fistfuck
+fistfucked 
+fistfucker 
+fistfuckers 
+fistfucking 
+fistfuckings 
+fistfucks 
 fisting
+flamer
+flange
+fook
+fooker
+fool
+foot fetish
 foot job
 foot-job
 footjob
@@ -589,8 +813,11 @@ frolicme
 frottage
 frotting
 fuck
+fuck buttons
 fuck-wit
 fuck-you
+fucka
+fucked
 fucken
 fucker
 fuckers
@@ -598,7 +825,10 @@ fuckhead
 fuckheads
 fuckin
 fucking
+fuckings
+fuckingshitmotherfucker
 fuckity-bye
+fuckme 
 fucks
 fucktard
 fucktardedly
@@ -613,8 +843,17 @@ fuckwits
 fudge packer
 fudge-packer
 fudgepacker
+fuk
+fuker
+fukker
+fukkin
+fuks
+fukwhit
+fukwit
 futanari
 fuuck
+fux
+fux0r
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [8] G
@@ -622,11 +861,21 @@ fuuck
 g-spot
 gang bang
 gangbang
+gangbanged
+gangbanged 
+gangbangs 
 gator-bait
 gatorbait
 gay
 gay sex
+gayass
+gaybob
+gaydo
+gaylord
+gaysex
 gaysian
+gaytard
+gaywad
 genitals
 genitorture
 gerontophile
@@ -636,13 +885,16 @@ gin jockey
 gin jocky
 ginger
 ginzo
+girl on
 girl on top
+girls gone wild
 go-kun
 goatcx
 goatse
 god
 god damn
 god damned
+god-dam
 god-damn
 god-damned
 goddamn
@@ -652,10 +904,11 @@ golden shower
 golden showers
 goldenshower
 golliwog
-golliwog
 gollywog
 gonzagas
-gook
+goo girl
+gooch
+goodpoop
 gook
 gook-eye
 gookie
@@ -665,12 +918,14 @@ goregasm
 goyim
 gray queen
 greaseball
-greaseball
 greaser
 grey queen
+gringo
 groe
 grope
 group sex
+guido
+guro
 gym bunny
 gymbunny
 gypsy
@@ -685,16 +940,28 @@ half-breed
 hand job
 hand-job
 handjob
+hard core
+hardcore
+hardcoresex 
 he-she
+heeb
 heimie
 hell
+hentai
 hermie
+heshe
 hickory switch
 hippophile
 hippophilia
 hitlerism
+ho
+hoar
+hoare
 hobo
+hoe
+hoer
 hoes
+homo
 homobangers
 homoerotic
 homophobia
@@ -704,19 +971,25 @@ honkey
 honkeys
 honkies
 honky
+hooker
 hooters
 hore
 horney
+horniest
 horny
 horse shit
 horse-shit
 horseshit
 hot carl
+hot chick
 hot richard
+hotsex
+how to kill
+how to murder
 huge cock
+huge fat
 humping
 hussy
-hymie
 hymie
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -739,14 +1012,18 @@ itch
 
 jack off
 jack-off
+jack-off 
+jackass
 jackoff
 jail bait
 jailbait
 jap
 jelly donut
+jerk
 jerk mate
 jerk off
 jerk-off
+jerk-off 
 jerkmate
 jesus
 jesus christ
@@ -765,10 +1042,10 @@ jewrusalem
 jewtube
 jewy
 jigaboo
-jigaboo
 jigg
 jigga
 jiggabo
+jiggaboo
 jigger
 jiggerboo
 jihad
@@ -776,8 +1053,10 @@ jijjiboo
 jim-crow
 jism
 jiz
+jiz 
 jizjuice
 jizm
+jizm 
 jizz
 jizzim
 jizzum
@@ -790,21 +1069,40 @@ junglebunny
 ! [12] K
 
 kafferboom
+kawk
 kennebunkport surprise
 kentucky klondike
 kentucky tractor puller
 kike
 kinbaku
+kinkster
+kinky
 kitty puncher
 kitty-puncher
 kittypuncher
+kiunt
+knob
 knobbing
+knobead
+knobed
+knobend
+knobhead
+knobjocky
+knobjokey
 knockers
+kock
+kondum
+kondums
+kooch
+kootch
 kraut
 krauts
+kum
+kumer
 kummer
 kumming
 kumquat
+kums
 kunilingus
 kunt
 kunts
@@ -816,6 +1114,9 @@ kynophilia
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [13] L
 
+l3i+ch
+l3itch
+labia
 lactate
 lady boy
 lady-boy
@@ -840,22 +1141,37 @@ light in the pants
 limp wristed
 limp-wristed
 literotica
+lmfao
+lolita
 loser
 lovemaking
+lust
+lusting
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [14] M
 
-
+m0f0
+m0fo
+m45terbate
+ma5terb8
+ma5terbate
+make me come
 male squirting
 male-squirting
 malingsialan
 mammy
 mandingo
 mangal
+masochist
 massive cock
+master-bate
 masterb8
+masterbat*
+masterbat3
 masterbate
+masterbation
+masterbations
 masturb8
 masturbate
 masturbating
@@ -875,9 +1191,14 @@ menophilia
 mentally-retarded
 mexican pancake
 mexicoon
+milf
 milwaukee blizzard
+minge
 missionary position
 mississippi birdbath
+mo-fo
+mof0
+mofo
 molestor
 moneyshot
 mongoloid
@@ -886,10 +1207,27 @@ moon-cricket
 mooncricket
 moralfag
 moskal
+mothafuck
 mothafucka
+mothafuckas
+mothafuckaz
+mothafucked 
+mothafucker
+mothafuckers
+mothafuckin
+mothafucking 
+mothafuckings
+mothafucks
+mother fucker
+motherfuck
+motherfucked
 motherfucker
+motherfuckers
+motherfuckin
 motherfucking
 motherfuckings
+motherfuckka
+motherfucks
 mound of venus
 mountain-turk
 mr hands
@@ -905,12 +1243,21 @@ muffdiver
 muffdiving
 mulignon
 muscle mary
+mutha
+muthafecker
+muthafuckker
+muther
+mutherfucker
 mvtube
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [15] N
 
+n1gga
+n1gger
 nambla
+nawashi
+nazi
 necrophile
 necrophilia
 negress
@@ -924,14 +1271,18 @@ neonazi
 nig nog
 nigerian hurricane
 nigfant
+nigg3r
+nigg4h
 nigga
 nigga,-please
+niggah
+niggas
+niggaz
 nigger
 nigger-brown
 nigger-rich
 nigger-rig
 nigger-rigged
-nigger-toe
 nigger-toe
 nigger-university
 niggeration
@@ -952,6 +1303,7 @@ niggerosity
 niggerous
 niggerphile
 niggers
+niggers 
 niggerskin
 niggerspeak
 niggery
@@ -975,10 +1327,18 @@ niqqa
 nizzle
 nlgger
 nlggor
+nob
+nob jokey
+nobhead
+nobjocky
+nobjokey
 nooner
 northern-monkey
+nsfw images
 nude
 nudity
+numbnuts
+nutsack
 nutten
 nympho
 nymphomania
@@ -991,6 +1351,7 @@ octopussy
 oklahomo
 omorashi
 one cup two girls
+one guy one jar
 one jar one man
 one man one jar
 only fans
@@ -998,9 +1359,12 @@ onlyfans
 ooga-booga
 oreo
 orgasim
+orgasim 
+orgasims 
 orgasm
 orgasmic
 orgasms
+orgasms 
 orgies
 orgy
 oriental
@@ -1012,6 +1376,7 @@ oven-dodger
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [17] P
 
+p0rn
 paedo bear
 paedobear
 paedophile
@@ -1019,14 +1384,17 @@ paedophilia
 pain slut
 painslut
 paki
-paki
 paleface
 panamanian petting zoo
+panooch
 pansy
 panties
+panty
 parthenophile
 parthenophilia
+pawn
 pecker
+peckerhead
 peckerwood
 pedo bear
 pedobear
@@ -1036,6 +1404,7 @@ peehole
 peepshow
 pegging
 penis
+penisfucker
 perv
 peter puffer
 peter-puffer
@@ -1045,11 +1414,15 @@ petrol-sniffer
 petrolsniffer
 phagophile
 phagophilia
+phone sex
 phonesex
+phuck
 phuk
 phuked
 phuking
+phukked
 phukking
+phuks
 phuq
 pi55
 picaninny
@@ -1057,13 +1430,31 @@ piccaninny
 piece of shit
 pieces of shit
 piefke
+pigfucker
 pikey
 pikeys
+pimpis
+pis
+pises
+pisin
+pising
+pisof
+piss
 piss off
 piss pig
 piss-be-upon-him
+pissed
 pissed off
+pisser
+pissers
+pisses 
+pissflap
+pissflaps
+pissin
+pissin 
 pissing
+pissoff
+pissoff 
 pisspig
 playboy
 pleasure chest
@@ -1073,7 +1464,10 @@ pnigophile
 pnigophilia
 poinephile
 poinephilia
+pole smoker
 polentone
+polesmoker
+pollock
 polock
 pony boy
 pony girl
@@ -1083,14 +1477,17 @@ pony-play
 ponyboy
 ponygirl
 ponyplay
+poo
 poof
 poon
+poonani
+poonany
 poontang
+poop
 poop chute
 poopchute
 pooper
 poorwhitetrash
-porch-monkey
 porch-monkey
 porchmonkey
 porn
@@ -1107,19 +1504,33 @@ potato queen
 prairie-nigger
 prick
 prickhead
+pricks 
 prince albert piercing
 proctophile
 proctophilia
+pron
 pshek
+pthc
 pu55i
 pu55y
+pube
 pubes
 punani
+punanny
 punany
+punta
+pusies
+pusse
+pussi
+pussies
 pussy
 pussy puncher
 pussy-puncher
+pussylicking
 pussypuncher
+pussys 
+pusy
+puto
 pygmy
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -1128,6 +1539,8 @@ pygmy
 queaf
 queef
 queer
+queerbait
+queerhole
 quim
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -1145,6 +1558,7 @@ raping
 rapist
 rectum
 refugee
+renob
 retard
 retarded
 reverse cowgirl
@@ -1153,32 +1567,55 @@ rhabdophilia
 rhypophile
 rhypophilia
 rice queen
+rimjaw
 rimjob
 rimming
 ring raider
 ringraider
+rosy palm
+rosy palm and her 5 sisters
+ruski
 rusty trombone
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [20] S
 
+s hit
+s&m
+s.o.b.
+s_h_i_t
+sadism
+sadist
 san-fagcisco
 sand nigger
-sand-nigger
 sand-nigger
 sandnigga
 sandnigger
 santorum
+scat
 scatophile
 scatophilia
 schlong
 scissoring
+screwing
+scroat
+scrote
+scrotum
 seks afera
 semen
 seplophile
 seplophilia
 sex
+sexo
 sexwhore
+sexy
+sh!+
+sh!t
+sh1t
+shag
+shagger
+shaggin
+shagging
 shaved beaver
 shaved pussy
 she male
@@ -1190,27 +1627,81 @@ sheep-shagger
 sheepfucker
 sheepshagger
 shemale
+shi+
 shibari
 shit
 shit for brains
 shit head
+shit-ass
+shit-bag
+shit-bagger
+shit-brain
+shit-breath
+shit-cunt
+shit-dick
+shit-eating
+shit-face
+shit-faced
+shit-fit
+shit-head
+shit-heel
+shit-hole
+shit-house
+shit-load
+shit-pot
+shit-spitter
+shit-stain
+shitass
+shitbag
+shitbagger
+shitblimp
+shitbrain
+shitbreath
+shitcunt
 shitdick
+shite
 shiteater
+shiteating
+shited
+shitey
 shitface
+shitfaced
 shitfit
 shitforbrains
 shitfuck
+shitfull
 shithead
+shitheel
+shithole
+shithouse
+shiting
+shitings
+shitload
 shitnigger
+shitpot
+shits
 shitskin
 shitskinned
+shitspitter
+shitstain
+shitted
+shitter
+shitters 
+shittiest
+shitting
+shittings
 shitty
+shitty 
+shity
+shiz
+shiznit
 shlong
 shota
 shrimping
 shylock
 sissy
 sixtynine
+skank
 skeet
 skittle harvest
 skittles harvest
@@ -1223,9 +1714,13 @@ slanteye
 slimeball
 slow
 slut
+slutbag
 sluts
 slutt
 slutwhore
+smeg
+smegma
+smut
 snatch
 snigger
 snowback
@@ -1237,16 +1732,16 @@ sodomise
 sodomist
 sodomize
 sodomy
+son-of-a-bitch
+spac
 spaghettinigger
 spankthemonkey
 spastic
 spaz
 spazzer
 spearchucker
-spearchucker
 spermbag
 spermherder
-spic
 spic
 spick
 spicks
@@ -1256,6 +1751,7 @@ spitter
 splooge
 splooge moose
 spooge
+spread legs
 spunk
 stfu
 stiffy
@@ -1263,38 +1759,53 @@ strap on
 strap-on
 strapon
 strappado
+strip club
 stupidfuck
 stupidfucker
+style doggy
 suastika
+suck
 suckdick
+sucker
 suckme
 suckmyass
 suckmydick
 suckmytit
 suckoff
+sucks
+suicide girls
+sultry women
 svastika
 swamp guinea
 swamp-guinea
-swamp-guinea
 swastika
+swinger
 switch hitter
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [21] T
 
 t-girl
+t1tt1e5
+t1tties
 tacohead
+tainted love
 taphephile
 taphephilia
 tarbaby
 tard
 tard-wrangler
 tardbrain
+taste my
 tatas
 tea bagged
 tea bagging
 tea-bagged
 tea-bagging
+teets
+teez
+testical
+testicle
 tgirl
 thanatophile
 thanatophilia
@@ -1303,21 +1814,30 @@ throating
 throbbing boner
 throbbing cock
 thumbzilla
+thundercunt
+tied up
+tight white
 timber nigger
 timber-nigger
-timber-nigger
 timbernigger
+tit
 titbitnipply
 titfuck
 titfucker
 tits
+titt
+tittie5
+tittiefucker
 titties
 titty
+tittyfuck
+tittywank
+titwank
 toll-paid
+tongue in a
 topless
 tosser
 towel head
-towel-head
 towel-head
 towelhead
 trannie
@@ -1335,19 +1855,29 @@ tribbing
 troon
 tub girl
 tubgirl
+turd
 turd-world
+tushy
+tw4t
 twat
+twathead
+twatlips
+twatty
 twink
 twinkie
 two girls one cup
 twobitwhore
+twunt
+twunter
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [22] U 
 
 ukrop
 uncle-tom
+undressing
 unfuckable
+upskirt
 urethra play
 urophile
 urophilia
@@ -1355,6 +1885,10 @@ urophilia
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [23] V
 
+v14gra
+v1gra
+va-j-j
+vag
 vagina
 vatnik
 venus mound
@@ -1362,24 +1896,29 @@ viagra
 vibrator
 violet wand
 virgin
+vjayjay
 vorarephile
 vorarephilia
+voyeur
 voyeurweb
+vulva
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [24] W
 
+w00se
 wagon burner
 wagon-burner
+wang
 wank
 wanker
+wanky
 wax play
 wax-play
 welfare queen
 wet back
 wet dream
 wet-back
-wetback
 wetback
 whigger
 whiskeydick
@@ -1392,13 +1931,14 @@ whitenigger
 whitepower
 whitetrash
 whitewashing
+whoar
 whop
 whore
 whorehouse
 wigga
 wigger
-wigger
 wiitwd
+willies
 willy
 wimp
 wog
@@ -1415,8 +1955,10 @@ wtf
 
 xhamster
 xnxx
+xrated
 xtube
 xvideos
+xx
 xxx
 xyrophile
 xyrophilia
@@ -1426,11 +1968,13 @@ xyrophilia
 
 yambag
 yank
+yaoi
 yard-ape
 yellow shower
 yellow showers
 yellow-man
 yellow-nigger
+yiffy
 yuon
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
