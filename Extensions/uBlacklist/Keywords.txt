@@ -16,7 +16,7 @@
 # Omits ? because the root word is ambiguous and may form part of other words, ex. assign
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Multiple Terms in ()
-# /(^|[-_/])(celeb(s|rity|rities)|gossip(ed|er|ing|s|y)?)([-_/]|$)/i 
+# /(^|[-_/])(celeb(s|rity|rities)|gossip(ed|er|ing|s|y)?)([-_/]|$)/i
 
 # Matches: celebs, celebrity, celebrities, gossip, gossiped, gossiper, gossiping, gossips, gossipy &
 
@@ -73,6 +73,7 @@
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [10] J
+# Jerk-off, jackass
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [11] K
@@ -104,16 +105,9 @@
 # Pimp
 # Pizda
 # Porn
-# /(^|[-_/])(porn(hub|o|os|ography|ographic|ografia|ici|icu|star|stars)?)([-_/]|$)/i
+# /(^|[-_/])(porn(hub|o|os|ographer|ography|ographic|ografia|ici|icu|star|stars)?)([-_/]|$)/i
 
-porno
-pornos
-pornhub
-pornography
-pornographic
-pornografia
-pornici
-pornicu
+Matches: pornhub,porno,pornos,pornographer,pornography,pornographic,pornografia,pornici,pornicu,pornstar,pornstars
 
 # Pussy
 
@@ -121,6 +115,7 @@ pornicu
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [17] Q 
+# Queer
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [18] R 
