@@ -184,6 +184,7 @@ azzhole
 ||*barf
 ||*bassterd
 ||*basstard
+||*bradavic
 ||*bastard
 ||*basterd
 ||*batty boy
@@ -354,11 +355,11 @@ azzhole
 ||*coochy
 ||*copulate
 ||*cornhole
-||*crackpipe
+||*crack*pipe
 ||*cream*pie
 ||*cow*girl
 ||*crotch
-||*cuber*fuq
+||*cyber*fuq
 ||*cuckold
 ||*culo
 ||*cum*bubble
@@ -367,7 +368,6 @@ azzhole
 ||*cum*fuq
 ||*cum*jockey
 ||*cum*jokey
-||*cum*quat
 ||*cum*queen
 ||*cum*receptacle
 ||*cum*shot
@@ -387,6 +387,7 @@ azzhole
 ||*cyber*fuc
 ||*cyber*sex
 ||crap^$all
+||cum^$all
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [D]
@@ -400,30 +401,27 @@ azzhole
 ||*deep*throat
 ||*drtina
 ||*dripac
-||*dripčin
+||*dripc
+||*dripč
 ||*defecate
 ||*dick
 ||*dild0
 ||*dildo
 ||*dilf
 ||*dimwit
-||*dirty sanchez
-||*dog style
-||*doggie style
-||*doggy style
+||*dirty*sanchez
+||*doggie*style
+||*doggy*style
 ||*dominatrix
 ||*deauxma
 ||*dong
-||*doochbag
-||*doodoo
 ||*doofus
-||*doosh
 ||*darla*crane
 ||*dope
-||*double penetration
+||*double*penetration
 ||*douche
-||*dragqueen
-||*dragqween
+||*drag*queen
+||*drag*qween
 ||*droga
 ||*drolja
 ||*dry*hump
@@ -434,7 +432,7 @@ azzhole
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [E]
 
-||*eat my ass
+||*eat my ass*
 ||*eatballs
 ||*eatme
 ||*eatmyass
@@ -545,9 +543,14 @@ azzhole
 ||*gassy*ass
 ||*gay
 ||*geezer
+||*geezr
 ||*genital
 ||*gigolo
 ||*gilipolla
+||*guza
+||*guzic
+||*guziti
+||*game*play
 ||*girls*gone
 ||*give*head
 ||*glans
@@ -573,6 +576,9 @@ azzhole
 ||*gilf
 ||*gylf
 ||*goveda
+
+! guzic = guzica, guzice, guzici, guzico, guzica
+! govna = govna, govnare, govnari, govnaru
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [H]
@@ -1071,7 +1077,7 @@ sucker
 ||*tush*^$all
 ||*twat*^$all
 ||*two girls one cup*^$all
-tanga
+||*tanga*^$all
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [U]
@@ -1100,7 +1106,7 @@ tanga
 ||*vomit*^$all
 ||*voyeur*^$all
 ||*vulva*^$all
-veronica*avluv
+||*avluv*^$all
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [W]
@@ -1117,7 +1123,9 @@ veronica*avluv
 ||*whore*^$all
 ||*whoring*^$all
 ||*worldsex*^$all
+||*wiener*^$all
 ||*wtf*^$all
+||*walkthrough*^$all
 ||*wuss*^$all
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
