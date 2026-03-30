@@ -1,6 +1,6 @@
 ! Title: Keywords
 ! Info: Blocked Keywords List
-! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/uBO/Keywords.txt
+! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBO/Keywords.txt
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! SOURCES
 
