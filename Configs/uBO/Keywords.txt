@@ -77,58 +77,53 @@
 ||*2 girls 1 cup*^$document
 ||*2g1c*^$document
 ||*2girls1cup*^$document
-||*@$$*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [A] 
 
-||*a55*^$document
 ||*a_s_s*^$document
+||*a55*^$document
+||*adult*fun*^$document
+||*adult*toy*^$document
+||*adult*video*^$document
 ||*ahole*^$document
+||*anal*annie*^$document
 ||*anal*assassin*^$document
 ||*anal*astronaut*^$document
-||*anal*annie*^$document
+||*anal*plug*^$document
 ||*anal*probe*^$document
 ||*analsex*^$document
 ||*anilingus*^$document
-||*ava adam*^$document
-||*ava addam*^$document
 ||*anus*^$document
+||*ânus*^$document
 ||*ar5e*^$document
 ||*arabush*^$document
-||*aroused*^$document
+||*ariella*ferrara*^$document
 ||*arrse*^$document
 ||*arsch*^$document
-||*ash0le*^$document
-||*adult*video*^$document
-||*ashole*^$document
-||*asno*^$document
-||*ass*bandit*^$document
-||*ass*crack*^$document
-||*ass*hat*^$document
-||*ass*pirate*^$document
-||*assatanato*^$document
-||*adult*fun*^$document
-||*adult*toy*^$document
+||*as*h0le*^$document
+||*as*hole*^$document
 ||*ass*bag*^$document
-||*assbang*^$document
-||*assbite*^$document
-||*anal*plug*^$document
+||*ass*bandit*^$document
+||*ass*bang*^$document
+||*ass*bite*^$document
 ||*ass*blast*^$document
 ||*ass*burger*^$document
 ||*ass*clown*^$document
 ||*ass*cowboy*^$document
+||*ass*crack*^$document
 ||*ass*face*^$document
 ||*ass*fuk*^$document
 ||*ass*fuq*^$document
 ||*ass*goblin*^$document
-||*assh0l*^$document
+||*ass*hat*^$document
 ||*ass*head*^$document
-||*asshol*^$document
-||*asshop*^$document
-||*asshore*^$document
+||*ass*hole*^$document
+||*ass*hop*^$document
+||*ass*hore*^$document
 ||*ass*jack*^$document
 ||*ass*jockey*^$document
+||*ass*juice*^$document
 ||*ass*kiss*^$document
 ||*ass*klown*^$document
 ||*ass*lick*^$document
@@ -138,17 +133,21 @@
 ||*ass*monkey*^$document
 ||*ass*munch*^$document
 ||*ass*pack*^$document
+||*ass*pirate*^$document
 ||*ass*pup*^$document
 ||*ass*ram*^$document
-||*ass*ranger*^$document
-||*assshole*^$document
+||*ass*range*^$document
 ||*ass*suck*^$document
+||*ass*suq*^$document
 ||*ass*wad*^$document
 ||*ass*whole*^$document
-||*avn*award*^$document
 ||*ass*wipe*^$document
-||*azz*hole*^$document
-||*ânus*^$document
+||*assh0l*^$document
+||*ava*adam*^$document
+||*ava*addam*^$document
+||*avn*award*^$document
+||*azz*h0l*^$document
+||*azz*hol*^$document
 ||anal^$document
 ||arse^$document
 ||ass^$document
@@ -161,32 +160,34 @@
 ||*b00bs*^$document
 ||*b17ch*^$document
 ||*b1tch*^$document
+||*bar*fight*^$document
 ||*babe*^$document
 ||*ball*bag*^$document
-||*ball*batter*^$document
+||*ball*bust*^$document
 ||*ball*gag*^$document
 ||*ball*gravy*^$document
 ||*ball*lick*^$document
 ||*ball*sack*^$document
 ||*ball*saq*^$document
 ||*ball*suck*^$document
-||*bang*bros*^$document
+||*ball*suq*^$document
+||*baller*^$document
+||*ballz*^$document
+||*bang*bro*^$document
 ||*bang*bus*^$document
 ||*banged*^$document
 ||*banger*^$document
 ||*banging*^$document
-||*barely legal*^$document
-||*barenaked*^$document
-||*barf*^$document
+||*bare*naked*^$document
+||*barely*legal*^$document
 ||*basstard*^$document
 ||*bassterd*^$document
 ||*bastard*^$document
 ||*basterd*^$document
-||*bawdy*^$document
 ||*bay*watch*^$document
-||*bbw*^$document
 ||*bdsm*^$document
 ||*bean*flick*^$document
+||*bean*lick*^$document
 ||*bean*queen*^$document
 ||*beaner*^$document
 ||*bearded*clam*^$document
@@ -204,20 +205,19 @@
 ||*bellend*^$document
 ||*beotch*^$document
 ||*bestial*^$document
+||*bi*curious*^$document
 ||*bi+ch*^$document
 ||*bi7ch*^$document
 ||*biatch*^$document
-||*bich*^$document
-||*bicurious*^$document
 ||*big*ass*^$document
 ||*big*breast*^$document
+||*big*rack*^$document
 ||*big*tit*^$document
 ||*big8butt*^$document
 ||*bimbo*^$document
 ||*bissexual*^$document
 ||*bitch*^$document
-||*biteme*^$document
-||*bitties*^$document
+||*bite*me*^$document
 ||*blonde*action*^$document
 ||*blonde*on*blonde*^$document
 ||*blow*job*^$document
@@ -231,16 +231,10 @@
 ||*boner*^$document
 ||*bong*^$document
 ||*boob*^$document
-||*boong*^$document
-||*boonie*^$document
 ||*booob*^$document
 ||*boooob*^$document
-||*bootlip*^$document
 ||*booty*^$document
-||*boozer*^$document
-||*boozy*^$document
 ||*bordel*^$document
-||*bordello*^$document
 ||*bosom*^$document
 ||*bradavic*^$document
 ||*brandi*love*^$document
@@ -264,7 +258,7 @@
 ||*bum*rob*^$document
 ||*bum*rustle*^$document
 ||*bunga*^$document
-||*burdel*mama*^$document
+||*burdel*^$document
 ||*busty*^$document
 ||*butt*bang*^$document
 ||*butt*boy*^$document
@@ -273,18 +267,17 @@
 ||*butt*head*^$document
 ||*butt*hole*^$document
 ||*butt*love*^$document
+||*butt*man*^$document
 ||*butt*munch*^$document
 ||*butt*pilot*^$document
 ||*butt*pirate*^$document
 ||*butt*plug*^$document
 ||*butt*ride*^$document
-||*butt*robber*^$document
+||*butt*rob*^$document
 ||*butt*rustle*^$document
 ||*butt*slap*^$document
 ||*butt*stain*^$document
 ||*butt*wipe*^$document
-||*buttman*^$document
-||*buttrobber*^$document
 ||*byatch*^$document
 ||bum^$document
 ||butt^$document
@@ -310,8 +303,6 @@
 ||*cherry*kiss*^$document
 ||*cherry*pop*^$document
 ||*chesticle*^$document
-||*chick*^$document
-||*christ*fag*^$document
 ||*circle*jerk*^$document
 ||*cis*gender*^$document
 ||*cl1t*^$document
@@ -329,18 +320,17 @@
 ||*coitus*^$document
 ||*coke*head*^$document
 ||*cokin*^$document
-||*coksucka*^$document
+||*coksuck*^$document
 ||*condom*^$document
 ||*coño*^$document
 ||*coochie*^$document
 ||*coochy*^$document
 ||*copulate*^$document
 ||*corn*hole*^$document
+||*cow*girl*^$document
 ||*crack*pipe*^$document
 ||*cream*pie*^$document
-||*cow*girl*^$document
 ||*crotch*^$document
-||*cuber*fuq*^$document
 ||*cuckold*^$document
 ||*culo*^$document
 ||*cum*bubble*^$document
@@ -349,6 +339,7 @@
 ||*cum*fuq*^$document
 ||*cum*jockey*^$document
 ||*cum*jokey*^$document
+||*cum*lick*^$document
 ||*cum*quat*^$document
 ||*cum*queen*^$document
 ||*cum*receptacle*^$document
@@ -367,6 +358,7 @@
 ||*cunilingus*^$document
 ||*cunt*^$document
 ||*cyber*fuc*^$document
+||*cyber*fuq*^$document
 ||*cyber*sex*^$document
 ||crap^$document
 ||cum^$document
@@ -380,7 +372,6 @@
 ||*damn*^$document
 ||*darla*crane*^$document
 ||*dawg*^$document
-||*deep*throat*^$document
 ||*deauxma*^$document
 ||*debil*^$document
 ||*deep*throat*^$document
@@ -389,22 +380,21 @@
 ||*dild0*^$document
 ||*dildo*^$document
 ||*dilf*^$document
-||*dimwit*^$document
+||*dim*wit*^$document
 ||*dirty*sanchez*^$document
 ||*dog*style*^$document
 ||*doggie*style*^$document
 ||*doggy*style*^$document
 ||*dominatrix*^$document
 ||*dong*^$document
-||*doochbag*^$document
-||*doodoo*^$document
+||*dooch*bag*^$document
 ||*doofus*^$document
 ||*doosh*^$document
 ||*dope*^$document
 ||*double*penetrat*^$document
 ||*douche*^$document
-||*dragqueen*^$document
-||*dragqween*^$document
+||*drag*queen*^$document
+||*drag*qween*^$document
 ||*dripac*^$document
 ||*dripčin*^$document
 ||*droga*^$document
@@ -418,15 +408,13 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [E]
 
-||*eat my ass*^$document
-||*eatballs*^$document
-||*eatme*^$document
-||*eatmyass*^$document
+||*eat*my*ass*^$document
+||*eat*balls*^$document
+||*eat*me*^$document
 ||*ecstasy*^$document
 ||*ejackulat*^$document
 ||*ejaculat*^$document
 ||*ejakulat*^$document
-||*enlargement*^$document
 ||*erection*^$document
 ||*erotic*^$document
 ||*erótic*^$document
@@ -442,8 +430,8 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [F]
 
-||*f u c k*^$document
 ||*f u c k e r*^$document
+||*f u c k*^$document
 ||*f_u_c_k*^$document
 ||*f4nny*^$document
 ||*fack*^$document
@@ -463,8 +451,6 @@
 ||*fagot*^$document
 ||*fags*^$document
 ||*fagz*^$document
-||*faig*^$document
-||*fairy*^$document
 ||*fanculo*^$document
 ||*fanny*^$document
 ||*fart*^$document
@@ -499,6 +485,7 @@
 ||*fore*skin*^$document
 ||*fornicat*^$document
 ||*foursome*^$document
+||*frottage*^$document
 ||*frotting*^$document
 ||*fucck*^$document
 ||*fuck*^$document
@@ -575,8 +562,8 @@
 ||*heroína*^$document
 ||*herpe*^$document
 ||*herpy*^$document
-||*hillbill*^$document
-||*hobag*^$document
+||*hill*bill*^$document
+||*ho*bag*^$document
 ||*hobo*^$document
 ||*homey*^$document
 ||*homo*bang*^$document
@@ -604,7 +591,7 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [I]
 
-||*iblow*^$document
+||*i*blow*^$document
 ||*inbred*^$document
 ||*incest*^$document
 ||*insest*^$document
@@ -640,8 +627,9 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [K]
 
-||*kackwurst*^$document
+||*kack*wurst*^$document
 ||*kawk*^$document
+||*kendra*lust^$document
 ||*kike*^$document
 ||*kink*^$document
 ||*kiss*ass*^$document
@@ -660,18 +648,15 @@
 ||*kootch*^$document
 ||*kozojeb*^$document
 ||*krap*^$document
-||*kum*^$document
 ||*kum*bubble*^$document
+||*kum*quat*^$document
 ||*kumer*^$document
 ||*kummer*^$document
 ||*kumming*^$document
-||*kumquat*^$document
 ||*kums*^$document
 ||*kunilingus*^$document
 ||*kunnilingus*^$document
 ||*kunt*^$document
-||*kunts*^$document
-||*kuntz*^$document
 ||*kurac*^$document
 ||*kurat*^$document
 ||*kurc*^$document
@@ -679,6 +664,7 @@
 ||*kurwa*^$document
 ||*kush*^$document
 ||*kyke*^$document
+||kum^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [L]
@@ -688,11 +674,12 @@
 ||*lame*ass*^$document
 ||*lap*dance*^$document
 ||*latina*^$document
-||*lesbo*^$document
 ||*lesbian*^$document
+||*lesbo*^$document
 ||*libido*^$document
 ||*lick*^$document
 ||*lingerie*^$document
+||*lisa*ann*^$document
 ||*live*sex*^$document
 ||*lmfao*^$document
 ||*love*goo*^$document
@@ -708,42 +695,40 @@
 
 ||*m0f0*^$document
 ||*m0fo*^$document
-||*make me come*^$document
-||*makemecum*^$document
+||*magarčin*^$document
+||*make*me*come*^$document
+||*make*me*cum*^$document
 ||*maldito*^$document
 ||*man*hate*^$document
 ||*man*paste*^$document
+||*man*seed*^$document
+||*manuel*ferrara*^$document
 ||*maricon*^$document
 ||*maricón*^$document
 ||*marijuana*^$document
-||*mdma*^$document
-||*man*seed*^$document
 ||*masochist*^$document
-||*massterbait*^$document
-||*masstrbait*^$document
-||*manuel*ferrara
-||*masstrbate*^$document
-||*mastabate*^$document
-||*master-bate*^$document
-||*masterb8*^$document
-||*masterbaiter*^$document
-||*masterbat*^$document
-||*mastrabator*^$document
-||*masturb8*^$document
-||*masturbat*^$document
-||*mattressprincess*^$document
 ||*masseuse*^$al
+||*masster*bait*^$document
+||*masstr*bait*^$document
+||*masstr*bate*^$document
+||*masta*bate*^$document
+||*master*b8*^$document
+||*master*baiter*^$document
+||*master*bat*^$document
+||*master*bate*^$document
+||*mastra*bator*^$document
+||*masturb*8*^$document
+||*masturbat*^$document
+||*mdma*^$document
 ||*menage*a*^$document
 ||*menages*a*^$document
 ||*merd*^$document
 ||*mierda*^$document
 ||*milf*^$document
-||*mylf*^$document
 ||*missionary*position*^$document
 ||*mof0*^$document
 ||*mofo*^$document
 ||*molest*^$document
-||*muncher*^$document
 ||*money*shot*^$document
 ||*mongoloid*^$document
 ||*moron*^$document
@@ -751,8 +736,9 @@
 ||*mudonja*^$document
 ||*mudonje*^$document
 ||*muff*^$document
+||*muncher*^$document
+||*mylf*^$document
 ||*муда*^$document
-||*magarčin*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [N]
@@ -780,22 +766,22 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [O]
 
-||*one cup two girls*^$document
-||*one guy one jar*^$document
-||*one jar one man*^$document
-||*one man one jar*^$document
-||*onlyfan*^$document
+||*onanism*^$document
+||*one*cup*two*girl*^$document
+||*one*guy*one*jar*^$document
+||*one*jar*one*man*^$document
+||*one*man*one*jar*^$document
+||*only*fan*^$document
 ||*oral*sex*^$document
+||*orgasa*^$document
+||*orgasm*^$document
 ||*orgasm*^$document
 ||*orgaza*^$document
 ||*orgazm*^$document
-||*orgasa*^$document
-||*orgasm*^$document
 ||*orgies*^$document
 ||*orgij*^$document
 ||*orgy*^$document
 ||*orifice*^$document
-||*onanism*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [P]
@@ -810,9 +796,9 @@
 ||*peder*^$document
 ||*pedophil*^$document
 ||*pee*hole*^$document
+||*pee*pee*^$document
 ||*peenus*^$document
 ||*peep*show*^$document
-||*peepee*^$document
 ||*pen1s*^$document
 ||*pendeja*^$document
 ||*pendejo*^$document
@@ -820,7 +806,7 @@
 ||*penetration*^$document
 ||*penile*^$document
 ||*penis*^$document
-||*penthouse*sex*^$document
+||*pent*house*sex*^$document
 ||*perv*^$document
 ||*phallic*^$document
 ||*phallus*^$document
@@ -832,12 +818,12 @@
 ||*picke*^$document
 ||*picki*^$document
 ||*picko*^$document
-||*play*date*^$document
 ||*picku*^$document
 ||*pimp*^$document
 ||*piss*^$document
 ||*pizd*^$document
 ||*play*boy*^$document
+||*play*date*^$document
 ||*play*girl*^$document
 ||*play*mate*^$document
 ||*pleasure*chest*^$document
@@ -1003,7 +989,7 @@
 ||*strap*on*^$document
 ||*strip*club*^$document
 ||*stripper*^$document
-||*striptease*^$document
+||*strip*tease*^$document
 ||*striptiz*^$document
 ||*stroking*^$document
 ||*stronza*^$document
@@ -1055,15 +1041,15 @@
 ||*turnon*^$document
 ||*tush*^$document
 ||*twat*^$document
-||*two girls one cup*^$document
+||*two*girls*one*cup*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [U]
 
 ||*un*dress*^$document
 ||*up*skirt*^$document
-||*uptheass*^$document
-||*upthebutt*^$document
+||*up*the*ass*^$document
+||*up*the*butt*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [V]
@@ -1097,10 +1083,11 @@
 ||*wh0re*^$document
 ||*white*trash*^$document
 ||*whoar*^$document
+||*wh0ar*^$document
 ||*whoralicious*^$document
 ||*whore*^$document
 ||*whoring*^$document
-||*worldsex*^$document
+||*world*sex*^$document
 ||*wtf*^$document
 ||*wuss*^$document
 
@@ -1126,3 +1113,12 @@
 ||*zoo*sex*^$document
 ||*zoophile*^$document
 ||*zoophilia*^$document
+
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+! [1A - SRB]
+
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+! [1B - ES]
+
+
+
