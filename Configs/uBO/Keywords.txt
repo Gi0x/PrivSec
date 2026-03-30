@@ -15,11 +15,11 @@
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 ! EX1: 1 Keyword
 
-! ||*sex*^$all
-! ||*ass*^$all
-! ||*tit*^$all
-! ||*cum*^$all
-! ||*anal*^$all
+! ||*sex*^$document
+! ||*ass*^$document
+! ||*tit*^$document
+! ||*cum*^$document
+! ||*anal*^$document
 
 ! This matches sex, ass, tit, cum, anal anywhere in a hostname. 
 ! Use the syntax sparingly because it does not understand word boundaries. 
@@ -31,11 +31,11 @@
 ! tit > entitled, institution
 ! anal > analysis
 
-! For better precision and LESS collateral damage, use ||word^$all
+! For better precision and LESS collateral damage, use ||word^$document
 
-! ||sex^$all
-! ||ass^$all
-! ||tit^$all
+! ||sex^$document
+! ||ass^$document
+! ||tit^$document
 
 ! sex > sex.com, sex.net, sex.co.uk
 ! ass > ass.com, ass.net, ass.co.uk
@@ -45,11 +45,11 @@
 
 ! ONLY use the syntax below when the word is almost NEVER innocent: 
 
-! ||*poop*^$all
-! ||*hentai*^$all
-! ||*xxx*^$all
-! ||*camgirl*^$all
-! ||*onlyfans*^$all
+! ||*poop*^$document
+! ||*hentai*^$document
+! ||*xxx*^$document
+! ||*camgirl*^$document
+! ||*onlyfans*^$document
 
 ! poop > poop.com, poops.net, poopface.org, poop-rain.xxx, funny-poop-memes.com, superpooper.site
 ! hentai > hentai.com, hentaigirl.uk, hentai-babes.xyz, 101-hentai-girl.you
@@ -57,1082 +57,1073 @@
 
 ! The syntax covers plurals, verbal forms, and compounds. 
 
-! ||*poop*^$all = “Block anything containing poop anywhere”
-! ||poop^$all = “Block only domains literally called poop”
+! ||*poop*^$document = “Block anything containing poop anywhere”
+! ||poop^$document = “Block only domains literally called poop”
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 ! EX2: 2 Keywords
 
 ! Keyword: Buttfuck = Butt + Fuck
-! Syntax: ||*butt*face*^$all
+! Syntax: ||*butt*face*^$document
 
 ! Matches: buttface.com, butt-face.net, bigbuttface.org, butt--face.xxx, my-butt-face-site.com
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [123]
 
-||*1 man 1 jar*^$all
-||*1m1j*^$all
-||*1man1jar*^$all
-||*2 girls 1 cup*^$all
-||*2g1c*^$all
-||*2girls1cup*^$all
-||*@$$*^$all
+||*1 man 1 jar*^$document
+||*1m1j*^$document
+||*1man1jar*^$document
+||*2 girls 1 cup*^$document
+||*2g1c*^$document
+||*2girls1cup*^$document
+||*@$$*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [A] 
 
-||*a55*^$all
-||*a_s_s*^$all
-||*ahole*^$all
-||*anal*assassin*^$all
-||*anal*astronaut*^$all
-||*anal*annie*^$all
-||*anal*probe*^$all
-||*analsex*^$all
-||*anilingus*^$all
-||*ava adam*^$all
-||*ava addam*^$all
-||*anus*^$all
-||*ar5e*^$all
-||*arabush*^$all
-||*aroused*^$all
-||*arrse*^$all
-||*arsch*^$all
-||*ash0le*^$all
-||*adult*video*^$all
-||*ashole*^$all
-||*asno*^$all
-||*ass*bandit*^$all
-||*ass*crack*^$all
-||*ass*hat*^$all
-||*ass*pirate*^$all
-||*assatanato*^$all
-||*adult*fun*^$all
-||*adult*toy*^$all
-||*ass*bag*^$all
-||*assbang*^$all
-||*assbite*^$all
-||*analplug*^$all
-||*assblast*^$all
-||*assburger*^$all
-||*assclown*^$all
-||*asscowboy*^$all
-||*asscrack*^$all
-||*asses*^$all
-||*assface*^$all
-||*assfuk*^$all
-||*assfuq*^$all
-||*assgoblin*^$all
-||*assh0l*^$all
-||*asshead*^$all
-||*asshol*^$all
-||*asshop*^$all
-||*asshore*^$all
-||*assjack*^$all
-||*assjockey*^$all
-||*asskiss*^$all
-||*assklown*^$all
-||*asslick*^$all
-||*asslove*^$all
-||*assman*^$all
-||*assmaster*^$all
-||*assmonkey*^$all
-||*assmunch*^$all
-||*asspack*^$all
-||*asspuppies*^$all
-||*assram*^$all
-||*assranger*^$all
-||*assshole*^$all
-||*asssuck*^$all
-||*asswad*^$all
-||*asswhole*^$all
-||*avn*award*^$all
-||*asswipe*^$all
-||*azazel*^$all
-||*azzhole*^$all
-||*ânus*^$all
-||anal^$all
-||arse^$all
-||ass^$all
+||*a55*^$document
+||*a_s_s*^$document
+||*ahole*^$document
+||*anal*assassin*^$document
+||*anal*astronaut*^$document
+||*anal*annie*^$document
+||*anal*probe*^$document
+||*analsex*^$document
+||*anilingus*^$document
+||*ava adam*^$document
+||*ava addam*^$document
+||*anus*^$document
+||*ar5e*^$document
+||*arabush*^$document
+||*aroused*^$document
+||*arrse*^$document
+||*arsch*^$document
+||*ash0le*^$document
+||*adult*video*^$document
+||*ashole*^$document
+||*asno*^$document
+||*ass*bandit*^$document
+||*ass*crack*^$document
+||*ass*hat*^$document
+||*ass*pirate*^$document
+||*assatanato*^$document
+||*adult*fun*^$document
+||*adult*toy*^$document
+||*ass*bag*^$document
+||*assbang*^$document
+||*assbite*^$document
+||*anal*plug*^$document
+||*ass*blast*^$document
+||*ass*burger*^$document
+||*ass*clown*^$document
+||*ass*cowboy*^$document
+||*ass*face*^$document
+||*ass*fuk*^$document
+||*ass*fuq*^$document
+||*ass*goblin*^$document
+||*assh0l*^$document
+||*ass*head*^$document
+||*asshol*^$document
+||*asshop*^$document
+||*asshore*^$document
+||*ass*jack*^$document
+||*ass*jockey*^$document
+||*ass*kiss*^$document
+||*ass*klown*^$document
+||*ass*lick*^$document
+||*ass*love*^$document
+||*ass*man*^$document
+||*assmaster*^$document
+||*assmonkey*^$document
+||*assmunch*^$document
+||*asspack*^$document
+||*asspuppies*^$document
+||*assram*^$document
+||*assranger*^$document
+||*assshole*^$document
+||*asssuck*^$document
+||*asswad*^$document
+||*asswhole*^$document
+||*avn*award*^$document
+||*asswipe*^$document
+||*azazel*^$document
+||*azzhole*^$document
+||*ânus*^$document
+||anal^$document
+||arse^$document
+||ass^$document
+||asses^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [B] 
 
-||*b!tch*^$all
-||*b00bs*^$all
-||*b17ch*^$all
-||*b1tch*^$all
-||*babe*^$all
-||*brothel*^$all
-||*ball*batter*^$all
-||*ball gag*^$all
-||*ballgravy*^$all
-||*ball lick*^$all
-||*ball sack*^$all
-||*ball*saq*^$all
-||*ball*suck*^$all
-||*ball*bag*^$all
-||*bang*bros*^$all
-||*bang*bus*^$all
-||*banger*^$all
-||*banged*^$all
-||*banging*^$all
-||*barely legal*^$all
-||*barenaked*^$all
-||*barf*^$all
-||*bassterd*^$all
-||*basstard*^$all
-||*bradavic*^$all
-||*bastard*^$all
-||*basterd*^$all
-||*batty boy*^$all
-||*bawdy*^$all
-||*bbw*^$all
-||*bdsm*^$all
-||*bean*flick*^$all
-||*bean*queen*^$all
-||*beaner*^$all
-||*beaney*^$all
-||*bearded*clam*^$all
-||*beastality*^$all
-||*beastial*^$all
-||*beastility*^$all
-||*beatch*^$all
-||*beat*off*^$all
-||*beat*your*meat*^$all
-||*beaver cleaver*^$all
-||*beaver lip*^$all
-||*bedonderen*^$all
-||*beef curtain*^$all
-||*beestiality*^$all
-||*beeyotch*^$all
-||*bellend*^$all
-||*beotch*^$all
-||*bestial*^$all
-||*bi+ch*^$all
-||*bi7ch*^$all
-||*biatch*^$all
-||*bich*^$all
-||*bicurious*^$all
-||*big breast*^$all
-||*big tit*^$all
-||*big ass*^$all
-||*bigbutt*^$all
-||*bimbo*^$all
-||*bissexual*^$all
-||*bitch*^$all
-||*biteme*^$all
-||*bitties*^$all
-||*blonde action*^$all
-||*blonde*on*blonde*^$all
-||*blow*job*^$all
-||*blow your load*^$all
-||*boink*^$all
-||*bollock*^$all
-||*bollok*^$all
-||*bollox*^$all
-||*bondage*^$all
-||*boned*^$all
-||*boner*^$all
-||*bong*^$all
-||*boong*^$all
-||*boob*^$all
-||*boonie*^$all
-||*booob*^$all
-||*boooob*^$all
-||*bootlip*^$all
-||*booty *^$all
-||*boozer*^$all
-||*boozy*^$all
-||*bordel*^$all
-||*bordello*^$all
-||*bosom*^$all
-||*brandi*love*^$all
-||*breast*job*^$all
-||*breast*love*^$all
-||*breasts*^$all
-||*brown*shower*^$all
-||*brunette*action*^$all
-||*bukake*^$all
-||*bukkake*^$all
-||*bull*crap*^$all
-||*bum*boy*^$all
-||*bum*chum*^$all
-||*bum*driller*^$all
-||*bum hole*^$all
-||*bum pilot*^$all
-||*bum pirate*^$all
-||*bum rider*^$all
-||*bum robber*^$all
-||*bum rustler*^$all
-||*bumbum*^$all
-||*bumfuk*^$all
-||*bunga*^$all
-||*burdelmama*^$all
-||*busty*^$all
-||*butt*^$all
-||*butt boy*^$all
-||*butt pilot*^$all
-||*butt pirate*^$all
-||*butt ride*^$all
-||*butt robber*^$all
-||*butt rustler*^$all
-||*butt-bang*^$all
-||*butt-boy*^$all
-||*butt-pirate*^$all
-||*butt-robber*^$all
-||*buttbang*^$all
-||*buttboy*^$all
-||*buttcheeks*^$all
-||*buttface*^$all
-||*butthead*^$all
-||*butthole*^$all
-||*buttman*^$all
-||*buttmunch*^$all
-||*buttpirate*^$all
-||*buttplug*^$all
-||*buttrider*^$all
-||*buttrobber*^$all
-||*buttstain*^$all
-||*baywatch*^$all
-||*buttwipe*^$all
-||*byatch*^$all
-||bum^$all
+||*b!tch*^$document
+||*b00bs*^$document
+||*b17ch*^$document
+||*b1tch*^$document
+||*babe*^$document
+||*brothel*^$document
+||*ball*batter*^$document
+||*ball*gag*^$document
+||*ball*gravy*^$document
+||*ball*lick*^$document
+||*ball*sack*^$document
+||*ball*saq*^$document
+||*ball*suck*^$document
+||*ball*bag*^$document
+||*bang*bros*^$document
+||*bang*bus*^$document
+||*banger*^$document
+||*banged*^$document
+||*banging*^$document
+||*barely legal*^$document
+||*barenaked*^$document
+||*barf*^$document
+||*bassterd*^$document
+||*basstard*^$document
+||*bradavic*^$document
+||*bastard*^$document
+||*basterd*^$document
+||*bawdy*^$document
+||*bbw*^$document
+||*bdsm*^$document
+||*bean*flick*^$document
+||*bean*queen*^$document
+||*beaner*^$document
+||*bearded*clam*^$document
+||*beastality*^$document
+||*beastial*^$document
+||*beastility*^$document
+||*beatch*^$document
+||*beat*off*^$document
+||*beat*your*meat*^$document
+||*beaver*cleaver*^$document
+||*beaver*lip*^$document
+||*beef*curtain*^$document
+||*beestiality*^$document
+||*beeyotch*^$document
+||*bellend*^$document
+||*beotch*^$document
+||*bestial*^$document
+||*bi+ch*^$document
+||*bi7ch*^$document
+||*biatch*^$document
+||*bich*^$document
+||*bicurious*^$document
+||*big*breast*^$document
+||*big*tit*^$document
+||*big*ass*^$document
+||*big8butt*^$document
+||*bimbo*^$document
+||*bissexual*^$document
+||*bitch*^$document
+||*biteme*^$document
+||*bitties*^$document
+||*blonde*action*^$document
+||*blonde*on*blonde*^$document
+||*blow*job*^$document
+||*blow*your*load*^$document
+||*boink*^$document
+||*bollock*^$document
+||*bollok*^$document
+||*bollox*^$document
+||*bondage*^$document
+||*boned*^$document
+||*boner*^$document
+||*bong*^$document
+||*boong*^$document
+||*boob*^$document
+||*boonie*^$document
+||*booob*^$document
+||*boooob*^$document
+||*bootlip*^$document
+||*booty *^$document
+||*boozer*^$document
+||*boozy*^$document
+||*bordel*^$document
+||*bordello*^$document
+||*bosom*^$document
+||*brandi*love*^$document
+||*breast*job*^$document
+||*breast*love*^$document
+||*breasts*^$document
+||*brown*shower*^$document
+||*brunette*action*^$document
+||*bukake*^$document
+||*bukkake*^$document
+||*bull*crap*^$document
+||*bum*boy*^$document
+||*bum*chum*^$document
+||*bum*drill*^$document
+||*bum*hole*^$document
+||*bum*pilot*^$document
+||*bum*pirate*^$document
+||*bum*ride*^$document
+||*bum*rob*^$document
+||*bum*rustle*^$document
+||*bum*fuk*^$document
+||*bunga*^$document
+||*burdel*mama*^$document
+||*busty*^$document
+||*butt*boy*^$document
+||*butt*pilot*^$document
+||*butt*pirate*^$document
+||*butt*ride*^$document
+||*butt*robber*^$document
+||*butt*slap*^$document
+||*butt*wipe*^$document
+||*butt*love*^$document
+||*butt*rustle*^$document
+||*butt*bang*^$document
+||*butt*cheek*^$document
+||*butt*face*^$document
+||*butt*head*^$document
+||*butt*hole*^$document
+||*buttman*^$document
+||*butt*munch*^$document
+||*butt*plug*^$document
+||*buttrobber*^$document
+||*butt*stain*^$document
+||*bay*watch*^$document
+||*butt*wipe*^$document
+||*byatch*^$document
+||bum^$document
+||butt^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [C]
 
-||*c0ck*^$all
-||*c0k*^$all
-||*cabron*^$all
-||*cabrón*^$all
-||*cadaver*^$all
-||*camgirl*^$all
-||*carpet*bagger*^$all
-||*castrate*^$all
-||*cawk*^$all
-||*cazzata*^$all
-||*cazzimma*^$all
-||*cazzo*^$all
-||*chastity*belt*^$all
-||*chav*^$all
-||*cheese*head*^$all
-||*cherry*kiss*^$all
-||*cherry*pop*^$all
-||*chesticle*^$all
-||*chick*^$all
-||*christ*fag*^$all
-||*circle*jerk*^$all
-||*cisgender*^$all
-||*cl1t*^$all
-||*clam*dig*^$all
-||*clam*dive*^$all
-||*clit*^$all
-||*cocain*^$all
-||*cocaín*^$all
-||*cock*^$all
-||*coglione*^$all
-||*coglioni*^$all
-||*coital*^$all
-||*coito*^$all
-||*coitus*^$all
-||*cokehead*^$all
-||*cokin*^$all
-||*coksucka*^$all
-||*condom*^$all
-||*coño*^$all
-||*coochie*^$all
-||*coochy*^$all
-||*copulate*^$all
-||*corn*hole*^$all
-||*crack*pipe*^$all
-||*cream*pie*^$all
-||*cow*girl*^$all
-||*crotch*^$all
-||*cuber*fuq*^$all
-||*cuckold*^$all
-||*culo*^$all
-||*cum*bubble*^$all
-||*cum*dump*^$all
-||*cum*fest*^$all
-||*cum*fuq*^$all
-||*cum*jockey*^$all
-||*cum*jokey*^$all
-||*cum*quat*^$all
-||*cum*queen*^$all
-||*cum*receptacle*^$all
-||*cum*shot*^$all
-||*cum*skin*^$all
-||*cum*sock*^$all
-||*cum*stain*^$all
-||*cum*suck*^$all
-||*cum*swallow*^$all
-||*cum*tart*^$all
-||*cuming*^$all
-||*cumm*^$all
-||*cummer*^$all
-||*cummin*^$all
-||*cums*^$all
-||*cunilingus*^$all
-||*cunt*^$all
-||*cyber*fuc*^$all
-||*cyber*sex*^$all
-||crap^$all
-||cum^$all
+||*c0ck*^$document
+||*c0k*^$document
+||*cabron*^$document
+||*cabrón*^$document
+||*cadaver*^$document
+||*camgirl*^$document
+||*carpet*bagger*^$document
+||*castrate*^$document
+||*cawk*^$document
+||*cazzata*^$document
+||*cazzimma*^$document
+||*cazzo*^$document
+||*chastity*belt*^$document
+||*chav*^$document
+||*cheese*head*^$document
+||*cherry*kiss*^$document
+||*cherry*pop*^$document
+||*chesticle*^$document
+||*chick*^$document
+||*christ*fag*^$document
+||*circle*jerk*^$document
+||*cisgender*^$document
+||*cl1t*^$document
+||*clam*dig*^$document
+||*clam*dive*^$document
+||*clit*^$document
+||*cocain*^$document
+||*cocaín*^$document
+||*cock*^$document
+||*coglione*^$document
+||*coglioni*^$document
+||*coital*^$document
+||*coito*^$document
+||*coitus*^$document
+||*cokehead*^$document
+||*cokin*^$document
+||*coksucka*^$document
+||*condom*^$document
+||*coño*^$document
+||*coochie*^$document
+||*coochy*^$document
+||*copulate*^$document
+||*corn*hole*^$document
+||*crack*pipe*^$document
+||*cream*pie*^$document
+||*cow*girl*^$document
+||*crotch*^$document
+||*cuber*fuq*^$document
+||*cuckold*^$document
+||*culo*^$document
+||*cum*bubble*^$document
+||*cum*dump*^$document
+||*cum*fest*^$document
+||*cum*fuq*^$document
+||*cum*jockey*^$document
+||*cum*jokey*^$document
+||*cum*quat*^$document
+||*cum*queen*^$document
+||*cum*receptacle*^$document
+||*cum*shot*^$document
+||*cum*skin*^$document
+||*cum*sock*^$document
+||*cum*stain*^$document
+||*cum*suck*^$document
+||*cum*swallow*^$document
+||*cum*tart*^$document
+||*cuming*^$document
+||*cumm*^$document
+||*cummer*^$document
+||*cummin*^$document
+||*cums*^$document
+||*cunilingus*^$document
+||*cunt*^$document
+||*cyber*fuc*^$document
+||*cyber*sex*^$document
+||crap^$document
+||cum^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [D]
 
-||*d1ck*^$all
-||*d4mn*^$all
-||*damme*^$all
-||*damn*^$all
-||*darla*crane*^$all
-||*dawg*^$all
-||*deep*throat*^$all
-||*deauxma*^$all
-||*debil*^$all
-||*deep*throat*^$all
-||*defecate*^$all
-||*dick*^$all
-||*dild0*^$all
-||*dildo*^$all
-||*dilf*^$all
-||*dimwit*^$all
-||*dirty*sanchez*^$all
-||*dog style*^$all
-||*doggie style*^$all
-||*doggy style*^$all
-||*dominatrix*^$all
-||*dong*^$all
-||*doochbag*^$all
-||*doodoo*^$all
-||*doofus*^$all
-||*doosh*^$all
-||*dope*^$all
-||*double*penetrat*^$all
-||*douche*^$all
-||*dragqueen*^$all
-||*dragqween*^$all
-||*dripac*^$all
-||*dripčin*^$all
-||*droga*^$all
-||*drolja*^$all
-||*drtina*^$all
-||*dry*hump*^$all
-||*dumass*^$all
-||*dumb*^$all
-||*dyke*^$all
+||*d1ck*^$document
+||*d4mn*^$document
+||*damme*^$document
+||*damn*^$document
+||*darla*crane*^$document
+||*dawg*^$document
+||*deep*throat*^$document
+||*deauxma*^$document
+||*debil*^$document
+||*deep*throat*^$document
+||*defecate*^$document
+||*dick*^$document
+||*dild0*^$document
+||*dildo*^$document
+||*dilf*^$document
+||*dimwit*^$document
+||*dirty*sanchez*^$document
+||*dog style*^$document
+||*doggie style*^$document
+||*doggy style*^$document
+||*dominatrix*^$document
+||*dong*^$document
+||*doochbag*^$document
+||*doodoo*^$document
+||*doofus*^$document
+||*doosh*^$document
+||*dope*^$document
+||*double*penetrat*^$document
+||*douche*^$document
+||*dragqueen*^$document
+||*dragqween*^$document
+||*dripac*^$document
+||*dripčin*^$document
+||*droga*^$document
+||*drolja*^$document
+||*drtina*^$document
+||*dry*hump*^$document
+||*dumass*^$document
+||*dumb*^$document
+||*dyke*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [E]
 
-||*eat my ass*^$all
-||*eatballs*^$all
-||*eatme*^$all
-||*eatmyass*^$all
-||*ecstasy*^$all
-||*ejackulat*^$all
-||*ejaculat*^$all
-||*ejakulat*^$all
-||*enlargement*^$all
-||*erection*^$all
-||*erotic*^$all
-||*erótic*^$all
-||*erotism*^$all
-||*escort*^$all
-||*esperma*^$all
-||*eunuch*^$all
-||*evan*stone*^$all
-||*excrement*^$all
-||*extacy*^$all
-||*extasy*^$all
+||*eat my ass*^$document
+||*eatballs*^$document
+||*eatme*^$document
+||*eatmyass*^$document
+||*ecstasy*^$document
+||*ejackulat*^$document
+||*ejaculat*^$document
+||*ejakulat*^$document
+||*enlargement*^$document
+||*erection*^$document
+||*erotic*^$document
+||*erótic*^$document
+||*erotism*^$document
+||*escort*^$document
+||*esperma*^$document
+||*eunuch*^$document
+||*evan*stone*^$document
+||*excrement*^$document
+||*extacy*^$document
+||*extasy*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [F]
 
-||*f u c k*^$all
-||*f u c k e r*^$all
-||*f_u_c_k*^$all
-||*f4nny*^$all
-||*fack*^$all
-||*faeces*^$all
-||*fag*bag*^$all
-||*fag*bomb*^$all
-||*fag*breath*^$all
-||*fag*marriage*^$all
-||*fag*rag*^$all
-||*fag*tard*^$all
-||*fag1t*^$all
-||*faget*^$all
-||*fagg*^$all
-||*fagg1t*^$all
-||*fagget*^$all
-||*fagit*^$all
-||*fagot*^$all
-||*fags*^$all
-||*fagz*^$all
-||*faig*^$all
-||*fairy*^$all
-||*fanculo*^$all
-||*fanny*^$all
-||*fart*^$all
-||*fat*ass*^$all
-||*fatso*^$all
-||*fcuk*^$all
-||*fcuker*^$all
-||*fcuking*^$all
-||*fecal*^$all
-||*feces*^$all
-||*feck*^$all
-||*fekker*^$all
-||*felatio*^$all
-||*fellate*^$all
-||*fellating*^$all
-||*fellatio*^$all
-||*feltch*^$all
-||*femdom*^$all
-||*ferrara*^$all
-||*fetish*^$all
-||*finger*bang*^$all
-||*fingered*^$all
-||*fingering*^$all
-||*fisted*^$all
-||*fister *^$all
-||*fisting*^$all
-||*flip*off*^$all
-||*folla*^$all
-||*folle*^$all
-||*fondle*^$all
-||*fook*^$all
-||*fore*skin*^$all
-||*fornicat*^$all
-||*foursome*^$all
-||*frotting*^$all
-||*fucck*^$all
-||*fuck*^$all
-||*fudge*packer*^$all
-||*fugly*^$all
-||*fuk*whit*^$all
-||*fuk*wit*^$all
-||*fuka*^$all
-||*fuke*^$all
-||*fuken*^$all
-||*fuker*^$all
-||*fukin*^$all
-||*fuking*^$all
-||*fukk*^$all
-||*fuks*^$all
-||*fuktard*^$all
-||*fuuck*^$all
-||*fvcker*^$all
-||fag^$all
+||*f u c k*^$document
+||*f u c k e r*^$document
+||*f_u_c_k*^$document
+||*f4nny*^$document
+||*fack*^$document
+||*faeces*^$document
+||*fag*bag*^$document
+||*fag*bomb*^$document
+||*fag*breath*^$document
+||*fag*marriage*^$document
+||*fag*rag*^$document
+||*fag*tard*^$document
+||*fag1t*^$document
+||*faget*^$document
+||*fagg*^$document
+||*fagg1t*^$document
+||*fagget*^$document
+||*fagit*^$document
+||*fagot*^$document
+||*fags*^$document
+||*fagz*^$document
+||*faig*^$document
+||*fairy*^$document
+||*fanculo*^$document
+||*fanny*^$document
+||*fart*^$document
+||*fat*ass*^$document
+||*fatso*^$document
+||*fcuk*^$document
+||*fcuker*^$document
+||*fcuking*^$document
+||*fecal*^$document
+||*feces*^$document
+||*feck*^$document
+||*fekker*^$document
+||*felatio*^$document
+||*fellate*^$document
+||*fellating*^$document
+||*fellatio*^$document
+||*feltch*^$document
+||*femdom*^$document
+||*ferrara*^$document
+||*fetish*^$document
+||*finger*bang*^$document
+||*fingered*^$document
+||*fingering*^$document
+||*fisted*^$document
+||*fister *^$document
+||*fisting*^$document
+||*flip*off*^$document
+||*folla*^$document
+||*folle*^$document
+||*fondle*^$document
+||*fook*^$document
+||*fore*skin*^$document
+||*fornicat*^$document
+||*foursome*^$document
+||*frotting*^$document
+||*fucck*^$document
+||*fuck*^$document
+||*fudge*packer*^$document
+||*fugly*^$document
+||*fuk*whit*^$document
+||*fuk*wit*^$document
+||*fuka*^$document
+||*fuke*^$document
+||*fuken*^$document
+||*fuker*^$document
+||*fukin*^$document
+||*fuking*^$document
+||*fukk*^$document
+||*fuks*^$document
+||*fuktard*^$document
+||*fuuck*^$document
+||*fvcker*^$document
+||fag^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [G]
 
-||*g*spot*^$all
-||*g*string*^$all
-||*gang*bang*^$all
-||*ganja*^$all
-||*gassy*ass*^$all
-||*geezer*^$all
-||*genital*^$all
-||*gigolo*^$all
-||*gilipolla*^$all
-||*girls*gone*^$all
-||*give*head*^$all
-||*glans*^$all
-||*go*to*hell*^$all
-||*god*dam*^$all
-||*golden*shower*^$all
-||*gonad*^$all
-||*gonorrehea*^$all
-||*gore*gasm*^$all
-||*govna*^$all
-||*govne*^$all
-||*govno*^$all
-||*grease*ball*^$all
-||*groin*^$all
-||*grope*^$all
-||*gropper*^$all
-||*group*sex*^$all
-||*gtfo*^$all
-||*guzzler*^$all
-||*guzzlr*^$all
-||*gypsy*^$all
-||*говно*^$all
-||*gilf*^$all
-||*gylf*^$all
-||*goveda*^$all
-||gay^$all
+||*g*spot*^$document
+||*g*string*^$document
+||*gang*bang*^$document
+||*ganja*^$document
+||*gassy*ass*^$document
+||*geezer*^$document
+||*genital*^$document
+||*gigolo*^$document
+||*gilipolla*^$document
+||*girls*gone*^$document
+||*give*head*^$document
+||*glans*^$document
+||*go*to*hell*^$document
+||*god*dam*^$document
+||*golden*shower*^$document
+||*gonad*^$document
+||*gonorrehea*^$document
+||*gore*gasm*^$document
+||*govna*^$document
+||*govne*^$document
+||*govno*^$document
+||*grease*ball*^$document
+||*groin*^$document
+||*grope*^$document
+||*gropper*^$document
+||*group*sex*^$document
+||*gtfo*^$document
+||*guzzler*^$document
+||*guzzlr*^$document
+||*gypsy*^$document
+||*говно*^$document
+||*gilf*^$document
+||*gylf*^$document
+||*goveda*^$document
+||gay^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [H]
 
-||*h00r*^$all
-||*h0ar*^$all
-||*h0r*^$all
-||*h0re*^$all
-||*hand*job*^$all
-||*hard*core*^$all
-||*hard*on*^$all
-||*harem*^$all
-||*he*she*^$all
-||*hentai*^$all
-||*heroin*^$all
-||*heroína*^$all
-||*herpe*^$all
-||*herpy*^$all
-||*hillbill*^$all
-||*hobag*^$all
-||*hobo*^$all
-||*homey*^$all
-||*homo*bang*^$all
-||*homo*phobia*^$all
-||*hooch*^$all
-||*hook*up*^$all
-||*hookah*^$all
-||*hooker*^$all
-||*hoore*^$all
-||*hootch*^$all
-||*hooter*^$all
-||*horn*dog*^$all
-||*horney*^$all
-||*horniest*^$all
-||*horny*^$all
-||*hot*sex*^$all
-||*hump*^$all
-||*humpin*^$all
-||*hunk*^$all
-||*huren*^$all
-||*hussy*^$all
-||*hymen*^$all
-||hoe^$all
+||*h00r*^$document
+||*h0ar*^$document
+||*h0r*^$document
+||*h0re*^$document
+||*hand*job*^$document
+||*hard*core*^$document
+||*hard*on*^$document
+||*harem*^$document
+||*he*she*^$document
+||*hentai*^$document
+||*heroin*^$document
+||*heroína*^$document
+||*herpe*^$document
+||*herpy*^$document
+||*hillbill*^$document
+||*hobag*^$document
+||*hobo*^$document
+||*homey*^$document
+||*homo*bang*^$document
+||*homo*phobia*^$document
+||*hooch*^$document
+||*hook*up*^$document
+||*hookah*^$document
+||*hooker*^$document
+||*hoore*^$document
+||*hootch*^$document
+||*hooter*^$document
+||*horn*dog*^$document
+||*horney*^$document
+||*horniest*^$document
+||*horny*^$document
+||*hot*sex*^$document
+||*hump*^$document
+||*humpin*^$document
+||*hunk*^$document
+||*huren*^$document
+||*hussy*^$document
+||*hymen*^$document
+||hoe^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [I]
 
-||*iblow*^$all
-||*inbred*^$all
-||*incest*^$all
-||*insest*^$all
-||*intercourse*^$all
-||*interracial*^$all
-||*intheass*^$all
+||*iblow*^$document
+||*inbred*^$document
+||*incest*^$document
+||*insest*^$document
+||*intercourse*^$document
+||*interracial*^$document
+||*intheass*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [J]
 
-||*jack*ass*^$all
-||*jack*hole*^$all
-||*jack*off*^$all
-||*jag*ass*^$all
-||*jag*hole*^$all
-||*jag*off*^$all
-||*jebac*^$all
-||*jebač*^$all
-||*jebat*^$all
-||*jebe*^$all
-||*jebi*^$all
-||*jebo*^$all
-||*jebu*^$all
-||*jerk*^$all
-||*jihad*^$all
-||*jilipolla*^$all
-||*jizz*^$all
-||*jodi*west*^$all
-||*jugs*^$all
-||*junkie*^$all
-||*junky*^$all
+||*jack*ass*^$document
+||*jack*hole*^$document
+||*jack*off*^$document
+||*jag*ass*^$document
+||*jag*hole*^$document
+||*jag*off*^$document
+||*jebac*^$document
+||*jebač*^$document
+||*jebat*^$document
+||*jebe*^$document
+||*jebi*^$document
+||*jebo*^$document
+||*jebu*^$document
+||*jerk*^$document
+||*jihad*^$document
+||*jilipolla*^$document
+||*jizz*^$document
+||*jodi*west*^$document
+||*jugs*^$document
+||*junkie*^$document
+||*junky*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [K]
 
-||*kackwurst*^$all
-||*kawk*^$all
-||*kike*^$all
-||*kink*^$all
-||*kiss*ass*^$all
-||*knob*end*^$all
-||*knob*head*^$all
-||*knob*jocky*^$all
-||*knob*jokey*^$all
-||*knobbing*^$all
-||*knobed*^$all
-||*knobs*^$all
-||*knobz*^$all
-||*knocker*^$all
-||*kock*^$all
-||*kondum*^$all
-||*kooch*^$all
-||*kootch*^$all
-||*kozojeb*^$all
-||*krap*^$all
-||*kum*^$all
-||*kum*bubble*^$all
-||*kumer*^$all
-||*kummer*^$all
-||*kumming*^$all
-||*kumquat*^$all
-||*kums*^$all
-||*kunilingus*^$all
-||*kunnilingus*^$all
-||*kunt*^$all
-||*kunts*^$all
-||*kuntz*^$all
-||*kurac*^$all
-||*kurat*^$all
-||*kurc*^$all
-||*kurv*^$all
-||*kurwa*^$all
-||*kush*^$all
-||*kyke*^$all
+||*kackwurst*^$document
+||*kawk*^$document
+||*kike*^$document
+||*kink*^$document
+||*kiss*ass*^$document
+||*knob*end*^$document
+||*knob*head*^$document
+||*knob*jocky*^$document
+||*knob*jokey*^$document
+||*knobbing*^$document
+||*knobed*^$document
+||*knobs*^$document
+||*knobz*^$document
+||*knocker*^$document
+||*kock*^$document
+||*kondum*^$document
+||*kooch*^$document
+||*kootch*^$document
+||*kozojeb*^$document
+||*krap*^$document
+||*kum*^$document
+||*kum*bubble*^$document
+||*kumer*^$document
+||*kummer*^$document
+||*kumming*^$document
+||*kumquat*^$document
+||*kums*^$document
+||*kunilingus*^$document
+||*kunnilingus*^$document
+||*kunt*^$document
+||*kunts*^$document
+||*kuntz*^$document
+||*kurac*^$document
+||*kurat*^$document
+||*kurc*^$document
+||*kurv*^$document
+||*kurwa*^$document
+||*kush*^$document
+||*kyke*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [L]
 
-||*labia*^$all
-||*lady*boy*^$all
-||*lame*ass*^$all
-||*lap*dance*^$all
-||*latina*^$all
-||*lesbo*^$all
-||*lesbian*^$all
-||*libido*^$all
-||*lick*^$all
-||*lingerie*^$all
-||*live*sex*^$all
-||*lmfao*^$all
-||*love*goo*^$all
-||*love*juice*^$all
-||*love*make*^$all
-||*love*making*^$all
-||*lsd*^$all
-||*lube*^$all
-||*lust*^$all
+||*labia*^$document
+||*lady*boy*^$document
+||*lame*ass*^$document
+||*lap*dance*^$document
+||*latina*^$document
+||*lesbo*^$document
+||*lesbian*^$document
+||*libido*^$document
+||*lick*^$document
+||*lingerie*^$document
+||*live*sex*^$document
+||*lmfao*^$document
+||*love*goo*^$document
+||*love*juice*^$document
+||*love*make*^$document
+||*love*making*^$document
+||*lsd*^$document
+||*lube*^$document
+||*lust*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [M]
 
-||*m0f0*^$all
-||*m0fo*^$all
-||*make me come*^$all
-||*makemecum*^$all
-||*maldito*^$all
-||*man*hate*^$all
-||*man*paste*^$all
-||*maricon*^$all
-||*maricón*^$all
-||*marijuana*^$all
-||*mdma*^$all
-||*man*seed*^$all
-||*masochist*^$all
-||*massterbait*^$all
-||*masstrbait*^$all
+||*m0f0*^$document
+||*m0fo*^$document
+||*make me come*^$document
+||*makemecum*^$document
+||*maldito*^$document
+||*man*hate*^$document
+||*man*paste*^$document
+||*maricon*^$document
+||*maricón*^$document
+||*marijuana*^$document
+||*mdma*^$document
+||*man*seed*^$document
+||*masochist*^$document
+||*massterbait*^$document
+||*masstrbait*^$document
 ||*manuel*ferrara
-||*masstrbate*^$all
-||*mastabate*^$all
-||*master-bate*^$all
-||*masterb8*^$all
-||*masterbaiter*^$all
-||*masterbat*^$all
-||*mastrabator*^$all
-||*masturb8*^$all
-||*masturbat*^$all
-||*mattressprincess*^$all
+||*masstrbate*^$document
+||*mastabate*^$document
+||*master-bate*^$document
+||*masterb8*^$document
+||*masterbaiter*^$document
+||*masterbat*^$document
+||*mastrabator*^$document
+||*masturb8*^$document
+||*masturbat*^$document
+||*mattressprincess*^$document
 ||*masseuse*^$al
-||*menage*a*^$all
-||*menages*a*^$all
-||*merd*^$all
-||*mierda*^$all
-||*milf*^$all
-||*mylf*^$all
-||*missionary*position*^$all
-||*mof0*^$all
-||*mofo*^$all
-||*molest*^$all
-||*muncher*^$all
-||*money*shot*^$all
-||*mongoloid*^$all
-||*moron*^$all
-||*muda*^$all
-||*mudonja*^$all
-||*mudonje*^$all
-||*muff*^$all
-||*муда*^$all
-||*magarčin*^$all
+||*menage*a*^$document
+||*menages*a*^$document
+||*merd*^$document
+||*mierda*^$document
+||*milf*^$document
+||*mylf*^$document
+||*missionary*position*^$document
+||*mof0*^$document
+||*mofo*^$document
+||*molest*^$document
+||*muncher*^$document
+||*money*shot*^$document
+||*mongoloid*^$document
+||*moron*^$document
+||*muda*^$document
+||*mudonja*^$document
+||*mudonje*^$document
+||*muff*^$document
+||*муда*^$document
+||*magarčin*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [N]
 
-||*necrophil*^$all
-||*nekrophil*^$all
-||*nigga*^$all
-||*nigger*^$all
-||*nimph*^$all
-||*nimrod*^$all
-||*nipple*^$all
-||*nob*head*^$all
-||*nob*jocky*^$all
-||*nob*jokey*^$all
-||*nsfw*^$all
-||*nude*^$all
-||*nudie*^$all
-||*nudity*^$all
-||*nuru*^$all
-||*nut*butter*^$all
-||*nut*sack*^$all
-||*nut*saq*^$all
-||*nymph*^$all
+||*necrophil*^$document
+||*nekrophil*^$document
+||*nigga*^$document
+||*nigger*^$document
+||*nimph*^$document
+||*nimrod*^$document
+||*nipple*^$document
+||*nob*head*^$document
+||*nob*jocky*^$document
+||*nob*jokey*^$document
+||*nsfw*^$document
+||*nude*^$document
+||*nudie*^$document
+||*nudity*^$document
+||*nuru*^$document
+||*nut*butter*^$document
+||*nut*sack*^$document
+||*nut*saq*^$document
+||*nymph*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [O]
 
-||*one cup two girls*^$all
-||*one guy one jar*^$all
-||*one jar one man*^$all
-||*one man one jar*^$all
-||*onlyfan*^$all
-||*oral*sex*^$all
-||*orgasm*^$all
-||*orgaza*^$all
-||*orgazm*^$all
-||*orgasa*^$all
-||*orgasm*^$all
-||*orgies*^$all
-||*orgij*^$all
-||*orgy*^$all
-||*orifice*^$all
-||*onanism*^$all
+||*one cup two girls*^$document
+||*one guy one jar*^$document
+||*one jar one man*^$document
+||*one man one jar*^$document
+||*onlyfan*^$document
+||*oral*sex*^$document
+||*orgasm*^$document
+||*orgaza*^$document
+||*orgazm*^$document
+||*orgasa*^$document
+||*orgasm*^$document
+||*orgies*^$document
+||*orgij*^$document
+||*orgy*^$document
+||*orifice*^$document
+||*onanism*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [P]
 
-||*p0rn*^$all
-||*paedo*^$all
-||*paedophil*^$all
-||*panties*^$all
-||*panty*^$all
-||*pearl*necklace*^$all
-||*pecker*^$all
-||*peder*^$all
-||*pedophil*^$all
-||*pee*hole*^$all
-||*peenus*^$all
-||*peep*show*^$all
-||*peepee*^$all
-||*pen1s*^$all
-||*pendeja*^$all
-||*pendejo*^$all
-||*penetrate*^$all
-||*penetration*^$all
-||*penile*^$all
-||*penis*^$all
-||*penthouse*sex*^$all
-||*perv*^$all
-||*phallic*^$all
-||*phallus*^$all
-||*phone*sex*^$all
-||*phuc*^$all
-||*phuk*^$all
-||*phuq*^$all
-||*picka*^$all
-||*picke*^$all
-||*picki*^$all
-||*picko*^$all
-||*play*date*^$all
-||*picku*^$all
-||*pimp*^$all
-||*piss*^$all
-||*pizd*^$all
-||*play*boy*^$all
-||*play*girl*^$all
-||*play*mate*^$all
-||*pleasure*chest*^$all
-||*pleasure*toy*^$all
-||*pojeb*^$all
-||*poo*^$all
-||*poop*^$all
-||*porn*^$all
-||*prca*^$all
-||*preteen*^$all
-||*prick*^$all
-||*proliv*^$all
-||*prostitut*^$all
-||*pube*^$all
-||*puditang*^$all
-||*puke*^$all
-||*punkass*^$all
-||*puss*^$all
-||*pussi*^$all
-||*pussy*^$all
-||*pusy*^$all
-||*puta*^$all
-||*puto*^$all
-||*putta*^$all
-||*putto*^$all
-||*пізд*^$all
+||*p0rn*^$document
+||*paedo*^$document
+||*paedophil*^$document
+||*panties*^$document
+||*panty*^$document
+||*pearl*necklace*^$document
+||*pecker*^$document
+||*peder*^$document
+||*pedophil*^$document
+||*pee*hole*^$document
+||*peenus*^$document
+||*peep*show*^$document
+||*peepee*^$document
+||*pen1s*^$document
+||*pendeja*^$document
+||*pendejo*^$document
+||*penetrate*^$document
+||*penetration*^$document
+||*penile*^$document
+||*penis*^$document
+||*penthouse*sex*^$document
+||*perv*^$document
+||*phallic*^$document
+||*phallus*^$document
+||*phone*sex*^$document
+||*phuc*^$document
+||*phuk*^$document
+||*phuq*^$document
+||*picka*^$document
+||*picke*^$document
+||*picki*^$document
+||*picko*^$document
+||*play*date*^$document
+||*picku*^$document
+||*pimp*^$document
+||*piss*^$document
+||*pizd*^$document
+||*play*boy*^$document
+||*play*girl*^$document
+||*play*mate*^$document
+||*pleasure*chest*^$document
+||*pleasure*toy*^$document
+||*pojeb*^$document
+||*poop*^$document
+||*porn*^$document
+||*prca*^$document
+||*preteen*^$document
+||*prick*^$document
+||*proliv*^$document
+||*prostitut*^$document
+||*pube*^$document
+||*puditang*^$document
+||*puke*^$document
+||*punkass*^$document
+||*puss*^$document
+||*pussi*^$document
+||*pussy*^$document
+||*pusy*^$document
+||*puta*^$document
+||*puto*^$document
+||*putta*^$document
+||*putto*^$document
+||*пізд*^$document
+||poo^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [Q]
 
-||*queer*^$all
-||*quickie*^$all
-||*quicky*^$all
-||*qweer*^$all
+||*queer*^$document
+||*quickie*^$document
+||*quicky*^$document
+||*qweer*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [R]
 
-||*randy*spear*^$all
-||*rape*^$all
-||*raper*^$all
-||*raping*^$all
-||*rapist*^$all
-||*reagan*foks*^$all
-||*reagan*fox*^$all
-||*rear*end*^$all
-||*rear*entry*^$all
-||*recktum*^$all
-||*rectal*^$all
-||*rectum*^$all
-||*rectus*^$all
-||*red*light*^$all
-||*red*tube*^$all
-||*redskin*^$all
-||*retard*^$all
-||*reverse*cowgirl*^$all
-||*rim*jaw*^$all
-||*rim*job*^$all
-||*rimming*^$all
-||*rosy*palm*^$all
-||*rugoba*^$all
+||*randy*spear*^$document
+||*rape*^$document
+||*raper*^$document
+||*raping*^$document
+||*rapist*^$document
+||*reagan*foks*^$document
+||*reagan*fox*^$document
+||*rear*end*^$document
+||*rear*entry*^$document
+||*recktum*^$document
+||*rectal*^$document
+||*rectum*^$document
+||*rectus*^$document
+||*red*light*^$document
+||*red*tube*^$document
+||*redskin*^$document
+||*retard*^$document
+||*reverse*cowgirl*^$document
+||*rim*jaw*^$document
+||*rim*job*^$document
+||*rimming*^$document
+||*rosy*palm*^$document
+||*rugoba*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [S]
 
-||*s hit*^$all
-||*s_h_i_t*^$all
-||*s.o.b.*^$all
-||*sadism*^$all
-||*sadist*^$all
-||*scank*^$all
-||*scatophil*^$all
-||*scheisse*^$all
-||*scheiße*^$all
-||*schlampe*^$all
-||*schlong*^$all
-||*schlong*^$all
-||*scissoring*^$all
-||*screw*you*^$all
-||*screwed*^$all
-||*screwing*^$all
-||*screws*you*^$all
-||*scroat*^$all
-||*scrote*^$all
-||*scrotum*^$all
-||*scum*^$all
-||*seduce*^$all
-||*seduction*^$all
-||*seks*^$all
-||*semen*^$all
-||*sere*^$all
-||*sex*^$all
-||*sex*cam*^$all
-||*sex*club*^$all
-||*sex*cult*^$all
-||*sex*dog^$all
-||*sex*dungeon*^$all
-||*sex*ed*^$all
-||*sex*farm*^$all
-||*sex*hound*^$all
-||*sex*house*^$all
-||*sex*kitten*^$all
-||*sex*position*^$all
-||*sex*pot*^$all
-||*sex*slave*^$all
-||*sex*toy*^$all
-||*sexi*^$all
-||*sexo*^$all
-||*sexting*^$all
-||*sextogo*^$all
-||*sexts*^$all
-||*sexual*^$all
-||*sexx*^$all
-||*sexy*^$all
-||*sfinkter*^$all
-||*sh!t*^$all
-||*sh1t*^$all
-||*shag*^$all
-||*shat*^$all
-||*shaved*beaver*^$all
-||*she*he*^$all
-||*she*male*^$all
-||*shiz*^$all
-||*shlong*^$all
-||*simp*^$all
-||*sinner*^$all
+||*s hit*^$document
+||*s_h_i_t*^$document
+||*s.o.b.*^$document
+||*sadism*^$document
+||*sadist*^$document
+||*scank*^$document
+||*scatophil*^$document
+||*scheisse*^$document
+||*scheiße*^$document
+||*schlampe*^$document
+||*schlong*^$document
+||*schlong*^$document
+||*scissoring*^$document
+||*screw*you*^$document
+||*screwed*^$document
+||*screwing*^$document
+||*screws*you*^$document
+||*scroat*^$document
+||*scrote*^$document
+||*scrotum*^$document
+||*scum*^$document
+||*seduce*^$document
+||*seduction*^$document
+||*seks*^$document
+||*semen*^$document
+||*sere*^$document
+||*sex*^$document
+||*sex*cam*^$document
+||*sex*club*^$document
+||*sex*cult*^$document
+||*sex*dog^$document
+||*sex*dungeon*^$document
+||*sex*ed*^$document
+||*sex*farm*^$document
+||*sex*hound*^$document
+||*sex*house*^$document
+||*sex*kitten*^$document
+||*sex*position*^$document
+||*sex*pot*^$document
+||*sex*slave*^$document
+||*sex*toy*^$document
+||*sexi*^$document
+||*sexo*^$document
+||*sexting*^$document
+||*sextogo*^$document
+||*sexts*^$document
+||*sexual*^$document
+||*sexx*^$document
+||*sexy*^$document
+||*sfinkter*^$document
+||*sh!t*^$document
+||*sh1t*^$document
+||*shag*^$document
+||*shat*^$document
+||*shaved*beaver*^$document
+||*she*he*^$document
+||*she*male*^$document
+||*shiz*^$document
+||*shlong*^$document
+||*simp*^$document
+||*sinner*^$document
 ||*sins*^all
-||*sissy*^$all
-||*sixty*nine*^$all
-||*skank*^$all
-||*skum*^$all
-||*sleaze*^$all
-||*slide*it**^$all
-||*slime*^$all
-||*slut*^$all
-||*smack*the*^$all
-||*smegma*^$all
-||*smoker*^$all
-||*smut*^$all
-||*snatch*^$all
-||*snuff*^$all
-||*sod*off*^$all
-||*sodd*^$all
-||*sodom*^$all
-||*soy*boy*^$all
-||*spank*^$all
-||*sperm*^$all
-||*sphincter*^$all
-||*spread*leg*^$all
-||*spunk*^$all
-||*squirt*^$all
-||*sračk*^$all
-||*srala*^$all
-||*srali*^$all
-||*sranj*^$all
-||*srao*^$all
-||*srati*^$all
-||*steamy*^$all
-||*stfu*^$all
-||*stiffy*^$all
-||*stoned*^$all
-||*stoner*^$all
-||*strap*on*^$all
-||*strip*club*^$all
-||*stripper*^$all
-||*striptease*^$all
-||*striptiz*^$all
-||*stroking*^$all
-||*stronza*^$all
-||*stronzo*^$all
-||*suck*ass*^$all
-||*suck*her*^$all
-||*suck*his*^$all
-||*suck*me*^$all
-||*suck*my*^$all
-||*suck*off*^$all
-||*suck*their*^$all
-||*suck*your*^$all
-||*sucked*^$all
-||*sucker*^$all
-||*sucking*^$all
-||*sucks*^$all
-||*suicide*^$all
-||*swallower*^$all
-||*swinger*^$all
-||*секс*^$all
+||*sissy*^$document
+||*sixty*nine*^$document
+||*skank*^$document
+||*skum*^$document
+||*sleaze*^$document
+||*slide*it**^$document
+||*slime*^$document
+||*slut*^$document
+||*smack*the*^$document
+||*smegma*^$document
+||*smoker*^$document
+||*smut*^$document
+||*snatch*^$document
+||*snuff*^$document
+||*sod*off*^$document
+||*sodd*^$document
+||*sodom*^$document
+||*soy*boy*^$document
+||*spank*^$document
+||*sperm*^$document
+||*sphincter*^$document
+||*spread*leg*^$document
+||*spunk*^$document
+||*squirt*^$document
+||*sračk*^$document
+||*srala*^$document
+||*srali*^$document
+||*sranj*^$document
+||*srao*^$document
+||*srati*^$document
+||*steamy*^$document
+||*stfu*^$document
+||*stiffy*^$document
+||*stoned*^$document
+||*stoner*^$document
+||*strap*on*^$document
+||*strip*club*^$document
+||*stripper*^$document
+||*striptease*^$document
+||*striptiz*^$document
+||*stroking*^$document
+||*stronza*^$document
+||*stronzo*^$document
+||*suck*ass*^$document
+||*suck*her*^$document
+||*suck*his*^$document
+||*suck*me*^$document
+||*suck*my*^$document
+||*suck*off*^$document
+||*suck*their*^$document
+||*suck*your*^$document
+||*sucked*^$document
+||*sucker*^$document
+||*sucking*^$document
+||*sucks*^$document
+||*suicide*^$document
+||*swallower*^$document
+||*swinger*^$document
+||*секс*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [T]
 
 ||*tanga*$^all
-||*teat*^$all
-||*teet*^$all
-||*testicle*^$all
-||*testis*^$all
-||*the*d*$all
-||*threesome*^$all
-||*threeway*^$all
-||*throating*^$all
-||*thumbzilla*^$all
-||*tit*job*^$all
-||*tit*love*^$all
-||*titi*^$all
-||*tits*^$all
-||*titties*^$all
-||*titty*^$all
-||*titty*^$all
-||*topless*^$all
-||*tosser*^$all
-||*trannie*^$all
-||*tranny*^$all
-||*trans*gender*^$all
-||*transvestite*^$all
-||*turd*^$all
-||*turnon*^$all
-||*tush*^$all
-||*twat*^$all
-||*two girls one cup*^$all
+||*teat*^$document
+||*teet*^$document
+||*testicle*^$document
+||*testis*^$document
+||*the*d*$document
+||*threesome*^$document
+||*threeway*^$document
+||*throating*^$document
+||*thumbzilla*^$document
+||*tit*job*^$document
+||*tit*love*^$document
+||*titi*^$document
+||*tits*^$document
+||*titties*^$document
+||*titty*^$document
+||*titty*^$document
+||*topless*^$document
+||*tosser*^$document
+||*trannie*^$document
+||*tranny*^$document
+||*trans*gender*^$document
+||*transvestite*^$document
+||*turd*^$document
+||*turnon*^$document
+||*tush*^$document
+||*twat*^$document
+||*two girls one cup*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [U]
 
-||*un*dress*^$all
-||*up*skirt*^$all
-||*uptheass*^$all
-||*upthebutt*^$all
+||*un*dress*^$document
+||*up*skirt*^$document
+||*uptheass*^$document
+||*upthebutt*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [V]
 
-||*va-j-j*^$all
-||*vaffanculo*^$all
-||*vag1na*^$all
-||*vagina*^$all
-||*vaj1na*^$all
-||*vajayjay*^$all
-||*vajina*^$all
-||*veronica*avluv*^$all
-||*viagra*^$all
-||*vibrador*^$all
-||*vibrater*^$all
-||*vibrator*^$all
-||*virgin*^$all
-||*vjayjay*^$all
-||*vomit*^$all
-||*voyeur*^$all
-||*vulva*^$all
+||*va-j-j*^$document
+||*vaffanculo*^$document
+||*vag1na*^$document
+||*vagina*^$document
+||*vaj1na*^$document
+||*vajayjay*^$document
+||*vajina*^$document
+||*veronica*avluv*^$document
+||*viagra*^$document
+||*vibrador*^$document
+||*vibrater*^$document
+||*vibrator*^$document
+||*virgin*^$document
+||*vjayjay*^$document
+||*vomit*^$document
+||*voyeur*^$document
+||*vulva*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [W]
 
-||*wang*^$all
-||*wank*^$all
-||*weenie*^$all
-||*wet*dream*^$all
-||*wet*spot*^$all
-||*wh0re*^$all
-||*white*trash*^$all
-||*whoar*^$all
-||*whoralicious*^$all
-||*whore*^$all
-||*whoring*^$all
-||*worldsex*^$all
-||*wtf*^$all
-||*wuss*^$all
+||*wang*^$document
+||*wank*^$document
+||*weenie*^$document
+||*wet*dream*^$document
+||*wet*spot*^$document
+||*wh0re*^$document
+||*white*trash*^$document
+||*whoar*^$document
+||*whoralicious*^$document
+||*whore*^$document
+||*whoring*^$document
+||*worldsex*^$document
+||*wtf*^$document
+||*wuss*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [X]
 
-||*xhamster*^$all
-||*xnxx*^$all
-||*xrated*^$all
-||*xtube*^$all
-||*xvideos*^$all
-||*xxx*^$all
-||*xxxxxx*^$all
+||*xhamster*^$document
+||*xnxx*^$document
+||*xrated*^$document
+||*xtube*^$document
+||*xvideos*^$document
+||*xxx*^$document
+||*xxxxxx*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [Y]
 
-||*yellow*shower*^$all
+||*yellow*shower*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [Z]
 
-||*zoo*sex*^$all
-||*zoophile*^$all
-||*zoophilia*^$all
+||*zoo*sex*^$document
+||*zoophile*^$document
+||*zoophilia*^$document
