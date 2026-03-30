@@ -57,8 +57,8 @@
 
 ! The syntax covers plurals, verbal forms, and compounds. 
 
-! > ||*poop*^$all = “Block anything containing poop anywhere”
-! > ||poop^$all = “Block only domains literally called poop”
+! ||*poop*^$all = “Block anything containing poop anywhere”
+! ||poop^$all = “Block only domains literally called poop”
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 ! EX2: 2 Keywords
@@ -257,7 +257,6 @@
 ||*bukake*^$all
 ||*bukkake*^$all
 ||*bull*crap*^$all
-||*bum*^$all
 ||*bum*boy*^$all
 ||*bum*chum*^$all
 ||*bum*driller*^$all
@@ -299,6 +298,7 @@
 ||*baywatch*^$all
 ||*buttwipe*^$all
 ||*byatch*^$all
+||bum^$all
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [C]
@@ -379,6 +379,7 @@
 ||*cyber*fuc*^$all
 ||*cyber*sex*^$all
 ||crap^$all
+||cum^$all
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [D]
@@ -457,7 +458,6 @@
 ||*f4nny*^$all
 ||*fack*^$all
 ||*faeces*^$all
-||*fag*^$all
 ||*fag*bag*^$all
 ||*fag*bomb*^$all
 ||*fag*breath*^$all
@@ -527,6 +527,7 @@
 ||*fuktard*^$all
 ||*fuuck*^$all
 ||*fvcker*^$all
+||fag^$all
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [G]
@@ -536,7 +537,6 @@
 ||*gang*bang*^$all
 ||*ganja*^$all
 ||*gassy*ass*^$all
-||*gay*^$all
 ||*geezer*^$all
 ||*genital*^$all
 ||*gigolo*^$all
@@ -566,6 +566,7 @@
 ||*gilf*^$all
 ||*gylf*^$all
 ||*goveda*^$all
+||gay^$all
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [H]
@@ -587,7 +588,6 @@
 ||*hillbill*^$all
 ||*hobag*^$all
 ||*hobo*^$all
-||*hoe*^$all
 ||*homey*^$all
 ||*homo*bang*^$all
 ||*homo*phobia*^$all
@@ -609,6 +609,7 @@
 ||*huren*^$all
 ||*hussy*^$all
 ||*hymen*^$all
+||hoe^$all
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [I]
@@ -725,8 +726,8 @@
 ||*maricon*^$all
 ||*maricón*^$all
 ||*marijuana*^$all
-||*mdma
-||*man*seed
+||*mdma*^$all
+||*man*seed*^$all
 ||*masochist*^$all
 ||*massterbait*^$all
 ||*masstrbait*^$all
@@ -912,7 +913,6 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [S]
 
-sucker
 ||*s hit*^$all
 ||*s_h_i_t*^$all
 ||*s.o.b.*^$all
@@ -923,6 +923,7 @@ sucker
 ||*scheisse*^$all
 ||*scheiße*^$all
 ||*schlampe*^$all
+||*schlong*^$all
 ||*schlong*^$all
 ||*scissoring*^$all
 ||*screw*you*^$all
@@ -939,29 +940,29 @@ sucker
 ||*semen*^$all
 ||*sere*^$all
 ||*sex*^$all
-||*sins*^all
 ||*sex*cam*^$all
 ||*sex*club*^$all
 ||*sex*cult*^$all
+||*sex*dog^$all
+||*sex*dungeon*^$all
 ||*sex*ed*^$all
 ||*sex*farm*^$all
-||*sex*dungeon*^$all
-||*sex*dog^$all
 ||*sex*hound*^$all
 ||*sex*house*^$all
 ||*sex*kitten*^$all
 ||*sex*position*^$all
+||*sex*pot*^$all
 ||*sex*slave*^$all
 ||*sex*toy*^$all
 ||*sexi*^$all
 ||*sexo*^$all
-||*sex*pot*^$all
 ||*sexting*^$all
 ||*sextogo*^$all
 ||*sexts*^$all
 ||*sexual*^$all
 ||*sexx*^$all
 ||*sexy*^$all
+||*sfinkter*^$all
 ||*sh!t*^$all
 ||*sh1t*^$all
 ||*shag*^$all
@@ -970,10 +971,10 @@ sucker
 ||*she*he*^$all
 ||*she*male*^$all
 ||*shiz*^$all
-||*schlong*^$all
 ||*shlong*^$all
 ||*simp*^$all
 ||*sinner*^$all
+||*sins*^all
 ||*sissy*^$all
 ||*sixty*nine*^$all
 ||*skank*^$all
@@ -995,7 +996,6 @@ sucker
 ||*spank*^$all
 ||*sperm*^$all
 ||*sphincter*^$all
-||*sfinkter*^$all
 ||*spread*leg*^$all
 ||*spunk*^$all
 ||*squirt*^$all
@@ -1012,10 +1012,10 @@ sucker
 ||*stoner*^$all
 ||*strap*on*^$all
 ||*strip*club*^$all
-||*stroking*^$all
-||*striptease*^$all
 ||*stripper*^$all
+||*striptease*^$all
 ||*striptiz*^$all
+||*stroking*^$all
 ||*stronza*^$all
 ||*stronzo*^$all
 ||*suck*ass*^$all
@@ -1027,6 +1027,7 @@ sucker
 ||*suck*their*^$all
 ||*suck*your*^$all
 ||*sucked*^$all
+||*sucker*^$all
 ||*sucking*^$all
 ||*sucks*^$all
 ||*suicide*^$all
@@ -1084,6 +1085,7 @@ sucker
 ||*vaj1na*^$all
 ||*vajayjay*^$all
 ||*vajina*^$all
+||*veronica*avluv*^$all
 ||*viagra*^$all
 ||*vibrador*^$all
 ||*vibrater*^$all
@@ -1093,7 +1095,6 @@ sucker
 ||*vomit*^$all
 ||*voyeur*^$all
 ||*vulva*^$all
-veronica*avluv
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [W]
