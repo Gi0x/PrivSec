@@ -225,11 +225,8 @@ azzhole
 ||*bitch
 ||*biteme
 ||*bitties
-||*blackman
-||*bloblos
 ||*blonde action
 ||*blonde*on*blonde
-||*bloodclaat
 ||*blow*job
 ||*blow your load
 ||*boink
@@ -245,8 +242,6 @@ azzhole
 ||*boonie
 ||*booob
 ||*boooob
-||*booooob
-||*booooooob
 ||*bootlip
 ||*booty 
 ||*boozer
@@ -255,20 +250,18 @@ azzhole
 ||*bordello
 ||*bosom
 ||*brandi*love
-||*breastjob
-||*breastlover
-||*breastman
+||*breast*job
+||*breast*love
 ||*breasts
-||*brown piper
-||*brown shower
-||*brunette action
+||*brown*shower
+||*brunette*action
 ||*bukake
 ||*bukkake
 ||*bull*crap
 ||*bum
 ||*bum*boy
 ||*bum*chum
-||*bum driller
+||*bum*driller
 ||*bum hole
 ||*bum pilot
 ||*bum pirate
@@ -514,7 +507,7 @@ azzhole
 ||*fondle
 ||*fook
 ||*fore*skin
-||*fornicate
+||*fornicat
 ||*foursome
 ||*frotting
 ||*fucck
@@ -826,6 +819,7 @@ azzhole
 ||*panty*^$all
 ||*pearl*necklace*^$all
 ||*pecker*^$all
+||*peder*^$all
 ||*pedophil*^$all
 ||*pee*hole*^$all
 ||*peenus*^$all
@@ -850,6 +844,7 @@ azzhole
 ||*picke*^$all
 ||*picki*^$all
 ||*picko*^$all
+||*play*date*^$all
 ||*picku*^$all
 ||*pimp*^$all
 ||*piss*^$all
@@ -859,12 +854,14 @@ azzhole
 ||*play*mate*^$all
 ||*pleasure*chest*^$all
 ||*pleasure*toy*^$all
+||*pojeb*^$all
 ||*poo*^$all
 ||*poop*^$all
 ||*porn*^$all
 ||*prca*^$all
 ||*preteen*^$all
 ||*prick*^$all
+||*proliv*^$all
 ||*prostitut*^$all
 ||*pube*^$all
 ||*puditang*^$all
@@ -879,9 +876,6 @@ azzhole
 ||*putta*^$all
 ||*putto*^$all
 ||*пізд*^$all
-||*pojeb*^$all
-||*peder*^$all
-
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [Q]
@@ -1045,10 +1039,12 @@ sucker
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [T]
 
+||*tanga*$^all
 ||*teat*^$all
 ||*teet*^$all
 ||*testicle*^$all
 ||*testis*^$all
+||*the*d*$all
 ||*threesome*^$all
 ||*threeway*^$all
 ||*throating*^$all
@@ -1071,13 +1067,12 @@ sucker
 ||*tush*^$all
 ||*twat*^$all
 ||*two girls one cup*^$all
-tanga
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [U]
 
-||*undress*^$all
-||*upskirt*^$all
+||*un*dress*^$all
+||*up*skirt*^$all
 ||*uptheass*^$all
 ||*upthebutt*^$all
 
