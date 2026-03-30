@@ -1,6 +1,6 @@
 # Title: Keywords
 # Info: Keywords List
-# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/uBlacklist/Keywords.txt
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBlacklist/Keywords.txt
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # SOURCES
 
