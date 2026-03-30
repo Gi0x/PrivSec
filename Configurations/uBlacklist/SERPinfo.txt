@@ -1,0 +1,12 @@
+name: Qwant
+homepage: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/uBlacklist/SERPinfo.txt
+lastModified: 2026-03-30T00:00:00Z
+
+pages:
+  # --- All --
+  - name: Web Results (Hide Button)
+    matches:
+      - https://www.qwant.com/?*
+    results:
+      - root: div[data-testid="webResult"]
+        url: a[href^="http"]
