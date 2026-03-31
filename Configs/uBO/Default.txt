@@ -1,6 +1,6 @@
 ! Title: Default
 ! Info: Default List
-! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configurations/Default.txt
+! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/Default.txt
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! ToC
 
