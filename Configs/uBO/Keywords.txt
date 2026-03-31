@@ -1700,7 +1700,6 @@
 ||*жополиз*^$document
 ||*заебись*^$document
 ||*залупа*^$document
-||*залупать*^$document
 ||*засать*^$document
 ||*засранец*^$document
 ||*заёбать*^$document
@@ -1710,8 +1709,8 @@
 ||*манда*^$document
 ||*мент*^$document
 ||*муда*^$document
-||*мудило*^$document
-||*мудозвон*^$document
+||*муди*^$document
+||*мудо*^$document
 ||*наебать*^$document
 ||*наебениться*^$document
 ||*наебнуться*^$document
