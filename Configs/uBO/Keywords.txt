@@ -587,13 +587,6 @@
 ||*jag*ass*^$document
 ||*jag*hole*^$document
 ||*jag*off*^$document
-||*jebac*^$document
-||*jebač*^$document
-||*jebat*^$document
-||*jebe*^$document
-||*jebi*^$document
-||*jebo*^$document
-||*jebu*^$document
 ||*jerk*^$document
 ||*jihad*^$document
 ||*jilipolla*^$document
@@ -1161,6 +1154,107 @@
 ||*vibrador*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+! [] FI 🇫🇮
+
+||*äpärä*^$document
+||*bylsiä*^$document
+||*haahka*^$document
+||*hässiä*^$document
+||*hatullinen*^$document
+||*helvetisti*^$document
+||*hevonkuusi*^$document
+||*hevonpaska*^$document
+||*hevonperse*^$document
+||*hevonvittu*^$document
+||*hevonvitunperse*^$document
+||*hitosti*^$document
+||*hitto*^$document
+||*huorata*^$document
+||*jätkä*^$document
+||*jutku*^$document
+||*jutsku*^$document
+||*kananpaska*^$document
+||*koiranpaska*^$document
+||*kulli*^$document
+||*kuppainen*^$document
+||*kusaista*^$document
+||*kuseksia*^$document
+||*kusettaa*^$document
+||*kusi*^$document
+||*kusta*^$document
+||*kyrpä*^$document
+||*kyrpänaama*^$document
+||*kyrpiä*^$document
+||*kyrpiintyä*^$document
+||*kyrpiintynyt*^$document
+||*kyrvitys*^$document
+||*lahtari*^$document
+||*lutka*^$document
+||*molo*^$document
+||*mulkero*^$document
+||*mulkku*^$document
+||*mulkvisti*^$document
+||*muna*^$document
+||*munapää*^$document
+||*munaton*^$document
+||*mutakuono*^$document
+||*mutiainen*^$document
+||*naida*^$document
+||*nainti*^$document
+||*narttu*^$document
+||*neekeri*^$document
+||*nekru*^$document
+||*nussi*^$document
+||*paljaalla*^$document
+||*palli*^$document
+||*paneskella*^$document
+||*panettaa*^$document
+||*panna*^$document
+||*pano*^$document
+||*pantava*^$document
+||*paska*^$document
+||*paskiainen*^$document
+||*paskoa*^$document
+||*pehko*^$document
+||*pentele*^$document
+||*perkele*^$document
+||*persaukinen*^$document
+||*perse*^$document
+||*persläpi*^$document
+||*perspano*^$document
+||*persvako*^$document
+||*pilkunnussija*^$document
+||*pillu*^$document
+||*pipari*^$document
+||*piru*^$document
+||*pistää*^$document
+||*pyllyvako*^$document
+||*rättipää*^$document
+||*reikä*^$document
+||*reva*^$document
+||*ripsipiirakka*^$document
+||*runkata*^$document
+||*runkkari*^$document
+||*runkkaus*^$document
+||*runkku*^$document
+||*ryssä*^$document
+||*saatanasti*^$document
+||*suklaaosasto*^$document
+||*tavara*^$document
+||*toosa*^$document
+||*tuhkaluukku*^$document
+||*tumputtaa*^$document
+||*turpasauna*^$document
+||*tussu*^$document
+||*vakipano*^$document
+||*viiksi*^$document
+||*vittu*^$document
+||*vitun*^$document
+||*vitusti*^$document
+||*vituttaa*^$document
+||*vitutus*^$document
+
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [] FR 🇫🇷 
 
 ||*baiser*^$document
@@ -1233,6 +1327,50 @@
 ||*turlute*^$document
 ||*zigounette*^$document
 ||*zizi*^$document
+
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+! [] HU 🇭🇺
+
+||*balfasz*^$document
+||*barmok*^$document
+||*barmot*^$document
+||*barom*^$document
+||*baszik*^$document
+||*bazmeg*^$document
+||*buksza*^$document
+||*bukszá*^$document
+||*búr*^$document
+||*csöcs*^$document
+||*fasz*^$document
+||*fing*^$document
+||*francok*^$document
+||*francokat*^$document
+||*francot*^$document
+||*geci*^$document
+||*kibaszott*^$document
+||*kurafi*^$document
+||*kúr*^$document
+||*leggecibb*^$document
+||*legkibaszottabb*^$document
+||*legszarabb*^$document
+||*marhák*^$document
+||*marhákat*^$document
+||*marhát*^$document
+||*megdöglik*^$document
+||*pelék*^$document
+||*picsa*^$document
+||*pina*^$document
+||*piná*^$document
+||*pofa*^$document
+||*pofá*^$document
+||*punci*^$document
+||*pöcs*^$document
+||*segg*^$document
+||*seggek*^$document
+||*seggfej*^$document
+||*szajha*^$document
+||*szajhá*^$document
+||*szar*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [] IT 🇮🇹
@@ -1539,6 +1677,33 @@
 ||*zuiplap*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+! [] NO 🇳🇴
+
+||*dritt*^$document
+||*faen*^$document
+||*fanken*^$document
+||*fitte*^$document
+||*forbann*^$document
+||*forjævlig*^$document
+||*føkk*^$document
+||*helvete*^$document
+||*jævl*^$document
+||*kukene*^$document
+||*kuker*^$document
+||*morraknuller*^$document
+||*morrapuler*^$document
+||*pakkis*^$document
+||*pikk*^$document
+||*pokker*^$document
+||*ræva*^$document
+||*ræven*^$document
+||*sinnsykt*^$document
+||*skitt*^$document
+||*sotrør*^$document
+||*ståpikk*^$document
+||*svartheiteste*^$document
+
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [] PO 🇵🇱
 
 ||*burdel*mama*^$document
@@ -1547,7 +1712,6 @@
 ||*ciota*^$document
 ||*cipa*^$document
 ||*cyc*^$document
-||*debil*^$document
 ||*dmuchać*^$document
 ||*dupa*^$document
 ||*dupek*^$document
@@ -1566,10 +1730,7 @@
 ||*kutas*^$document
 ||*pieprzyć*^$document
 ||*pierdoła*^$document
-||*pierdolec*^$document
-||*pierdolić*^$document
-||*pierdolnąć*^$document
-||*pierdolnięty*^$document
+||*pierdol*^$document
 ||*pierdzieć*^$document
 ||*pojeb*^$document
 ||*popierdolony*^$document
@@ -1757,6 +1918,39 @@
 ||*шалава*^$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+! [] SL 🇸🇰
+
+||*buzna*^$document
+||*chcanky*^$document
+||*chuj*^$document
+||*čumět*^$document
+||*čurák*^$document
+||*dršťka*^$document
+||*držka*^$document
+||*flundra*^$document
+||*hajzl*^$document
+||*hovno*^$document
+||*kokot*^$document
+||*koňomrd*^$document
+||*kunda*^$document
+||*mamrd*^$document
+||*mrdat*^$document
+||*mrdka*^$document
+||*mrdník*^$document
+||*oslošoust*^$document
+||*piča*^$document
+||*píchat*^$document
+||*píčus*^$document
+||*prdel*^$document
+||*šoustat*^$document
+||*sračka*^$document
+||*srát*^$document
+||*šulin*^$document
+||*vypíčenec*^$document
+||*zmrd*^$document
+||*žrát*^$document
+
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [] SRB 🇷🇸
 
 ||*bradavic*^$document
@@ -1766,11 +1960,19 @@
 ||*drolja*^$document
 ||*drtina*^$document
 ||*gilipter*^document
+||*jebac*^$document
+||*jebač*^$document
+||*jebat*^$document
+||*jebe*^$document
+||*jebi*^$document
+||*jebo*^$document
+||*jebu*^$document
 ||*kocka*^document
 ||*kozojeb*^$document
 ||*kurac*^$document
 ||*kurat*^$document
 ||*kurc*^$document
+||*prcat*^$document
 ||*kurv*^$document
 ||*magarčin*^$document
 ||*muda*^$document
