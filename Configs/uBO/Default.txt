@@ -235,6 +235,7 @@
 ! [4] DRUGS & TOBACCO
 
 ||*cigarette*^$all
+||*cannabis*^$all
 
 
 ||absolute-nature-cbd.com^
@@ -1685,6 +1686,57 @@
 ||wattpad.com^
 ||weheartit.com^
 ||wopita.com^
+
+* 
+Uncategorized
+
+4chan
+aol
+badoo
+bluesky
+bumble
+coverstar
+deviantart
+discord
+douyin
+element
+fediverse
+flickr
+Gab
+Gravatar
+Grindr
+Imgur
+Instagram
+Kik
+Kinzoo
+Kwai
+Line Messenger
+Messenger
+Mutual LDS Dating
+Nextdoor
+OkCupid
+Pairs dating
+parler
+pinterest
+reddit
+slack
+snapchat
+teamspeak
+telegram
+threads
+tiktok
+tinder
+truthsocial
+tumblr
+vk
+tinder
+truth social
+tumblr
+wechat
+wire
+x twitter
+xiaohongshu
+xooloo
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [9] PORN
