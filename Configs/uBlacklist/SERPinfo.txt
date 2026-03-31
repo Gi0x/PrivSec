@@ -10,3 +10,39 @@ pages:
     results:
       - root: div[data-testid="webResult"]
         url: a[href^="http"]
+
+
+
+
+
+
+
+Notes: 
+
+>> Web >>
+
+data-testid="webResult"
+
+<div class="_0IJFK" domain="https://de.wikipedia.org/wiki/Miami" data-testid="webResult" data-ub-icon-button-parent="1"
+data-ub-result="1">
+
+>> Images >>
+
+data-testid="imageResult"
+
+<a class="_4CBju dm1Bl_1xQVj zY7ez5eIRO" data-testid="imageResult"！ href=/？
+t=images&q=miami&o=0%3A39AB4D6ØFE287D772319CF6BC3A72F9A832E72EF"> event flex
+
+>> News >>
+
+data-testid="newsCardSerp"
+
+v<a class="external uTQiY _1xQVj +fQov pKXpZ iVQuc" href="https://kurier.at/sport/tennis/sunshine-double-sinner-masters-miami-tennis/403145824" data-testid="newsCardSerp">
+event
+
+>> Videos >>
+
+data-testid="videosList"
+
+y<div class="MØR05" data-testid="videosList"> grid
+<a class="r0lrV _7SENr _1xQVj zY7ez_5eIRO" href="https://www.youtube.com/watch?v=qWXm2tzc60Y">
