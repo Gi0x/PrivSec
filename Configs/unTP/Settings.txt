@@ -1,11 +1,11 @@
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
->> CONTENT FILTER 
+> CONTENT FILTER 
 
 – Enable Filtration:                            ✅    
 – Add Block Buttons to Context Menus:           ✅
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
->> HOME PAGE
+> HOME PAGE
 
 – Home Page is                                  Home Page
     – Hide Suggestions                          ✅
@@ -17,7 +17,7 @@
     - Hide Breaking News, Trending              ✅          
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
->> LEFT NAVIGATION BAR
+> LEFT NAVIGATION BAR
 
 – Home Section  
     – Hide Home Section                         ✅
@@ -83,4 +83,118 @@
     – Hide Burger Button                        ✅
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> HEADER
+
+– Search Bar
+    – Hide Search Bar                           /
+    – Hide Search Suggestions                   /
+    – Hide Previous Searches                    /
+    – Hide 'Voice Search' Button                ✅
+– Logo
+    – Hide Logo                                 ✅
+    – Logo Color                                Monochrome
+    – Disable Logo Link                         / 
+    – Hide Logo Country Code                    / 
+    – Hide Word in Logo                         ✅
+– Buttons
+    – Hide 'Create' Button                      ✅
+    – Hide 'Upload' Button                      ✅
+    – Hide 'Notifications' Button               ✅
+    – Hide Avatar                               / 
+    – Grayscale Avatar                          ✅
+    – Hide 'Sign In' Button                     ✅
+– Others
+    – Hide Header                               / 
+    – Hide Notifications Count                  ✅
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> SHORTS PAGE
+
+– Redirect
+    – Redirect Shorts to Normal Playlists       ✅
+– Others
+    – Disbale Scrolling                         ✅
+– Details
+    – Hide Description                          ✅
+    – Hide Channel Avatar                       ✅
+    – Hide Channel Username                     ✅
+    – Hide Likes Count                          ✅
+    – Hide Comment Count                        ✅
+    – Hide Dislike and Share Labels             ✅
+– Buttons
+    – Hide 'Play' Button                        ✅
+    – Hide 'Mute' Button                        ✅
+    – Hide 'Subscribe' Button                   ✅
+    – Hide 'Like' Button                        ✅
+    – Hide 'Dislike' Button                     ✅
+    – Hide 'Comment' Button                     ✅ 
+    – Hide 'Share' Button                       ✅
+    – Hide 'More' Button                        ✅
+    – Hide 'Sound' Button                       ✅
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> CHANNEL PAGE
+
+– Start Page on Channel is                      Playlists Page
+– Header
+    – Hide Banner                               ✅
+    – Grayscale Banner                          ✅
+    – Hide Channel Avatar                       / 
+    – Grayscale Channel Avatar                  / 
+    – Hide Channel Name                         / 
+    – Hide Verified Badge                       / 
+    – Hide Channel ID                           ✅
+    – Hide Subscribers Count                    ✅
+    – Hide Videos Count                         ✅
+    – Hide Channel Tagline                      / 
+    – Hide Links                                ✅
+    – Hide 'Subscribe' Button                   ✅
+    – Hide 'Purchase' Button                    ✅
+    – Hide 'Join' Button                        ✅
+– Horizontal Menu Bar
+    – Hide Entire Menu                          ✅
+– Sections
+    – Hide 'For You' Section                    ✅
+    – Hide 'Videos' Section                     ✅ 
+    – Hide 'Popular Videos' Section             ✅
+    – Hide 'Playlist' Section                   /
+    – Hide 'Our Members' Section                ✅ 
+    – Hide 'Featured' Section                   ✅
+    – Hide 'Releases' Section                   ✅
+    – Hide 'Live' Section                       ✅
+    – Hide 'Play All' Section                   ✅
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> LIBRARY PAGE
+
+– Hide Your Avatar                              /
+– Hide 'History' Section                        /
+– Hide 'Watch Later' Section                    / 
+– Hide 'Playlists' Section                      /
+– Hide 'Liked Videos' Section                   / 
+– Hide 'Your Clips' Section                     / 
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> EMBED VIDEOS
+
+– Hide Suggestions in the Video End             ✅
+– Hide Cards in the Video End                   ✅
+– Hide Video Player Bar Gradient Shadow         /
+– Hide Top Gradient Shadow                      / 
+– Hide Recommendations on Pause                 ✅
+– Hide Video Title                              /
+– Hide Video Time                               / 
+– Hide Channel Avatar                           / 
+– Hide Watermark                                / 
+– Hide 'Watch on YouTube' Button                / 
+– Hide YouTube Button                           / 
+– Hide 'Play/Pause/Replay' Button               / 
+– Hide 'Volume' Button                          / 
+– Hide 'Captions' Button                        / 
+– Hide 'Settings' Button                        / 
+– Hide 'Full Screen' Button                     / 
+– Hide 'Share' Button                           / 
+– Hide 'More From' Button                       / 
+– Hide 'Actions' Button                         /            
+
 
