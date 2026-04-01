@@ -1,15 +1,7 @@
 # Title: Keywords
 # Info: Keywords List
+# Source: https://github.com/censor-text/profanity-list?tab=readme-ov-file
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBlacklist/Keywords.txt
-# ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-# SOURCES
-
-# https://github.com/censor-text/profanity-list?tab=readme-ov-file
-# https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
-# https://github.com/coffee-and-fun/google-profanity-words/blob/main/data/en.txt
-# https://github.com/rominf/profanity-filter/blob/master/profanity_filter/data/en_profane_words.txt
-# https://github.com/profanitas/abuse/blob/master/abuse/dataset_en.csv
-
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # SYNTAX
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
@@ -22,7 +14,8 @@
 
 # /(^|[-_/])(ass(es|face|grab|hole))([-_/]|$)/i
 
-# Matches: asses, assface, assgrab, asshole but does NOT match ass
+# Matches: 
+# asses, assface, assgrab, asshole but does NOT match ass
 # Omits ? because the root word is ambiguous and may form part of other words, ex. assign
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
@@ -30,7 +23,8 @@
 
 # /(^|[-_/])(celeb(s|rity|rities)|gossip(ed|er|ing|s|y)?)([-_/]|$)/i
 
-# Matches: celebs, celebrity, celebrities, gossip, gossiped, gossiper, gossiping, gossips, gossipy &
+# Matches: 
+# celebs, celebrity, celebrities, gossip, gossiped, gossiper, gossiping, gossips, gossipy &
 
 # /celebrities/
 # site.com/gossiping/news
