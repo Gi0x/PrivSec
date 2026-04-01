@@ -214,7 +214,6 @@
 ||*big*rack*$document
 ||*big*tit*$document
 ||*bimbo*$document
-||*bissexual*$document
 ||*bitch*$document
 ||*bite*me*$document
 ||*blonde*action*$document
@@ -301,7 +300,6 @@
 ||*clam*dive*$document
 ||*clam*lip*$document
 ||*clit*$document
-||*cocain*$document
 ||*cock*$document
 ||*coital*$document
 ||*coitus*$document
@@ -516,6 +514,7 @@
 ||*h00r*$document
 ||*h0ar*$document
 ||*h0r*$document
+||*happy*end*$document
 ||*h0re*$document
 ||*hand*job*$document
 ||*hard*core*$document

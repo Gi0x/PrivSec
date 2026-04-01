@@ -46,7 +46,6 @@
 ||*star*sign*$document
 ||*yogi*$document
 
-
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [2] CHAT
 
@@ -85,114 +84,111 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [4] DRUGS & TOBACCO
 
-||*cigarette*^$document
+||cbd*^$document
+||cbd-*^$document
+||-cbd*^$document
+||*cbd*^$document
+
+||*bc*seed*^$document
+||*bong*^$document
+||*canabis*^$document
+||*canabiz*^$document
 ||*cannabis*^$document
+||*cigaret*^$document
+||*cigarette*^$document
+||*cigi*^$document
+||*cigs*^$document
+||*cigz*^$document
+||*cohiba*^$document
+||*droga*^$document
+||*drugs*^$document
+||*drugz*^$document
+||*hemp*cbd*^$document
+||*herb*^$document
+||*hookah*^$document
+||*kanabis*^$document
+||*kannabis*^$document
+||*kohib*^$document
+||*leaf*^$document
+||*marijuana*^$document
+||*modafinil*^$document
+||*organic*^$document
+||*pure*kana*^$document
+||*queen*seed*^$document
+||*seed*^$document
+||*shisha*^$document
+||*smoke*^$document
+||*vape*^$document
+||*vaping*^$document
+||*vapor*^$document
 ||*weed*^$document
-||*vape*
-||*vaping
+||*xanax*^$document
+||cbd*hemp*^$document
+||tobacco*^$document
+||tobaco*^$document
+||tobako*^$document
+
+||*bc*seed*$document
+||*bong*$document
+||*canabis*$document
+||*canabiz*$document
+||*cannabis*$document
+||*cigaret*$document
+||*cigarette*$document
+||*cigi*$document
+||*cigs*$document
+||*cigz*$document
 ||*cocain*$document
-
-||absolute-nature-cbd.com^
-||afinilexpress.com^
-||americanhempoil.net^
-||apothecarium.com^
-||barneysfarm.com^
-||bcseedking.com^
-||blosumcbd.com^
-||bluelight.org^
-||buycigarettesonline.org^
-||buyweedonlineusa.com^
-||buyxanaxonline.org^
-||cannabis.net^
-||cbd.co^
-||cbdchoice.com^
-||cbdfx.com^
-||cbdistillery.com^
-||cbdliving.com^
-||cbdmd.com^
-||centralvapors.com^
-||charlottesweb.com^
-||cheapcigarettes.com^
-||cigaretteprices.net^
-||cigarettesamerica.com^
-||cigs4less.com^
-||darknetlive.com^
-||dnstats.net^
-||drugs-forum.com^
-||dutch-passion.com^
-||ecig-city.com^
-||eightvape.com^
-||elementvape.com^
-||erowid.org^
-||fabcbd.com^
-||fugginvapor.com^
-||greenthumbindustries.com^
-||growerschoiceseeds.com^
-||hempbombs.com^
-||hempyresearch.com^
-||herb.co^
-||highthere.com^
-||homegrowncannabisco.com^
-||ilovegrowingmarijuana.com^
-||joyorganics.com^
-||kingbong.com.br^
-||kyhicbd.com^
-||leafbuyer.com^
-||leafly.com^
-||liftmode.com^
-||marijuanabreak.com^
-||marijuanapackaging.com^
-||medicalmarijuanainc.com^
-||medterracbd.com^
-||misthub.com^
-||modafinil.org^
-||modafiniledge.com^
-||modafinilxl.com^
-||myfreedomsmokes.com^
-||myvpro.com^
-||nootropics.com^
-||nootropicsdepot.com^
-||nootropicsexpert.com^
-||potguide.com^
-||purekana.com^
-||royalcbd.com^
-||royalqueenseeds.com^
-||savagecbd.com^
-||science.bio^
-||smokersunit.com^
-||smokstore.com^
-||supersmart.com^
-||thecannabist.co^
-
-||tobaccoonline.co.uk^
-||tobaccostock.com^
-||tobaccousa.com^
-||vape-box.com^
-||vape-deals.com^
-||vape.com^
-||vape4ever.com^
-||vaped.com^
-||vapedeal.com^
-||vapejuice.com^
-||vapes.com^
-||vapeshack.com^
-||vapesocietysupply.com^
-||vapewild.com^
-||vapordna.com^
-||vaporesso.com^
-||vaporfi.com^
-||vaporhub.com^
-||veritasfarms.com^
-||weedmaps.com^
+||*cohiba*$document
+||*droga*$document
+||*drugs*$document
+||*drugz*$document
+||*hemp*cbd*$document
+||*herb*$document
+||*hookah*$document
+||*kanabis*$document
+||*kannabis*$document
+||*kohib*$document
+||*leaf*$document
+||*marijuana*$document
+||*modafinil*$document
+||*organic*$document
+||*pure*kana*$document
+||*queen*seed*$document
+||*seed*$document
+||*shisha*$document
+||*smoke*$document
+||*vape*$document
+||*vaping*$document
+||*vapor*$document
+||*weed*$document
+||*xanax*$document
+||cbd*hemp*$document
+||tobacco*$document
+||tobaco*$document
+||tobako*$document
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [5] GAMBLING
+
+
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [6] GAMING
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! [7] NEWS
+
+! For domains that have multiple tlds, ex. businessinsider, write: ||businessinsider.^$document
+
+! For domains like abc, with numbers in them, write: ||abc7*^$document
+
+! Matches: 
+! ||abc7.com^
+! ||abc7amarillo.com^
+! ||abc7chicago.com^
+! ||abc7news.com^
+! ||abc7ny.com^
 
 ||1stnews.com^
 ||3news.com^
@@ -206,16 +202,12 @@
 ||1011now.com^
 ||aa.com.tr^
 ||abc6onyourside.com^
-||abc7.com^
-||abc7amarillo.com^
-||abc7chicago.com^
-||abc7news.com^
-||abc7ny.com^
-||abc11.com^
-||abc12.com^
-||abc17news.com^
-||abc27.com^
-||abc30.com^
+||abc7*^$document
+||abc11*^$document
+||abc12*^$document
+||abc17*^$document
+||abc27*^$document
+||abc30*^$document
 ||abc3340.com^
 ||abc.net.au^
 ||abcactionnews.com^
@@ -275,12 +267,7 @@
 ||breitbart.com^
 ||buffalonews.com^
 ||business-standard.com^
-||businessinsider.co.za^
-||businessinsider.com^
-||businessinsider.com.au^
-||businessinsider.in^
-||businessinsider.my^
-||businessinsider.nl^
+||businessinsider.^
 ||businesslive.co.za^
 ||businesstoday.in^
 ||buzzfeed.com^
