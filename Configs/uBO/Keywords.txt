@@ -421,6 +421,7 @@
 ||*fags*$document
 ||*fagz*$document
 ||*fanny*$document
+||*fapp*^$document
 ||*fart*$document
 ||*fat*ass*$document
 ||*fatso*$document
@@ -468,6 +469,8 @@
 ||*fuuck*$document
 ||*fvcker*$document
 ||fag*^$document
+||fap*^$document
+
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 ! 1G
