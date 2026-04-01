@@ -21,6 +21,7 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 # 1 Keyword w/t Multiple Characters & Variations
 
+# Basic
 # [-_/] = - _ / 
 
 # /(^|[-_/])(poop(s|ing|ed|er(s|z)?|[-_/]?(face|hole|head))?)([-_/]|$)/i
@@ -29,8 +30,13 @@
 # poop, poops, pooping, pooped, pooper, poopers, pooperz, poopface, poophole, poophead
 # poop-face, poop-head, poop-hole, poop_face, poop_head, poop_hole, poop/face, poop/head, poop/hole
 
-# [-_/.+&=:~,;] = 
+# Advanced
+# [-_/.+&=:~,;] = - _ / . + & = : ~ , ;
+
 /(^|[-_/.+&=:~,;])(poop(s|ing|ed|er(s|z)?|[-_/.+&=:~,;]?(face|hole|head))?)([-_/.+&=:~,;]|$)/i
+
+# Matches: 
+# Everything above, but with more characters in between
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [1] A
