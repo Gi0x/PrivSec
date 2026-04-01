@@ -1,0 +1,27 @@
+# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+>> CONTENT FILTER 
+
+– Enable Filtration:                       ✅    
+– Add Block Buttons to Context Menus:      ✅
+
+# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+>> HOME PAGE
+
+– Home Page is:                         Home Page
+    – Hide Suggestions                  ✅
+        - Rows                          Default
+        - Columns                       1
+    – Hide Suggestions Categories       ✅
+    – Hide Watched Videos               ✅
+    - Hide Playlists & Mixes            ✅     
+    - Hide Breaking News, Trending      ✅          
+
+
+# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+>> LEFT NAVIGATION BAR
+
+- Hide All Shorts                 ✅     
+- Hide All Banner Ads             ✅         
+Disable Video AutoPlay          ✅      
+Skip Video Ads                  ✅                  
+
