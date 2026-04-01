@@ -1,0 +1,30 @@
+!✅
+
+!> TLDs 
+@@||edu^
+@@||gov^
+
+!> Domains
+@@||amazon.*^
+@@||archive.org^
+@@||cloudflare.com^
+@@||codeberg.org^
+@@||fsdn.com^
+@@||mozilla.net^
+@@||one.hu^
+@@||sourceforge.net^
+@@||viber.com^
+@@||wondershare.com^
+@@||youtube.com^
+
+!❌
+
+!> TLDs
+
+
+!> Domains 
+||brave.com^
+||*.photopea.com^
+||*.qwant.com^
+
+!➥
