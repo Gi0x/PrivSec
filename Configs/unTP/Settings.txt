@@ -1,27 +1,86 @@
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 >> CONTENT FILTER 
 
-– Enable Filtration:                       ✅    
-– Add Block Buttons to Context Menus:      ✅
+– Enable Filtration:                            ✅    
+– Add Block Buttons to Context Menus:           ✅
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 >> HOME PAGE
 
-– Home Page is:                         Home Page
-    – Hide Suggestions                  ✅
-        - Rows                          Default
-        - Columns                       1
-    – Hide Suggestions Categories       ✅
-    – Hide Watched Videos               ✅
-    - Hide Playlists & Mixes            ✅     
-    - Hide Breaking News, Trending      ✅          
-
+– Home Page is                                  Home Page
+    – Hide Suggestions                          ✅
+        - Rows                                  Default
+        - Columns                               1
+    – Hide Suggestions Categories               ✅
+    – Hide Watched Videos                       ✅
+    - Hide Playlists & Mixes                    ✅     
+    - Hide Breaking News, Trending              ✅          
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 >> LEFT NAVIGATION BAR
 
-- Hide All Shorts                 ✅     
-- Hide All Banner Ads             ✅         
-Disable Video AutoPlay          ✅      
-Skip Video Ads                  ✅                  
+– Home Section  
+    – Hide Home Section                         ✅
+    – Hide Home Button                          ✅                               
+    – Hide Subscriptions Button                 ✅
+    – Hide YouTube Music Button                 ✅        
+– Library Section
+    – Hide Library Section                      ✅
+    – Hide You Button                           ✅
+    – Hide Your Channel Button                  ✅
+    – Hide History Button                       ✅
+    – Hide Playlists Button                     ✅
+    – Hide Your Videos Button                   ✅
+    – Hide Your Movies Button                   ✅
+    – Hide Watch Later Button                   ✅
+    – Hide Downloads Button                     ✅
+    – Hide Your Clips Button                    ✅
+    – Hide Liked Videos Button                  ✅
+    – Hide Show More/Show Less Button           ✅
+    – Auto Expand Playlists                     ✅
+– Subscriptions Section
+    – Hide Subscriptions Section                ✅
+    – Hide Subscriptions Title                  ✅
+    – Auto Expand Subscriptions                 ✅
+    – Hide Subscriptions Notifications Dots     ✅
+    – Hide Subscriptions Live Icon              ✅
+    – Hide Subscriptions Avatars                ✅
+    – Grayscale Subscriptions Avatars           ✅
+    – Hide Show More/Show Less Button           ✅
+    – Hide Browse Channels Button               ✅
+    – Hide All Subscriptions Button             ✅
+– Explore Section
+    – Hide Explore Section                      ✅
+    – Hide Explore Title                        ✅
+    – Hide Trending Button                      ✅
+    – Hide Music Button                         ✅
+    – Hide Movies Button                        ✅
+    – Hide Live Button                          ✅
+    – Hide Gaming Button                        ✅
+    – Hide News Button                          ✅
+    – Hide Sports Button                        ✅
+    – Hide Learning Button                      ✅
+    – Hide Podcasts Button                      ✅
+– More from YouTube Section
+    – Hide More from YouTube Section            ✅
+    – Hide More from YouTube Title              ✅
+    – Hide Premium Button                       ✅
+    – Hide Studio Button                        ✅
+    – Hide Music Button                         ✅
+    – Hide Kids Button                          ✅
+– Auxiliary Buttons Section
+    – Hide Auxiliary Buttons Section            ✅
+    – Hide Settings Button                      ✅
+    – Hide Report History Button                ✅
+    – Hide Help Button                          ✅
+    – Hide Send Feedback Button                 ✅
+– Sections
+    – Hide 'Sign In' Section                    ✅
+    – Hide 'Footer' Section                     ✅
+– Other
+    – Hide Entire Sidebar                       ✅
+    – Auto Collapse Sidebar                     ✅
+    – Hide Burger Button                        ✅
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
 
