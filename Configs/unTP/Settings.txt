@@ -9,12 +9,12 @@
 
 – Home Page is                                  Home Page
     – Hide Suggestions                          ✅
-        - Rows                                  Default
-        - Columns                               1
+        – Rows                                  Default
+        – Columns                               1
     – Hide Suggestions Categories               ✅
     – Hide Watched Videos                       ✅
-    - Hide Playlists & Mixes                    ✅     
-    - Hide Breaking News, Trending              ✅          
+    – Hide Playlists & Mixes                    ✅     
+    – Hide Breaking News, Trending              ✅          
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 > LEFT NAVIGATION BAR
@@ -133,7 +133,98 @@
     – Hide 'Sound' Button                       ✅
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
-> VIDEO ibtimes
+> VIDEO PAGE
+
+– Sidebar
+    – Hide Related Video                        ✅
+    – Centering Content                         ✅
+    – Hide Live Chat                            ✅
+    – Hide Playlist                             ✅
+    – Hide Fundraiser                           ✅
+    – Automatically Show Chapters               ✅
+    – Fixed Sidebar                             -
+    – Max Height Panels                         ✅
+– Video Player
+    – Hide Suggestions in the Video End         ✅
+    – Hide Cards in the Video End               ✅
+    – Hide Video Player Bar Gradient Shadow     ✅
+    – Hide Video Time                           -
+    – Hide Watermark                            -
+    – Hide the Graph of Most Viewed Scenes      ✅
+    – Disable Autoplay                          ✅
+    – Auto Theater Mode                         -
+    – Remove Corner Radius                      ✅
+    – Hide 'Includes Paid Promotion'            ✅
+    – Grayscale Video                           -
+– Details
+    – Hide Video Title                          -
+    – Hide Channel Avatar                       -
+    – Grayscale Channel Avatar                  -
+    – Hide Channel Name                         - 
+    – Hide Channel Subscribers Count            ✅
+    – Hide Doctor License                       -
+    – Hide 'Fundraiser' Badge                   ✅
+    – Hide 'Verified' Badge                     -
+    – Hide Info Row - License, UMG Suggested    ✅
+    – Hide Merch, Ticket, Office                ✅
+– Description
+    – Hide Description                          -
+    – Auto Expand Description                   ✅
+    – Minimal Description (Views & Date)        - 
+    – Hide Video Views Count                    ✅
+    – Hide Video Published Time                 ✅
+    – Hide Video Hashtags                       ✅
+    – Hide Transcript Block                     -
+    – Hide Channel Info                         -
+    – Hide Videos Button                        ✅
+    – Hide About Button                         -
+– Video Player Button
+    – Hide 'Play/Pause' Button                  -
+    – Hide 'Replay' Button                      -
+    – Hide 'Play Next' Button                   ✅
+    – Hide 'Volume' Button                      -
+    – Hide 'Chapters' Button                    -
+    – Hide 'Autoplay' Button                    ✅
+    – Hide 'Captions' Button                    -
+    – Hide 'Settings' Button                    -
+    – Hide 'Mini Player' Button                 -
+    – Hide 'Theater Mode' Button                -
+    – Hide 'Airplay' Button                     ✅
+    – Hide 'Full Screen' Button                 -
+    – Hide 'More from this Channel Button'      ✅   
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> VIDEO ITEM
+
+– Thumnail
+    – Hide Thumbnail                            -
+    – Replace Thumbnail                         Default
+    – Flip Thumbnail Horizontally               ✅
+    – Blur Thumbnail                            -
+    – Shade of Gray for Thumbnails              -
+    – Thumbnail Transparency                    -
+    – Disable Play on Hover                     ✅
+    – Remove Corner Radius                      ✅
+    – Hide 'Includes Paid Promotion'            ✅
+– Title
+    – Hide Title                                -
+    – Display Full Title                        ✅
+    – Title Text Case                           Default
+– Details
+    – Hide Channel Avatar                       -
+    – Grayscale Channel Avatar                  -
+    – Hide Channel Name                         -
+    – Hide Views Count                          ✅
+    – Hide Published Time                       - 
+    – Hide Video Duration                       -
+    – Hide 'Menu' Button                        -
+    – Hide Description                          -
+    – Hide Chapters                             -
+– Badges
+    – Hide 'New, 4K, CC' Badges                 -
+    _ Hide 'Live, Premiere' Badges              ✅
+    – Hide 'Fundraiser' Badges                  ✅
+    – Hide 'Verified' Badges                    -
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
 > SEARCH PAGE
