@@ -36,7 +36,7 @@
     – Hide Downloads Button                     ✅
     – Hide Your Clips Button                    ✅
     – Hide Liked Videos Button                  ✅
-    – Hide Show More/Show Less Button           ✅
+    – Hide Show More-Show Less Button           ✅
     – Auto Expand Playlists                     ✅
 – Subscriptions Section
     – Hide Subscriptions Section                ✅
@@ -46,7 +46,7 @@
     – Hide Subscriptions Live Icon              ✅
     – Hide Subscriptions Avatars                ✅
     – Grayscale Subscriptions Avatars           ✅
-    – Hide Show More/Show Less Button           ✅
+    – Hide Show More-Show Less Button           ✅
     – Hide Browse Channels Button               ✅
     – Hide All Subscriptions Button             ✅
 – Explore Section
@@ -86,25 +86,25 @@
 > HEADER
 
 – Search Bar
-    – Hide Search Bar                           /
-    – Hide Search Suggestions                   /
-    – Hide Previous Searches                    /
+    – Hide Search Bar                           -
+    – Hide Search Suggestions                   -
+    – Hide Previous Searches                    -
     – Hide 'Voice Search' Button                ✅
 – Logo
     – Hide Logo                                 ✅
     – Logo Color                                Monochrome
-    – Disable Logo Link                         / 
-    – Hide Logo Country Code                    / 
+    – Disable Logo Link                         - 
+    – Hide Logo Country Code                    - 
     – Hide Word in Logo                         ✅
 – Buttons
     – Hide 'Create' Button                      ✅
     – Hide 'Upload' Button                      ✅
     – Hide 'Notifications' Button               ✅
-    – Hide Avatar                               / 
+    – Hide Avatar                               - 
     – Grayscale Avatar                          ✅
     – Hide 'Sign In' Button                     ✅
 – Others
-    – Hide Header                               / 
+    – Hide Header                               - 
     – Hide Notifications Count                  ✅
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
@@ -133,20 +133,48 @@
     – Hide 'Sound' Button                       ✅
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> VIDEO ibtimes
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> SEARCH PAGE
+
+– Search Results
+    – Hide Channels                             ✅
+    – Hide Playlists                            - 
+    – Hide Mixes                                ✅
+    – Hide For You, Trending, etc.              ✅
+    – Hide People Also Search For               ✅
+    – Hide Watched Videos                       -
+    – Disable Infinite Results Scrolling        ✅
+    – Hide Right Sidebar                        ✅
+    – Sort Results by                           Upload Date
+– Buttons
+    – Hide 'About These Results' Button         -
+    – Hide 'Filters' Button                     - 
+    – Hide Search Categories                    -
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> SUBSCRIPTIONS PAGE
+
+– Hide Watched Videos                           ✅
+– Hide Live and Premiere Videos                 ✅
+– Hide Upcoming Videos                          ✅
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
 > CHANNEL PAGE
 
 – Start Page on Channel is                      Playlists Page
 – Header
     – Hide Banner                               ✅
     – Grayscale Banner                          ✅
-    – Hide Channel Avatar                       / 
-    – Grayscale Channel Avatar                  / 
-    – Hide Channel Name                         / 
-    – Hide Verified Badge                       / 
+    – Hide Channel Avatar                       -
+    – Grayscale Channel Avatar                  - 
+    – Hide Channel Name                         - 
+    – Hide Verified Badge                       - 
     – Hide Channel ID                           ✅
     – Hide Subscribers Count                    ✅
     – Hide Videos Count                         ✅
-    – Hide Channel Tagline                      / 
+    – Hide Channel Tagline                      - 
     – Hide Links                                ✅
     – Hide 'Subscribe' Button                   ✅
     – Hide 'Purchase' Button                    ✅
@@ -157,7 +185,7 @@
     – Hide 'For You' Section                    ✅
     – Hide 'Videos' Section                     ✅ 
     – Hide 'Popular Videos' Section             ✅
-    – Hide 'Playlist' Section                   /
+    – Hide 'Playlist' Section                   -
     – Hide 'Our Members' Section                ✅ 
     – Hide 'Featured' Section                   ✅
     – Hide 'Releases' Section                   ✅
@@ -167,34 +195,32 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
 > LIBRARY PAGE
 
-– Hide Your Avatar                              /
-– Hide 'History' Section                        /
-– Hide 'Watch Later' Section                    / 
-– Hide 'Playlists' Section                      /
-– Hide 'Liked Videos' Section                   / 
-– Hide 'Your Clips' Section                     / 
+– Hide Your Avatar                              -
+– Hide 'History' Section                        -
+– Hide 'Watch Later' Section                    - 
+– Hide 'Playlists' Section                      -
+– Hide 'Liked Videos' Section                   - 
+– Hide 'Your Clips' Section                     - 
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
 > EMBED VIDEOS
 
 – Hide Suggestions in the Video End             ✅
 – Hide Cards in the Video End                   ✅
-– Hide Video Player Bar Gradient Shadow         /
-– Hide Top Gradient Shadow                      / 
+– Hide Video Player Bar Gradient Shadow         -
+– Hide Top Gradient Shadow                      - 
 – Hide Recommendations on Pause                 ✅
-– Hide Video Title                              /
-– Hide Video Time                               / 
-– Hide Channel Avatar                           / 
-– Hide Watermark                                / 
-– Hide 'Watch on YouTube' Button                / 
-– Hide YouTube Button                           / 
-– Hide 'Play/Pause/Replay' Button               / 
-– Hide 'Volume' Button                          / 
-– Hide 'Captions' Button                        / 
-– Hide 'Settings' Button                        / 
-– Hide 'Full Screen' Button                     / 
-– Hide 'Share' Button                           / 
-– Hide 'More From' Button                       / 
-– Hide 'Actions' Button                         /            
-
-
+– Hide Video Title                              -
+– Hide Video Time                               - 
+– Hide Channel Avatar                           - 
+– Hide Watermark                                - 
+– Hide 'Watch on YouTube' Button                - 
+– Hide YouTube Button                           - 
+– Hide 'Play-Pause-Replay' Button               - 
+– Hide 'Volume' Button                          - 
+– Hide 'Captions' Button                        - 
+– Hide 'Settings' Button                        - 
+– Hide 'Full Screen' Button                     - 
+– Hide 'Share' Button                           - 
+– Hide 'More From' Button                       - 
+– Hide 'Actions' Button                         -            
