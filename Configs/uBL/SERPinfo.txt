@@ -1,5 +1,5 @@
 name: Qwant
-homepage: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBlacklist/SERPinfo.txt
+homepage: https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBL/SERPinfo.txt
 lastModified: 2026-03-30T00:00:00Z
 
 pages:

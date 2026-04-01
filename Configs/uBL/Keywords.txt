@@ -1,7 +1,7 @@
 # Title: Keywords
 # Info: Keywords List
 # Source: https://github.com/censor-text/profanity-list?tab=readme-ov-file
-# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBlacklist/Keywords.txt
+# https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBL/Keywords.txt
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # SYNTAX
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
@@ -21,14 +21,16 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––  
 # 1 Keyword w/t Multiple Characters & Variations
 
-# /(^|[-_/])(poop(s|ing|ed|[-_/]?(face|hole|head))?)([-_/]|$)/i
+# [-_/] = - _ / 
+
+# /(^|[-_/])(poop(s|ing|ed|er(s|z)?|[-_/]?(face|hole|head))?)([-_/]|$)/i
 
 # Matches: 
-# poop, poops, pooping, pooped, poopface, poophole, poophead, 
+# poop, poops, pooping, pooped, pooper, poopers, pooperz, poopface, poophole, poophead
 # poop-face, poop-head, poop-hole, poop_face, poop_head, poop_hole, poop/face, poop/head, poop/hole
 
-# [-_/+] = -, _, +  
-# Can be expanded to include more symbols, for ex: [-_/+*&%] 
+# [-_/.+&=:~,;] = 
+/(^|[-_/.+&=:~,;])(poop(s|ing|ed|er(s|z)?|[-_/.+&=:~,;]?(face|hole|head))?)([-_/.+&=:~,;]|$)/i
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [1] A
@@ -47,6 +49,9 @@
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [6] F
+
+# Fuck
+# /(^|[-_/])(fuck(s|ed|z|ing|in|er(s|z)?|[-_/]?(face|hole|head|mouth))?)([-_/]|$)/i
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [7] G
@@ -80,7 +85,9 @@
 
 # Porn
 # /(^|[-_/])(porn(hub|o|os|ographer|ography|ographic|ografia|ici|icu|star|stars)?)([-_/]|$)/i
-Matches: pornhub,porno,pornos,pornographer,pornography,pornographic,pornografia,pornici,pornicu,pornstar,pornstars
+
+Matches: 
+pornhub,porno,pornos,pornographer,pornography,pornographic,pornografia,pornici,pornicu,pornstar,pornstars
 
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # [17] Q 
