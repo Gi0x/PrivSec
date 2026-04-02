@@ -1,12 +1,18 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-! ALLOW/BLOCK
+! PERMANENT A/B
 
-@||freedom.to^
-@||github.com^
+@@||chatplayground.ai^$all
+@@||freedom.to^$all
+@@||github.com^$all
+
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+! TEMPORARY A/B
+
+@@||japanpost.jp^
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! COSMETIC FILTERS
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Brave
+! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Brave Search
 
 ! Search Results Panel
 safe.search.brave.com###search-page
@@ -36,8 +42,10 @@ duckduckgo.com##[data-testid="safe-search-message"]
 duckduckgo.com##button#header-hamburger-menu-btn
 duckduckgo.com##button[data-testid="sidemenu-button"]
 
-! News & Videos Tabs
-duckduckgo.com##li:has(> a[href*="ia=news"])
+! News Tab
+!duckduckgo.com##li:has(> a[href*="ia=news"])
+
+! Videos Tab
 duckduckgo.com##li:has(> a[href*="ia=videos"])
 
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– YouTube
