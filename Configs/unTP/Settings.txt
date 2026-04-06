@@ -93,7 +93,7 @@
 – Logo
     – Hide Logo                                 -
     – Logo Color                                Grayscale
-    – Disable Logo Link                         ✅ 
+    – Disable Logo Link                         -
     – Hide Logo Country Code                    - 
     – Hide Word in Logo                         -
 – Buttons
