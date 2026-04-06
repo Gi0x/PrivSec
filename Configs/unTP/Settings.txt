@@ -87,20 +87,20 @@
 
 – Search Bar
     – Hide Search Bar                           -
-    – Hide Search Suggestions                   -
-    – Hide Previous Searches                    -
+    – Hide Search Suggestions                   ✅
+    – Hide Previous Searches                    ✅
     – Hide 'Voice Search' Button                ✅
 – Logo
     – Hide Logo                                 ✅
-    – Logo Color                                Monochrome
-    – Disable Logo Link                         - 
+    – Logo Color                                Grayscale
+    – Disable Logo Link                         ✅ 
     – Hide Logo Country Code                    - 
     – Hide Word in Logo                         ✅
 – Buttons
     – Hide 'Create' Button                      ✅
     – Hide 'Upload' Button                      ✅
     – Hide 'Notifications' Button               ✅
-    – Hide Avatar                               - 
+    – Hide Avatar                               ✅
     – Grayscale Avatar                          ✅
     – Hide 'Sign In' Button                     ✅
 – Others
