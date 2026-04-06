@@ -283,7 +283,9 @@
     – Hide 'Podcasts' Button                    ✅
     – Hide 'Playlists' Button                   ✅
     – Hide 'Community' Button                   ✅ 
-    - Hide '             
+    – Hide 'Store' Button                       ✅                        
+    – Hide 'Channels' Button                    ✅
+    – Hide 'Search' Button                      ✅
 – Sections
     – Hide 'For You' Section                    ✅
     – Hide 'Videos' Section                     ✅ 
