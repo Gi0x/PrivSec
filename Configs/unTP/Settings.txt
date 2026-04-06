@@ -91,11 +91,11 @@
     – Hide Previous Searches                    ✅
     – Hide 'Voice Search' Button                ✅
 – Logo
-    – Hide Logo                                 ✅
+    – Hide Logo                                 -
     – Logo Color                                Grayscale
     – Disable Logo Link                         ✅ 
     – Hide Logo Country Code                    - 
-    – Hide Word in Logo                         ✅
+    – Hide Word in Logo                         -
 – Buttons
     – Hide 'Create' Button                      ✅
     – Hide 'Upload' Button                      ✅
