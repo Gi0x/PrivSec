@@ -108,31 +108,6 @@
     – Hide Notifications Count                  ✅
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
-> SHORTS PAGE
-
-– Redirect
-    – Redirect Shorts to Normal Playlists       ✅
-– Others
-    – Disbale Scrolling                         ✅
-– Details
-    – Hide Description                          ✅
-    – Hide Channel Avatar                       ✅
-    – Hide Channel Username                     ✅
-    – Hide Likes Count                          ✅
-    – Hide Comment Count                        ✅
-    – Hide Dislike and Share Labels             ✅
-– Buttons
-    – Hide 'Play' Button                        ✅
-    – Hide 'Mute' Button                        ✅
-    – Hide 'Subscribe' Button                   ✅
-    – Hide 'Like' Button                        ✅
-    – Hide 'Dislike' Button                     ✅
-    – Hide 'Comment' Button                     ✅ 
-    – Hide 'Share' Button                       ✅
-    – Hide 'More' Button                        ✅
-    – Hide 'Sound' Button                       ✅
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
 > VIDEO PAGE
 
 – Sidebar
@@ -149,7 +124,7 @@
     – Hide Cards in the Video End               ✅
     – Hide Video Player Bar Gradient Shadow     ✅
     – Hide Video Time                           -
-    – Hide Watermark                            -
+    – Hide Watermark                            ✅
     – Hide the Graph of Most Viewed Scenes      ✅
     – Disable Autoplay                          ✅
     – Auto Theater Mode                         -
@@ -169,14 +144,14 @@
     – Hide Merch, Ticket, Office                ✅
 – Description
     – Hide Description                          -
-    – Auto Expand Description                   ✅
+    – Auto Expand Description                   -
     – Minimal Description (Views & Date)        - 
     – Hide Video Views Count                    ✅
-    – Hide Video Published Time                 ✅
-    – Hide Video Hashtags                       ✅
+    – Hide Video Published Time                 -
+    – Hide Video Hashtags                       -
     – Hide Transcript Block                     -
     – Hide Channel Info                         -
-    – Hide Videos Button                        ✅
+    – Hide Videos Button                        -
     – Hide About Button                         -
 – Video Player Button
     – Hide 'Play/Pause' Button                  -
@@ -191,12 +166,41 @@
     – Hide 'Theater Mode' Button                -
     – Hide 'Airplay' Button                     ✅
     – Hide 'Full Screen' Button                 -
-    – Hide 'More from this Channel Button'      ✅   
+    – Hide 'More from this Channel Button'      ✅
+– Buttons Under Video Player
+    – Hide Buttons Under Player                 ✅
+    – Hide 'Join' Button                        ✅
+    – Hide 'Subscribe' Button                   ✅
+    – Hide 'Like/Dislike' Button                ✅
+    – Hide Video Likes Count                    ✅
+    – Disable Like Animation                    ✅
+    – Hide 'Share' Button                       ✅
+    – Hide 'Thanks' Button                      ✅
+    – Hide 'Clip' Button                        ✅
+    – Hide 'Download' Button                    ✅
+    – Hide 'Save' Button                        ✅
+    – Hide 'More' Button                        ✅
+– Comments
+    – Hide Comments                             ✅
+    – Hide Comments Count                       ✅
+    – Hide Comment Teaser                       ✅
+    – Hide 'Add Comment' Textfield              ✅
+    – Hide Comments Sort Button                 ✅
+    – Hide Comment Avatar                       ✅
+    – Grayscale Comment Avatar                  ✅
+    – Hide Comment Username                     ✅
+    – Hide Comment Published Time               ✅
+    – Hide Likes Count of Comment               ✅
+    – Hide 'Like' Comment Button                ✅
+    – Hide 'Dislike' Comment Button             ✅
+    – Hide 'Reply' Comment Button               ✅
+    – Hide Like from the Video Creator          ✅
+    – Hide Comment Replies                      ✅
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
 > VIDEO ITEM
 
-– Thumnail
+– Thumnbnail
     – Hide Thumbnail                            -
     – Replace Thumbnail                         Default
     – Flip Thumbnail Horizontally               ✅
@@ -240,7 +244,7 @@
     – Hide Right Sidebar                        ✅
     – Sort Results by                           Upload Date
 – Buttons
-    – Hide 'About These Results' Button         -
+    – Hide 'About These Results' Button         ✅
     – Hide 'Filters' Button                     - 
     – Hide Search Categories                    -
 
@@ -272,6 +276,14 @@
     – Hide 'Join' Button                        ✅
 – Horizontal Menu Bar
     – Hide Entire Menu                          ✅
+    – Hide 'Home' Button                        ✅
+    – Hide 'Videos' Button                      ✅
+    – Hide 'Live' Button                        ✅
+    – Hide 'Releases' Button                    ✅
+    – Hide 'Podcasts' Button                    ✅
+    – Hide 'Playlists' Button                   ✅
+    – Hide 'Community' Button                   ✅ 
+    - Hide '             
 – Sections
     – Hide 'For You' Section                    ✅
     – Hide 'Videos' Section                     ✅ 
@@ -282,6 +294,31 @@
     – Hide 'Releases' Section                   ✅
     – Hide 'Live' Section                       ✅
     – Hide 'Play All' Section                   ✅
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
+> SHORTS PAGE
+
+– Redirect
+    – Redirect Shorts to Normal Playlists       ✅
+– Others
+    – Disbale Scrolling                         ✅
+– Details
+    – Hide Description                          ✅
+    – Hide Channel Avatar                       ✅
+    – Hide Channel Username                     ✅
+    – Hide Likes Count                          ✅
+    – Hide Comment Count                        ✅
+    – Hide Dislike and Share Labels             ✅
+– Buttons
+    – Hide 'Play' Button                        ✅
+    – Hide 'Mute' Button                        ✅
+    – Hide 'Subscribe' Button                   ✅
+    – Hide 'Like' Button                        ✅
+    – Hide 'Dislike' Button                     ✅
+    – Hide 'Comment' Button                     ✅ 
+    – Hide 'Share' Button                       ✅
+    – Hide 'More' Button                        ✅
+    – Hide 'Sound' Button                       ✅
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––             
 > LIBRARY PAGE
