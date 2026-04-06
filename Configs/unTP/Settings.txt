@@ -234,8 +234,8 @@
 > SEARCH PAGE
 
 – Search Results
-    – Hide Channels                             ✅
-    – Hide Playlists                            - 
+    – Hide Channels                             -
+    – Hide Playlists                            ✅ 
     – Hide Mixes                                ✅
     – Hide For You, Trending, etc.              ✅
     – Hide People Also Search For               ✅
