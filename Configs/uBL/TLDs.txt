@@ -53,9 +53,9 @@
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # 5. EUROPE 🇪🇺 
 
-/.*\.(ad|al|ba|be|bg|bl|by|cy|cz|ee|fi|fo|gb|gi|gl|hr|ie|im|is|je|li|lt|lu|lv|mc|md|me|mk|mt|nl|no|pl|pt|ro|ru|se|si|sk|sm|su|va|xk|yu)($|\/)/
+/.*\.(ad|al|ba|be|bg|bl|by|ch|cy|cz|ee|fi|fo|gb|gi|gl|gr|hr|ie|im|is|je|li|lt|lu|lv|mc|md|me|mk|mt|nl|no|pl|pt|ro|ru|se|si|sk|sm|su|va|xk|yu)($|\/)/
 
-# Excluded = .at, .ch, .de, .es, .eu, .fr, .gr, .hu, .it, .rs, .ua, .uk
+# Excluded = .at, .de, .es, .eu, .fr, .hu, .it, .rs, .ua, .uk
 # .ad = Andorra, .al = Albania, .at = Austria, .ba = Bosnia & Herzegovina, .be = Belgium, .bg = Bulgaria, .by = Belarus, .ch = Switzerland, .cy = Cyprus, .cz = Czech Republic
 # .dd = East Germany (GDR), .de = Germany, .dk = Denmark, .ee = Estonia, .es = Spain, .eu = European Union, .fi = Finland, .fr = France, .gb = United Kingdom, .gi = Gibraltar
 # .gl = Greenland, .gr = Greece, .hr = Croatia, .hu = Hungary, .ie = Ireland, .im = Isle of Man, .is = Iceland, .it = Italy, .je = Jersey, .li = Liechtenstein, .lt = Lithuania
