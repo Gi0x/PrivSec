@@ -53,7 +53,7 @@
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # 5. EUROPE 🇪🇺 
 
-/.*\.(ad|al|ba|be|bg|bl|by|ch|cy|cz|de|dk|ee|fi|fo|fr|gb|gi|gl|gr|hr|ie|im|is|je|li|lt|lu|lv|mc|md|me|mk|mt|nl|no|pl|pt|ro|ru|se|si|sk|sm|su|va|xk|yu)($|\/)/
+/.*\.(ad|al|ba|be|bg|bl|by|ch|cy|cz|de|dk|ee|fi|fo|fr|gb|gi|gl|gr|hr|ie|im|is|it|je|li|lt|lu|lv|mc|md|me|mk|mt|nl|no|pl|pt|ro|ru|se|si|sk|sm|su|va|xk|yu)($|\/)/
 
 # Excluded = .at, .es, .eu, .hu, .it, .rs, .ua, .uk
 # .ad = Andorra, .al = Albania, .at = Austria, .ba = Bosnia & Herzegovina, .be = Belgium, .bg = Bulgaria, .by = Belarus, .ch = Switzerland, .cy = Cyprus, .cz = Czech Republic
