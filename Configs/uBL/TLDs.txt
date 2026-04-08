@@ -84,7 +84,6 @@
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 # A
 
-# Excluded: app
 /.*\.(aaa|aarp)($|\/)/
 /.*\.(abarth|abb|abbott|abbvie|abc|able|abogado|abudhabi)($|\/)/
 /.*\.(academy|accenture|accountant|accountants|aco|active|actor)($|\/)/
@@ -96,7 +95,7 @@
 /.*\.(alfaromeo|alibaba|alipay|allfinanz|allstate|ally|alsace|alstom)($|\/)/
 /.*\.(amazon|americanexpress|americanfamily|amex|amfam|amica|amsterdam)($|\/)/
 /.*\.(analytics|android|anquan|anz)($|\/)/
-/.*\.(apartments|apple)($|\/)/
+/.*\.(apartments|app|apple)($|\/)/
 /.*\.(arab|aramco|archi|army|arpa|art|arte)($|\/)/
 /.*\.(asda|asia|associates)($|\/)/
 /.*\.(athleta|attorney)($|\/)/
