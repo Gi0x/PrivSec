@@ -337,8 +337,8 @@
 
 – Hide Suggestions in the Video End             ✅
 – Hide Cards in the Video End                   ✅
-– Hide Video Player Bar Gradient Shadow         -
-– Hide Top Gradient Shadow                      - 
+– Hide Video Player Bar Gradient Shadow         ✅
+– Hide Top Gradient Shadow                      ✅ 
 – Hide Recommendations on Pause                 ✅
 – Hide Video Title                              -
 – Hide Video Time                               - 
