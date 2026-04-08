@@ -1,4 +1,14 @@
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+> START MENU
+
+  – Add 'Summary' Button on Video Page         -
+  – Hide All Shorts                            ✅
+  – Hide All Banner Ads                        ✅
+  – Video Quality                              Default
+  – Show Native Video Player                   -  
+  – Skip Video Ads                             ✅ 
+
+# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 > CONTENT FILTER 
 
 – Enable Filtration:                            ✅    
@@ -7,10 +17,12 @@
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
 > HOME PAGE
 
-– Home Page is                                  Home Page
+– Redirect
+    – Home Page is                              Search Page
+– Suggestions
     – Hide Suggestions                          ✅
-        – Rows                                  Default
-        – Columns                               1
+    – Rows                                      Disable Infinite Scrolling
+    – Columns                                   1
     – Hide Suggestions Categories               ✅
     – Hide Watched Videos                       ✅
     – Hide Playlists & Mixes                    ✅     
@@ -340,17 +352,17 @@
 – Hide Video Player Bar Gradient Shadow         ✅
 – Hide Top Gradient Shadow                      ✅ 
 – Hide Recommendations on Pause                 ✅
-– Hide Video Title                              -
-– Hide Video Time                               - 
-– Hide Channel Avatar                           - 
-– Hide Watermark                                - 
-– Hide 'Watch on YouTube' Button                - 
-– Hide YouTube Button                           - 
-– Hide 'Play-Pause-Replay' Button               - 
-– Hide 'Volume' Button                          - 
-– Hide 'Captions' Button                        - 
-– Hide 'Settings' Button                        - 
-– Hide 'Full Screen' Button                     - 
-– Hide 'Share' Button                           - 
-– Hide 'More From' Button                       - 
-– Hide 'Actions' Button                         -            
+– Hide Video Title                              ✅
+– Hide Video Time                               ✅
+– Hide Channel Avatar                           ✅
+– Hide Watermark                                ✅
+– Hide 'Watch on YouTube' Button                ✅
+– Hide YouTube Button                           ✅
+– Hide 'Play-Pause-Replay' Button               ✅
+– Hide 'Volume' Button                          ✅
+– Hide 'Captions' Button                        ✅
+– Hide 'Settings' Button                        ✅
+– Hide 'Full Screen' Button                     ✅
+– Hide 'Share' Button                           ✅
+– Hide 'More From' Button                       ✅
+– Hide 'Actions' Button                         ✅           
