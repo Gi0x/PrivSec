@@ -21,8 +21,7 @@
 
 !> TLDs
 
-
-!> Domains 
+!> Domains
 ||brave.com^
 ||*.photopea.com^
 ||*.qwant.com^
