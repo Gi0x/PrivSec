@@ -9599,9 +9599,7 @@ waifu
 *://*.simpliers.co/*
 *://*.simpliers.com/*
 *://*.skweezer.net/*
-*://*.smihub.com/*
-*://*.smihub.io/*
-*://*.smihub.net/*
+*://*.smihub.(com|io|net)/*
 *://*.snapinsta.app/*
 *://*.snapsave.app/*
 *://*.socialblade.com/*
@@ -9649,10 +9647,7 @@ waifu
 *://*.storyinstanavigation.com/*
 *://*.storynavigation.com/*
 *://*.storyninja.app/*
-*://*.storysaver.fun/*
-*://*.storysaver.io/*
-*://*.storysaver.net/*
-*://*.storysaver.to/*
+*://*.storysaver.(fun|io|net|to)/*
 *://*.storystalk.com/*
 *://*.storystalker.app/*
 *://*.storyviewer.ai/*
@@ -9772,14 +9767,21 @@ waifu
 *://*.tiktok.com/*
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# 9.14 Twitter & X
+# 9.14 Truth social
+
+*://*.trumpstruth.org/*
+*://*.truthsocial.com/*
+*://*.truthsocialapp.com/*
+
+# –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
+# 9.15 Twitter & X
 
 *://*.t.co/*
 *://*.twitter.com/*
 *://*.x.com/*
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# 9.15 VK
+# 9.16 VK
 
 *://*.vk.cc/*
 *://*.vk.com/*
@@ -9787,13 +9789,13 @@ waifu
 *://*.vkontakte.ru/*
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# 9.16 WhatsApp
+# 9.17 WhatsApp
 
 *://*.wa.me/*
 *://*.whatsapp.com/*
 
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
-# 9.17 ...
+# 9.18 ...
 
 *://*.ask.fm/*
 *://*.bsky.app/*

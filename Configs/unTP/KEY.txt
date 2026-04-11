@@ -1,14 +1,12 @@
-alpha male
+
 bande annonce
-beta male
+best moments
 bollywood
-boyfriend
 breaking news
 campaign film
 celeb
 celebrities
 celebrity
-celebs
 clean cut
 cleancut
 clip
@@ -21,10 +19,7 @@ dating
 elita
 elitu
 ending explained
-epizoda
-epizode
-epizodu
-estardnu
+estradnu
 estrada
 estrade
 estradna
@@ -35,6 +30,7 @@ exclusive sneak peek
 exclusive trailer
 exposes
 extrait
+fan comments
 fan question
 farma
 farme
@@ -54,7 +50,6 @@ full match highlights
 full movie
 full special
 funny video
-funny videos
 game commentary
 game highlights
 game play
@@ -62,39 +57,28 @@ gameplay
 gaming
 gaming commentary
 gaming walkthrough
-gaming walkthroughs
-girlfriend
 gossip
 green band
 green band trailer
 highlight
 highlights
-hindi
 hollywood
-hustle
-hustle culture
-incel
-influencer
-influencers
+in theaters
 innings
 launch video
 live match
 live stream
 livestream
 longplay
-looksmax
-looksmaxx
-looksmaxxing
 lyric video
 lyrics video
-manosphere
 match highlights
-meme
-memes
 minecraft
 moments
 movie clip
+movie recap
 movie review
+music video
 nba season
 new movie
 new season
@@ -102,6 +86,7 @@ new trailer
 nintendo
 no commentary
 official clip
+official music video
 official scene
 official season premiere
 official trailer
@@ -110,6 +95,8 @@ opening credit
 opening credits
 oscars
 ost
+paparazzi
+paparazzo
 parovi
 pick up
 pick up girls
@@ -119,61 +106,56 @@ playstation
 playthrough
 prank
 prank video
-pranks
 premier league
+premiere
 premijera
 premijerno
+premijeru
 promo
 react
 reacting
 reaction
 reality tv
+recap
+recenzija
 red band
 red band trailer
 red carpet
 relay final
+remastered video
 rijaliti
 scandal
 scena
 scene
+scéne
 scenepack
 scenes
-scéne
 season
 season premiere
 season preview
-seduction
 semi finals
+series
 serija
 serijal
 serijali
 serije
 seriji
+seriju
 sex
-sex scandal
-sex scene
-sex scenes
-sexy
 sezona
 sezone
 shortvideo
-sigma male
 sketches
 sneak peek
 snimanja
 snimanje
 spoiler
-spoilers
 teaser
-teasers
 then and now
-tizer
+title reveal
 trailer
-trailers
-trejler
 trejleri
 tv series
-tрейлер 
 uncensored
 veliki brat
 veliki-brat
@@ -187,54 +169,7 @@ youtube shorts
 yt shorts
 zadruga
 zadruge
-
-
-
-=============
-ACTUAL
-
-in theaters
-gaming
-walkthrough
-gameplay
-music video
-remastered video
-fan comments
-film review
-movie recap
-recap
-movie review
-reacting
-reactions
-reaction
-title reveal
-trailers
-best moments
-full game
-highlights
-paparazzo
-paparazzi
-premijera
-tizer
-trejler
 сцена
-serija
-seriju
-scena
-recenzija
-epizode
-premijeru
-epizoda
-sezona
-premiere
-series
-serijal
-seriji
-sezone
-serije
-official music video
-official video
-clip
-scene
-teaser
-trailer
+
+------------
+
