@@ -9309,9 +9309,7 @@ waifu
 *://*.anonstoryview.com/*
 *://*.anony-ig.com/*
 *://*.anony-storyviewer.com/*
-*://*.anonyig.com/*
-*://*.anonyig.io/*
-*://*.anonyig.org/*
+*://*.anonyig.(com|io|org)/*
 *://*.anonymous-viewer.com/*
 *://*.anonymviewer.com/*
 *://*.anonypro.com/*
@@ -9341,9 +9339,7 @@ waifu
 *://*.dolphinradar.com/*
 *://*.downev.com/*
 *://*.dumphor.net/*
-*://*.dumpor.co.uk/*
-*://*.dumpor.com/*
-*://*.dumpor.io/*
+*://*.dumpor.(co.uk|com|io)/*
 *://*.embedsocial.com/*
 *://*.espressocoder.com/*
 *://*.exploreig.com/*
@@ -9409,8 +9405,7 @@ waifu
 *://*.imginnta.com/*
 *://*.imgko.com/*
 *://*.imglooker.net/*
-*://*.imglookup.co/*
-*://*.imglookup.com/*
+*://*.imglookup.(co|com)/*
 *://*.imperiafollowers.com/*
 *://*.indown.io/*
 *://*.inflact.com/*
@@ -9426,11 +9421,7 @@ waifu
 *://*.inseen.app/*
 *://*.inshotspot.com/*
 *://*.insmask.com/*
-*://*.insnoop.app/*
-*://*.insnoop.co.uk/*
-*://*.insnoop.com/*
-*://*.insnoop.net/*
-*://*.insnoop.org/*
+*://*.insnoop.(app|co.uk|com|net|org)/*
 *://*.inspiretothrive.com/*
 *://*.inst-account-verification.com/*
 *://*.inst4gram.com/*
@@ -9455,9 +9446,7 @@ waifu
 *://*.instabiography.com/*
 *://*.instabusters.com/*
 *://*.instaccess.net/*
-*://*.instadp.fun/*
-*://*.instadp.io/*
-*://*.instadp.net/*
+*://*.instadp.(fun|io|net)/*
 *://*.instafakeviewer.com/*
 *://*.instafinsta.com/*
 *://*.instafollowers.co/*
@@ -9476,7 +9465,7 @@ waifu
 *://*.instalooker.org/*
 *://*.instametrics.net/*
 *://*.instanavi.me/*
-*://*.instanavigation.(com|net|social)/*
+*://*.instanavigation.(com|net)/*
 *://*.instanavigationbr.com/*
 *://*.instanonimo.com/*
 *://*.instanonymous.com/*
@@ -9490,7 +9479,6 @@ waifu
 *://*.instapv.com/*
 *://*.instapv.org/*
 *://*.instasafecheck.com/*
-*://*.instasave.website/*
 *://*.instasaved.net/*
 *://*.instasaverr.com/*
 *://*.instascop.com/*
