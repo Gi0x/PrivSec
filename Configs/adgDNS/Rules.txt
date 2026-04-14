@@ -8,22 +8,67 @@
 @@||amazon.*^
 @@||archive.org^
 @@||cloudflare.com^
+@@||deepl.com^
 @@||codeberg.org^
 @@||fsdn.com^
+@@||github.com^
+@@||gitlab.com^
+@@||lenovomm.com^
 @@||mozilla.net^
 @@||one.hu^
+@@||politika.rs^
 @@||sourceforge.net^
 @@||viber.com^
 @@||wondershare.com^
 @@||youtube.com^
+
+!> Subdomains
+@@||api.accuweather.com^
+
+@@||chifsr.lenovo.com^
+@@||csw.lenovo.com^
+@@||uds.lenovo.com^
+
+@@||account.microsoft.com^
+@@||apps.microsoft.com^
+@@||aria.microsoft.com^
+@@||c1.microsoft.com^
+@@||cdp.microsoft.com^
+@@||cloud.microsoft.com^
+@@||data.microsoft.com^
+@@||dcg.microsoft.com^
+@@||dds.microsoft.com^
+@@||edge.microsoft.com^
+@@||family.microsoft.com^
+@@||graph.microsoft.com^
+@@||login.microsoft.com^
+@@||microsoftedge.microsoft.com^
+@@||mp.microsoft.com^
+@@||officeclient.microsoft.com^
+@@||oneocsp.microsoft.com^
+@@||smartscreen.microsoft.com^
+@@||store-images.microsoft.com^
+@@||storeedge.microsoft.com^
+@@||support.microsoft.com^
+@@||update.microsoft.com^
+
+@@||appcenter.ms^
+
+@@||assets.msn.com^
+@@||ntp.msn.com^
+@@||staticview.msn.com^
+
+@@||activity.windows.com^
+@@||api.wondershare.cc^
+@@||images-eds-ssl.xboxlive.com^
 
 !❌
 
 !> TLDs
 
 !> Domains
-||brave.com^
 ||*.photopea.com^
-||*.qwant.com^
+
+!> Subdomains
 
 !➥
