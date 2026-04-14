@@ -9209,7 +9209,6 @@ waifu
 *://*.ubuy.tn/*
 *://*.ubuy.ug/*
 *://*.ultrafuckzone.com/*
-*://*.ultrafuckzone.com/*
 *://*.uncutdesi2.com/*
 *://*.unlockd.me/*
 *://*.unmsm.edu.pe/*
@@ -9220,10 +9219,8 @@ waifu
 *://*.vsdoll.net/*
 *://*.wallhere.com/*
 *://*.watchmeetfuck.com/*
-*://*.watchmeetfuck.com/*
 *://*.web-starlets.com/*
 *://*.westdelhiescorts.com/*
-*://*.whorehookupapp.com/*
 *://*.whorehookupapp.com/*
 *://*.whorehub.ai/*
 *://*.whorehub.ai/*
