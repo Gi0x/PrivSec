@@ -57,6 +57,7 @@ gameplay
 gaming
 gaming commentary
 gaming walkthrough
+gangsta
 gossip
 green band
 green band trailer
@@ -67,7 +68,6 @@ in theaters
 innings
 launch video
 live match
-live stream
 livestream
 longplay
 lyric video
