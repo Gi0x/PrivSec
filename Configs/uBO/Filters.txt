@@ -4,7 +4,6 @@
 @@||chatplayground.ai^$all
 @@||freedom.to^$all
 @@||github.com^$all
-@@||japanpost.jp^
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! COSMETIC FILTERS

@@ -1,5 +1,5 @@
 ! Title: Default
-! Info: Default List
+! Info: uBO Default List
 ! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBO/Default.txt
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! ToC
