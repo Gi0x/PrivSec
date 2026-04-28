@@ -2,6 +2,7 @@
 ! Info: Blocks TLDs
 ! DeDup: Y, Sorted: Y
 ! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBO/TLDs.txt
+
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! CCTLDs
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 

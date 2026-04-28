@@ -1,6 +1,7 @@
 # Title: TLDs
 # Info: Hides TLDs
 # https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBL/TLDs.txt
+
 # ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 # CCTLDs
 # –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
