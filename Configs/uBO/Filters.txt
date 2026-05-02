@@ -1,55 +1,279 @@
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! DOMAINS
 
+@@||archive.org^$all
 @@||chatplayground.ai^$all
 @@||freedom.to^$all
 @@||github.com^$all
+@@||mistral.ai^$all
+@@||one.hu^$all
+@@||raiffeisen.hu^$all
+
+! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+! SUBDOMAINS
+
 
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! COSMETIC FILTERS
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– Brave Search
 
-! Search Results Panel
-safe.search.brave.com###search-page
+! ................................................................................ AdGuard DNS
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– DuckDuckGo
+! > Parental Controls
 
-! All Carousels
+! – AI
+adguard-dns.io###parental_service_copilot
+adguard-dns.io###parental_service_deepseek
+adguard-dns.io###parental_service_gemini
+adguard-dns.io###parental_service_grok
+adguard-dns.io###parental_service_manus
+adguard-dns.io###parental_service_meta_ai
+adguard-dns.io###parental_service_perplexity
+
+! – Dating
+adguard-dns.io###parental_service_plenty_of_fish
+adguard-dns.io###parental_service_tinder
+adguard-dns.io###parental_service_wizz
+
+! – Gambling
+adguard-dns.io###parental_service_betano
+adguard-dns.io###parental_service_betfair
+adguard-dns.io###parental_service_betway
+adguard-dns.io###parental_service_blaze
+
+! – Gaming
+adguard-dns.io###parental_service_activision_blizzard
+adguard-dns.io###parental_service_battle_net
+adguard-dns.io###parental_service_blizzard_entertainment
+adguard-dns.io###parental_service_electronic_arts
+adguard-dns.io###parental_service_epic_games
+adguard-dns.io###parental_service_gog
+adguard-dns.io###parental_service_io_interactive
+adguard-dns.io###parental_service_leagueoflegends
+adguard-dns.io###parental_service_minecraft
+adguard-dns.io###parental_service_nintendo
+adguard-dns.io###parental_service_origin
+adguard-dns.io###parental_service_playstation
+adguard-dns.io###parental_service_riot_games
+adguard-dns.io###parental_service_roblox
+adguard-dns.io###parental_service_rockstar_games
+adguard-dns.io###parental_service_steam
+adguard-dns.io###parental_service_ubisoft
+adguard-dns.io###parental_service_valorant
+adguard-dns.io###parental_service_wargaming
+adguard-dns.io###parental_service_warnerbrosgames
+adguard-dns.io###parental_service_xboxlive
+
+! – Main Menu Toggles
+adguard-dns.io###parental_control
+adguard-dns.io###parental_block_adult
+adguard-dns.io###parental_safe_search
+adguard-dns.io###parental_youtube_safe_search
+adguard-dns.io###server-settings-parental-schedule
+adguard-dns.io##.i7jm88t5Rf4gPflYiX76
+
+! – Messaging
+adguard-dns.io###parental_service_kakaotalk
+adguard-dns.io###parental_service_kik
+adguard-dns.io###parental_service_max
+adguard-dns.io###parental_service_microsoft_teams
+adguard-dns.io###parental_service_olvid
+adguard-dns.io###parental_service_skype
+adguard-dns.io###parental_service_slack
+adguard-dns.io###parental_service_telegram
+adguard-dns.io###parental_service_wechat
+
+! – Shopping
+adguard-dns.io###parental_service_coolapk
+adguard-dns.io###parental_service_lazada
+adguard-dns.io###parental_service_mercado_libre
+adguard-dns.io###parental_service_shein
+adguard-dns.io###parental_service_shopee
+adguard-dns.io###parental_service_temu
+adguard-dns.io###parental_service_xiaohongshu
+
+! – Social Networks
+adguard-dns.io###parental_service_4chan
+adguard-dns.io###parental_service_500px
+adguard-dns.io###parental_service_9gag
+adguard-dns.io###parental_service_amino
+adguard-dns.io###parental_service_bluesky
+adguard-dns.io###parental_service_clubhouse
+adguard-dns.io###parental_service_discord
+adguard-dns.io###parental_service_douban
+adguard-dns.io###parental_service_facebook
+adguard-dns.io###parental_service_instagram
+adguard-dns.io###parental_service_kook
+adguard-dns.io###parental_service_line
+adguard-dns.io###parental_service_linkedin
+adguard-dns.io###parental_service_mail_ru
+adguard-dns.io###parental_service_mastodon
+adguard-dns.io###parental_service_odysee
+adguard-dns.io###parental_service_ok
+adguard-dns.io###parental_service_onlyfans
+adguard-dns.io###parental_service_pinterest
+adguard-dns.io###parental_service_reddit
+adguard-dns.io###parental_service_snapchat
+adguard-dns.io###parental_service_tiktok
+adguard-dns.io###parental_service_tumblr
+adguard-dns.io###parental_service_twitter
+adguard-dns.io###parental_service_vk
+adguard-dns.io###parental_service_zhihu
+
+! – Streaming
+adguard-dns.io###parental_service_amazon_streaming
+adguard-dns.io###parental_service_apple_streaming
+adguard-dns.io###parental_service_bigo_live
+adguard-dns.io###parental_service_bilibili
+adguard-dns.io###parental_service_canais_globo
+adguard-dns.io###parental_service_claro
+adguard-dns.io###parental_service_crunchyroll
+adguard-dns.io###parental_service_dailymotion
+adguard-dns.io###parental_service_deezer
+adguard-dns.io###parental_service_directvgo
+adguard-dns.io###parental_service_discoveryplus
+adguard-dns.io###parental_service_disneyplus
+adguard-dns.io###parental_service_espn
+adguard-dns.io###parental_service_fifa
+adguard-dns.io###parental_service_globoplay
+adguard-dns.io###parental_service_hbomax
+adguard-dns.io###parental_service_hulu
+adguard-dns.io###parental_service_iheartradio
+adguard-dns.io###parental_service_iqiyi
+adguard-dns.io###parental_service_lionsgateplus
+adguard-dns.io###parental_service_looke
+adguard-dns.io###parental_service_nebula
+adguard-dns.io###parental_service_netflix
+adguard-dns.io###parental_service_paramountplus
+adguard-dns.io###parental_service_peacock_tv
+adguard-dns.io###parental_service_plex
+adguard-dns.io###parental_service_pluto_tv
+adguard-dns.io###parental_service_qq
+adguard-dns.io###parental_service_rakuten_viki
+adguard-dns.io###parental_service_samsung_tv_plus
+adguard-dns.io###parental_service_soundcloud
+adguard-dns.io###parental_service_spotify
+adguard-dns.io###parental_service_spotify_video
+adguard-dns.io###parental_service_tidal
+adguard-dns.io###parental_service_twitch
+adguard-dns.io###parental_service_vimeo
+adguard-dns.io###parental_service_vivo_play
+adguard-dns.io###parental_service_voot
+adguard-dns.io###parental_service_weibo
+adguard-dns.io###parental_service_yy
+
+! – Website Categories
+adguard-dns.io###parental-category-adult
+adguard-dns.io###parental-category-audio
+adguard-dns.io###parental-category-dating
+adguard-dns.io###parental-category-drugs
+adguard-dns.io###parental-category-forum
+adguard-dns.io###parental-category-gambling
+adguard-dns.io###parental-category-games
+adguard-dns.io###parental-category-news
+adguard-dns.io###parental-category-profanity
+adguard-dns.io###parental-category-religion
+adguard-dns.io###parental-category-social
+adguard-dns.io###parental-category-violence
+adguard-dns.io###parental-category-weapons
+
+! – Web Hosting
+adguard-dns.io###parental_service_box
+adguard-dns.io###parental_service_dropbox
+adguard-dns.io###parental_service_flickr
+adguard-dns.io###parental_service_imgur
+
+! ................................................................................ DuckDuckGo
+
+! > All
+
+! – Carousels
 duckduckgo.com##li[data-layout="images"]
 duckduckgo.com##li[data-layout="news"]
 duckduckgo.com##li[data-layout="videos"]
-
-! All Sites Excluded Notice
-duckduckgo.com##div[data-testid="site-exclude-message"]
-
-! Footer
+! – Footer
 duckduckgo.com##.footer
+! – News
+! duckduckgo.com##li:has(> a[href*="ia=news"])
+! – SafeSearch Message
+duckduckgo.com##[data-testid="safe-search-message"]
+! – Sites Excluded Notice
+duckduckgo.com##div[data-testid="site-exclude-message"]
+! – Videos
+duckduckgo.com##li:has(> a[href*="ia=videos"])
 
-! Image Search – Dropdown Menus
+! > Image Search
+
+! – AI Images On/Off Toggle
 duckduckgo.com##li:has(span:has-text(AI images))
+! – Blocked Results On/Off Toggle
 duckduckgo.com##li:has(span:has-text(Blocked results))
+! – SafeSearch Notice
 duckduckgo.com##div[tabindex="0"]:has(span:has-text(Safe search))
 
-! SafeSearch Message
-duckduckgo.com##[data-testid="safe-search-message"]
+! > ...
 
-! Sidebar Menu Button
+! – Sidebar Menu Button
 duckduckgo.com##button#header-hamburger-menu-btn
 duckduckgo.com##button[data-testid="sidemenu-button"]
 
-! News Tab
-!duckduckgo.com##li:has(> a[href*="ia=news"])
+! ................................................................................ YouTube
 
-! Videos Tab
-duckduckgo.com##li:has(> a[href*="ia=videos"])
+! > Buttons & Toggles
 
-! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– YouTube
-
-! Create Button
+! – Autoplay
+www.youtube.com##.delhi-fast-follow-autonav-toggle.ytp-autonav-toggle.ytp-button
+! – Create 
 www.youtube.com###buttons > ytd-button-renderer.ytd-masthead.style-scope
+! – Endscreen
+www.youtube.com##.ytp-button.ytp-fullscreen-grid-expand-button
+! – Hamburger
+www.youtube.com###guide-button
+! – Join
+www.youtube.com##yt-button-shape
+! – Like/Dislike
+www.youtube.com##.ytd-menu-renderer.style-scope.ytSegmentedLikeDislikeButtonViewModelHost
+! – Mic
+www.youtube.com##.ytSpecButtonShapeNextEnableBackdropFilterExperiment.ytSpecButtonShapeNextIconOnlyDefault.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextText.ytSpecButtonShapeNextHost
+! – Restricted Mode
+www.youtube.com##ytd-compact-link-renderer.yt-multi-page-menu-section-renderer.style-scope:nth-of-type(3)
+! – Save
+www.youtube.com###flexible-item-buttons
+! – Share
+www.youtube.com###top-level-buttons-computed > yt-button-view-model.ytd-menu-renderer
+! – Settings
+www.youtube.com###end > .ytd-masthead.style-scope
+! – Subscribe
+www.youtube.com###subscribe-button > .ytd-watch-metadata.style-scope
+www.youtube.com##.ytReelChannelBarViewModelReelSubscribeButton > .ytSpecButtonViewModelHost
 
-! Shorts Carousel
+! > Carousels, Feeds & Grids
+
+! – Comments Section
+www.youtube.com###comments
+! – Endscreen Content Grid
+www.youtube.com##.ytp-endscreen-content
+www.youtube.com##.ytp-fullscreen-grid-stills-container
+! – Homepage Feed
+www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
+! – Shorts Carousel
 www.youtube.com##.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost
 
-! Video Stills Grid Container
-www.youtube.com##.ytp-fullscreen-grid-stills-container
+! > Sidebars
+
+! – Left Navigation Menu
+www.youtube.com###contentContainer
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+! – Suggested Videos
+www.youtube.com###secondary
+
+! > ...
+
+! – Channel Info & Social Media Links in Video Description
+www.youtube.com##ytd-video-description-infocards-section-renderer.ytd-structured-description-content-renderer.style-scope
+! – Channel Subscriber Count
+www.youtube.com###owner-sub-count
+! – Restricted Mode Search Results Removal Notice
+www.youtube.com###header-container > .ytd-section-list-renderer.style-scope
+! – Video View Count & Year of Publication
+www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
+www.youtube.com###ytd-watch-info-text > .ytd-watch-info-text.style-scope
