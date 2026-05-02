@@ -2,6 +2,7 @@
 ! Info: Blocked Keywords
 ! Source: https://github.com/censor-text/profanity-list?tab=readme-ov-file
 ! https://raw.githubusercontent.com/Gi0x/PrivSec/refs/heads/main/Configs/uBO/Keywords.txt
+
 ! ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ! SYNTAX
 ! –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– 
