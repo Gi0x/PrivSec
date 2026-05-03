@@ -5,7 +5,7 @@
 @@||chatplayground.ai^$all
 @@||freedom.to^$all
 @@||github.com^$all
-@@||mistral.ai^$all
+@@||oisd.nl^$all
 @@||one.hu^$all
 @@||raiffeisen.hu^$all
 
@@ -277,3 +277,4 @@ www.youtube.com###header-container > .ytd-section-list-renderer.style-scope
 ! – Video View Count & Year of Publication
 www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(1)
 www.youtube.com###ytd-watch-info-text > .ytd-watch-info-text.style-scope
+
